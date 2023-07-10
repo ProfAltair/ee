@@ -1484,3 +1484,5 @@ http://8c2883c5.amazzin.pw/iptv/LK4UFM7SETN63V/227/index.m3u8
 #EXTINF:0,Eurosport 1 HD
 #EXTGRP:HD
 http://8c2883c5.amazzin.pw/iptv/LK4UFM7SETN63V/228/index.m3u8
+#EXTINF:-1,SporTV 1 HD+
+http://xcui.vitvabc.xyz:8880/287994003175/287994003175/16753
