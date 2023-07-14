@@ -1,5 +1,4 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP 4K" tvg-logo="http://i.ibb.co/SNTCRw8/globo.png" group-title="Canais | 4K",Globo SP 4K
 http://supertv.red:80/220370778/407652479/124897.ts
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP 4k²" tvg-logo="http://i.ibb.co/SNTCRw8/globo.png" group-title="Canais | 4K",Globo SP 4k²
