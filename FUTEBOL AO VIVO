@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:0,FUTEBOL AO VIVO 1
+#EXTGRP:FUTEBOL DA HORA
+https://bal01.vivartec.com.br:8088/hls/livechannel3.m3u8
+#EXTINF:0,FUTEBOL AO VIVO 2
+#EXTGRP:FUTEBOL DA HORA
+https://bal01.vivartec.com.br:8088/hls/livechannel2.m3u8
+#EXTINF:0,FUTEBOL AO VIVO 3
+#EXTGRP:FUTEBOL DA HORA
+https://bal01.vivartec.com.br:8088/hls/livechannel4.m3u8
+#EXTINF:0,FUTEBOL AO VIVO 4
+#EXTGRP:FUTEBOL DA HORA
+https://bal02.vivartec.com.br:8088/hls/livechannel5.m3u8
+#EXTINF:0,FUTEBOL AO VIVO 5
+#EXTGRP:FUTEBOL DA HORA
+https://bal02.vivartec.com.br:8088/hls/livechannel1.m3u8
