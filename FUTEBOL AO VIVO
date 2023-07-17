@@ -14,3 +14,6 @@ https://bal02.vivartec.com.br:8088/hls/livechannel5.m3u8
 #EXTINF:0,FUTEBOL AO VIVO 5
 #EXTGRP:FUTEBOL DA HORA
 https://bal02.vivartec.com.br:8088/hls/livechannel1.m3u8
+#EXTINF:0,FUTEBOL AO VIVO 6
+#EXTGRP:FUTEBOL DA HORA
+https://pull.niuo.live/live/stream-232533_lhd1.flv?txSecret=281ba387903c8856bbfa6597879fa2c9&txTime=64b4e384
