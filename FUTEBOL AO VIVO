@@ -16,16 +16,9 @@ https://bal02.vivartec.com.br:8088/hls/livechannel5.m3u8
 https://bal02.vivartec.com.br:8088/hls/livechannel1.m3u8
 #EXTINF:0,FUTEBOL AO VIVO 6
 #EXTGRP:JOGO DO DIA
-https://pull.niur.live/live/stream-206736_lhd.flv?txSecret=55a4d1ba6a344b84eff6aef12774f2c8&txTime=64b77138
+https://pull.niuo.live/live/stream-301534_lhd1.flv?txSecret=d6a2b8bebc12f25465a2ac0ffab35166&txTime=64b62b68
 #EXTINF:0,FUTEBOL AO VIVO 7
 #EXTGRP:JOGO DO DIA
-https://pull.niur.live/live/stream-225890_lhd.flv?txSecret=4b1f1b8af5b7b06fb5ff572a962c0132&txTime=64b77174
-#EXTINF:0,FUTEBOL AO VIVO 8
-#EXTGRP:JOGO DO DIA
-https://pull.niuo.live/live/stream-223749_lhd1.flv?txSecret=92ef690659a22b6f4d772d79987fa6dc&txTime=64b62ab4
-#EXTINF:0,FUTEBOL AO VIVO 9
-#EXTGRP:JOGO DO DIA
-https://pull.niuo.live/live/stream-232533_lhd1.flv?txSecret=37743a05d34b5643aacbbcb1c495c2c2&txTime=64b62b2c
-#EXTINF:0,FUTEBOL AO VIVO 10
-#EXTGRP:JOGO DO DIA
-https://pull.niuo.live/live/stream-301534_lhd1.flv?txSecret=d6a2b8bebc12f25465a2ac0ffab35166&txTime=64b62b68
+https://pull.niur.live/live/stream-225890_lhd.flv?txSecret=8e6d66d5a99105ff238bb88bb57629d1&txTime=64b77390
+
+
