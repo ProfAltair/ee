@@ -1,4 +1,55 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band 4K" tvg-logo="https://imgur.com/8PQkuVt.png" group-title="CANAIS | UHD",Band 4K
+http://cs21.xyz:80/7666401039/8575060044/281031
+#EXTINF:-1 tvg-id="record.br" tvg-name="Record 4K" tvg-logo="https://imgur.com/8aIWOVK.png" group-title="CANAIS | UHD",Record 4K
+http://cs21.xyz:80/7666401039/8575060044/281032
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes 4K" tvg-logo="https://imgur.com/v1fsOow.png" group-title="CANAIS | UHD",Premiere Clubes 4K
+http://cs21.xyz:80/7666401039/8575060044/281033
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium 4K" tvg-logo="https://imgur.com/11uUTvW.png" group-title="CANAIS | UHD",Telecine Premium 4K
+http://cs21.xyz:80/7666401039/8575060044/281034
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT 4K" tvg-logo="https://imgur.com/Hahaouj.png" group-title="CANAIS | UHD",TNT 4K
+http://cs21.xyz:80/7666401039/8575060044/281036
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series 4K" tvg-logo="http://cdn.liveboxtv.xyz:80/images/3d9b6b4d3c0fe15c610dbc7bcfcd93d3.png" group-title="CANAIS | UHD",TNT Series 4K
+http://cs21.xyz:80/7666401039/8575060044/281037
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet 4K" tvg-logo="https://imgur.com/oJzfwld.png" group-title="CANAIS | UHD",Animal Planet 4K
+http://cs21.xyz:80/7666401039/8575060044/281038
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network 4K" tvg-logo="https://imgur.com/yHFW3vY.png" group-title="CANAIS | UHD",Cartoon Network 4K
+http://cs21.xyz:80/7666401039/8575060044/281039
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate 4K" tvg-logo="https://imgur.com/iBtthK7.png" group-title="CANAIS | UHD",Combate 4K
+http://cs21.xyz:80/7666401039/8575060044/281040
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="Discovery Channel 4K" tvg-logo="https://imgur.com/tQW7jYa.png" group-title="CANAIS | UHD",Discovery Channel 4K
+http://cs21.xyz:80/7666401039/8575060044/281041
+#EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL 4K" tvg-logo="https://imgur.com/Djn232m.png" group-title="CANAIS | UHD",STAR CHANNEL 4K
+http://cs21.xyz:80/7666401039/8575060044/281042
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 4 4K" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/espn4.png" group-title="CANAIS | UHD",ESPN 4 4K
+http://cs21.xyz:80/7666401039/8575060044/281043
+#EXTINF:-1 tvg-id="globo.br" tvg-name="Globo 4K" tvg-logo="https://imgur.com/zjqddfl.png" group-title="CANAIS | UHD",Globo 4K
+http://cs21.xyz:80/7666401039/8575060044/281044
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO 4K" tvg-logo="https://imgur.com/MSbGlF3.png" group-title="CANAIS | UHD",HBO 4K
+http://cs21.xyz:80/7666401039/8575060044/281045
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix 4K" tvg-logo="https://imgur.com/a1T8A7Y.png" group-title="CANAIS | UHD",Megapix 4K
+http://cs21.xyz:80/7666401039/8575060044/281046
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow 4K" tvg-logo="https://imgur.com/TmJwUyT.png" group-title="CANAIS | UHD",Multishow 4K
+http://cs21.xyz:80/7666401039/8575060044/281047
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT 4K" tvg-logo="https://imgur.com/fAIRogr.png" group-title="CANAIS | UHD",SBT 4K
+http://cs21.xyz:80/7666401039/8575060044/281048
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space 4K" tvg-logo="https://imgur.com/jrLtYGg.png" group-title="CANAIS | UHD",Space 4K
+http://cs21.xyz:80/7666401039/8575060044/281049
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV 4K" tvg-logo="https://imgur.com/PuiKfMf.png" group-title="CANAIS | UHD",SporTV 4K
+http://cs21.xyz:80/7666401039/8575060044/281050
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME 4K" tvg-logo="https://imgur.com/tZQou9l.png" group-title="CANAIS | UHD",HBO XTREME 4K
+http://cs21.xyz:80/7666401039/8575060044/281051
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 4K" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/espn4.png" group-title="CANAIS | UHD",ESPN 4K
+http://cs21.xyz:80/7666401039/8575060044/281052
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATGEO 4K" tvg-logo="https://imgur.com/ajTduA7.png" group-title="CANAIS | UHD",NATGEO 4K
+http://cs21.xyz:80/7666401039/8575060044/281053
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORTS 2 4K" tvg-logo="https://imgur.com/0xfNF6m.png" group-title="CANAIS | UHD",FOX SPORTS 2 4K
+http://cs21.xyz:80/7666401039/8575060044/281054
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDETV 4K" tvg-logo="https://imgur.com/MSeODpX.png" group-title="CANAIS | UHD",REDETV 4K
+http://cs21.xyz:80/7666401039/8575060044/281055
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA 4K" tvg-logo="https://imgur.com/Y9bDX2R.png" group-title="CANAIS | UHD",TELECINE PIPOCA 4K
+http://cs21.xyz:80/7666401039/8575060044/281056
+
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP 4K" tvg-logo="http://i.ibb.co/SNTCRw8/globo.png" group-title="Canais | 4K",Globo SP 4K
 http://supertv.red:80/220370778/407652479/124897.ts
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP 4k²" tvg-logo="http://i.ibb.co/SNTCRw8/globo.png" group-title="Canais | 4K",Globo SP 4k²
