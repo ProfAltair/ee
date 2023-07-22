@@ -16,7 +16,7 @@ https://bal02.vivartec.com.br:8088/hls/livechannel5.m3u8
 https://bal02.vivartec.com.br:8088/hls/livechannel1.m3u8
 #EXTINF:0,FUTEBOL AO VIVO 6
 #EXTGRP:JOGO DO DIA
-https://pull.niur.live/live/stream-206736_lhd.flv?txSecret=326a983fe526f022b8e606c0a8ea6c47&txTime=64b77444
+https://pull.niur.live/live/stream-205866_lhd.flv?txSecret=c285e647f2fd20ed632f0aecde1015d9&txTime=64bb738c
 #EXTINF:0,FUTEBOL AO VIVO 7
 #EXTGRP:JOGO DO DIA
 https://pull.niur.live/live/stream-225890_lhd.flv?txSecret=8e6d66d5a99105ff238bb88bb57629d1&txTime=64b77390
