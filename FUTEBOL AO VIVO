@@ -14,10 +14,9 @@ https://bal02.vivartec.com.br:8088/hls/livechannel5.m3u8
 #EXTINF:0,FUTEBOL AO VIVO 5
 #EXTGRP:FUTEBOL DA HORA
 https://bal02.vivartec.com.br:8088/hls/livechannel1.m3u8
-#EXTINF:0,FUTEBOL AO VIVO 6
-#EXTGRP:JOGO DO DIA ESTRÉIA DE MESSI
-https://pull.niur.live/live/stream-205866_lhd.flv?txSecret=c285e647f2fd20ed632f0aecde1015d9&txTime=64bb738c
-#EXTINF:0,FUTEBOL AO VIVO 7
+#EXTINF:0,FUTEBOL ARGENTINO
 #EXTGRP:JOGO DO DIA
-https://pull.niur.live/live/stream-117287_lhd.flv?txSecret=c3aceb4023179daac1ea5d784d852ed4&txTime=64bb7404
-
+https://pull.niur.live/live/stream-562312_lhd.flv?txSecret=9ce3745c8231efd66d9119393aea216b&txTime=64bf2c0d
+#EXTINF:0,FUTEBOL ARGENTINO
+#EXTGRP:JOGO DO DIA
+https://pull.niur.live/live/stream-161494_lhd.flv?txSecret=0ead29c0de780a78d0da13d5afb90fc5&txTime=64bf2cfd
