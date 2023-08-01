@@ -1,6 +1,53 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="globoplay" tvg-name="Band 4K" tvg-logo="https://imgur.com/8PQkuVt.png" group-title="CANAIS |TEMPORÁRIO",GLOBO PLAY
-https://live-cm-ad-06-35.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWQtMDYtMzUudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNjkwMDcwMzM0LCJpYXQiOjE2ODk5ODM5MzQsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNGZmNDZhMDEtN2M3Yy00NzA0LTk1YzctZWUwMjM3NzgwNmFmIiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCxkdnI9MTIwLGk9MikvZ2xvYm8tcmovcGxheWxpc3QubTN1OCJ9.FVAfIMhPxQy5Ta-Bcghzo_bpqUxABZ-zSj7vuohOnMF9b3uruYKjO6Ti62PHQ4kPTgQJT5uaIwcVYX-uQsU2YOtbFJUwn6sPQOOqK6MD_lkdFU_fzaLwoYWsRIfvMJ89c_VlG9QOlVsIyR8H8zy5OFbGO7aeIlmFF-5K9DtPQTc8pukhhF_yj0uM8sSeelP4BntVvoKsJ8Daj-UWDAnbMubaH7mkBOkzYFi9EJJctbXz-X8bxUiXLaVoVH9MvvHll-B7-1CuA-3HqN7he2r_XNghnA_a9URwjJEOa_uVjxk_JVgawbdFxM9zdRatmA3mTdaO_Mpg-PztBaRTiEf1ZA/nu/f(bMin=2000,dvr=120,i=2)/globo-rj/playlist.m3u8?originpath=/linear/hls/pa/event/cF-K-3z1TseaYL81GflEqw/stream/f1141fdc-870b-4c20-9559-39e7517e2a3e:SCL/variant/e74479202a6c1c04133ccd9175af7101/bandwidth/6577000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet 4K" tvg-logo="https://imgur.com/oJzfwld.png" group-title="CANAIS :: 4K",Animal Planet 4K
+http://c.strzzi.site:80/robson31/31robson/2944266
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band 4K" tvg-logo="https://imgur.com/8PQkuVt.png" group-title="CANAIS :: 4K",Band 4K
+http://c.strzzi.site:80/robson31/31robson/2944267
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network 4K" tvg-logo="https://imgur.com/yHFW3vY.png" group-title="CANAIS :: 4K",Cartoon Network 4K
+http://c.strzzi.site:80/robson31/31robson/2944268
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate 4K" tvg-logo="https://imgur.com/iBtthK7.png" group-title="CANAIS :: 4K",Combate 4K
+http://c.strzzi.site:80/robson31/31robson/2944269
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel 4K" tvg-logo="https://imgur.com/tQW7jYa.png" group-title="CANAIS :: 4K",Discovery Channel 4K
+http://c.strzzi.site:80/robson31/31robson/2944270
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 4 4K" tvg-logo="https://logo.zoneplay.shop/01/espn4.png" group-title="CANAIS :: 4K",ESPN 4 4K
+http://c.strzzi.site:80/robson31/31robson/2944271
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 4K" tvg-logo="https://logo.zoneplay.shop/01/espn4.png" group-title="CANAIS :: 4K",ESPN 4K
+http://c.strzzi.site:80/robson31/31robson/2944272
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 4K" tvg-logo="https://imgur.com/0xfNF6m.png" group-title="CANAIS :: 4K",FOX SPORTS 2 4K
+http://c.strzzi.site:80/robson31/31robson/2944273
+#EXTINF:-1 tvg-id="" tvg-name="Globo 4K" tvg-logo="https://logo.zoneplay.shop/01/globo.png" group-title="CANAIS :: 4K",Globo 4K
+http://c.strzzi.site:80/robson31/31robson/2944274
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO 4K" tvg-logo="https://imgur.com/MSbGlF3.png" group-title="CANAIS :: 4K",HBO 4K
+http://c.strzzi.site:80/robson31/31robson/2944275
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME 4K" tvg-logo="https://imgur.com/tZQou9l.png" group-title="CANAIS :: 4K",HBO XTREME 4K
+http://c.strzzi.site:80/robson31/31robson/2944276
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix 4K" tvg-logo="https://imgur.com/a1T8A7Y.png" group-title="CANAIS :: 4K",Megapix 4K
+http://c.strzzi.site:80/robson31/31robson/2944277
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow 4K" tvg-logo="https://imgur.com/TmJwUyT.png" group-title="CANAIS :: 4K",Multishow 4K
+http://c.strzzi.site:80/robson31/31robson/2944278
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO 4K" tvg-logo="https://imgur.com/ajTduA7.png" group-title="CANAIS :: 4K",NATGEO 4K
+http://c.strzzi.site:80/robson31/31robson/2944279
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes 4K" tvg-logo="https://logo.zoneplay.shop/01/premiere1.png" group-title="CANAIS :: 4K",Premiere Clubes 4K
+http://c.strzzi.site:80/robson31/31robson/2944280
+#EXTINF:-1 tvg-id="" tvg-name="Record 4K" tvg-logo="https://imgur.com/8aIWOVK.png" group-title="CANAIS :: 4K",Record 4K
+http://c.strzzi.site:80/robson31/31robson/2944281
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDETV 4K" tvg-logo="https://imgur.com/MSeODpX.png" group-title="CANAIS :: 4K",REDETV 4K
+http://c.strzzi.site:80/robson31/31robson/2944282
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT 4K" tvg-logo="https://logo.zoneplay.shop/01/sbt.png" group-title="CANAIS :: SBT",SBT 4K
+http://c.strzzi.site:80/robson31/31robson/2944283
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space 4K" tvg-logo="https://imgur.com/jrLtYGg.png" group-title="CANAIS :: 4K",Space 4K
+http://c.strzzi.site:80/robson31/31robson/2944284
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV 4K" tvg-logo="https://imgur.com/PuiKfMf.png" group-title="CANAIS :: 4K",SporTV 4K
+http://c.strzzi.site:80/robson31/31robson/2944285
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL 4K" tvg-logo="https://imgur.com/Djn232m.png" group-title="CANAIS :: 4K",STAR CHANNEL 4K
+http://c.strzzi.site:80/robson31/31robson/2944286
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA 4K" tvg-logo="https://imgur.com/Y9bDX2R.png" group-title="CANAIS :: 4K",TELECINE PIPOCA 4K
+http://c.strzzi.site:80/robson31/31robson/2944287
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium 4K" tvg-logo="https://imgur.com/11uUTvW.png" group-title="CANAIS :: 4K",Telecine Premium 4K
+http://c.strzzi.site:80/robson31/31robson/2944288
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT 4K" tvg-logo="https://imgur.com/Hahaouj.png" group-title="CANAIS :: 4K",TNT 4K
+http://c.strzzi.site:80/robson31/31robson/2944289
 #EXTINF:-1 tvg-id="band.br" tvg-name="Band 4K" tvg-logo="https://imgur.com/8PQkuVt.png" group-title="CANAIS | UHD",Band 4K
 http://cs21.xyz:80/7666401039/8575060044/281031
 #EXTINF:-1 tvg-id="record.br" tvg-name="Record 4K" tvg-logo="https://imgur.com/8aIWOVK.png" group-title="CANAIS | UHD",Record 4K
