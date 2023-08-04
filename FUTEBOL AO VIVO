@@ -14,9 +14,9 @@ https://bal02.vivartec.com.br:8088/hls/livechannel5.m3u8
 #EXTINF:0,FUTEBOL AO VIVO 5
 #EXTGRP:FUTEBOL DA HORA
 https://bal02.vivartec.com.br:8088/hls/livechannel1.m3u8
-#EXTINF:0,BOTAFOGO X GUARANI
+#EXTINF:0,FLAMENGO
 #EXTGRP:JOGO DO DIA
-https://pull.niur.live/live/stream-562312_lhd.flv?txSecret=0dbc94439df5c13426c2cf3a3dce35d2&txTime=64c5c009
+https://pull.niur.live/live/stream-161494_lhd.flv?txSecret=b38498021f6a97c48e8dfcf8af7d545e&txTime=64cca82a
 #EXTINF:0,ESTUDIANTES X GOIÁS
 #EXTGRP:JOGO DO DIA
 https://pull.niur.live/live/stream-129831_lhd.flv?txSecret=160dadf882f74f29deb0d69f4609a99e&txTime=64cb2bc6
