@@ -14,18 +14,15 @@ https://bal02.vivartec.com.br:8088/hls/livechannel5.m3u8
 #EXTINF:0,FUTEBOL AO VIVO 5
 #EXTGRP:FUTEBOL DA HORA
 https://bal02.vivartec.com.br:8088/hls/livechannel1.m3u8
-#EXTINF:0,FLAMENGO
+#EXTINF:0, BRASILEIRÃO C
 #EXTGRP:JOGO DO DIA
-https://pull.niur.live/live/stream-161494_lhd.flv?txSecret=b38498021f6a97c48e8dfcf8af7d545e&txTime=64cca82a
-#EXTINF:0,ESTUDIANTES X GOIÁS
-#EXTGRP:JOGO DO DIA
-https://pull.niur.live/live/stream-129831_lhd.flv?txSecret=160dadf882f74f29deb0d69f4609a99e&txTime=64cb2bc6
+https://pull.niur.live/live/stream-130032_lhd.flv?txSecret=935edfcced96098cfe6b9c1f88bdee6b&txTime=64cf1d76
 #EXTINF:0,BRASILEIRÃO A
 #EXTGRP:JOGO DO DIA
-https://pull.niur.live/live/stream-224739_lhd.flv?txSecret=60aec9d61a23c2551849f5d3134ce122&txTime=64c5c0bd
+https://pull.niur.live/live/stream-133288_lhd.flv?txSecret=b8846bd8be2643171c04c9a6030664b2&txTime=64cf1db2
+#EXTINF:0,BRASILEIRÃO A
+#EXTGRP:JOGO DO DIA
+https://pull.niur.live/live/stream-107766_lhd.flv?txSecret=f5e22b78d7cc773f7d886940aff7972d&txTime=64cf1db2
 #EXTINF:0,BRASILEIRÃO B
 #EXTGRP:JOGO DO DIA
-https://pull.niur.live/live/stream-127288_lhd.flv?txSecret=f3dff5fe403ded159031809f14ee6101&txTime=64cb2c02
-#EXTINF:0,BRASILEIRÃO B
-#EXTGRP:JOGO DO DIA
-https://pull.niur.live/live/stream-232533_lhd.flv?txSecret=7b45d83233aeeb47b0e44e1232e3c837&txTime=64cb2c3e
+https://pull.niur.live/live/stream-135292_lhd.flv?txSecret=2f033a2ef269d5af3152c997f4c28e52&txTime=64cf1dee
