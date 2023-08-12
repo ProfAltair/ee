@@ -14,15 +14,3 @@ https://bal02.vivartec.com.br:8088/hls/livechannel5.m3u8
 #EXTINF:0,FUTEBOL AO VIVO 5
 #EXTGRP:FUTEBOL DA HORA
 https://bal02.vivartec.com.br:8088/hls/livechannel1.m3u8
-#EXTINF:0, BRASILEIRÃO C
-#EXTGRP:JOGO DO DIA
-https://pull.niur.live/live/stream-130032_lhd.flv?txSecret=935edfcced96098cfe6b9c1f88bdee6b&txTime=64cf1d76
-#EXTINF:0,BRASILEIRÃO A
-#EXTGRP:JOGO DO DIA
-https://live-cm-ah-14-37.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMTQtMzcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNjkxNDM2MzEyLCJpYXQiOjE2OTEzNDk5MTIsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNGZmNDZhMDEtN2M3Yy00NzA0LTk1YzctZWUwMjM3NzgwNmFmIiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCxkdnI9MTIwLGk9MikvZ2xvYm8tcmovcGxheWxpc3QubTN1OCJ9.CRAWJXmhNI2TyqBNLUMBtTFIUDVhrGekO3Eas-qXdpEsD2hXfyuqR24h7UJdeQC-60Yt946GkHuPrDCVw62TNeUSstwJ5NNbroLmc5TVN_UM8VrK_mgutCeR_g_aOum-ZHEUKALVBJBgqTKBzYEdY65MuFkjd-WOzDNuEHc0RdUn6V2HvNoS-pEVZ2LjSbP5e72YCbB4SnOT19eDeVZilZIeBL7TKZPQDziHnNZg8sNUias4fI59Fg7hEyWRd_xI0rQlhBHHBnibRhiaIH6mQNTBAkC00fJdzKHNcnq0IyBFXYiLWyBxu0ZI0SG2bORqIAeieic2ee6pkLBu_UY6Kw/nu/f(bMin=2000,dvr=120,i=2)/globo-rj/globo-rj-audio_1=128000-video=3632000.m3u8?dvr_window_length=120
-#EXTINF:0,BRASILEIRÃO A
-#EXTGRP:JOGO DO DIA
-https://pull.niur.live/live/stream-107766_lhd.flv?txSecret=f5e22b78d7cc773f7d886940aff7972d&txTime=64cf1db2
-#EXTINF:0,BRASILEIRÃO B
-#EXTGRP:JOGO DO DIA
-https://pull.niur.live/live/stream-135292_lhd.flv?txSecret=2f033a2ef269d5af3152c997f4c28e52&txTime=64cf1dee
