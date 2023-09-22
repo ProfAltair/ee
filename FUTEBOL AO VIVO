@@ -14,9 +14,18 @@ https://bal02.vivartec.com.br:8088/hls/livechannel5.m3u8
 #EXTINF:0,FUTEBOL AO VIVO 5
 #EXTGRP:FUTEBOL DA HORA
 https://bal02.vivartec.com.br:8088/hls/livechannel1.m3u8
-#EXTINF:0,FUTEBOL AO VIVO 6
-#EXTGRP:KTO TV
-https://pull.niur.live/live/stream-117287_lhd.flv?txSecret=c7e18e146ee86a6b945e3eb532ecc1fb&txTime=64f015c5
-#EXTINF:0,FUTEBOL AO VIVO 7
-#EXTGRP:KTO TV
-https://pull.niur.live/live/stream-100795_lhd.flv?txSecret=de984c67b87480da587ba26e6383be03&txTime=64f01601
+#EXTINF:0, CANAL ESPORTE
+#EXTGRP:ESPN 4
+http://fadder.eletrinho.shop:2095/live2/espn4/chunks.m3u8
+#EXTINF:0, CANAL ESPORTE
+#EXTGRP:ESPN 2
+http://fadder.eletrinho.shop:2095/live2/espn2/chunks.m3u8
+#EXTINF:0, CANAL ESPORTE
+#EXTGRP: PFC 1
+http://fadder.eletrinho.shop:2095/live2/premiereclubes/chunks.m3u8
+#EXTINF:0, CANAL ESPORTE
+#EXTGRP: PFC 2
+http://fadder.eletrinho.shop:2095/live2/premiere2/chunks.m3u8
+#EXTINF:0, CANAL ESPORTE
+#EXTGRP: PFC 3
+http://fadder.eletrinho.shop:2095/live2/premiere3/chunks.m3u8
