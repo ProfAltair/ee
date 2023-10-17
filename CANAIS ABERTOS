@@ -1,530 +1,170 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo São Paulo FHD" tvg-logo="http://go555.xyz:80/images/3a741b737c6b016e56ff0c1d24d76158.png" group-title="TV | GLOBO SUDESTE/SUL",Globo São Paulo FHD
-http://milka99.xyz:80/417034292703/629010857080/73091
-#EXTINF:-1 tvg-id="GloboSP.br" tvg-name="Globo São Paulo HD¹" tvg-logo="http://go555.xyz:80/images/3a741b737c6b016e56ff0c1d24d76158.png" group-title="TV | GLOBO SUDESTE/SUL",Globo São Paulo HD¹
-http://milka99.xyz:80/417034292703/629010857080/6761
-#EXTINF:-1 tvg-id="" tvg-name="Globo São Paulo SD¹" tvg-logo="http://go555.xyz:80/images/3a741b737c6b016e56ff0c1d24d76158.png" group-title="TV | GLOBO SUDESTE/SUL",Globo São Paulo SD¹
-http://milka99.xyz:80/417034292703/629010857080/73092
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo Rio HD¹" tvg-logo="http://go555.xyz:80/images/3a741b737c6b016e56ff0c1d24d76158.png" group-title="TV | GLOBO SUDESTE/SUL",Globo Rio HD¹
-http://milka99.xyz:80/417034292703/629010857080/6926
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo Rio SD¹" tvg-logo="http://go555.xyz:80/images/3a741b737c6b016e56ff0c1d24d76158.png" group-title="TV | GLOBO SUDESTE/SUL",Globo Rio SD¹
-http://milka99.xyz:80/417034292703/629010857080/73089
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo Minas HD¹" tvg-logo="http://go555.xyz:80/images/3a741b737c6b016e56ff0c1d24d76158.png" group-title="TV | GLOBO SUDESTE/SUL",Globo Minas HD¹
-http://milka99.xyz:80/417034292703/629010857080/33943
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo Minas SD¹" tvg-logo="http://go555.xyz:80/images/3a741b737c6b016e56ff0c1d24d76158.png" group-title="TV | GLOBO SUDESTE/SUL",Globo Minas SD¹
-http://milka99.xyz:80/417034292703/629010857080/73086
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo TV Tribuna Santos FHD¹" tvg-logo="http://go555.xyz:80/images/0e1c612f3d4f5a1d8125138c424f0467.png" group-title="TV | GLOBO SUDESTE/SUL",Globo TV Tribuna Santos FHD¹
-http://milka99.xyz:80/417034292703/629010857080/15437
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo TV Tribuna Santos HD¹" tvg-logo="http://printv.esy.es/server/TV%20Tribuna.png" group-title="TV | GLOBO SUDESTE/SUL",Globo TV Tribuna Santos HD¹
-http://milka99.xyz:80/417034292703/629010857080/28656
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo TV Tribuna Santos SD¹" tvg-logo="http://go555.xyz:80/images/0e1c612f3d4f5a1d8125138c424f0467.png" group-title="TV | GLOBO SUDESTE/SUL",Globo TV Tribuna Santos SD¹
-http://milka99.xyz:80/417034292703/629010857080/30651
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo EPTV Campinas HD¹" tvg-logo="http://go555.xyz:80/images/97c1b3fec7356d843e6f4fbd9e8a4bdf.png" group-title="TV | GLOBO SUDESTE/SUL",Globo EPTV Campinas HD¹
-http://milka99.xyz:80/417034292703/629010857080/6885
-#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Campinas SD¹" tvg-logo="http://go555.xyz:80/images/97c1b3fec7356d843e6f4fbd9e8a4bdf.png" group-title="TV | GLOBO SUDESTE/SUL",Globo EPTV Campinas SD¹
-http://milka99.xyz:80/417034292703/629010857080/73072
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo EPTV Central São Carlos HD¹" tvg-logo="http://go555.xyz:80/images/97c1b3fec7356d843e6f4fbd9e8a4bdf.png" group-title="TV | GLOBO SUDESTE/SUL",Globo EPTV Central São Carlos HD¹
-http://milka99.xyz:80/417034292703/629010857080/28600
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo EPTV Ribeirão Preto HD¹" tvg-logo="http://go555.xyz:80/images/97c1b3fec7356d843e6f4fbd9e8a4bdf.png" group-title="TV | GLOBO SUDESTE/SUL",Globo EPTV Ribeirão Preto HD¹
-http://milka99.xyz:80/417034292703/629010857080/73077
-#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Sul de Minas HD³" tvg-logo="http://go555.xyz:80/images/97c1b3fec7356d843e6f4fbd9e8a4bdf.png" group-title="TV | GLOBO SUDESTE/SUL",Globo EPTV Sul de Minas HD³
-http://milka99.xyz:80/417034292703/629010857080/73080
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo TV TEM Bauru HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logotipo_da_TV_TEM.png" group-title="TV | GLOBO SUDESTE/SUL",Globo TV TEM Bauru HD¹
-http://milka99.xyz:80/417034292703/629010857080/28653
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM Itapetininga HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logotipo_da_TV_TEM.png" group-title="TV | GLOBO SUDESTE/SUL",Globo TV TEM Itapetininga HD
-http://milka99.xyz:80/417034292703/629010857080/73170
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM São José do Rio Preto HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logotipo_da_TV_TEM.png" group-title="TV | GLOBO SUDESTE/SUL",Globo TV TEM São José do Rio Preto HD
-http://milka99.xyz:80/417034292703/629010857080/73173
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo TV TEM Sorocaba HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logotipo_da_TV_TEM.png" group-title="TV | GLOBO SUDESTE/SUL",Globo TV TEM Sorocaba HD¹
-http://milka99.xyz:80/417034292703/629010857080/73176
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo Vanguarda S. J. dos Campos HD¹" tvg-logo="http://go555.xyz:80/images/1c6da02f0610ec5e5e1814d52f0d433e.png" group-title="TV | GLOBO SUDESTE/SUL",Globo Vanguarda S. J. dos Campos HD¹
-http://milka99.xyz:80/417034292703/629010857080/73182
-#EXTINF:-1 tvg-id="" tvg-name="Globo Vanguarda Taubaté HD" tvg-logo="http://go555.xyz:80/images/1c6da02f0610ec5e5e1814d52f0d433e.png" group-title="TV | GLOBO SUDESTE/SUL",Globo Vanguarda Taubaté HD
-http://milka99.xyz:80/417034292703/629010857080/73185
-#EXTINF:-1 tvg-id="" tvg-name="Globo Fronteira Paulista HD" tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQET0jvHHBOm8A/company-logo_200_200/0/1581625180085?e=2159024400&v=beta&t=ppTO1e15cez0sY5cGtRNP_s9OGzTxmWgRK0dSLmeb2U" group-title="TV | GLOBO SUDESTE/SUL",Globo Fronteira Paulista HD
-http://milka99.xyz:80/417034292703/629010857080/73152
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo TV Gazeta Vitoria HD" tvg-logo="http://go555.xyz:80/images/923001adffb798bf37341d69ca15c6b6.png" group-title="TV | GLOBO SUDESTE/SUL",Globo TV Gazeta Vitoria HD
-http://milka99.xyz:80/417034292703/629010857080/40395
-#EXTINF:-1 tvg-id="" tvg-name="Globo Integração Ituiutaba MG HD" tvg-logo="https://images2.imgbox.com/a7/c8/kRzTVekb_o.png" group-title="TV | GLOBO SUDESTE/SUL",Globo Integração Ituiutaba MG HD
-http://milka99.xyz:80/417034292703/629010857080/73158
-#EXTINF:-1 tvg-id="" tvg-name="Globo Integração Uberlândia HD" tvg-logo="https://images2.imgbox.com/a7/c8/kRzTVekb_o.png" group-title="TV | GLOBO SUDESTE/SUL",Globo Integração Uberlândia HD
-http://milka99.xyz:80/417034292703/629010857080/73161
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo Integração Araxa HD" tvg-logo="https://images2.imgbox.com/a7/c8/kRzTVekb_o.png" group-title="TV | GLOBO SUDESTE/SUL",Globo Integração Araxa HD
-http://milka99.xyz:80/417034292703/629010857080/28644
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo Integração Uberaba HD" tvg-logo="https://images2.imgbox.com/a7/c8/kRzTVekb_o.png" group-title="TV | GLOBO SUDESTE/SUL",Globo Integração Uberaba HD
-http://milka99.xyz:80/417034292703/629010857080/28645
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo Integracao Juiz de Fora" tvg-logo="https://images2.imgbox.com/a7/c8/kRzTVekb_o.png" group-title="TV | GLOBO SUDESTE/SUL",Globo Integracao Juiz de Fora
-http://milka99.xyz:80/417034292703/629010857080/28643
-#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Grande Minas HD" tvg-logo="https://portalanjo.weebly.com/uploads/2/6/0/2/2602857/hggggggggggggggggggg.png" group-title="TV | GLOBO SUDESTE/SUL",Globo Inter TV Grande Minas HD
-http://milka99.xyz:80/417034292703/629010857080/73098
-#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV dos Vales MG HD" tvg-logo="https://portalanjo.weebly.com/uploads/2/6/0/2/2602857/hggggggggggggggggggg.png" group-title="TV | GLOBO SUDESTE/SUL",Globo Inter TV dos Vales MG HD
-http://milka99.xyz:80/417034292703/629010857080/73293
-#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Alto Litoral RJ HD" tvg-logo="https://portalanjo.weebly.com/uploads/2/6/0/2/2602857/hggggggggggggggggggg.png" group-title="TV | GLOBO SUDESTE/SUL",Globo Inter TV Alto Litoral RJ HD
-http://milka99.xyz:80/417034292703/629010857080/73095
-#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Planície RJ HD" tvg-logo="http://go555.xyz:80/images/6a27ec00ca6df3a1aa67d82aa6913f93.png" group-title="TV | GLOBO SUDESTE/SUL",Globo Inter TV Planície RJ HD
-http://milka99.xyz:80/417034292703/629010857080/73101
-#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Serra Mar RJ HD" tvg-logo="http://go555.xyz:80/images/6a27ec00ca6df3a1aa67d82aa6913f93.png" group-title="TV | GLOBO SUDESTE/SUL",Globo Inter TV Serra Mar RJ HD
-http://milka99.xyz:80/417034292703/629010857080/73104
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rio Sul HD" tvg-logo="http://go555.xyz:80/images/bc2ae2bd42ce3e4b79e84de00b57421f.png" group-title="TV | GLOBO SUDESTE/SUL",Globo Rio Sul HD
-http://milka99.xyz:80/417034292703/629010857080/73164
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo RPC Curitiba HD¹" tvg-logo="http://go555.xyz:80/images/1539005c1e8b9faef490a5fa4451210d.png" group-title="TV | GLOBO SUDESTE/SUL",Globo RPC Curitiba HD¹
-http://milka99.xyz:80/417034292703/629010857080/39455
-#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Cascavel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png" group-title="TV | GLOBO SUDESTE/SUL",Globo RPC Cascavel HD
-http://milka99.xyz:80/417034292703/629010857080/73128
-#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Foz do Iguaçu HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png" group-title="TV | GLOBO SUDESTE/SUL",Globo RPC Foz do Iguaçu HD
-http://milka99.xyz:80/417034292703/629010857080/73134
-#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Guarapuava HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png" group-title="TV | GLOBO SUDESTE/SUL",Globo RPC Guarapuava HD
-http://milka99.xyz:80/417034292703/629010857080/73137
-#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Londrina HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png" group-title="TV | GLOBO SUDESTE/SUL",Globo RPC Londrina HD
-http://milka99.xyz:80/417034292703/629010857080/73140
-#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Maringá HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png" group-title="TV | GLOBO SUDESTE/SUL",Globo RPC Maringá HD
-http://milka99.xyz:80/417034292703/629010857080/73143
-#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Paranavaí HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png" group-title="TV | GLOBO SUDESTE/SUL",Globo RPC Paranavaí HD
-http://milka99.xyz:80/417034292703/629010857080/73146
-#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Ponta Grossa HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png" group-title="TV | GLOBO SUDESTE/SUL",Globo RPC Ponta Grossa HD
-http://milka99.xyz:80/417034292703/629010857080/73149
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo NSC Florianópolis HD¹" tvg-logo="http://go555.xyz:80/images/72925eaef57eff6f804fcddeb76eccfa.png" group-title="TV | GLOBO SUDESTE/SUL",Globo NSC Florianópolis HD¹
-http://milka99.xyz:80/417034292703/629010857080/28615
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo RBS Porto Alegre HD¹" tvg-logo="http://go555.xyz:80/images/ce3e9171a01169f8e26ec8cfcf80b6d0.png" group-title="TV | GLOBO SUDESTE/SUL",Globo RBS Porto Alegre HD¹
-http://milka99.xyz:80/417034292703/629010857080/33941
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS Caxias do Sul HD" tvg-logo="http://go555.xyz:80/images/ce3e9171a01169f8e26ec8cfcf80b6d0.png" group-title="TV | GLOBO SUDESTE/SUL",Globo RBS Caxias do Sul HD
-http://milka99.xyz:80/417034292703/629010857080/73107
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS Centro-Oeste HD" tvg-logo="https://images2.imgbox.com/ff/da/sw52wkR9_o.png" group-title="TV | GLOBO SUDESTE/SUL",Globo RBS Centro-Oeste HD
-http://milka99.xyz:80/417034292703/629010857080/73110
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS Chapecó HD" tvg-logo="https://images2.imgbox.com/ff/da/sw52wkR9_o.png" group-title="TV | GLOBO SUDESTE/SUL",Globo RBS Chapecó HD
-http://milka99.xyz:80/417034292703/629010857080/73113
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS Criciúma HD" tvg-logo="https://images2.imgbox.com/ff/da/sw52wkR9_o.png" group-title="TV | GLOBO SUDESTE/SUL",Globo RBS Criciúma HD
-http://milka99.xyz:80/417034292703/629010857080/73116
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS Joinville HD" tvg-logo="http://go555.xyz:80/images/ce3e9171a01169f8e26ec8cfcf80b6d0.png" group-title="TV | GLOBO SUDESTE/SUL",Globo RBS Joinville HD
-http://milka99.xyz:80/417034292703/629010857080/73122
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS Passo Fundo HD" tvg-logo="https://images2.imgbox.com/ff/da/sw52wkR9_o.png" group-title="TV | GLOBO SUDESTE/SUL",Globo RBS Passo Fundo HD
-http://milka99.xyz:80/417034292703/629010857080/73188
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS Santa Maria HD" tvg-logo="http://go555.xyz:80/images/ce3e9171a01169f8e26ec8cfcf80b6d0.png" group-title="TV | GLOBO SUDESTE/SUL",Globo RBS Santa Maria HD
-http://milka99.xyz:80/417034292703/629010857080/73191
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo Brasília HD¹" tvg-logo="http://go555.xyz:80/images/3a741b737c6b016e56ff0c1d24d76158.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo Brasília HD¹
-http://milka99.xyz:80/417034292703/629010857080/33942
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo Brasília SD¹" tvg-logo="http://go555.xyz:80/images/3a741b737c6b016e56ff0c1d24d76158.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo Brasília SD¹
-http://milka99.xyz:80/417034292703/629010857080/73083
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo TV Morena Campo Grande HD" tvg-logo="http://go555.xyz:80/images/63e447035900cf3c78738606fd7e0a29.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV Morena Campo Grande HD
-http://milka99.xyz:80/417034292703/629010857080/40452
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo TV Anhanguera Goiania HD¹" tvg-logo="http://go555.xyz:80/images/ff053f33cadf88021e76cb592d9b17ec.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV Anhanguera Goiania HD¹
-http://milka99.xyz:80/417034292703/629010857080/33939
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Anhanguera Goiânia HD" tvg-logo="http://go555.xyz:80/images/ff053f33cadf88021e76cb592d9b17ec.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV Anhanguera Goiânia HD
-http://milka99.xyz:80/417034292703/629010857080/73341
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo TV Centro-América Cuiabá HD¹" tvg-logo="http://go555.xyz:80/images/53d75c8bc7e93107363a6605e3c999e9.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV Centro-América Cuiabá HD¹
-http://milka99.xyz:80/417034292703/629010857080/73353
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo Verdes Mares Fortaleza HD¹" tvg-logo="http://go555.xyz:80/images/df783323ddb10ada959aae04abfc3966.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo Verdes Mares Fortaleza HD¹
-http://milka99.xyz:80/417034292703/629010857080/28659
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo Verdes Mares Fortaleza SD¹" tvg-logo="http://go555.xyz:80/images/df783323ddb10ada959aae04abfc3966.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo Verdes Mares Fortaleza SD¹
-http://milka99.xyz:80/417034292703/629010857080/72892
-#EXTINF:-1 tvg-id="" tvg-name="Globo Verdes Mares Cariri CE HD" tvg-logo="https://images2.imgbox.com/68/cf/l4FDLeXx_o.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo Verdes Mares Cariri CE HD
-http://milka99.xyz:80/417034292703/629010857080/73296
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo TV Bahia HD¹" tvg-logo="http://go555.xyz:80/images/9fbea013fce76b69178e97317ac0c6bd.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV Bahia HD¹
-http://milka99.xyz:80/417034292703/629010857080/28635
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Subaé BA HD" tvg-logo="http://go555.xyz:80/images/66a03bbbf2e164fdd11cc5d91230c00c.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV Subaé BA HD
-http://milka99.xyz:80/417034292703/629010857080/73305
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Sudoeste BA HD" tvg-logo="https://images2.imgbox.com/32/7a/whUPGj5v_o.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV Sudoeste BA HD
-http://milka99.xyz:80/417034292703/629010857080/73308
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Santa Cruz BA HD" tvg-logo="https://doity.com.br/media/doity/parceiros/31427_parceiro.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV Santa Cruz BA HD
-http://milka99.xyz:80/417034292703/629010857080/73311
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV São Francisco BA HD" tvg-logo="http://go555.xyz:80/images/cd992dc536e1971aaa35bcbf373dd06c.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV São Francisco BA HD
-http://milka99.xyz:80/417034292703/629010857080/73314
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Oeste BA HD" tvg-logo="http://go555.xyz:80/images/289d612a1d668a29428055c2944b5bf8.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV Oeste BA HD
-http://milka99.xyz:80/417034292703/629010857080/73338
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo TV Gazeta Alagoas HD" tvg-logo="http://go555.xyz:80/images/a1708212367d44c0627dc862a5b545de.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV Gazeta Alagoas HD
-http://milka99.xyz:80/417034292703/629010857080/57688
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo TV Sergipe HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-sergipe-hd_m.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV Sergipe HD
-http://milka99.xyz:80/417034292703/629010857080/28652
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Paraíba HD" tvg-logo="https://images2.imgbox.com/78/43/xFQlthWF_o.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV Paraíba HD
-http://milka99.xyz:80/417034292703/629010857080/73317
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo TV Cabo Branco PB HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-cabo-branco_m.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV Cabo Branco PB HD
-http://milka99.xyz:80/417034292703/629010857080/40374
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Asa Branca PE HD" tvg-logo="http://go555.xyz:80/images/420b1e403bbab7763e524767cf94acf2.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV Asa Branca PE HD
-http://milka99.xyz:80/417034292703/629010857080/73344
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Grande Rio PE HD" tvg-logo="https://images2.imgbox.com/e9/ca/II25a3MB_o.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV Grande Rio PE HD
-http://milka99.xyz:80/417034292703/629010857080/73389
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo Nordeste HD¹" tvg-logo="http://go555.xyz:80/images/3a741b737c6b016e56ff0c1d24d76158.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo Nordeste HD¹
-http://milka99.xyz:80/417034292703/629010857080/28611
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo Nordeste SD¹" tvg-logo="http://go555.xyz:80/images/3a741b737c6b016e56ff0c1d24d76158.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo Nordeste SD¹
-http://milka99.xyz:80/417034292703/629010857080/73381
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo Inter TV Cabugi Natal HD¹" tvg-logo="http://go555.xyz:80/images/6a27ec00ca6df3a1aa67d82aa6913f93.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo Inter TV Cabugi Natal HD¹
-http://milka99.xyz:80/417034292703/629010857080/28604
-#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Costa Branca RN HD³" tvg-logo="http://go555.xyz:80/images/6a27ec00ca6df3a1aa67d82aa6913f93.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo Inter TV Costa Branca RN HD³
-http://milka99.xyz:80/417034292703/629010857080/73386
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo TV Liberal Belém PA HD¹" tvg-logo="http://go555.xyz:80/images/112872f260f98c5b38e908c9be6aa47a.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV Liberal Belém PA HD¹
-http://milka99.xyz:80/417034292703/629010857080/39454
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo TV Mirante São Luís MA HD" tvg-logo="http://go555.xyz:80/images/4c1f7050f9a6db4ff15991ac61ccf6b8.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV Mirante São Luís MA HD
-http://milka99.xyz:80/417034292703/629010857080/28648
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante Balsas MA HD" tvg-logo="https://images2.imgbox.com/cc/dd/tO3LTugv_o.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV Mirante Balsas MA HD
-http://milka99.xyz:80/417034292703/629010857080/73323
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante Imperatriz MA HD" tvg-logo="https://images2.imgbox.com/cc/dd/tO3LTugv_o.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV Mirante Imperatriz MA HD
-http://milka99.xyz:80/417034292703/629010857080/73329
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante Cocais MA HD" tvg-logo="http://go555.xyz:80/images/4c1f7050f9a6db4ff15991ac61ccf6b8.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV Mirante Cocais MA HD
-http://milka99.xyz:80/417034292703/629010857080/73326
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Clube PI HD" tvg-logo="http://go555.xyz:80/images/0c9ea8f4be512d5fdab6678f40f77d56.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV Clube PI HD
-http://milka99.xyz:80/417034292703/629010857080/73356
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Alvorada do Sul PI HD" tvg-logo="http://go555.xyz:80/images/564e6d9841ea30cf370ca4b6c308ef3f.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV Alvorada do Sul PI HD
-http://milka99.xyz:80/417034292703/629010857080/73359
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Amazônica Manaus FHD" tvg-logo="https://i.postimg.cc/ZRjPvRmk/Rede-Amaz-nica-logo.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo Rede Amazônica Manaus FHD
-http://milka99.xyz:80/417034292703/629010857080/73364
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo Rede Amazônica Manaus HD¹" tvg-logo="http://go555.xyz:80/images/e5cb1df9a717545a25d7bcdda330be71.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo Rede Amazônica Manaus HD¹
-http://milka99.xyz:80/417034292703/629010857080/39456
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Amazônica Manaus SD¹" tvg-logo="http://go555.xyz:80/images/e5cb1df9a717545a25d7bcdda330be71.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo Rede Amazônica Manaus SD¹
-http://milka99.xyz:80/417034292703/629010857080/73365
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Amazônica Parintins AM HD" tvg-logo="https://i.postimg.cc/ZRjPvRmk/Rede-Amaz-nica-logo.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo Rede Amazônica Parintins AM HD
-http://milka99.xyz:80/417034292703/629010857080/73368
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Amazônica Macapá AP HD" tvg-logo="https://i.postimg.cc/ZRjPvRmk/Rede-Amaz-nica-logo.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo Rede Amazônica Macapá AP HD
-http://milka99.xyz:80/417034292703/629010857080/73362
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Amazônica Porto Velho RO HD" tvg-logo="https://i.postimg.cc/ZRjPvRmk/Rede-Amaz-nica-logo.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo Rede Amazônica Porto Velho RO HD
-http://milka99.xyz:80/417034292703/629010857080/73371
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Amazônica Boa Vista RR HD" tvg-logo="https://i.postimg.cc/ZRjPvRmk/Rede-Amaz-nica-logo.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo Rede Amazônica Boa Vista RR HD
-http://milka99.xyz:80/417034292703/629010857080/73374
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Amazônica Rio Branco AC HD" tvg-logo="https://i.postimg.cc/ZRjPvRmk/Rede-Amaz-nica-logo.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo Rede Amazônica Rio Branco AC HD
-http://milka99.xyz:80/417034292703/629010857080/73377
-#EXTINF:-1 tvg-id="Band.br" tvg-name="Band SP FHD" tvg-logo="http://go555.xyz:80/images/67fd95fc1e88f15b3efb9feef0fc0dc9.png" group-title="TV | ABERTOS",Band SP FHD
-http://milka99.xyz:80/417034292703/629010857080/73393
-#EXTINF:-1 tvg-id="Band.br" tvg-name="Band SP HD¹" tvg-logo="http://go555.xyz:80/images/67fd95fc1e88f15b3efb9feef0fc0dc9.png" group-title="TV | ABERTOS",Band SP HD¹
-http://milka99.xyz:80/417034292703/629010857080/39451
-#EXTINF:-1 tvg-id="SBT.br" tvg-name="Band SP SD¹" tvg-logo="http://go555.xyz:80/images/67fd95fc1e88f15b3efb9feef0fc0dc9.png" group-title="TV | ABERTOS",Band SP SD¹
-http://milka99.xyz:80/417034292703/629010857080/89641
-#EXTINF:-1 tvg-id="Band.br" tvg-name="Band Santos FHD¹" tvg-logo="http://printv.esy.es/server/Band.png" group-title="TV | ABERTOS",Band Santos FHD¹
-http://milka99.xyz:80/417034292703/629010857080/70576
-#EXTINF:-1 tvg-id="Band.br" tvg-name="Band Santos HD¹" tvg-logo="http://printv.esy.es/server/Band.png" group-title="TV | ABERTOS",Band Santos HD¹
-http://milka99.xyz:80/417034292703/629010857080/18315
-#EXTINF:-1 tvg-id="Band.br" tvg-name="Band Santos SD¹" tvg-logo="http://printv.esy.es/server/Band.png" group-title="TV | ABERTOS",Band Santos SD¹
-http://milka99.xyz:80/417034292703/629010857080/33854
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Band Campinas HD¹." tvg-logo="http://go555.xyz:80/images/67fd95fc1e88f15b3efb9feef0fc0dc9.png" group-title="TV | ABERTOS",Band Campinas HD¹.
-http://milka99.xyz:80/417034292703/629010857080/28480
-#EXTINF:-1 tvg-id="Band.br" tvg-name="Band Curitiba HD¹" tvg-logo="http://printv.esy.es/server/Band.png" group-title="TV | ABERTOS",Band Curitiba HD¹
-http://milka99.xyz:80/417034292703/629010857080/88654
-#EXTINF:-1 tvg-id="" tvg-name="Record SP FHD" tvg-logo="http://go555.xyz:80/images/07035f9ab36fdc8509c5bed85e545987.png" group-title="TV | ABERTOS",Record SP FHD
-http://milka99.xyz:80/417034292703/629010857080/73033
-#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="Record SP HD¹" tvg-logo="http://go555.xyz:80/images/07035f9ab36fdc8509c5bed85e545987.png" group-title="TV | ABERTOS",Record SP HD¹
-http://milka99.xyz:80/417034292703/629010857080/28742
-#EXTINF:-1 tvg-id="" tvg-name="Record SP HD" tvg-logo="http://go555.xyz:80/images/07035f9ab36fdc8509c5bed85e545987.png" group-title="TV | ABERTOS",Record SP HD
-http://milka99.xyz:80/417034292703/629010857080/73034
-#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="Record Santos FHD¹" tvg-logo="https://i.postimg.cc/PqrTDnGx/RECORD-TV.png" group-title="TV | ABERTOS",Record Santos FHD¹
-http://milka99.xyz:80/417034292703/629010857080/62981
-#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="Record Santos HD¹" tvg-logo="https://i.postimg.cc/PqrTDnGx/RECORD-TV.png" group-title="TV | ABERTOS",Record Santos HD¹
-http://milka99.xyz:80/417034292703/629010857080/53709
-#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="Record Santos SD¹" tvg-logo="https://i.postimg.cc/PqrTDnGx/RECORD-TV.png" group-title="TV | ABERTOS",Record Santos SD¹
-http://milka99.xyz:80/417034292703/629010857080/53710
-#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="Record Rio HD" tvg-logo="http://go555.xyz:80/images/07035f9ab36fdc8509c5bed85e545987.png" group-title="TV | ABERTOS",Record Rio HD
-http://milka99.xyz:80/417034292703/629010857080/28748
-#EXTINF:-1 tvg-id="" tvg-name="Record Minas HD" tvg-logo="http://go555.xyz:80/images/07035f9ab36fdc8509c5bed85e545987.png" group-title="TV | ABERTOS",Record Minas HD
-http://milka99.xyz:80/417034292703/629010857080/73040
-#EXTINF:-1 tvg-id="" tvg-name="Record Itapoan HD" tvg-logo="http://go555.xyz:80/images/07035f9ab36fdc8509c5bed85e545987.png" group-title="TV | ABERTOS",Record Itapoan HD
-http://milka99.xyz:80/417034292703/629010857080/73046
-#EXTINF:-1 tvg-id="" tvg-name="Record Brasilia HD" tvg-logo="https://i.postimg.cc/PqrTDnGx/RECORD-TV.png" group-title="TV | ABERTOS",Record Brasilia HD
-http://milka99.xyz:80/417034292703/629010857080/73049
-#EXTINF:-1 tvg-id="" tvg-name="Record Goias HD" tvg-logo="http://go555.xyz:80/images/07035f9ab36fdc8509c5bed85e545987.png" group-title="TV | ABERTOS",Record Goias HD
-http://milka99.xyz:80/417034292703/629010857080/73052
-#EXTINF:-1 tvg-id="" tvg-name="Record Belém HD" tvg-logo="https://i.postimg.cc/PqrTDnGx/RECORD-TV.png" group-title="TV | ABERTOS",Record Belém HD
-http://milka99.xyz:80/417034292703/629010857080/73055
-#EXTINF:-1 tvg-id="" tvg-name="Record Manaus HD" tvg-logo="https://i.postimg.cc/PqrTDnGx/RECORD-TV.png" group-title="TV | ABERTOS",Record Manaus HD
-http://milka99.xyz:80/417034292703/629010857080/73058
-#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="Record Curitiba HD¹" tvg-logo="https://i.postimg.cc/PqrTDnGx/RECORD-TV.png" group-title="TV | ABERTOS",Record Curitiba HD¹
-http://milka99.xyz:80/417034292703/629010857080/38607
-#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="Record RS" tvg-logo="http://go555.xyz:80/images/07035f9ab36fdc8509c5bed85e545987.png" group-title="TV | ABERTOS",Record RS
-http://milka99.xyz:80/417034292703/629010857080/62992
-#EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT SP FHD¹" tvg-logo="http://go555.xyz:80/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="TV | ABERTOS",SBT SP FHD¹
-http://milka99.xyz:80/417034292703/629010857080/28755
-#EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT SP HD¹" tvg-logo="http://go555.xyz:80/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="TV | ABERTOS",SBT SP HD¹
-http://milka99.xyz:80/417034292703/629010857080/39447
-#EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT SP SD¹" tvg-logo="http://go555.xyz:80/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="TV | ABERTOS",SBT SP SD¹
-http://milka99.xyz:80/417034292703/629010857080/89587
-#EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT Santos FHD¹" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="TV | ABERTOS",SBT Santos FHD¹
-http://milka99.xyz:80/417034292703/629010857080/70575
-#EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT Santos HD¹" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="TV | ABERTOS",SBT Santos HD¹
-http://milka99.xyz:80/417034292703/629010857080/18316
-#EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT Santos SD¹" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="TV | ABERTOS",SBT Santos SD¹
-http://milka99.xyz:80/417034292703/629010857080/30653
-#EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT Rede Massa PR HD¹" tvg-logo="http://go555.xyz:80/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="TV | ABERTOS",SBT Rede Massa PR HD¹
-http://milka99.xyz:80/417034292703/629010857080/19455
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV! HD¹" tvg-logo="http://go555.xyz:80/images/caf8f8a6082d14fe697e9b514a10a12b.png" group-title="TV | ABERTOS",RedeTV! HD¹
-http://milka99.xyz:80/417034292703/629010857080/6753
-#EXTINF:-1 tvg-id="Cultura.br" tvg-name="TV Cultura HD¹" tvg-logo="http://printv.esy.es/server/Cultura.png" group-title="TV | ABERTOS",TV Cultura HD¹
-http://milka99.xyz:80/417034292703/629010857080/6852
-#EXTINF:-1 tvg-id="" tvg-name="Agromais HD¹" tvg-logo="https://images2.imgbox.com/1a/a0/0oR1tuJY_o.png" group-title="TV | ABERTOS",Agromais HD¹
-http://milka99.xyz:80/417034292703/629010857080/39452
-#EXTINF:-1 tvg-id="AandE.br" tvg-name="Canal do Boi HD¹" tvg-logo="http://go555.xyz:80/images/21faf0908cddf985acacf6a9d7de71b0.png" group-title="TV | ABERTOS",Canal do Boi HD¹
-http://milka99.xyz:80/417034292703/629010857080/66631
-#EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva HD¹" tvg-logo="http://go555.xyz:80/images/c34e10be48d87815810be2ec381f968b.png" group-title="TV | ABERTOS",Terra Viva HD¹
-http://milka99.xyz:80/417034292703/629010857080/17811
-#EXTINF:-1 tvg-id="AandE.br" tvg-name="TV Brasil HD¹" tvg-logo="http://go555.xyz:80/images/76d41ddc92c81fc9cf77a4e2b2554d67.png" group-title="TV | ABERTOS",TV Brasil HD¹
-http://milka99.xyz:80/417034292703/629010857080/17792
-#EXTINF:-1 tvg-id="" tvg-name="TV Brasil 2¹" tvg-logo="https://images2.imgbox.com/84/fe/Bex4CEJW_o.png" group-title="TV | ABERTOS",TV Brasil 2¹
-http://milka99.xyz:80/417034292703/629010857080/64197
-#EXTINF:-1 tvg-id="" tvg-name="TV Camara SD¹" tvg-logo="https://images2.imgbox.com/fe/ea/I8nq42mq_o.png" group-title="TV | ABERTOS",TV Camara SD¹
-http://milka99.xyz:80/417034292703/629010857080/59978
-#EXTINF:-1 tvg-id="" tvg-name="TV Justiça¹" tvg-logo="http://go555.xyz:80/images/1eb3c47d44c410bb060c525641d7a6c8.png" group-title="TV | ABERTOS",TV Justiça¹
-http://milka99.xyz:80/417034292703/629010857080/64196
-#EXTINF:-1 tvg-id="" tvg-name="TV Senado¹" tvg-logo="https://images2.imgbox.com/b9/51/VNz1XFvo_o.png" group-title="TV | ABERTOS",TV Senado¹
-http://milka99.xyz:80/417034292703/629010857080/64198
-#EXTINF:-1 tvg-id="AandE.br" tvg-name="TV Gazeta¹" tvg-logo="http://go555.xyz:80/images/ab81a01d70dfed850894655b5903e732.png" group-title="TV | ABERTOS",TV Gazeta¹
-http://milka99.xyz:80/417034292703/629010857080/19476
-
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo São Paulo FHD" tvg-logo="http://go555.xyz:80/images/3a741b737c6b016e56ff0c1d24d76158.png" group-title="TV | GLOBO SUDESTE/SUL",Globo São Paulo FHD
-http://milka99.xyz:80/182722677047/531272023349/73091
-#EXTINF:-1 tvg-id="GloboSP.br" tvg-name="Globo São Paulo HD¹" tvg-logo="http://go555.xyz:80/images/3a741b737c6b016e56ff0c1d24d76158.png" group-title="TV | GLOBO SUDESTE/SUL",Globo São Paulo HD¹
-http://milka99.xyz:80/182722677047/531272023349/6761
-#EXTINF:-1 tvg-id="" tvg-name="Globo São Paulo SD¹" tvg-logo="http://go555.xyz:80/images/3a741b737c6b016e56ff0c1d24d76158.png" group-title="TV | GLOBO SUDESTE/SUL",Globo São Paulo SD¹
-http://milka99.xyz:80/182722677047/531272023349/73092
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo Rio HD¹" tvg-logo="http://go555.xyz:80/images/3a741b737c6b016e56ff0c1d24d76158.png" group-title="TV | GLOBO SUDESTE/SUL",Globo Rio HD¹
-http://milka99.xyz:80/182722677047/531272023349/6926
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo Rio SD¹" tvg-logo="http://go555.xyz:80/images/3a741b737c6b016e56ff0c1d24d76158.png" group-title="TV | GLOBO SUDESTE/SUL",Globo Rio SD¹
-http://milka99.xyz:80/182722677047/531272023349/73089
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo Minas HD¹" tvg-logo="http://go555.xyz:80/images/3a741b737c6b016e56ff0c1d24d76158.png" group-title="TV | GLOBO SUDESTE/SUL",Globo Minas HD¹
-http://milka99.xyz:80/182722677047/531272023349/33943
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo Minas SD¹" tvg-logo="http://go555.xyz:80/images/3a741b737c6b016e56ff0c1d24d76158.png" group-title="TV | GLOBO SUDESTE/SUL",Globo Minas SD¹
-http://milka99.xyz:80/182722677047/531272023349/73086
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo TV Tribuna Santos FHD¹" tvg-logo="http://go555.xyz:80/images/0e1c612f3d4f5a1d8125138c424f0467.png" group-title="TV | GLOBO SUDESTE/SUL",Globo TV Tribuna Santos FHD¹
-http://milka99.xyz:80/182722677047/531272023349/15437
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo TV Tribuna Santos HD¹" tvg-logo="http://printv.esy.es/server/TV%20Tribuna.png" group-title="TV | GLOBO SUDESTE/SUL",Globo TV Tribuna Santos HD¹
-http://milka99.xyz:80/182722677047/531272023349/28656
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo TV Tribuna Santos SD¹" tvg-logo="http://go555.xyz:80/images/0e1c612f3d4f5a1d8125138c424f0467.png" group-title="TV | GLOBO SUDESTE/SUL",Globo TV Tribuna Santos SD¹
-http://milka99.xyz:80/182722677047/531272023349/30651
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo EPTV Campinas HD¹" tvg-logo="http://go555.xyz:80/images/97c1b3fec7356d843e6f4fbd9e8a4bdf.png" group-title="TV | GLOBO SUDESTE/SUL",Globo EPTV Campinas HD¹
-http://milka99.xyz:80/182722677047/531272023349/6885
-#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Campinas SD¹" tvg-logo="http://go555.xyz:80/images/97c1b3fec7356d843e6f4fbd9e8a4bdf.png" group-title="TV | GLOBO SUDESTE/SUL",Globo EPTV Campinas SD¹
-http://milka99.xyz:80/182722677047/531272023349/73072
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo EPTV Central São Carlos HD¹" tvg-logo="http://go555.xyz:80/images/97c1b3fec7356d843e6f4fbd9e8a4bdf.png" group-title="TV | GLOBO SUDESTE/SUL",Globo EPTV Central São Carlos HD¹
-http://milka99.xyz:80/182722677047/531272023349/28600
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo EPTV Ribeirão Preto HD¹" tvg-logo="http://go555.xyz:80/images/97c1b3fec7356d843e6f4fbd9e8a4bdf.png" group-title="TV | GLOBO SUDESTE/SUL",Globo EPTV Ribeirão Preto HD¹
-http://milka99.xyz:80/182722677047/531272023349/73077
-#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Sul de Minas HD³" tvg-logo="http://go555.xyz:80/images/97c1b3fec7356d843e6f4fbd9e8a4bdf.png" group-title="TV | GLOBO SUDESTE/SUL",Globo EPTV Sul de Minas HD³
-http://milka99.xyz:80/182722677047/531272023349/73080
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo TV TEM Bauru HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logotipo_da_TV_TEM.png" group-title="TV | GLOBO SUDESTE/SUL",Globo TV TEM Bauru HD¹
-http://milka99.xyz:80/182722677047/531272023349/28653
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM Itapetininga HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logotipo_da_TV_TEM.png" group-title="TV | GLOBO SUDESTE/SUL",Globo TV TEM Itapetininga HD
-http://milka99.xyz:80/182722677047/531272023349/73170
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM São José do Rio Preto HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logotipo_da_TV_TEM.png" group-title="TV | GLOBO SUDESTE/SUL",Globo TV TEM São José do Rio Preto HD
-http://milka99.xyz:80/182722677047/531272023349/73173
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo TV TEM Sorocaba HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logotipo_da_TV_TEM.png" group-title="TV | GLOBO SUDESTE/SUL",Globo TV TEM Sorocaba HD¹
-http://milka99.xyz:80/182722677047/531272023349/73176
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo Vanguarda S. J. dos Campos HD¹" tvg-logo="http://go555.xyz:80/images/1c6da02f0610ec5e5e1814d52f0d433e.png" group-title="TV | GLOBO SUDESTE/SUL",Globo Vanguarda S. J. dos Campos HD¹
-http://milka99.xyz:80/182722677047/531272023349/73182
-#EXTINF:-1 tvg-id="" tvg-name="Globo Vanguarda Taubaté HD" tvg-logo="http://go555.xyz:80/images/1c6da02f0610ec5e5e1814d52f0d433e.png" group-title="TV | GLOBO SUDESTE/SUL",Globo Vanguarda Taubaté HD
-http://milka99.xyz:80/182722677047/531272023349/73185
-#EXTINF:-1 tvg-id="" tvg-name="Globo Fronteira Paulista HD" tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQET0jvHHBOm8A/company-logo_200_200/0/1581625180085?e=2159024400&v=beta&t=ppTO1e15cez0sY5cGtRNP_s9OGzTxmWgRK0dSLmeb2U" group-title="TV | GLOBO SUDESTE/SUL",Globo Fronteira Paulista HD
-http://milka99.xyz:80/182722677047/531272023349/73152
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo TV Gazeta Vitoria HD" tvg-logo="http://go555.xyz:80/images/923001adffb798bf37341d69ca15c6b6.png" group-title="TV | GLOBO SUDESTE/SUL",Globo TV Gazeta Vitoria HD
-http://milka99.xyz:80/182722677047/531272023349/40395
-#EXTINF:-1 tvg-id="" tvg-name="Globo Integração Ituiutaba MG HD" tvg-logo="https://images2.imgbox.com/a7/c8/kRzTVekb_o.png" group-title="TV | GLOBO SUDESTE/SUL",Globo Integração Ituiutaba MG HD
-http://milka99.xyz:80/182722677047/531272023349/73158
-#EXTINF:-1 tvg-id="" tvg-name="Globo Integração Uberlândia HD" tvg-logo="https://images2.imgbox.com/a7/c8/kRzTVekb_o.png" group-title="TV | GLOBO SUDESTE/SUL",Globo Integração Uberlândia HD
-http://milka99.xyz:80/182722677047/531272023349/73161
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo Integração Araxa HD" tvg-logo="https://images2.imgbox.com/a7/c8/kRzTVekb_o.png" group-title="TV | GLOBO SUDESTE/SUL",Globo Integração Araxa HD
-http://milka99.xyz:80/182722677047/531272023349/28644
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo Integração Uberaba HD" tvg-logo="https://images2.imgbox.com/a7/c8/kRzTVekb_o.png" group-title="TV | GLOBO SUDESTE/SUL",Globo Integração Uberaba HD
-http://milka99.xyz:80/182722677047/531272023349/28645
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo Integracao Juiz de Fora" tvg-logo="https://images2.imgbox.com/a7/c8/kRzTVekb_o.png" group-title="TV | GLOBO SUDESTE/SUL",Globo Integracao Juiz de Fora
-http://milka99.xyz:80/182722677047/531272023349/28643
-#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Grande Minas HD" tvg-logo="https://portalanjo.weebly.com/uploads/2/6/0/2/2602857/hggggggggggggggggggg.png" group-title="TV | GLOBO SUDESTE/SUL",Globo Inter TV Grande Minas HD
-http://milka99.xyz:80/182722677047/531272023349/73098
-#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV dos Vales MG HD" tvg-logo="https://portalanjo.weebly.com/uploads/2/6/0/2/2602857/hggggggggggggggggggg.png" group-title="TV | GLOBO SUDESTE/SUL",Globo Inter TV dos Vales MG HD
-http://milka99.xyz:80/182722677047/531272023349/73293
-#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Alto Litoral RJ HD" tvg-logo="https://portalanjo.weebly.com/uploads/2/6/0/2/2602857/hggggggggggggggggggg.png" group-title="TV | GLOBO SUDESTE/SUL",Globo Inter TV Alto Litoral RJ HD
-http://milka99.xyz:80/182722677047/531272023349/73095
-#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Planície RJ HD" tvg-logo="http://go555.xyz:80/images/6a27ec00ca6df3a1aa67d82aa6913f93.png" group-title="TV | GLOBO SUDESTE/SUL",Globo Inter TV Planície RJ HD
-http://milka99.xyz:80/182722677047/531272023349/73101
-#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Serra Mar RJ HD" tvg-logo="http://go555.xyz:80/images/6a27ec00ca6df3a1aa67d82aa6913f93.png" group-title="TV | GLOBO SUDESTE/SUL",Globo Inter TV Serra Mar RJ HD
-http://milka99.xyz:80/182722677047/531272023349/73104
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rio Sul HD" tvg-logo="http://go555.xyz:80/images/bc2ae2bd42ce3e4b79e84de00b57421f.png" group-title="TV | GLOBO SUDESTE/SUL",Globo Rio Sul HD
-http://milka99.xyz:80/182722677047/531272023349/73164
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo RPC Curitiba HD¹" tvg-logo="http://go555.xyz:80/images/1539005c1e8b9faef490a5fa4451210d.png" group-title="TV | GLOBO SUDESTE/SUL",Globo RPC Curitiba HD¹
-http://milka99.xyz:80/182722677047/531272023349/39455
-#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Cascavel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png" group-title="TV | GLOBO SUDESTE/SUL",Globo RPC Cascavel HD
-http://milka99.xyz:80/182722677047/531272023349/73128
-#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Foz do Iguaçu HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png" group-title="TV | GLOBO SUDESTE/SUL",Globo RPC Foz do Iguaçu HD
-http://milka99.xyz:80/182722677047/531272023349/73134
-#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Guarapuava HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png" group-title="TV | GLOBO SUDESTE/SUL",Globo RPC Guarapuava HD
-http://milka99.xyz:80/182722677047/531272023349/73137
-#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Londrina HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png" group-title="TV | GLOBO SUDESTE/SUL",Globo RPC Londrina HD
-http://milka99.xyz:80/182722677047/531272023349/73140
-#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Maringá HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png" group-title="TV | GLOBO SUDESTE/SUL",Globo RPC Maringá HD
-http://milka99.xyz:80/182722677047/531272023349/73143
-#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Paranavaí HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png" group-title="TV | GLOBO SUDESTE/SUL",Globo RPC Paranavaí HD
-http://milka99.xyz:80/182722677047/531272023349/73146
-#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Ponta Grossa HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png" group-title="TV | GLOBO SUDESTE/SUL",Globo RPC Ponta Grossa HD
-http://milka99.xyz:80/182722677047/531272023349/73149
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo NSC Florianópolis HD¹" tvg-logo="http://go555.xyz:80/images/72925eaef57eff6f804fcddeb76eccfa.png" group-title="TV | GLOBO SUDESTE/SUL",Globo NSC Florianópolis HD¹
-http://milka99.xyz:80/182722677047/531272023349/28615
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo RBS Porto Alegre HD¹" tvg-logo="http://go555.xyz:80/images/ce3e9171a01169f8e26ec8cfcf80b6d0.png" group-title="TV | GLOBO SUDESTE/SUL",Globo RBS Porto Alegre HD¹
-http://milka99.xyz:80/182722677047/531272023349/33941
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS Caxias do Sul HD" tvg-logo="http://go555.xyz:80/images/ce3e9171a01169f8e26ec8cfcf80b6d0.png" group-title="TV | GLOBO SUDESTE/SUL",Globo RBS Caxias do Sul HD
-http://milka99.xyz:80/182722677047/531272023349/73107
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS Centro-Oeste HD" tvg-logo="https://images2.imgbox.com/ff/da/sw52wkR9_o.png" group-title="TV | GLOBO SUDESTE/SUL",Globo RBS Centro-Oeste HD
-http://milka99.xyz:80/182722677047/531272023349/73110
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS Chapecó HD" tvg-logo="https://images2.imgbox.com/ff/da/sw52wkR9_o.png" group-title="TV | GLOBO SUDESTE/SUL",Globo RBS Chapecó HD
-http://milka99.xyz:80/182722677047/531272023349/73113
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS Criciúma HD" tvg-logo="https://images2.imgbox.com/ff/da/sw52wkR9_o.png" group-title="TV | GLOBO SUDESTE/SUL",Globo RBS Criciúma HD
-http://milka99.xyz:80/182722677047/531272023349/73116
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS Joinville HD" tvg-logo="http://go555.xyz:80/images/ce3e9171a01169f8e26ec8cfcf80b6d0.png" group-title="TV | GLOBO SUDESTE/SUL",Globo RBS Joinville HD
-http://milka99.xyz:80/182722677047/531272023349/73122
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS Passo Fundo HD" tvg-logo="https://images2.imgbox.com/ff/da/sw52wkR9_o.png" group-title="TV | GLOBO SUDESTE/SUL",Globo RBS Passo Fundo HD
-http://milka99.xyz:80/182722677047/531272023349/73188
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS Santa Maria HD" tvg-logo="http://go555.xyz:80/images/ce3e9171a01169f8e26ec8cfcf80b6d0.png" group-title="TV | GLOBO SUDESTE/SUL",Globo RBS Santa Maria HD
-http://milka99.xyz:80/182722677047/531272023349/73191
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo Brasília HD¹" tvg-logo="http://go555.xyz:80/images/3a741b737c6b016e56ff0c1d24d76158.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo Brasília HD¹
-http://milka99.xyz:80/182722677047/531272023349/33942
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo Brasília SD¹" tvg-logo="http://go555.xyz:80/images/3a741b737c6b016e56ff0c1d24d76158.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo Brasília SD¹
-http://milka99.xyz:80/182722677047/531272023349/73083
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo TV Morena Campo Grande HD" tvg-logo="http://go555.xyz:80/images/63e447035900cf3c78738606fd7e0a29.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV Morena Campo Grande HD
-http://milka99.xyz:80/182722677047/531272023349/40452
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo TV Anhanguera Goiania HD¹" tvg-logo="http://go555.xyz:80/images/ff053f33cadf88021e76cb592d9b17ec.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV Anhanguera Goiania HD¹
-http://milka99.xyz:80/182722677047/531272023349/33939
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Anhanguera Goiânia HD" tvg-logo="http://go555.xyz:80/images/ff053f33cadf88021e76cb592d9b17ec.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV Anhanguera Goiânia HD
-http://milka99.xyz:80/182722677047/531272023349/73341
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo TV Centro-América Cuiabá HD¹" tvg-logo="http://go555.xyz:80/images/53d75c8bc7e93107363a6605e3c999e9.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV Centro-América Cuiabá HD¹
-http://milka99.xyz:80/182722677047/531272023349/73353
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo Verdes Mares Fortaleza HD¹" tvg-logo="http://go555.xyz:80/images/df783323ddb10ada959aae04abfc3966.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo Verdes Mares Fortaleza HD¹
-http://milka99.xyz:80/182722677047/531272023349/28659
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo Verdes Mares Fortaleza SD¹" tvg-logo="http://go555.xyz:80/images/df783323ddb10ada959aae04abfc3966.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo Verdes Mares Fortaleza SD¹
-http://milka99.xyz:80/182722677047/531272023349/72892
-#EXTINF:-1 tvg-id="" tvg-name="Globo Verdes Mares Cariri CE HD" tvg-logo="https://images2.imgbox.com/68/cf/l4FDLeXx_o.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo Verdes Mares Cariri CE HD
-http://milka99.xyz:80/182722677047/531272023349/73296
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo TV Bahia HD¹" tvg-logo="http://go555.xyz:80/images/9fbea013fce76b69178e97317ac0c6bd.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV Bahia HD¹
-http://milka99.xyz:80/182722677047/531272023349/28635
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Subaé BA HD" tvg-logo="http://go555.xyz:80/images/66a03bbbf2e164fdd11cc5d91230c00c.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV Subaé BA HD
-http://milka99.xyz:80/182722677047/531272023349/73305
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Sudoeste BA HD" tvg-logo="https://images2.imgbox.com/32/7a/whUPGj5v_o.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV Sudoeste BA HD
-http://milka99.xyz:80/182722677047/531272023349/73308
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Santa Cruz BA HD" tvg-logo="https://doity.com.br/media/doity/parceiros/31427_parceiro.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV Santa Cruz BA HD
-http://milka99.xyz:80/182722677047/531272023349/73311
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV São Francisco BA HD" tvg-logo="http://go555.xyz:80/images/cd992dc536e1971aaa35bcbf373dd06c.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV São Francisco BA HD
-http://milka99.xyz:80/182722677047/531272023349/73314
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Oeste BA HD" tvg-logo="http://go555.xyz:80/images/289d612a1d668a29428055c2944b5bf8.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV Oeste BA HD
-http://milka99.xyz:80/182722677047/531272023349/73338
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo TV Gazeta Alagoas HD" tvg-logo="http://go555.xyz:80/images/a1708212367d44c0627dc862a5b545de.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV Gazeta Alagoas HD
-http://milka99.xyz:80/182722677047/531272023349/57688
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo TV Sergipe HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-sergipe-hd_m.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV Sergipe HD
-http://milka99.xyz:80/182722677047/531272023349/28652
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Paraíba HD" tvg-logo="https://images2.imgbox.com/78/43/xFQlthWF_o.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV Paraíba HD
-http://milka99.xyz:80/182722677047/531272023349/73317
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo TV Cabo Branco PB HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-cabo-branco_m.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV Cabo Branco PB HD
-http://milka99.xyz:80/182722677047/531272023349/40374
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Asa Branca PE HD" tvg-logo="http://go555.xyz:80/images/420b1e403bbab7763e524767cf94acf2.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV Asa Branca PE HD
-http://milka99.xyz:80/182722677047/531272023349/73344
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Grande Rio PE HD" tvg-logo="https://images2.imgbox.com/e9/ca/II25a3MB_o.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV Grande Rio PE HD
-http://milka99.xyz:80/182722677047/531272023349/73389
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo Nordeste HD¹" tvg-logo="http://go555.xyz:80/images/3a741b737c6b016e56ff0c1d24d76158.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo Nordeste HD¹
-http://milka99.xyz:80/182722677047/531272023349/28611
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo Nordeste SD¹" tvg-logo="http://go555.xyz:80/images/3a741b737c6b016e56ff0c1d24d76158.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo Nordeste SD¹
-http://milka99.xyz:80/182722677047/531272023349/73381
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo Inter TV Cabugi Natal HD¹" tvg-logo="http://go555.xyz:80/images/6a27ec00ca6df3a1aa67d82aa6913f93.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo Inter TV Cabugi Natal HD¹
-http://milka99.xyz:80/182722677047/531272023349/28604
-#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Costa Branca RN HD³" tvg-logo="http://go555.xyz:80/images/6a27ec00ca6df3a1aa67d82aa6913f93.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo Inter TV Costa Branca RN HD³
-http://milka99.xyz:80/182722677047/531272023349/73386
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo TV Liberal Belém PA HD¹" tvg-logo="http://go555.xyz:80/images/112872f260f98c5b38e908c9be6aa47a.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV Liberal Belém PA HD¹
-http://milka99.xyz:80/182722677047/531272023349/39454
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo TV Mirante São Luís MA HD" tvg-logo="http://go555.xyz:80/images/4c1f7050f9a6db4ff15991ac61ccf6b8.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV Mirante São Luís MA HD
-http://milka99.xyz:80/182722677047/531272023349/28648
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante Balsas MA HD" tvg-logo="https://images2.imgbox.com/cc/dd/tO3LTugv_o.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV Mirante Balsas MA HD
-http://milka99.xyz:80/182722677047/531272023349/73323
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante Imperatriz MA HD" tvg-logo="https://images2.imgbox.com/cc/dd/tO3LTugv_o.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV Mirante Imperatriz MA HD
-http://milka99.xyz:80/182722677047/531272023349/73329
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante Cocais MA HD" tvg-logo="http://go555.xyz:80/images/4c1f7050f9a6db4ff15991ac61ccf6b8.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV Mirante Cocais MA HD
-http://milka99.xyz:80/182722677047/531272023349/73326
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Clube PI HD" tvg-logo="http://go555.xyz:80/images/0c9ea8f4be512d5fdab6678f40f77d56.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV Clube PI HD
-http://milka99.xyz:80/182722677047/531272023349/73356
-#EXTINF:-1 tvg-id="" tvg-name="Globo TV Alvorada do Sul PI HD" tvg-logo="http://go555.xyz:80/images/564e6d9841ea30cf370ca4b6c308ef3f.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo TV Alvorada do Sul PI HD
-http://milka99.xyz:80/182722677047/531272023349/73359
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Amazônica Manaus FHD" tvg-logo="https://i.postimg.cc/ZRjPvRmk/Rede-Amaz-nica-logo.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo Rede Amazônica Manaus FHD
-http://milka99.xyz:80/182722677047/531272023349/73364
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo Rede Amazônica Manaus HD¹" tvg-logo="http://go555.xyz:80/images/e5cb1df9a717545a25d7bcdda330be71.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo Rede Amazônica Manaus HD¹
-http://milka99.xyz:80/182722677047/531272023349/39456
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Amazônica Manaus SD¹" tvg-logo="http://go555.xyz:80/images/e5cb1df9a717545a25d7bcdda330be71.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo Rede Amazônica Manaus SD¹
-http://milka99.xyz:80/182722677047/531272023349/73365
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Amazônica Parintins AM HD" tvg-logo="https://i.postimg.cc/ZRjPvRmk/Rede-Amaz-nica-logo.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo Rede Amazônica Parintins AM HD
-http://milka99.xyz:80/182722677047/531272023349/73368
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Amazônica Macapá AP HD" tvg-logo="https://i.postimg.cc/ZRjPvRmk/Rede-Amaz-nica-logo.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo Rede Amazônica Macapá AP HD
-http://milka99.xyz:80/182722677047/531272023349/73362
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Amazônica Porto Velho RO HD" tvg-logo="https://i.postimg.cc/ZRjPvRmk/Rede-Amaz-nica-logo.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo Rede Amazônica Porto Velho RO HD
-http://milka99.xyz:80/182722677047/531272023349/73371
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Amazônica Boa Vista RR HD" tvg-logo="https://i.postimg.cc/ZRjPvRmk/Rede-Amaz-nica-logo.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo Rede Amazônica Boa Vista RR HD
-http://milka99.xyz:80/182722677047/531272023349/73374
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Amazônica Rio Branco AC HD" tvg-logo="https://i.postimg.cc/ZRjPvRmk/Rede-Amaz-nica-logo.png" group-title="TV | GLOBO NORTE/NE/CENTRO-OESTE",Globo Rede Amazônica Rio Branco AC HD
-http://milka99.xyz:80/182722677047/531272023349/73377
-#EXTINF:-1 tvg-id="Band.br" tvg-name="Band SP FHD" tvg-logo="http://go555.xyz:80/images/67fd95fc1e88f15b3efb9feef0fc0dc9.png" group-title="TV | ABERTOS",Band SP FHD
-http://milka99.xyz:80/182722677047/531272023349/73393
-#EXTINF:-1 tvg-id="Band.br" tvg-name="Band SP HD¹" tvg-logo="http://go555.xyz:80/images/67fd95fc1e88f15b3efb9feef0fc0dc9.png" group-title="TV | ABERTOS",Band SP HD¹
-http://milka99.xyz:80/182722677047/531272023349/39451
-#EXTINF:-1 tvg-id="SBT.br" tvg-name="Band SP SD¹" tvg-logo="http://go555.xyz:80/images/67fd95fc1e88f15b3efb9feef0fc0dc9.png" group-title="TV | ABERTOS",Band SP SD¹
-http://milka99.xyz:80/182722677047/531272023349/89641
-#EXTINF:-1 tvg-id="Band.br" tvg-name="Band Santos FHD¹" tvg-logo="http://printv.esy.es/server/Band.png" group-title="TV | ABERTOS",Band Santos FHD¹
-http://milka99.xyz:80/182722677047/531272023349/70576
-#EXTINF:-1 tvg-id="Band.br" tvg-name="Band Santos HD¹" tvg-logo="http://printv.esy.es/server/Band.png" group-title="TV | ABERTOS",Band Santos HD¹
-http://milka99.xyz:80/182722677047/531272023349/18315
-#EXTINF:-1 tvg-id="Band.br" tvg-name="Band Santos SD¹" tvg-logo="http://printv.esy.es/server/Band.png" group-title="TV | ABERTOS",Band Santos SD¹
-http://milka99.xyz:80/182722677047/531272023349/33854
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Band Campinas HD¹." tvg-logo="http://go555.xyz:80/images/67fd95fc1e88f15b3efb9feef0fc0dc9.png" group-title="TV | ABERTOS",Band Campinas HD¹.
-http://milka99.xyz:80/182722677047/531272023349/28480
-#EXTINF:-1 tvg-id="Band.br" tvg-name="Band Curitiba HD¹" tvg-logo="http://printv.esy.es/server/Band.png" group-title="TV | ABERTOS",Band Curitiba HD¹
-http://milka99.xyz:80/182722677047/531272023349/88654
-#EXTINF:-1 tvg-id="" tvg-name="Record SP FHD" tvg-logo="http://go555.xyz:80/images/07035f9ab36fdc8509c5bed85e545987.png" group-title="TV | ABERTOS",Record SP FHD
-http://milka99.xyz:80/182722677047/531272023349/73033
-#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="Record SP HD¹" tvg-logo="http://go555.xyz:80/images/07035f9ab36fdc8509c5bed85e545987.png" group-title="TV | ABERTOS",Record SP HD¹
-http://milka99.xyz:80/182722677047/531272023349/28742
-#EXTINF:-1 tvg-id="" tvg-name="Record SP HD" tvg-logo="http://go555.xyz:80/images/07035f9ab36fdc8509c5bed85e545987.png" group-title="TV | ABERTOS",Record SP HD
-http://milka99.xyz:80/182722677047/531272023349/73034
-#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="Record Santos FHD¹" tvg-logo="https://i.postimg.cc/PqrTDnGx/RECORD-TV.png" group-title="TV | ABERTOS",Record Santos FHD¹
-http://milka99.xyz:80/182722677047/531272023349/62981
-#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="Record Santos HD¹" tvg-logo="https://i.postimg.cc/PqrTDnGx/RECORD-TV.png" group-title="TV | ABERTOS",Record Santos HD¹
-http://milka99.xyz:80/182722677047/531272023349/53709
-#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="Record Santos SD¹" tvg-logo="https://i.postimg.cc/PqrTDnGx/RECORD-TV.png" group-title="TV | ABERTOS",Record Santos SD¹
-http://milka99.xyz:80/182722677047/531272023349/53710
-#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="Record Rio HD" tvg-logo="http://go555.xyz:80/images/07035f9ab36fdc8509c5bed85e545987.png" group-title="TV | ABERTOS",Record Rio HD
-http://milka99.xyz:80/182722677047/531272023349/28748
-#EXTINF:-1 tvg-id="" tvg-name="Record Minas HD" tvg-logo="http://go555.xyz:80/images/07035f9ab36fdc8509c5bed85e545987.png" group-title="TV | ABERTOS",Record Minas HD
-http://milka99.xyz:80/182722677047/531272023349/73040
-#EXTINF:-1 tvg-id="" tvg-name="Record Itapoan HD" tvg-logo="http://go555.xyz:80/images/07035f9ab36fdc8509c5bed85e545987.png" group-title="TV | ABERTOS",Record Itapoan HD
-http://milka99.xyz:80/182722677047/531272023349/73046
-#EXTINF:-1 tvg-id="" tvg-name="Record Brasilia HD" tvg-logo="https://i.postimg.cc/PqrTDnGx/RECORD-TV.png" group-title="TV | ABERTOS",Record Brasilia HD
-http://milka99.xyz:80/182722677047/531272023349/73049
-#EXTINF:-1 tvg-id="" tvg-name="Record Goias HD" tvg-logo="http://go555.xyz:80/images/07035f9ab36fdc8509c5bed85e545987.png" group-title="TV | ABERTOS",Record Goias HD
-http://milka99.xyz:80/182722677047/531272023349/73052
-#EXTINF:-1 tvg-id="" tvg-name="Record Belém HD" tvg-logo="https://i.postimg.cc/PqrTDnGx/RECORD-TV.png" group-title="TV | ABERTOS",Record Belém HD
-http://milka99.xyz:80/182722677047/531272023349/73055
-#EXTINF:-1 tvg-id="" tvg-name="Record Manaus HD" tvg-logo="https://i.postimg.cc/PqrTDnGx/RECORD-TV.png" group-title="TV | ABERTOS",Record Manaus HD
-http://milka99.xyz:80/182722677047/531272023349/73058
-#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="Record Curitiba HD¹" tvg-logo="https://i.postimg.cc/PqrTDnGx/RECORD-TV.png" group-title="TV | ABERTOS",Record Curitiba HD¹
-http://milka99.xyz:80/182722677047/531272023349/38607
-#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="Record RS" tvg-logo="http://go555.xyz:80/images/07035f9ab36fdc8509c5bed85e545987.png" group-title="TV | ABERTOS",Record RS
-http://milka99.xyz:80/182722677047/531272023349/62992
-#EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT SP FHD¹" tvg-logo="http://go555.xyz:80/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="TV | ABERTOS",SBT SP FHD¹
-http://milka99.xyz:80/182722677047/531272023349/28755
-#EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT SP HD¹" tvg-logo="http://go555.xyz:80/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="TV | ABERTOS",SBT SP HD¹
-http://milka99.xyz:80/182722677047/531272023349/39447
-#EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT SP SD¹" tvg-logo="http://go555.xyz:80/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="TV | ABERTOS",SBT SP SD¹
-http://milka99.xyz:80/182722677047/531272023349/89587
-#EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT Santos FHD¹" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="TV | ABERTOS",SBT Santos FHD¹
-http://milka99.xyz:80/182722677047/531272023349/70575
-#EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT Santos HD¹" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="TV | ABERTOS",SBT Santos HD¹
-http://milka99.xyz:80/182722677047/531272023349/18316
-#EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT Santos SD¹" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="TV | ABERTOS",SBT Santos SD¹
-http://milka99.xyz:80/182722677047/531272023349/30653
-#EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT Rede Massa PR HD¹" tvg-logo="http://go555.xyz:80/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="TV | ABERTOS",SBT Rede Massa PR HD¹
-http://milka99.xyz:80/182722677047/531272023349/19455
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV! HD¹" tvg-logo="http://go555.xyz:80/images/caf8f8a6082d14fe697e9b514a10a12b.png" group-title="TV | ABERTOS",RedeTV! HD¹
-http://milka99.xyz:80/182722677047/531272023349/6753
-#EXTINF:-1 tvg-id="Cultura.br" tvg-name="TV Cultura HD¹" tvg-logo="http://printv.esy.es/server/Cultura.png" group-title="TV | ABERTOS",TV Cultura HD¹
-http://milka99.xyz:80/182722677047/531272023349/6852
-#EXTINF:-1 tvg-id="" tvg-name="Agromais HD¹" tvg-logo="https://images2.imgbox.com/1a/a0/0oR1tuJY_o.png" group-title="TV | ABERTOS",Agromais HD¹
-http://milka99.xyz:80/182722677047/531272023349/39452
-#EXTINF:-1 tvg-id="AandE.br" tvg-name="Canal do Boi HD¹" tvg-logo="http://go555.xyz:80/images/21faf0908cddf985acacf6a9d7de71b0.png" group-title="TV | ABERTOS",Canal do Boi HD¹
-http://milka99.xyz:80/182722677047/531272023349/66631
-#EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva HD¹" tvg-logo="http://go555.xyz:80/images/c34e10be48d87815810be2ec381f968b.png" group-title="TV | ABERTOS",Terra Viva HD¹
-http://milka99.xyz:80/182722677047/531272023349/17811
-#EXTINF:-1 tvg-id="AandE.br" tvg-name="TV Brasil HD¹" tvg-logo="http://go555.xyz:80/images/76d41ddc92c81fc9cf77a4e2b2554d67.png" group-title="TV | ABERTOS",TV Brasil HD¹
-http://milka99.xyz:80/182722677047/531272023349/17792
-#EXTINF:-1 tvg-id="" tvg-name="TV Brasil 2¹" tvg-logo="https://images2.imgbox.com/84/fe/Bex4CEJW_o.png" group-title="TV | ABERTOS",TV Brasil 2¹
-http://milka99.xyz:80/182722677047/531272023349/64197
-#EXTINF:-1 tvg-id="" tvg-name="TV Camara SD¹" tvg-logo="https://images2.imgbox.com/fe/ea/I8nq42mq_o.png" group-title="TV | ABERTOS",TV Camara SD¹
-http://milka99.xyz:80/182722677047/531272023349/59978
-#EXTINF:-1 tvg-id="" tvg-name="TV Justiça¹" tvg-logo="http://go555.xyz:80/images/1eb3c47d44c410bb060c525641d7a6c8.png" group-title="TV | ABERTOS",TV Justiça¹
-http://milka99.xyz:80/182722677047/531272023349/64196
-#EXTINF:-1 tvg-id="" tvg-name="TV Senado¹" tvg-logo="https://images2.imgbox.com/b9/51/VNz1XFvo_o.png" group-title="TV | ABERTOS",TV Senado¹
-http://milka99.xyz:80/182722677047/531272023349/64198
-#EXTINF:-1 tvg-id="AandE.br" tvg-name="TV Gazeta¹" tvg-logo="http://go555.xyz:80/images/ab81a01d70dfed850894655b5903e732.png" group-title="TV | ABERTOS",TV Gazeta¹
-http://milka99.xyz:80/182722677047/531272023349/19476
+#EXTINF:-1 tvg-name="O Dia Depois da Eleição S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5LjUXSYANLC5f6X9qgvAjeEP2X.jpg" group-title="SÉRIES | BRASIL PARALELO",O Dia Depois da Eleição S01E05
+http://tv.com.vc:80/series/matheus19/matheus19/960196.mp4
+#EXTINF:-1 tvg-name="O Dia Depois da Eleição S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5LjUXSYANLC5f6X9qgvAjeEP2X.jpg" group-title="SÉRIES | BRASIL PARALELO",O Dia Depois da Eleição S01E04
+http://tv.com.vc:80/series/matheus19/matheus19/960195.mp4
+#EXTINF:-1 tvg-name="O Dia Depois da Eleição S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5LjUXSYANLC5f6X9qgvAjeEP2X.jpg" group-title="SÉRIES | BRASIL PARALELO",O Dia Depois da Eleição S01E03
+http://tv.com.vc:80/series/matheus19/matheus19/960194.mp4
+#EXTINF:-1 tvg-name="O Dia Depois da Eleição S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5LjUXSYANLC5f6X9qgvAjeEP2X.jpg" group-title="SÉRIES | BRASIL PARALELO",O Dia Depois da Eleição S01E02
+http://tv.com.vc:80/series/matheus19/matheus19/960193.mp4
+#EXTINF:-1 tvg-name="O Dia Depois da Eleição S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5LjUXSYANLC5f6X9qgvAjeEP2X.jpg" group-title="SÉRIES | BRASIL PARALELO",O Dia Depois da Eleição S01E01
+http://tv.com.vc:80/series/matheus19/matheus19/960192.mp4
+#EXTINF:-1 tvg-name="Congresso Brasil Paralelo S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5LjUXSYANLC5f6X9qgvAjeEP2X.jpg" group-title="SÉRIES | BRASIL PARALELO",Congresso Brasil Paralelo S01E06
+http://tv.com.vc:80/series/matheus19/matheus19/960191.mp4
+#EXTINF:-1 tvg-name="Congresso Brasil Paralelo S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5LjUXSYANLC5f6X9qgvAjeEP2X.jpg" group-title="SÉRIES | BRASIL PARALELO",Congresso Brasil Paralelo S01E05
+http://tv.com.vc:80/series/matheus19/matheus19/960190.mp4
+#EXTINF:-1 tvg-name="Congresso Brasil Paralelo S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5LjUXSYANLC5f6X9qgvAjeEP2X.jpg" group-title="SÉRIES | BRASIL PARALELO",Congresso Brasil Paralelo S01E04
+http://tv.com.vc:80/series/matheus19/matheus19/960189.mp4
+#EXTINF:-1 tvg-name="Congresso Brasil Paralelo S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5LjUXSYANLC5f6X9qgvAjeEP2X.jpg" group-title="SÉRIES | BRASIL PARALELO",Congresso Brasil Paralelo S01E03
+http://tv.com.vc:80/series/matheus19/matheus19/960188.mp4
+#EXTINF:-1 tvg-name="Congresso Brasil Paralelo S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5LjUXSYANLC5f6X9qgvAjeEP2X.jpg" group-title="SÉRIES | BRASIL PARALELO",Congresso Brasil Paralelo S01E02
+http://tv.com.vc:80/series/matheus19/matheus19/960187.mp4
+#EXTINF:-1 tvg-name="Congresso Brasil Paralelo S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5LjUXSYANLC5f6X9qgvAjeEP2X.jpg" group-title="SÉRIES | BRASIL PARALELO",Congresso Brasil Paralelo S01E01
+http://tv.com.vc:80/series/matheus19/matheus19/960186.mp4
+#EXTINF:-1 tvg-name="Os Donos da Verdade S01E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5LjUXSYANLC5f6X9qgvAjeEP2X.jpg" group-title="SÉRIES | BRASIL PARALELO",Os Donos da Verdade S01E12
+http://tv.com.vc:80/series/matheus19/matheus19/960185.mp4
+#EXTINF:-1 tvg-name="Os Donos da Verdade S01E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5LjUXSYANLC5f6X9qgvAjeEP2X.jpg" group-title="SÉRIES | BRASIL PARALELO",Os Donos da Verdade S01E11
+http://tv.com.vc:80/series/matheus19/matheus19/960184.mp4
+#EXTINF:-1 tvg-name="Os Donos da Verdade S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5LjUXSYANLC5f6X9qgvAjeEP2X.jpg" group-title="SÉRIES | BRASIL PARALELO",Os Donos da Verdade S01E10
+http://tv.com.vc:80/series/matheus19/matheus19/960183.mp4
+#EXTINF:-1 tvg-name="Os Donos da Verdade S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5LjUXSYANLC5f6X9qgvAjeEP2X.jpg" group-title="SÉRIES | BRASIL PARALELO",Os Donos da Verdade S01E09
+http://tv.com.vc:80/series/matheus19/matheus19/960182.mp4
+#EXTINF:-1 tvg-name="Os Donos da Verdade S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5LjUXSYANLC5f6X9qgvAjeEP2X.jpg" group-title="SÉRIES | BRASIL PARALELO",Os Donos da Verdade S01E08
+http://tv.com.vc:80/series/matheus19/matheus19/960181.mp4
+#EXTINF:-1 tvg-name="Os Donos da Verdade S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5LjUXSYANLC5f6X9qgvAjeEP2X.jpg" group-title="SÉRIES | BRASIL PARALELO",Os Donos da Verdade S01E07
+http://tv.com.vc:80/series/matheus19/matheus19/960180.mp4
+#EXTINF:-1 tvg-name="Os Donos da Verdade S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5LjUXSYANLC5f6X9qgvAjeEP2X.jpg" group-title="SÉRIES | BRASIL PARALELO",Os Donos da Verdade S01E06
+http://tv.com.vc:80/series/matheus19/matheus19/960179.mp4
+#EXTINF:-1 tvg-name="Os Donos da Verdade S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5LjUXSYANLC5f6X9qgvAjeEP2X.jpg" group-title="SÉRIES | BRASIL PARALELO",Os Donos da Verdade S01E05
+http://tv.com.vc:80/series/matheus19/matheus19/960178.mp4
+#EXTINF:-1 tvg-name="Os Donos da Verdade S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5LjUXSYANLC5f6X9qgvAjeEP2X.jpg" group-title="SÉRIES | BRASIL PARALELO",Os Donos da Verdade S01E04
+http://tv.com.vc:80/series/matheus19/matheus19/960177.mp4
+#EXTINF:-1 tvg-name="Os Donos da Verdade S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5LjUXSYANLC5f6X9qgvAjeEP2X.jpg" group-title="SÉRIES | BRASIL PARALELO",Os Donos da Verdade S01E03
+http://tv.com.vc:80/series/matheus19/matheus19/960176.mp4
+#EXTINF:-1 tvg-name="Os Donos da Verdade S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5LjUXSYANLC5f6X9qgvAjeEP2X.jpg" group-title="SÉRIES | BRASIL PARALELO",Os Donos da Verdade S01E02
+http://tv.com.vc:80/series/matheus19/matheus19/960175.mp4
+#EXTINF:-1 tvg-name="Os Donos da Verdade S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5LjUXSYANLC5f6X9qgvAjeEP2X.jpg" group-title="SÉRIES | BRASIL PARALELO",Os Donos da Verdade S01E01
+http://tv.com.vc:80/series/matheus19/matheus19/960174.mp4
+#EXTINF:-1 tvg-name="O Fim da Beleza S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5LjUXSYANLC5f6X9qgvAjeEP2X.jpg" group-title="SÉRIES | BRASIL PARALELO",O Fim da Beleza S01E03
+http://tv.com.vc:80/series/matheus19/matheus19/960173.mp4
+#EXTINF:-1 tvg-name="O Fim da Beleza S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5LjUXSYANLC5f6X9qgvAjeEP2X.jpg" group-title="SÉRIES | BRASIL PARALELO",O Fim da Beleza S01E02
+http://tv.com.vc:80/series/matheus19/matheus19/960172.mp4
+#EXTINF:-1 tvg-name="O Fim da Beleza S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5LjUXSYANLC5f6X9qgvAjeEP2X.jpg" group-title="SÉRIES | BRASIL PARALELO",O Fim da Beleza S01E01
+http://tv.com.vc:80/series/matheus19/matheus19/960171.mp4
+#EXTINF:-1 tvg-name="Guerra do Imaginário: A Jornada de Chesterton, Lewis e Tolkien S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5LjUXSYANLC5f6X9qgvAjeEP2X.jpg" group-title="SÉRIES | BRASIL PARALELO",Guerra do Imaginário: A Jornada de Chesterton, Lewis e Tolkien S01E03
+http://tv.com.vc:80/series/matheus19/matheus19/960170.mp4
+#EXTINF:-1 tvg-name="Guerra do Imaginário: A Jornada de Chesterton, Lewis e Tolkien S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5LjUXSYANLC5f6X9qgvAjeEP2X.jpg" group-title="SÉRIES | BRASIL PARALELO",Guerra do Imaginário: A Jornada de Chesterton, Lewis e Tolkien S01E02
+http://tv.com.vc:80/series/matheus19/matheus19/960169.mp4
+#EXTINF:-1 tvg-name="Guerra do Imaginário: A Jornada de Chesterton, Lewis e Tolkien S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5LjUXSYANLC5f6X9qgvAjeEP2X.jpg" group-title="SÉRIES | BRASIL PARALELO",Guerra do Imaginário: A Jornada de Chesterton, Lewis e Tolkien S01E01
+http://tv.com.vc:80/series/matheus19/matheus19/960168.mp4
+#EXTINF:-1 tvg-name="A Queda Argentina S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/snGue0mGq9WoLYni6UXwXuNegPh.jpg" group-title="SÉRIES | BRASIL PARALELO",A Queda Argentina S01E03
+http://tv.com.vc:80/series/matheus19/matheus19/959487.mp4
+#EXTINF:-1 tvg-name="A Queda Argentina S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEdleDpuabrhoeMsRZfVyXQWL1Z.jpg" group-title="SÉRIES | BRASIL PARALELO",A Queda Argentina S01E02
+http://tv.com.vc:80/series/matheus19/matheus19/959486.mp4
+#EXTINF:-1 tvg-name="A Queda Argentina S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",A Queda Argentina S01E01
+http://tv.com.vc:80/series/matheus19/matheus19/959485.mp4
+#EXTINF:-1 tvg-name="A Direita no Brasil S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",A Direita no Brasil S01E03
+http://tv.com.vc:80/series/matheus19/matheus19/959484.mp4
+#EXTINF:-1 tvg-name="A Direita no Brasil S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",A Direita no Brasil S01E02
+http://tv.com.vc:80/series/matheus19/matheus19/959483.mp4
+#EXTINF:-1 tvg-name="A Direita no Brasil S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",A Direita no Brasil S01E01
+http://tv.com.vc:80/series/matheus19/matheus19/959482.mp4
+#EXTINF:-1 tvg-name="A Queda Argentina S01E01" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | VARIADAS",A Queda Argentina S01E01
+http://tv.com.vc:80/series/matheus19/matheus19/959481.mp4
+#EXTINF:-1 tvg-name="Investigação Paralela S03E04" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",Investigação Paralela S03E04
+http://tv.com.vc:80/series/matheus19/matheus19/959480.mp4
+#EXTINF:-1 tvg-name="Investigação Paralela S01E03" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",Investigação Paralela S01E03
+http://tv.com.vc:80/series/matheus19/matheus19/959479.mp4
+#EXTINF:-1 tvg-name="Investigação Paralela S01E06" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",Investigação Paralela S01E06
+http://tv.com.vc:80/series/matheus19/matheus19/959478.mp4
+#EXTINF:-1 tvg-name="Investigação Paralela S03E03" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",Investigação Paralela S03E03
+http://tv.com.vc:80/series/matheus19/matheus19/959477.mp4
+#EXTINF:-1 tvg-name="Insight BP S01E10" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",Insight BP S01E10
+http://tv.com.vc:80/series/matheus19/matheus19/959476.mp4
+#EXTINF:-1 tvg-name="Investigação Paralela S01E10" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",Investigação Paralela S01E10
+http://tv.com.vc:80/series/matheus19/matheus19/959475.mp4
+#EXTINF:-1 tvg-name="Insight BP S01E07" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",Insight BP S01E07
+http://tv.com.vc:80/series/matheus19/matheus19/959474.mp4
+#EXTINF:-1 tvg-name="Investigação Paralela S01E01" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",Investigação Paralela S01E01
+http://tv.com.vc:80/series/matheus19/matheus19/959473.mp4
+#EXTINF:-1 tvg-name="Insight BP S02E06" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",Insight BP S02E06
+http://tv.com.vc:80/series/matheus19/matheus19/959472.mp4
+#EXTINF:-1 tvg-name="Investigação Paralela S01E09" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",Investigação Paralela S01E09
+http://tv.com.vc:80/series/matheus19/matheus19/959471.mp4
+#EXTINF:-1 tvg-name="Insight BP S02E03" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",Insight BP S02E03
+http://tv.com.vc:80/series/matheus19/matheus19/959470.mp4
+#EXTINF:-1 tvg-name="Insight BP S02E01" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",Insight BP S02E01
+http://tv.com.vc:80/series/matheus19/matheus19/959469.mp4
+#EXTINF:-1 tvg-name="Investigação Paralela S01E08" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",Investigação Paralela S01E08
+http://tv.com.vc:80/series/matheus19/matheus19/959468.mp4
+#EXTINF:-1 tvg-name="Insight BP S02E02" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",Insight BP S02E02
+http://tv.com.vc:80/series/matheus19/matheus19/959467.mp4
+#EXTINF:-1 tvg-name="Insight BP S01E02" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",Insight BP S01E02
+http://tv.com.vc:80/series/matheus19/matheus19/959466.mp4
+#EXTINF:-1 tvg-name="Investigação Paralela S01E07" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",Investigação Paralela S01E07
+http://tv.com.vc:80/series/matheus19/matheus19/959465.mp4
+#EXTINF:-1 tvg-name="Investigação Paralela S02E02" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",Investigação Paralela S02E02
+http://tv.com.vc:80/series/matheus19/matheus19/959464.mp4
+#EXTINF:-1 tvg-name="Insight BP S01E05" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",Insight BP S01E05
+http://tv.com.vc:80/series/matheus19/matheus19/959463.mp4
+#EXTINF:-1 tvg-name="Insight BP S01E01" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",Insight BP S01E01
+http://tv.com.vc:80/series/matheus19/matheus19/959462.mp4
+#EXTINF:-1 tvg-name="Investigação Paralela S03E01" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",Investigação Paralela S03E01
+http://tv.com.vc:80/series/matheus19/matheus19/959461.mp4
+#EXTINF:-1 tvg-name="Investigação Paralela S01E04" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",Investigação Paralela S01E04
+http://tv.com.vc:80/series/matheus19/matheus19/959460.mp4
+#EXTINF:-1 tvg-name="Insight BP S01E09" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",Insight BP S01E09
+http://tv.com.vc:80/series/matheus19/matheus19/959459.mp4
+#EXTINF:-1 tvg-name="Insight BP S02E05" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",Insight BP S02E05
+http://tv.com.vc:80/series/matheus19/matheus19/959458.mp4
+#EXTINF:-1 tvg-name="Investigação Paralela S01E05" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",Investigação Paralela S01E05
+http://tv.com.vc:80/series/matheus19/matheus19/959457.mp4
+#EXTINF:-1 tvg-name="Insight BP S01E06" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",Insight BP S01E06
+http://tv.com.vc:80/series/matheus19/matheus19/959456.mp4
+#EXTINF:-1 tvg-name="Investigação Paralela S02E03" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",Investigação Paralela S02E03
+http://tv.com.vc:80/series/matheus19/matheus19/959455.mp4
+#EXTINF:-1 tvg-name="Insight BP S01E08" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",Insight BP S01E08
+http://tv.com.vc:80/series/matheus19/matheus19/959454.mp4
+#EXTINF:-1 tvg-name="Investigação Paralela S02E07" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",Investigação Paralela S02E07
+http://tv.com.vc:80/series/matheus19/matheus19/959453.mp4
+#EXTINF:-1 tvg-name="Insight BP S02E04" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",Insight BP S02E04
+http://tv.com.vc:80/series/matheus19/matheus19/959452.mp4
+#EXTINF:-1 tvg-name="Investigação Paralela S02E05" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",Investigação Paralela S02E05
+http://tv.com.vc:80/series/matheus19/matheus19/959451.mp4
+#EXTINF:-1 tvg-name="Insight BP S01E03" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",Insight BP S01E03
+http://tv.com.vc:80/series/matheus19/matheus19/959450.mp4
+#EXTINF:-1 tvg-name="Investigação Paralela S02E01" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",Investigação Paralela S02E01
+http://tv.com.vc:80/series/matheus19/matheus19/959449.mp4
+#EXTINF:-1 tvg-name="Investigação Paralela S02E04" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",Investigação Paralela S02E04
+http://tv.com.vc:80/series/matheus19/matheus19/959448.mp4
+#EXTINF:-1 tvg-name="Insight BP S01E04" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",Insight BP S01E04
+http://tv.com.vc:80/series/matheus19/matheus19/959447.mp4
+#EXTINF:-1 tvg-name="Investigação Paralela S01E02" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",Investigação Paralela S01E02
+http://tv.com.vc:80/series/matheus19/matheus19/959446.mp4
+#EXTINF:-1 tvg-name="Investigação Paralela S02E08" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",Investigação Paralela S02E08
+http://tv.com.vc:80/series/matheus19/matheus19/959445.mp4
+#EXTINF:-1 tvg-name="Investigação Paralela S02E06" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",Investigação Paralela S02E06
+http://tv.com.vc:80/series/matheus19/matheus19/959444.mp4
+#EXTINF:-1 tvg-name="Insight BP S01E11" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",Insight BP S01E11
+http://tv.com.vc:80/series/matheus19/matheus19/959443.mp4
+#EXTINF:-1 tvg-name="Insight BP S02E08" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",Insight BP S02E08
+http://tv.com.vc:80/series/matheus19/matheus19/959442.mp4
+#EXTINF:-1 tvg-name="Investigação Paralela S03E02" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",Investigação Paralela S03E02
+http://tv.com.vc:80/series/matheus19/matheus19/959441.mp4
+#EXTINF:-1 tvg-name="Insight BP S02E07" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",Insight BP S02E07
+http://tv.com.vc:80/series/matheus19/matheus19/959440.mp4
+#EXTINF:-1 tvg-name="Fim Das Nações S01E02" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",Fim Das Nações S01E02
+http://tv.com.vc:80/series/matheus19/matheus19/959439.mp4
+#EXTINF:-1 tvg-name="Fim Das Nações S01E01" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",Fim Das Nações S01E01
+http://tv.com.vc:80/series/matheus19/matheus19/959438.mp4
+#EXTINF:-1 tvg-name="Fim Das Nações S01E03" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | BRASIL PARALELO",Fim Das Nações S01E03
+http://tv.com.vc:80/series/matheus19/matheus19/959437.mp4
+#EXTINF:-1 tvg-name="A Direita no Brasil S01E01" tvg-logo="https://image.tmdb.org/t/p/w1280/yD2xIeSmzuri1BllN8iQ0dtnGUM.jpg" group-title="SÉRIES | VARIADAS",A Direita no Brasil S01E01
+http://tv.com.vc:80/series/matheus19/matheus19/959436.mp4
+#EXTINF:-1 tvg-name="A Queda Argentina S01E02" tvg-logo="https://image.tmdb.org/t/p/w1280/zEdleDpuabrhoeMsRZfVyXQWL1Z.jpg" group-title="SÉRIES | VARIADAS",A Queda Argentina S01E02
+http://tv.com.vc:80/series/matheus19/matheus19/959435.mp4
+#EXTINF:-1 tvg-name="A Direita no Brasil S01E03" tvg-logo="https://image.tmdb.org/t/p/w1280/zEdleDpuabrhoeMsRZfVyXQWL1Z.jpg" group-title="SÉRIES | VARIADAS",A Direita no Brasil S01E03
+http://tv.com.vc:80/series/matheus19/matheus19/959434.mp4
+#EXTINF:-1 tvg-name="A Queda Argentina S01E03" tvg-logo="https://image.tmdb.org/t/p/w1280/snGue0mGq9WoLYni6UXwXuNegPh.jpg" group-title="SÉRIES | VARIADAS",A Queda Argentina S01E03
+http://tv.com.vc:80/series/matheus19/matheus19/959433.mp4
+#EXTINF:-1 tvg-name="A Direita no Brasil S01E02" tvg-logo="https://image.tmdb.org/t/p/w1280/snGue0mGq9WoLYni6UXwXuNegPh.jpg" group-title="SÉRIES | VARIADAS",A Direita no Brasil S01E02
