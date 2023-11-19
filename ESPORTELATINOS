@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:0,24H | (Des)encanto | FONTE 1
-#EXTGRP:CANAIS | 24H INFANTIS
-http://tv.com.vc:80/matheus19/matheus19/623641
-#EXTINF:0,24H | 3 PALAVRINHAS | FONTE 1
-#EXTGRP:CANAIS | 24H INFANTIS
-http://tv.com.vc:80/matheus19/matheus19/623642
-#EXTINF:0,24H | 3 PALAVRINHAS | FONTE 2
-#EXTGRP:CANAIS | 24H INFANTIS
-http://tv.com.vc:80/matheus19/matheus19/623643
-#EXTINF:0,24H | 3 PALAVRINHAS | FONTE 3
-#EXTGRP:CANAIS | 24H INFANTIS
-http://tv.com.vc:80/matheus19/matheus19/623644
 #EXTINF:0,24H | Aladdin | FONTE 1
 #EXTGRP:CANAIS | 24H INFANTIS
 http://tv.com.vc:80/matheus19/matheus19/623645
