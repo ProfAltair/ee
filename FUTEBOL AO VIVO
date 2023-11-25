@@ -14,31 +14,32 @@ https://bal02.vivartec.com.br:8088/hls/livechannel5.m3u8
 #EXTINF:0,FUTEBOL AO VIVO 5
 #EXTGRP:FUTEBOL DA HORA
 https://bal02.vivartec.com.br:8088/hls/livechannel1.m3u8
-#EXTINF:0, CANAL ESPN 4
+#EXTINF:0, CANAL ESPN 1 
 #EXTGRP:ESPN
-http://main.xplus2-main.xyz:2095/Tourobox3-JFNWp6qnha/w1E5HAC90a/143
+http://splaytv.club:80/toptv/LXlKOP6yYNA00/147542
 #EXTINF:0, CANAL ESPN 2
 #EXTGRP:ESPN 
-http://main.xplus2-main.xyz:2095/Tourobox3-JFNWp6qnha/w1E5HAC90a/135
+http://splaytv.club:80/toptv/LXlKOP6yYNA00/147546
 #EXTINF:0, CANAL PFC 1
 #EXTGRP: PFC 
-http://milka99.xyz:80/785378350818/865155367769/89355
+http://splaytv.club:80/toptv/LXlKOP6yYNA00/147633
 #EXTINF:0, CANAL PFC 2
 #EXTGRP: PFC 
-http://milka99.xyz:80/785378350818/865155367769/6765
+http://splaytv.club:80/toptv/LXlKOP6yYNA00/147635
 #EXTINF:0, CANAL PFC 3
 #EXTGRP: PFC
-http://main.xplus2-main.xyz:2095/Tourobox3-JFNWp6qnha/w1E5HAC90a/152
+http://splaytv.club:80/toptv/LXlKOP6yYNA00/147637
 #EXTINF:0, CANAL SPORT TV 1
 #EXTGRP:SPORT TV
-http://milka99.xyz:80/182722677047/531272023349/39445
+http://splaytv.club:80/toptv/LXlKOP6yYNA00/147688
 #EXTINF:0, CANAL SPORT TV 2
 #EXTGRP:SPORT TV
-http://milka99.xyz:80/182722677047/531272023349/28764
+http://splaytv.club:80/toptv/LXlKOP6yYNA00/147684
 #EXTINF:0, CANAL BAND SPORT
 #EXTGRP:SPORT EM GERAL
-http://milka99.xyz:80/182722677047/531272023349/6874
+http://splaytv.club:80/toptv/LXlKOP6yYNA00/83371
 #EXTINF:0, CANALFOX SPORT2
 #EXTGRP:SPORT EM GERAL
-http://milka99.xyz:80/182722677047/531272023349/6912
+http://splaytv.club:80/toptv/LXlKOP6yYNA00/83812
+
 
