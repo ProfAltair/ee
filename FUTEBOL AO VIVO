@@ -14,32 +14,3 @@ https://bal02.vivartec.com.br:8088/hls/livechannel5.m3u8
 #EXTINF:0,FUTEBOL AO VIVO 5
 #EXTGRP:FUTEBOL DA HORA
 https://bal02.vivartec.com.br:8088/hls/livechannel1.m3u8
-#EXTINF:0, CANAL ESPN 1 
-#EXTGRP:ESPN
-http://splaytv.club:80/toptv/LXlKOP6yYNA00/147542
-#EXTINF:0, CANAL ESPN 2
-#EXTGRP:ESPN 
-http://splaytv.club:80/toptv/LXlKOP6yYNA00/147546
-#EXTINF:0, CANAL PFC 1
-#EXTGRP: PFC 
-http://splaytv.club:80/toptv/LXlKOP6yYNA00/147633
-#EXTINF:0, CANAL PFC 2
-#EXTGRP: PFC 
-http://splaytv.club:80/toptv/LXlKOP6yYNA00/147635
-#EXTINF:0, CANAL PFC 3
-#EXTGRP: PFC
-http://splaytv.club:80/toptv/LXlKOP6yYNA00/147637
-#EXTINF:0, CANAL SPORT TV 1
-#EXTGRP:SPORT TV
-http://splaytv.club:80/toptv/LXlKOP6yYNA00/147688
-#EXTINF:0, CANAL SPORT TV 2
-#EXTGRP:SPORT TV
-http://splaytv.club:80/toptv/LXlKOP6yYNA00/147684
-#EXTINF:0, CANAL BAND SPORT
-#EXTGRP:SPORT EM GERAL
-http://splaytv.club:80/toptv/LXlKOP6yYNA00/83371
-#EXTINF:0, CANALFOX SPORT2
-#EXTGRP:SPORT EM GERAL
-http://splaytv.club:80/toptv/LXlKOP6yYNA00/83812
-
-
