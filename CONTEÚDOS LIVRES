@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:0,VIVA 80 FAST
+#EXTGRP:FAST
+https://ogcdn-live.video.globo.com/nu/f(bMax=3300000,bMin=2000)/nov80fast24ha/edge-cache-token=Expires=1704384359&KeyName=media-cdn-keyset-prod&IPRanges=MTkxLjI0Mi4yMzQuODcvMzI=&Signature=iewPheLcgn8MDC3qsP6zUbeMglSG4wI9OFpxGKn9MRANu-xI2Mhq6dycXNg-A6p0jpW-jNwajUDbV6z6K9MmBA==/nov80fast24ha-audio_por=96000-video=2263000.m3u8
+#EXTINF:0,VIVA 70 FAST
+#EXTGRP:FAST
+https://ogcdn-live.video.globo.com/nu/f(bMax=3300000,bMin=2000)/nov70fast24ha/edge-cache-token=Expires=1704384272&KeyName=media-cdn-keyset-prod&IPRanges=MTkxLjI0Mi4yMzQuODcvMzI=&Signature=rs8lYMyzk0Efb8YYTVM_69eq7jAycu0chD7Ns5Yo2QkdUD5MmihjU-MefcfKzL4KkW06JqIXrMvwvMnMIOqnCA==/nov70fast24ha-audio_por=96000-video=2263000.m3u8
 #EXTINF:0,MALHAÇÃO FAST
 #EXTGRP:FAST
 https://ogcdn-live.video.globo.com/nu/f(bMax=3300000,bMin=2000)/malhafast24ha/edge-cache-token=Expires=1704382640&KeyName=media-cdn-keyset-prod&IPRanges=MTkxLjI0Mi4yMzQuODcvMzI=&Signature=CC9pEFwHTcQGdNp9TIsyFHT_BQpR4gAV4EFY09ULNh3aq2Q8dqx7WFp3SLvGQrXrpoH3sOz4jEJaOTLGRh3xDA==/malhafast24ha-audio_por=96000-video=2263000.m3u8
