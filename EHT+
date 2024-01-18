@@ -2237,31 +2237,313 @@ http://uniplay.link:80/p2puni777/8zksAAJgKEYq/18259
 http://uniplay.link:80/p2puni777/8zksAAJgKEYq/18260
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 9" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",CINE SKY PLAY 9
 http://uniplay.link:80/p2puni777/8zksAAJgKEYq/18261
-#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A Fazenda 1 FHD" tvg-logo="https://sabetudo.net/wp-content/uploads/2010/09/Participar-Da-Fazenda-Cadastro.jpg" group-title="Canais | 	A Fazenda ",A Fazenda 1 FHD
-http://uniplay.link:80/p2puni777/8zksAAJgKEYq/278071
-#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A Fazenda  1 HD" tvg-logo="https://sabetudo.net/wp-content/uploads/2010/09/Participar-Da-Fazenda-Cadastro.jpg" group-title="Canais | 	A Fazenda ",A Fazenda  1 HD
-http://uniplay.link:80/p2puni777/8zksAAJgKEYq/278072
-#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A Fazenda 2 FHD" tvg-logo="https://sabetudo.net/wp-content/uploads/2010/09/Participar-Da-Fazenda-Cadastro.jpg" group-title="Canais | 	A Fazenda ",A Fazenda 2 FHD
-http://uniplay.link:80/p2puni777/8zksAAJgKEYq/278073
-#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A Fazenda 2 HD" tvg-logo="https://sabetudo.net/wp-content/uploads/2010/09/Participar-Da-Fazenda-Cadastro.jpg" group-title="Canais | 	A Fazenda ",A Fazenda 2 HD
-http://uniplay.link:80/p2puni777/8zksAAJgKEYq/278074
-#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A Fazenda 3 FHD" tvg-logo="https://sabetudo.net/wp-content/uploads/2010/09/Participar-Da-Fazenda-Cadastro.jpg" group-title="Canais | 	A Fazenda ",A Fazenda 3 FHD
-http://uniplay.link:80/p2puni777/8zksAAJgKEYq/278075
-#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A Fazenda  3 HD" tvg-logo="https://sabetudo.net/wp-content/uploads/2010/09/Participar-Da-Fazenda-Cadastro.jpg" group-title="Canais | 	A Fazenda ",A Fazenda  3 HD
-http://uniplay.link:80/p2puni777/8zksAAJgKEYq/278076
-#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A Fazenda 4 FHD" tvg-logo="https://sabetudo.net/wp-content/uploads/2010/09/Participar-Da-Fazenda-Cadastro.jpg" group-title="Canais | 	A Fazenda ",A Fazenda 4 FHD
-http://uniplay.link:80/p2puni777/8zksAAJgKEYq/278077
-#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A Fazenda 4  HD" tvg-logo="https://sabetudo.net/wp-content/uploads/2010/09/Participar-Da-Fazenda-Cadastro.jpg" group-title="Canais | 	A Fazenda ",A Fazenda 4  HD
-http://uniplay.link:80/p2puni777/8zksAAJgKEYq/278078
-#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A Fazenda 5 FHD" tvg-logo="https://sabetudo.net/wp-content/uploads/2010/09/Participar-Da-Fazenda-Cadastro.jpg" group-title="Canais | 	A Fazenda ",A Fazenda 5 FHD
-http://uniplay.link:80/p2puni777/8zksAAJgKEYq/278079
-#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A Fazenda 5 HD" tvg-logo="https://sabetudo.net/wp-content/uploads/2010/09/Participar-Da-Fazenda-Cadastro.jpg" group-title="Canais | 	A Fazenda ",A Fazenda 5 HD
-http://uniplay.link:80/p2puni777/8zksAAJgKEYq/278080
-#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A Fazenda 6 FHD" tvg-logo="https://sabetudo.net/wp-content/uploads/2010/09/Participar-Da-Fazenda-Cadastro.jpg" group-title="Canais | 	A Fazenda ",A Fazenda 6 FHD
-http://uniplay.link:80/p2puni777/8zksAAJgKEYq/278081
-#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A Fazenda  6 HD" tvg-logo="https://sabetudo.net/wp-content/uploads/2010/09/Participar-Da-Fazenda-Cadastro.jpg" group-title="Canais | 	A Fazenda ",A Fazenda  6 HD
-http://uniplay.link:80/p2puni777/8zksAAJgKEYq/278082
-#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A Fazenda 7 FHD" tvg-logo="https://sabetudo.net/wp-content/uploads/2010/09/Participar-Da-Fazenda-Cadastro.jpg" group-title="Canais | 	A Fazenda ",A Fazenda 7 FHD
-http://uniplay.link:80/p2puni777/8zksAAJgKEYq/278083
-#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="A Fazenda  8 FHD" tvg-logo="https://sabetudo.net/wp-content/uploads/2010/09/Participar-Da-Fazenda-Cadastro.jpg" group-title="Canais | 	A Fazenda ",A Fazenda  8 FHD
-http://uniplay.link:80/p2puni777/8zksAAJgKEYq/278084
+#EXTINF:0,BBB 24 MOSAICO | FONTE 1
+#EXTGRP:CANAIS | REALITY SHOW
+http://tv.com.vc:80/deivson/123/1009162
+#EXTINF:0,BBB 24 MOSAICO | FONTE 2
+#EXTGRP:CANAIS | REALITY SHOW
+http://tv.com.vc:80/deivson/123/1009163
+#EXTINF:0,BBB 24 MOSAICO | FONTE 3
+#EXTGRP:CANAIS | REALITY SHOW
+http://tv.com.vc:80/deivson/123/1009164
+#EXTINF:0,BBB 24 CÂMERA 01 | FONTE 1
+#EXTGRP:CANAIS | REALITY SHOW
+http://tv.com.vc:80/deivson/123/1009129
+#EXTINF:0,BBB 24 CÂMERA 01 | FONTE 2
+#EXTGRP:CANAIS | REALITY SHOW
+http://tv.com.vc:80/deivson/123/1009130
+#EXTINF:0,BBB 24 CÂMERA 01 | FONTE 3
+#EXTGRP:CANAIS | REALITY SHOW
+http://tv.com.vc:80/deivson/123/1009131
+#EXTINF:0,BBB 24 CÂMERA 02 | FONTE 1
+#EXTGRP:CANAIS | REALITY SHOW
+http://tv.com.vc:80/deivson/123/1009132
+#EXTINF:0,BBB 24 CÂMERA 02 | FONTE 2
+#EXTGRP:CANAIS | REALITY SHOW
+http://tv.com.vc:80/deivson/123/1009133
+#EXTINF:0,BBB 24 CÂMERA 02 | FONTE 3
+#EXTGRP:CANAIS | REALITY SHOW
+http://tv.com.vc:80/deivson/123/1009134
+#EXTINF:0,BBB 24 CÂMERA 03 | FONTE 1
+#EXTGRP:CANAIS | REALITY SHOW
+http://tv.com.vc:80/deivson/123/1009135
+#EXTINF:0,BBB 24 CÂMERA 03 | FONTE 2
+#EXTGRP:CANAIS | REALITY SHOW
+http://tv.com.vc:80/deivson/123/1009136
+#EXTINF:0,BBB 24 CÂMERA 03 | FONTE 3
+#EXTGRP:CANAIS | REALITY SHOW
+http://tv.com.vc:80/deivson/123/1009137
+#EXTINF:0,BBB 24 CÂMERA 04 | FONTE 1
+#EXTGRP:CANAIS | REALITY SHOW
+http://tv.com.vc:80/deivson/123/1009138
+#EXTINF:0,BBB 24 CÂMERA 04 | FONTE 2
+#EXTGRP:CANAIS | REALITY SHOW
+http://tv.com.vc:80/deivson/123/1009139
+#EXTINF:0,BBB 24 CÂMERA 04 | FONTE 3
+#EXTGRP:CANAIS | REALITY SHOW
+http://tv.com.vc:80/deivson/123/1009140
+#EXTINF:0,BBB 24 CÂMERA 05 | FONTE 1
+#EXTGRP:CANAIS | REALITY SHOW
+http://tv.com.vc:80/deivson/123/1009141
+#EXTINF:0,BBB 24 CÂMERA 05 | FONTE 2
+#EXTGRP:CANAIS | REALITY SHOW
+http://tv.com.vc:80/deivson/123/1009142
+#EXTINF:0,BBB 24 CÂMERA 05 | FONTE 3
+#EXTGRP:CANAIS | REALITY SHOW
+http://tv.com.vc:80/deivson/123/1009143
+#EXTINF:0,BBB 24 CÂMERA 06 | FONTE 1
+#EXTGRP:CANAIS | REALITY SHOW
+http://tv.com.vc:80/deivson/123/1009144
+#EXTINF:0,BBB 24 CÂMERA 06 | FONTE 2
+#EXTGRP:CANAIS | REALITY SHOW
+http://tv.com.vc:80/deivson/123/1009145
+#EXTINF:0,BBB 24 CÂMERA 06 | FONTE 3
+#EXTGRP:CANAIS | REALITY SHOW
+http://tv.com.vc:80/deivson/123/1009146
+#EXTINF:0,BBB 24 CÂMERA 07 | FONTE 1
+#EXTGRP:CANAIS | REALITY SHOW
+http://tv.com.vc:80/deivson/123/1009147
+#EXTINF:0,BBB 24 CÂMERA 07 | FONTE 2
+#EXTGRP:CANAIS | REALITY SHOW
+http://tv.com.vc:80/deivson/123/1009148
+#EXTINF:0,BBB 24 CÂMERA 07 | FONTE 3
+#EXTGRP:CANAIS | REALITY SHOW
+http://tv.com.vc:80/deivson/123/1009149
+#EXTINF:0,BBB 24 CÂMERA 08 | FONTE 1
+#EXTGRP:CANAIS | REALITY SHOW
+http://tv.com.vc:80/deivson/123/1009150
+#EXTINF:0,BBB 24 CÂMERA 08 | FONTE 2
+#EXTGRP:CANAIS | REALITY SHOW
+http://tv.com.vc:80/deivson/123/1009151
+#EXTINF:0,BBB 24 CÂMERA 08 | FONTE 3
+#EXTGRP:CANAIS | REALITY SHOW
+http://tv.com.vc:80/deivson/123/1009152
+#EXTINF:0,BBB 24 CÂMERA 09 | FONTE 1
+#EXTGRP:CANAIS | REALITY SHOW
+http://tv.com.vc:80/deivson/123/1009153
+#EXTINF:0,BBB 24 CÂMERA 09 | FONTE 2
+#EXTGRP:CANAIS | REALITY SHOW
+http://tv.com.vc:80/deivson/123/1009154
+#EXTINF:0,BBB 24 CÂMERA 09 | FONTE 3
+#EXTGRP:CANAIS | REALITY SHOW
+http://tv.com.vc:80/deivson/123/1009155
+#EXTINF:0,BBB 24 CÂMERA 10 | FONTE 1
+#EXTGRP:CANAIS | REALITY SHOW
+http://tv.com.vc:80/deivson/123/1009156
+#EXTINF:0,BBB 24 CÂMERA 10 | FONTE 2
+#EXTGRP:CANAIS | REALITY SHOW
+http://tv.com.vc:80/deivson/123/1009157
+#EXTINF:0,BBB 24 CÂMERA 10 | FONTE 3
+#EXTGRP:CANAIS | REALITY SHOW
+http://tv.com.vc:80/deivson/123/1009158
+#EXTINF:0,BBB 24 CÂMERA 11 | FONTE 1
+#EXTGRP:CANAIS | REALITY SHOW
+http://tv.com.vc:80/deivson/123/1009159
+#EXTINF:0,BBB 24 CÂMERA 11 | FONTE 2
+#EXTGRP:CANAIS | REALITY SHOW
+http://tv.com.vc:80/deivson/123/1009160
+#EXTINF:0,BBB 24 CÂMERA 11 | FONTE 3
+#EXTGRP:CANAIS | REALITY SHOW
+http://tv.com.vc:80/deivson/123/1009161
+
+#EXTINF:0,REDE BRASIL
+#EXTGRP:REDE BRASIL
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w1253525090.m3u8
+#EXTINF:0,TBO 2
+#EXTGRP:REDE BRASIL
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/chunklist_w1175667777.m3u8
+#EXTINF:0,RBTV
+#EXTGRP:REDE BRASIL
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w1226291443.m3u8
+#EXTINF:0,TV MARAJOARA
+#EXTGRP:REDE BRASIL
+https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/chunklist_w1522467854.m3u8
+#EXTINF:0,TBO
+#EXTGRP:REDE BRASIL
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/chunklist_w196689578.m3u8
+#EXTINF:0,Globo Rio 4K¹
+#EXTGRP:TV | GLOBO
+http://sv1.iptvcasa.online:80/danilo123/danilo123/1360909.ts
+#EXTINF:0,Globo Rio HD¹
+#EXTGRP:TV | GLOBO
+http://sv1.iptvcasa.online:80/danilo123/danilo123/1360912.ts
+#EXTINF:0,GLOBO RJ 4K
+#EXTGRP:TV | GLOBO
+https://cdn-1.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/mono.m3u8
+#EXTINF:0,GLOBO RJ HD
+#EXTGRP:TV | GLOBO
+http://sv1.iptvcasa.online:80/danilo123/danilo123/1360913.ts
+#EXTINF:0,GLOBO RJ 4K
+#EXTGRP:TV | GLOBO
+http://main.xplus2-main.xyz:2095/xplus-2-I2IasUuTYz/PMs0EjURdY/504
+#EXTINF:0,GLOBO RJ HD
+#EXTGRP:TV | GLOBO
+http://main.xplus2-main.xyz:2095/xplus-2-I2IasUuTYz/PMs0EjURdY/503
+#EXTINF:0,Globo Rio HD¹
+#EXTGRP:TV | GLOBO
+http://milka99.xyz:80/182722677047/531272023349/6926
+#EXTINF:0,GLOBO RJ GLOBOPLAY
+#EXTGRP:TV | GLOBO
+http://nxt.plus:8080/maria/maria/51461
+#EXTINF:0,TV Globo (Rio de Janeiro)
+#EXTGRP:TV | GLOBO
+http://m2online.tvpn.eu:80/fernandom2rec12f/123/431
+#EXTINF:0,RECORD NEWS
+#EXTGRP:TV | RECORD
+https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w345721195.m3u8
+#EXTINF:0,RECORD RJ HD
+#EXTGRP:TV | RECORD
+http://uniplay.link:80/p2puni777/8zksAAJgKEYq/244089
+#EXTINF:0,RECORD RJ INTERIOR FHD
+#EXTGRP:TV | RECORD
+http://uniplay.link:80/p2puni777/8zksAAJgKEYq/244096
+#EXTINF:0,RECORD RJ FHD
+#EXTGRP:TV | RECORD
+http://uniplay.link:80/p2puni777/8zksAAJgKEYq/244089
+#EXTINF:0,Record Rio HD
+#EXTGRP:TV | RECORD
+http://milka99.xyz:80/785378350818/865155367769/28748
+#EXTINF:0,RECORD RJ 4K
+#EXTGRP:TV | RECORD
+http://uniplay.link:80/p2puni777/8zksAAJgKEYq/244089
+#EXTINF:0,RECORD RJ HD
+#EXTGRP:TV | RECORD
+http://main.xplus2-main.xyz:2095/xplus-2-I2IasUuTYz/PMs0EjURdY/527
+#EXTINF:0,RECORD RJ 4K
+#EXTGRP:TV | RECORD
+http://uniplay.link:80/p2puni777/8zksAAJgKEYq/244089
+#EXTINF:0,RECORD RJ HD
+#EXTGRP:TV | RECORD
+http://main.xplus2-main.xyz:2095/Tourobox3-JFNWp6qnha/w1E5HAC90a/527
+#EXTINF:0,Record Rio HD
+#EXTGRP:TV | RECORD
+http://milka99.xyz:80/182722677047/531272023349/28748
+#EXTINF:0,RecordTV (Rio de Janeiro)
+#EXTGRP:TV | RECORD
+http://m2online.tvpn.eu:80/fernandom2rec12f/123/449
+#EXTINF:0,SBT RJ FHD
+#EXTGRP:SBT
+https://ythlsgo.onrender.com/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
+#EXTINF:0,SBT RIO HD
+#EXTGRP:SBT
+tps://livestream.zazerconer.workers.dev/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
+#EXTINF:0,SBT RIO YOU TUBE
+#EXTGRP:SBT
+https://livestream.zazerconer.workers.dev/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
+#EXTINF:0,SBT RJ² YOU TUBE
+#EXTGRP:SBT
+https://livestream.zazerconer.workers.dev/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
+#EXTINF:0,SBT RJ
+#EXTGRP:SBT
+https://livestream.zazerconer.workers.dev/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
+#EXTINF:0,SBT RJ FHD
+#EXTGRP:SBT
+http://uniplay.link:80/p2puni777/8zksAAJgKEYq/244173
+#EXTINF:0,SBT HDTV 2
+#EXTGRP:SBT
+http://main.xplus2-main.xyz:2095/xplus-2-I2IasUuTYz/PMs0EjURdY/537
+#EXTINF:0,SBT HDTV 
+#EXTGRP:SBT
+http://main.xplus2-main.xyz:2095/Tourobox3-JFNWp6qnha/w1E5HAC90a/537
+#EXTINF:0,SBT (RIO)
+#EXTGRP:SBT
+https://ythlsgo.onrender.com/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
+#EXTINF:0,SBT (São Paulo)
+#EXTGRP:SBT
+http://m2online.tvpn.eu:80/fernandom2rec12f/123/457
+#EXTINF:0,SBT SP HD¹
+#EXTGRP:SBT
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+#EXTINF:0,SBT SP SD¹
+#EXTGRP:SBT
+http://milka99.xyz:80/182722677047/531272023349/89587
+#EXTINF:0,Band SP HD¹
+#EXTGRP:TV |BAND
+http://milka99.xyz:80/785378350818/865155367769/39451
+#EXTINF:0,Band SP SD¹
+#EXTGRP:TV |BAND
+http://milka99.xyz:80/785378350818/865155367769/89641
+#EXTINF:0,BAND SP 4k
+#EXTGRP:TV |BAND
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w95579712.m3u8?WebM3UCL
+#EXTINF:0,BAND SP HD
+#EXTGRP:TV |BAND
+http://main.xplus2-main.xyz:2095/xplus-2-I2IasUuTYz/PMs0EjURdY/485
+#EXTINF:0,Band SP HD¹
+#EXTGRP:TV |BAND
+http://milka99.xyz:80/182722677047/531272023349/39451
+#EXTINF:0,Band SP SD¹
+#EXTGRP:TV |BAND
+http://milka99.xyz:80/182722677047/531272023349/89641
+#EXTINF:0,TV Band (São Paulo)
+#EXTGRP:TV |BAND
+http://m2online.tvpn.eu:80/fernandom2rec12f/123/452
+#EXTINF:0,REDE TV PR
+#EXTGRP:TV | ABERTOS
+https://tv02.zas.media:1936/redetvparana/redetvparana/chunklist_w898251760.m3u8
+#EXTINF:0,REDE TV TO
+#EXTGRP:TV | ABERTOS
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w68569837.m3u8
+#EXTINF:0,CNT
+#EXTGRP:TV | ABERTOS
+http://m2online.tvpn.eu:80/fernandom2rec12f/123/459
+#EXTINF:0,RedeTV! HD¹
+#EXTGRP:TV | ABERTOS
+https://cdn.live.br1.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
+#EXTINF:0,TV Cultura HD¹
+#EXTGRP:TV | ABERTOS
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1546136485.m3u8
+#EXTINF:0,Canal do Boi HD¹
+#EXTGRP:TV | ABERTOS
+http://milka99.xyz:80/785378350818/865155367769/66631
+#EXTINF:0,Terra Viva HD¹
+#EXTGRP:TV | ABERTOS
+http://milka99.xyz:80/785378350818/865155367769/17811
+#EXTINF:0,TV Brasil HD¹
+#EXTGRP:TV | ABERTOS
+https://tvbrasil-stream.ebc.com.br/mux_video_ts/index-1.m3u8
+#EXTINF:0,TV Brasil 2¹
+#EXTGRP:TV | ABERTOS
+http://milka99.xyz:80/785378350818/865155367769/64197
+#EXTINF:0,TV Camara SD¹
+#EXTGRP:TV | ABERTOS
+http://milka99.xyz:80/785378350818/865155367769/59978
+#EXTINF:0,TV Justiça¹
+#EXTGRP:TV | ABERTOS
+http://milka99.xyz:80/785378350818/865155367769/64196
+#EXTINF:0,TV Senado¹
+#EXTGRP:TV | ABERTOS
+http://milka99.xyz:80/785378350818/865155367769/64198
+#EXTINF:0,TV Gazeta¹
+#EXTGRP:TV | ABERTOS
+https://video02.logicahost.com.br/tvc21/tvc21/chunklist_w1843861829.m3u8
+#EXTINF:0,RECORD NDTV SC
+#EXTGRP:EXTRA
+https://caikron.com.br:19360/floripa/floripa.m3u8
+#EXTINF:0,SBT INTERIOR
+#EXTGRP:EXTRA
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+#EXTINF:0,BAND PR
+#EXTGRP:EXTRA
+https://cdn.jmvstream.com/w/LVW-8390/LVW8390_yxLZXwR4PU/chunklist.m3u8
+#EXTINF:0,TV PAMPA RS
+#EXTGRP:EXTRA
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w1991167124.m3u8
+#EXTINF:0,NGT
+#EXTGRP:EXTRA
+https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
+#EXTINF:0,TV POMBAL( TV BRASIL)
+#EXTGRP:EXTRA
+https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/chunklist_w1063106558.m3u8
+#EXTINF:0,TV BRASIL INTERNACIONAL
+#EXTGRP:EXTRA
+https://tvbrasil-stream.ebc.com.br/mux_video_ts/index-1.m3u8
+#EXTINF:0,TV KIDMAIS
+#EXTGRP:EXTRA
+https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist_w1736789192.m3u8
+#EXTINF:0,UNIVERSO KIDS
+#EXTGRP:EXTRA
+https://srv3.zcast.com.br/universo3/universo3/chunklist_w121237627.m3u8
+#EXTINF:0,SOPHIA TV
+#EXTGRP:EXTRA
+https://bild-und-ton.stream/sophiatv-pt/smil:sophia-tv-pt.smil/chunklist_w302977259_b350000_slpt.m3u8
