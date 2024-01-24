@@ -1,4 +1,82 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO BRASIL",Praia de Tramandaí
+https://vid1.streaming.websul.net.br/live/ods-tramandai.stream/chunklist_w1272354472.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO BRASIL",Passo de Torres
+https://vid1.streaming.websul.net.br/live/ods-torres.stream/chunklist_w1702403354.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO BRASIL",Praia de Imbe
+https://vid1.streaming.websul.net.br/live/ods-imb.stream/chunklist_w695745927.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO BRASIL",Ponte Internacional da Amizade
+https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO BRASIL",Praia de Cidreira - RS
+https://5a2b083e9f360.streamlock.net/plataforma2/plataforma2.stream/chunklist_w54259120.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO BRASIL",Goiania - Panoramica
+https://5a7d54e35f9d2.streamlock.net/aquariuscenter2/aquariuscenter2.stream/chunklist_w1757393621.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO BRASIL",Goiania - Av. Jamel Cecílio
+https://5a7d54e35f9d2.streamlock.net/flamboyant/flamboyant.stream/chunklist_w1712742205.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO BRASIL",Lago Negro - Gramado
+https://inst-wkqbj-srs-hd.camerite.services/s2/hls/1c4005b0-87bc-11e9-b90d-613126be2cbe/1c4005b0-87bc-11e9-b90d-613126be2cbe.m3u8?hls_ctx=mo4eq7g7
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO BRASIL",Guaratuba - Praia Central
+https://video02.logicahost.com.br/portaldacidade/guaratubarestaurantebrisadomar.stream/chunklist_w962753312.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO BRASIL",Goiania - Praça da Inspiração
+https://5a7d54e35f9d2.streamlock.net/flamboyant/flamboyant.stream/chunklist_w186174662.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO BRASIL",Goiania - Viaduto Av. T-63
+https://5a7d54e35f9d2.streamlock.net/aquariuscenter2/aquariuscenter2.stream/chunklist_w1012684452.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO BRASIL",Cascavel Panoramica
+https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO BRASIL",Foz Do Iguaçu - Panoramica
+https://5b33b873179a2.streamlock.net:1443/camerafozaduana/camerafozaduana.stream/chunklist_w728321801.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO BRASIL",Goiania - Av. Rio Verde
+https://hunq9fz8yk.zoeweb.tv/flamboyant/flamboyant.stream/chunklist_w900243510.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO BRASIL",Caldas Novas - Praça do Prive 2
+https://5a7d54e35f9d2.streamlock.net/flamboyant/flamboyant.stream/chunklist_w134953163.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO BRASIL",Umuarama - Av. Parana
+https://video02.logicahost.com.br/portaldacidade/umuarapostoitamaraty.stream/chunklist_w936622260.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO BRASIL",Cascavel - Centro
+https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO BRASIL",Umuarama - Praça Miguel Rossafa
+https://video02.logicahost.com.br/portaldacidade/umuarapostoitamaraty.stream/chunklist_w428670474.m3u8
+
+############################################################################ Canais | CAMERAS AO VIVO NO MUNDO
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO NO MUNDO",Cologne Bonn Airport - Apron Terminal 1 - Alemanha
+https://stream-5gw.1000eyes.de/cupertino/cgn4463E1.stream/chunklist_w894134611.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO NO MUNDO",Aquapark Tatralandia II - Eslovaquia
+https://stream.profi-net.sk/tmr/STREAM48.stream/chunklist_w684479581.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO NO MUNDO",Gino Paradise Besenova II - Eslovaquia
+https://stream.profi-net.sk/tmr/STREAM46.stream/chunklist_w719534533.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO NO MUNDO",Playa Hermosa Costa Rica
+https://cams.cdn-surfline.com/cdn-ec/cr-playahermosa/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO NO MUNDO",Hotel Carré Vieux Port - França
+https://streaming.novazion.com/HotelCarre/hotelcarre.stream/chunklist_w1496898522.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO NO MUNDO",	
+Paris - River Seine - França
+https://cdn-orange.quanteec.com/contents/encodings/live/c51d6b18-94cf-4476-3838-3330-6d61-63-ab88-8df2f1cd0327d/media_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO NO MUNDO",Cayman - Seven Mile Beach - Ilhas Caiman
+https://s108.ipcamlive.com/streams/6cuze8fp20mdpiv5t/stream.m3u8
+
 #EXTINF:-1,= Самообновляемый плейлист FreeWebCams of World SNIPTV =
 http://live-orsk.cdnvideo.ru/orsk/hithd/playlist.m3u8
 #EXTINF:-1,=== Наша группа в ВК (https://vk.com/clubslynet) ===
