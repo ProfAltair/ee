@@ -1,4 +1,9 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais |  CAMERAS AO VIVO BRASIL", Armação dos Búzios RJ
+https://streaming3.climaaovivo.com.br/armacaodosbuzios1.rj/tracks-v1/mono.m3u8?autoplay=true&remote=no_check_ip&token=98348dd7e7e1c7e9f5e1fbe8075ca624fadfe363-60aa5a287b04d012a07a117860f82587-1706220447-1706218647
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais |  CAMERAS AO VIVO BRASIL", Rio de Janeiro
+https://streaming3.climaaovivo.com.br/riodejaneiro4.rj/tracks-v1/mono.m3u8?autoplay=true&remote=no_check_ip&token=4001a8232849c78d657e5bd97eede17715d203c1-a93ca5e33ad3d708a48461de38b399c0-1706220934-1706219134
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais |  CAMERAS AO VIVO BRASIL", Copacabana RJ
 https://hd-auth.skylinewebcams.com/live.m3u8?a=5c8bv3mb2hdl09fnp8crlmhme7
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais |  CAMERAS AO VIVO BRASIL", Praia Grande SP
