@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais |  CAMERAS AO VIVO ", EARTH CAM TV
+https://livecdn-de-earthtv-com.global.ssl.fastly.net/edge2/cdnedge/HicYJzEAB5E/chunklist.m3u8?token=EAIY6wE46MClW0CgOEgF.CgdlYXJ0aHR2EAEyC0hpY1lKeTZBQjVBOgtIaWNZSnpFQUI1RQ.w5tJMXw1WhC9fl8nFVXHLLIh12g5hh3zo9uXeo8cPieDfYoaKfNjvhbWX9rSiTor5q5X9AyR5geTSKVc23C2qw&domain=www.earthtv.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais |  CAMERAS AO VIVO BRASIL", Campos do Jordão SP
 https://streaming3.climaaovivo.com.br/camposdojordao1.sp/tracks-v1/mono.m3u8?autoplay=true&remote=no_check_ip&token=6f55c844a92202d37d6d7515bfdc0fec83ff578f-0ffc51c7723dcbcb86371727a0ae0872-1706221224-1706219424
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais |  CAMERAS AO VIVO BRASIL", Armação dos Búzios RJ
