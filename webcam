@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais |  CAMERAS AO VIVO BRASIL", Copacabana RJ
+https://hd-auth.skylinewebcams.com/live.m3u8?a=5c8bv3mb2hdl09fnp8crlmhme7
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais |  CAMERAS AO VIVO BRASIL", Praia Grande SP
 https://hd-auth.skylinewebcams.com/live.m3u8?a=5c8bv3mb2hdl09fnp8crlmhme7
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais |  CAMERAS AO VIVO BRASIL", Balneário Camboriú Roda Gigante 
