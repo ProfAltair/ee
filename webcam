@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais |  CAMERAS AO VIVO BRASIL", Campos do Jordão SP
+https://streaming3.climaaovivo.com.br/camposdojordao1.sp/tracks-v1/mono.m3u8?autoplay=true&remote=no_check_ip&token=6f55c844a92202d37d6d7515bfdc0fec83ff578f-0ffc51c7723dcbcb86371727a0ae0872-1706221224-1706219424
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais |  CAMERAS AO VIVO BRASIL", Armação dos Búzios RJ
 https://streaming3.climaaovivo.com.br/armacaodosbuzios1.rj/tracks-v1/mono.m3u8?autoplay=true&remote=no_check_ip&token=98348dd7e7e1c7e9f5e1fbe8075ca624fadfe363-60aa5a287b04d012a07a117860f82587-1706220447-1706218647
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais |  CAMERAS AO VIVO BRASIL", Rio de Janeiro
