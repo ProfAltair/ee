@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais |  CAMERAS AO VIVO BRASIL", Praia Grande SP
+https://hd-auth.skylinewebcams.com/live.m3u8?a=5c8bv3mb2hdl09fnp8crlmhme7
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais |  CAMERAS AO VIVO BRASIL", Balneário Camboriú Roda Gigante 
 https://5a8d73edc0407.streamlock.net/bnuip200/bnuip20007.stream/chunklist_w192946386.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais |  CAMERAS AO VIVO BRASIL", Cabo Frio
