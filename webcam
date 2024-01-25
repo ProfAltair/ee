@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO RIO DE JANEIRO"
+https://streaming3.climaaovivo.com.br/cabofrio3.rj/tracks-v1/mono.m3u8?autoplay=true&remote=no_check_ip&token=6ebfc16ae4f119f5abfe0982efbddaad3e3c3be7-d9903d566d0d5e6e7bfb321081ea3517-1706218905-1706217105
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO BRASIL",Praia de Tramandaí
 https://vid1.streaming.websul.net.br/live/ods-tramandai.stream/chunklist_w1272354472.m3u8
 
