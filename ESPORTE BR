@@ -380,3 +380,29 @@ http://watchindia.net:8880/live/71740/31043/2421.ts
 http://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 tvg-id="foxsports1.us" tvg-name="SPORT TV" tvg-logo="https://watchindia.net/images/channels/usa/FS1.png" group-title="CANAIS EXTRAS", ESPN 3
 https://headlinessportsfoot.com/chunklist/hlsch6.m3u8
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="SPORT TV" tvg-logo="https://watchindia.net/images/channels/usa/FS1.png" group-title="CANAIS EXTRAS", SONY 2
+https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="SPORT TV" tvg-logo="https://watchindia.net/images/channels/usa/FS1.png" group-title="BEINSPORT", BEIN SPORT 1
+bein sport Mena 1
+https://at.live12.ir/hls2/beinsport1.m3u8
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="SPORT TV" tvg-logo="https://watchindia.net/images/channels/usa/FS1.png" group-title="BEINSPORT", BEIN SPORT 2
+bein sport Mena 2
+https://at.live12.ir/hls2/beinsport2.m3u8
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="SPORT TV" tvg-logo="https://watchindia.net/images/channels/usa/FS1.png" group-title="BEINSPORT", BEIN SPORT 3
+bein sport Mena 3
+https://at.live12.ir/hls2/beinsport3.m3u8
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="SPORT TV" tvg-logo="https://watchindia.net/images/channels/usa/FS1.png" group-title="BEINSPORT", BEIN SPORT 4
+bein sport Mena 4
+https://at.live12.ir/hls2/beinsport4.m3u8
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="SPORT TV" tvg-logo="https://watchindia.net/images/channels/usa/FS1.png" group-title="BEINSPORT", BEIN SPORT 5
+bein sport Mena 5
+https://at.live12.ir/hls2/beinsport5.m3u8
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="SPORT TV" tvg-logo="https://watchindia.net/images/channels/usa/FS1.png" group-title="BEINSPORT", BEIN SPORT 6
+bein sport Mena 6
+https://at.live12.ir/hls2/beinsport6.m3u8
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="SPORT TV" tvg-logo="https://watchindia.net/images/channels/usa/FS1.png" group-title="BEINSPORT", BEIN SPORT 1.1
+BEIN sports 1 
+https://edge1.laotv.la/live/Bsport1/index.m3u8
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="SPORT TV" tvg-logo="https://watchindia.net/images/channels/usa/FS1.png" group-title="BEINSPORT", BEIN SPORT 2.1
+BEIN sports 2
+https://edge1.laotv.la/live/Bsport2/index.m3u8
