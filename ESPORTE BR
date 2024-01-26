@@ -378,5 +378,5 @@ http://watchindia.net:8880/live/71740/31043/2423.ts
 http://watchindia.net:8880/live/71740/31043/2421.ts
 #EXTINF:-1 tvg-id="foxsports1.us" tvg-name="MATY" tvg-logo="https://watchindia.net/images/channels/usa/FS1.png" group-title="CANAIS EXTRAS",MATY
 http://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="SPORT TV" tvg-logo="https://watchindia.net/images/channels/usa/FS1.png" group-title="CANAIS EXTRAS", SPORT TV 
-http://15.204.217.195/SPORTTV2/index.m3u8
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="SPORT TV" tvg-logo="https://watchindia.net/images/channels/usa/FS1.png" group-title="CANAIS EXTRAS", ESPN 3
+https://headlinessportsfoot.com/chunklist/hlsch6.m3u8
