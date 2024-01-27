@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Soccer_ball_animated.svg" tvg-group="🇪🇸..DEPORTES",⚽️╭─➤ - treintones futebol 4.ᴴᴰ
+https://cloud2.streaminglivehd.com:1936/8010/8010/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest/scale-to-width-down/250?cb= 20201108180658" tvg-group="DEPORTES",⚽️.🇪🇸 Bein Sports xtra.ᴴᴰ
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+
 #EXTINF:-1 tvg-id="foxsports1.us" tvg-name="Fox Sports 1" tvg-logo="https://watchindia.net/images/channels/usa/FS1.png" group-title="Sports",Fox Sports 1
 http://watchindia.net:8880/live/71740/31043/2421.ts
 #EXTINF:-1 tvg-id="foxsports1.us" tvg-name="MATY" tvg-logo="https://watchindia.net/images/channels/usa/FS1.png" group-title="CANAIS EXTRAS",MATY
