@@ -2655,3 +2655,20 @@ https://cdn-1.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Discovery_Science_Channel_logo.svg" group-title="Brasil", Discovery Science.ᴴᴰ
 https://cdn-1.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
+#EXTINF:0,🎈.DiscoveryKids
+https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PAGO",🎈.CARTON NETWORK
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV PAGO",🎈.CARTON CARTOONITO
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Discovery_Kids_%282009%29.png" grupo- title="Canais: Infantil",🎈.Discovery Kids FreeLive
+https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Cartoon_Network_logo_%282004-2010%29.svg" group-title="Infantis BR",🎈.Carton Rede 1
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Cartoon_Network_logo_%282004-2010%29.svg" group-title="Infantis BR",🎈.Carton Rede 2
+https://playout.cdn.cartoonnetwork.com.br/playout_05/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.epgrupo.com.br/wp-content/uploads/2021/12/Cartoonito-Logo-02.png" group-title= "Desenho Animado",🎈.Cartoonito
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist-720p.m3u8
