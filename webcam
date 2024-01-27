@@ -1,54 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais |  CAMERAS AO VIVO ", EARTH CAM TV
-https://livecdn-de-earthtv-com.global.ssl.fastly.net/edge2/cdnedge/HicYJzEAB5E/chunklist.m3u8?token=EAIY6wE46MClW0CgOEgF.CgdlYXJ0aHR2EAEyC0hpY1lKeTZBQjVBOgtIaWNZSnpFQUI1RQ.w5tJMXw1WhC9fl8nFVXHLLIh12g5hh3zo9uXeo8cPieDfYoaKfNjvhbWX9rSiTor5q5X9AyR5geTSKVc23C2qw&domain=www.earthtv.com
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais |  CAMERAS AO VIVO BRASIL", Campos do Jordão SP
-https://streaming3.climaaovivo.com.br/camposdojordao1.sp/tracks-v1/mono.m3u8?autoplay=true&remote=no_check_ip&token=6f55c844a92202d37d6d7515bfdc0fec83ff578f-0ffc51c7723dcbcb86371727a0ae0872-1706221224-1706219424
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais |  CAMERAS AO VIVO BRASIL", Armação dos Búzios RJ
-https://streaming3.climaaovivo.com.br/armacaodosbuzios1.rj/tracks-v1/mono.m3u8?autoplay=true&remote=no_check_ip&token=98348dd7e7e1c7e9f5e1fbe8075ca624fadfe363-60aa5a287b04d012a07a117860f82587-1706220447-1706218647
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais |  CAMERAS AO VIVO BRASIL", Rio de Janeiro
-https://streaming3.climaaovivo.com.br/riodejaneiro4.rj/tracks-v1/mono.m3u8?autoplay=true&remote=no_check_ip&token=4001a8232849c78d657e5bd97eede17715d203c1-a93ca5e33ad3d708a48461de38b399c0-1706220934-1706219134
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais |  CAMERAS AO VIVO BRASIL", Copacabana RJ
-https://hd-auth.skylinewebcams.com/live.m3u8?a=5c8bv3mb2hdl09fnp8crlmhme7
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais |  CAMERAS AO VIVO BRASIL", Praia Grande SP
-https://hd-auth.skylinewebcams.com/live.m3u8?a=5c8bv3mb2hdl09fnp8crlmhme7
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais |  CAMERAS AO VIVO BRASIL", Balneário Camboriú Roda Gigante 
-https://5a8d73edc0407.streamlock.net/bnuip200/bnuip20007.stream/chunklist_w192946386.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO BRASIL",Praia de Tramandaí
-https://vid1.streaming.websul.net.br/live/ods-tramandai.stream/chunklist_w1272354472.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO BRASIL",Passo de Torres
-https://vid1.streaming.websul.net.br/live/ods-torres.stream/chunklist_w1702403354.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO BRASIL",Praia de Imbe
-https://vid1.streaming.websul.net.br/live/ods-imb.stream/chunklist_w695745927.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO BRASIL",Ponte Internacional da Amizade
-https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO BRASIL",Praia de Cidreira - RS
-https://5a2b083e9f360.streamlock.net/plataforma2/plataforma2.stream/chunklist_w54259120.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO BRASIL",Goiania - Panoramica
-https://5a7d54e35f9d2.streamlock.net/aquariuscenter2/aquariuscenter2.stream/chunklist_w1757393621.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO BRASIL",Goiania - Av. Jamel Cecílio
-https://5a7d54e35f9d2.streamlock.net/flamboyant/flamboyant.stream/chunklist_w1712742205.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO BRASIL",Lago Negro - Gramado
-https://inst-wkqbj-srs-hd.camerite.services/s2/hls/1c4005b0-87bc-11e9-b90d-613126be2cbe/1c4005b0-87bc-11e9-b90d-613126be2cbe.m3u8?hls_ctx=mo4eq7g7
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO BRASIL",Guaratuba - Praia Central
-https://video02.logicahost.com.br/portaldacidade/guaratubarestaurantebrisadomar.stream/chunklist_w962753312.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO BRASIL",Goiania - Praça da Inspiração
-https://5a7d54e35f9d2.streamlock.net/flamboyant/flamboyant.stream/chunklist_w186174662.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO BRASIL",Goiania - Viaduto Av. T-63
-https://5a7d54e35f9d2.streamlock.net/aquariuscenter2/aquariuscenter2.stream/chunklist_w1012684452.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO BRASIL",Cascavel Panoramica
-https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO BRASIL",Foz Do Iguaçu - Panoramica
-https://5b33b873179a2.streamlock.net:1443/camerafozaduana/camerafozaduana.stream/chunklist_w728321801.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO BRASIL",Goiania - Av. Rio Verde
-https://hunq9fz8yk.zoeweb.tv/flamboyant/flamboyant.stream/chunklist_w900243510.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO BRASIL",Caldas Novas - Praça do Prive 2
-https://5a7d54e35f9d2.streamlock.net/flamboyant/flamboyant.stream/chunklist_w134953163.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO BRASIL",Umuarama - Av. Parana
-https://video02.logicahost.com.br/portaldacidade/umuarapostoitamaraty.stream/chunklist_w936622260.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO BRASIL",Cascavel - Centro
-https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO BRASIL",Umuarama - Praça Miguel Rossafa
-https://video02.logicahost.com.br/portaldacidade/umuarapostoitamaraty.stream/chunklist_w428670474.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/wNcdjDx.png" group-title="4K", ANIMAL AFRICANO 4K
+https://ythlsgo.onrender.com/video/rkPCR6Ujtak.m3u8
+
 ############################################################################ Canais | CAMERAS AO VIVO NO MUNDO
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fhXeTZs.png" group-title="Canais | CAMERAS AO VIVO NO MUNDO",Cologne Bonn Airport - Apron Terminal 1 - Alemanha
