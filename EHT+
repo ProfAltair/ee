@@ -2544,6 +2544,152 @@ https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist_w1736789
 #EXTINF:0,UNIVERSO KIDS
 #EXTGRP:EXTRA
 https://srv3.zcast.com.br/universo3/universo3/chunklist_w121237627.m3u8
-#EXTINF:0,SOPHIA TV
-#EXTGRP:EXTRA
-https://bild-und-ton.stream/sophiatv-pt/smil:sophia-tv-pt.smil/chunklist_w302977259_b350000_slpt.m3u8
+#EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BANDNEWS" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" grupo- title="Canais | NOTÍCIAS",Band News SD
+https://cdn-1.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8?ManoTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg" group-title="Variedades",🎬 - CANAL TNT.ᴴᴰ
+https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://htforum.net/data/attachments/17/17888-ce1befddf95afe46cc1dbab4052f2129.jpg" group-title="Filmes",🎬 - SPACETV
+https://stmv1.srvif.com/2022/2022/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://htforum.net/data/attachments/17/17099-f1df3467e9cb7b382b92575a2cfb8b7c.jpg" group-title="Filmes",🎬 - HALLO MOVIES
+https://cdn-2.nxplay.com.br:443/HALLOMOVIES/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
+#EXTINF:-1 tvg-logo="https://htforum.net/data/attachments/17/17099-f1df3467e9cb7b382b92575a2cfb8b7c.jpg" group-title="Filmes",🎬 - SÉRIE HALLO
+https://cdn-1.nxplay.com.br/HALLOSERIES/tracks-v1a1/mono.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/design-de-logotipo-para-producao-de-filmes_71835-16.jpg" group-title="Filmes", 🎬 - HTO FILMES
+https://cdn-1.nxplay.com.br/HTO_Filmes/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/fa/Logotipo_da_TV_TEM_%282013%E2%80%932019%29.png",➾ Globo SP (TV TEM) .ᴴᴰ
+http://cdn-1.nxplay.com.br/TV_TEM_TK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rede-globo-logo-817F928B4F-seeklogo.com.png",➾ Globo SP (Link1).ᴴᴰ
+https://cdn-1.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Variedades",Band.ᴴᴰ
+https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Variedades",Band SP Interior.ᴴᴰ
+http://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/41/Logotipo_do_SBT.svg",SBT
+https://cdn-1.nxplay.com.br/SBT_HD_SIMBA/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rede-record-logo-BB6C025910-seeklogo.com.png" group-title="BRASIL", RECORD SP (HD)
+https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3YlJsCL.png"group-title="Jornalismo",BAND NEWS 3.ᴴᴰ
+https://cdn-1.nxplay.com.br/BAND_NEWS_TK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://hdtvone.tv/wp-content/uploads/2018/09/cropped-HTO.tv-LOGO-HEADER-e1535917877621-1.png" group-title="Filmes Br",🎬.HTO FILMES
+https://cdn-2.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://bravi.tv/wp-content/uploads/2016/12/europa-filmes.png" group-title="FILMES PT BR",🎬.EUROPA - FILMES (NACIONAIS )
+https://cdn-2.nxplay.com.br/europaplay/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_cinebrasil-tv_m.png" group-title="Filmes BR",🎬.Cine brasil TV.ᴴᴰ
+https://cdn-1.nxplay.com.br/Cinebrasil/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Lifetime_logo17.svg" group-title="Filmes BR",🎬.Lifetime.ᴴᴰ
+https://cdn-1.nxplay.com.br/LIFE_TIME_TK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/TLC_Logo.svg" group-title="Filmes BR",🎬.TLC.ᴴᴰ
+https://cdn-1.nxplay.com.br/TLC_BR_NX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://global-uploads.webflow.com/634477600992fd80cea07991/63470f023660a98df27981c0_A%26E.png"TV Pago",🎬.A&E 1 (Filmes..24H).ᴴᴰ
+http://cdn.connectbr.com.br/AE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Logo_AE_Germany.svg"TV Pago",🎬.A&E 2 (Filmes..24H).ᴴᴰ
+https://cdn-1.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
+#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1374.1569972429.png" group-title="⭐ Filmes BR",🎬.Sony Movies.ᴴᴰ
+https://cdn-1.nxplay.com.br/SONY_MOVIES/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="⭐ Filmes BR",🎬.Sony Channel.ᴴᴰ
+https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/TNT_2016_%28Teal%29.svg" group-title="⭐ Filmes BR",🎬. TNT (Link1).ᴴᴰ
+https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/03/Space-Logo.png" group-title="⭐ Filmes BR",🎬.Space ( Ligação 1)
+https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/22f46595-99fa-4e9f-8222-a2ed64891468/d768guf-e20122e5-cbde-477c-9476-94c37 2f967ae.png/ v1/fill/w_313,h_144/amc_logo_by_gamerwarrior2345_d768guf-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNh NWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ0IiwicGF0aCI6IlwvZlwvMjJmNDY1OTU tOTlmYS00ZTlmLTgyMjItYTJlZDY0ODkxNDY4XC9kNzY4Z3VmLWUyMDEyMmU1LWNiZGUtNDc3Yy05NDc2LTk0YzM3MmY5NjdhZS5wbmciLCJ3aWR0aCI6Ijw9MzEzIn1dXSwiYXVkIjpbInVybj pzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.kPBk_7l0W1x2x2BFA9T2Mh_NF0RG5kAieM4FEhVqlFM" group-title="⭐ Filmes BR",🎬.AMC.ᴴᴰ
+https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg.ovh/logo/AXN.png" group-title="⭐ Filmes BR",🎬.AXN.ᴴᴰ
+https://cdn-1.nxplay.com.br/AXN_TK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Food_Network_Logo.svg",🍔. FOOD_NETWORK.ᴴᴰ
+https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Primeboxbrazil.png" group-title="FILMES SÉRIES",Prime box (Brasil 2).ᴴᴰ
+http://cdn-1.nxplay.com.br/PRIME_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Moda" tvg-logo="https://company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="💎..Moda Moda",👕.FashionTV Brasil.ᴴᴰ
+http://cdn-1.nxplay.com.br/FASHION_HD/index.m3u8
+
+#EXTINF:-1,🎈.Discovery Kids (BR)
+https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
+
+#EXTINF:-1,🎈.ZooMoo Kids (link 2)
+https://cdn-1.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2HaiovZ.png" group-title="Canais - ANIMES & GEEK"",🎈.Hallo Anime HD
+https://cdn-1.nxplay.com.br/HALLOANIME/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" group-title="Brasil", Animal Planet (link1)
+https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/HGTV_US_Logo_2015.svg" group-title="Filmes BR",HGTV.ᴴᴰ
+https://cdn-1.nxplay.com.br/HGTV_BR_NX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.png?v=638133714690000000" group-title="Brasil", Discovery. ᴴᴰ
+https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Discovery_Turbo_logo.svg" group-title="Brasil", Discovery Turbo Link1.ᴴᴰ
+https://cdn-1.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/CanalDiscoveryIDLA.png" group-title="Brasil", Discovery id.ᴴᴰ
+https://cdn-1.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/World_Discovery_HD_logo.svg" group-title="Brasil", Discovery World.ᴴᴰ
+https://cdn-1.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png" group-title="Brasil", Discovery Home & Health.ᴴᴰ
+https://cdn-1.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/2015_Discovery_theater_HD_logo.svg" group-title="Brasil", Discovery Theatre.ᴴᴰ
+https://cdn-1.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Discovery_Science_Channel_logo.svg" group-title="Brasil", Discovery Science.ᴴᴰ
+https://cdn-1.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
+ 
+#EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BANDNEWS" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" grupo- title="Canais | NOTÍCIAS",Band News SD
+https://cdn-1.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8?ManoTV
+#EXTINF:-1 tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Realidade ao vivo 24h.. PlayPlus",TV Record.ᴴᴰ
+https://embedflix.net/canal/live.php?ch=5
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Reality ao vivo 24h.. PlayPlus",TV Record RJ.ᴴᴰ
+https://embedflix.net/canal/live.php?ch=1
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais - Aberto PlayPlus",Registro BH.ᴴᴰ
+https://embedflix.net/canal/live.php?ch=8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Realidade ao vivo 24h.. PlayPlus",TV Record MG.ᴴᴰ
+https://embedflix.net/canal/live.php?ch=2
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais - Aberto PlayPlus",Registro DF.ᴴᴰ
+https://embedflix.net/canal/live.php?ch=11
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais - Aberto PlayPlus",Record Bahia.ᴴᴰ
+https://embedflix.net/canal/live.php?ch=10
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Reality ao vivo 24h.. PlayPlus",,TV Record Bahia.ᴴᴰ*
+https://embedflix.net/canal/live.php?ch=4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais - Aberto PlayPlus",Grave RS.ᴴᴰ
+https://embedflix.net/canal/live.php?ch=9
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Realidade ao vivo 24h.. PlayPlus",TV Record RS.ᴴᴰ*
+https://embedflix.net/canal/live.php?ch=3
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais - Aberto PlayPlus",Record Goiás.ᴴᴰ
+https://embedflix.net/canal/live.php?ch=12
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais - Aberto PlayPlus",Record Bel.ᴴᴰ
+https://embedflix.net/canal/live.php?ch=13
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lyQ1v9M.png" group-title="Canais - Aberto PlayPlus",Record Manaus .ᴴᴰ
+https://embedflix.net/canal/live.php?ch=14
