@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:0, KIRIKU E A FEITICEIRA
+#EXTGRP: CONTEÚDOS SELECIONADADOS
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706573232/ei/UOm3ZYG5Mfi-obIPhIWdwAI/ip/191.242.234.67/id/43822e342c50fa0b/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr1---sn-wx2gv8xqvgcg-bpbe.googlevideo.com/mh/F7/mm/31%2C29/mn/sn-wx2gv8xqvgcg-bpbe%2Csn-gpv7knee/ms/au%2Crdu/mv/m/mvi/1/pl/24/hfr/1/demuxed/1/tts_caps/1/maudio/1/gcr/br/initcwndbps/960000/vprv/1/go/1/mt/1706551253/fvip/4/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cdemuxed%2Ctts_caps%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgPngEdIsUWEvLzR9jJ8d16m3LkulikK8YojjVkvgfkZACIG1j3QVmEsbfl8Gx3iD6lOl2Enp6w0vPn7zqL6KIms9k/lsparams/playback_host%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps/lsig/AAO5W4owRAIgQZ0ePrrEgbDVAlKvOD516mkhNe3jLarnv3BRQ7NL7qQCIBnijRKpgKrqPXgQ_AQNIy4KgVeI6wvmntSHjpvSBZaZ/file/index.m3u8
 #EXTINF:0,CONJUNTOS INTERVALOS E LÓGICA
 #EXTGRP:CURSO COMPLETO MATEMÁTICA
 https://ia601608.us.archive.org/32/items/matema-tica-aula-23-ciclo-trigonome-trico-e-arcos-co-ngruos/CURSO%20COMPLETO%20DE%20MATEM%C3%81TICA%2FMATEM%C3%81TICA%20-%20AULA%2001%20%E2%80%93%20L%C3%93GICA%2C%20CONJUNTOS%20E%20INTERVALOS.mp4
