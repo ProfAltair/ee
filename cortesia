@@ -1,4 +1,4 @@
-#EXTM3U size="Medium"
+#EXTM3U 
 #EXTINF:-1 type="stream" tvg-id="[24H] 3 Palavrinhas" tvg-logo="https://i.imgur.com/72lyNdI.png" group-title="24H | DESENHOS",[24H] 3 Palavrinhas
 http://cs21.xyz:80/live/2545965177/0589983587/2219842.m3u8
 #EXTINF:-1 type="stream" tvg-id="[24H] A Casa do Mickey Mouse" tvg-logo="https://i.imgur.com/g38NRFw.png" group-title="24H | DESENHOS",[24H] A Casa do Mickey Mouse
