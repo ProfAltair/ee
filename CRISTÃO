@@ -29,6 +29,9 @@ https://video01.soultv.com.br/feliz7play/feliz7play/playlist.m3u8
 #EXTINF:0,TV UNIMIDIA
 #EXTGRP:NOVOS CANAIS 
 https://tv02.zas.media:1936/unimidia/unimidia/chunklist_w1160626396.m3u8
+#EXTINF:0, TV CONFIEGO GOSPEL
+https://stmv1.voxtvhd.com.br/tvconfiegogospel/tvconfiegogospel/chunklist_w648225369.m3u8
+#EXTGRP:NOVOS CANAIS 
 #EXTINF:0,TV SUPER GOSPEL
 #EXTGRP:NOVOS CANAIS 
 https://srv3.zcast.com.br/7002/7002/chunklist_w1329571678.m3u8
@@ -83,12 +86,21 @@ https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/chunklist_w194012346
 #EXTINF:0,TV VIDAS TRANSFORMADAS
 #EXTGRP:NOVOS CANAIS 
 https://stmv1.srvstm.com/edvaldo7467/edvaldo7467/chunklist_w1929866789.m3u8
+#EXTINF:0, TV VIVAM
+#EXTGRP:NOVOS CANAIS 
+https://stmv1.liveplushd.com.br/tvvivam/tvvivam/chunklist_w1706069876.m3u8
+#EXTINF:0, TV FILADÉLFIA
+#EXTGRP:NOVOS CANAIS 
+https://stmv2.samcast.com.br/marcostimotheo5865/marcostimotheo5865/chunklist_w1244147616.m3u8
 #EXTINF:0,REDE GOSPEL BR
 #EXTGRP:NOVOS CANAIS 
 https://stmv1.srvif.com/redegospelbrasil/redegospelbrasil/chunklist_w1477617991.m3u8
 #EXTINF:0,TV PRECABURA
 #EXTGRP:NOVOS CANAIS 
 http://srv1.zcast.com.br/tvprecabura/tvprecabura/playlist-480p.m3u8
+#EXTINF:0,TV PROMESSAS
+#EXTGRP:NOVOS CANAIS 
+https://video01.kshost.com.br:4443/gente8322/gente8322/chunklist_w1771562012.m3u8
 #EXTINF:0,TV BOA NOVA
 #EXTGRP:NOVOS CANAIS 
 https://stmv.video.expressolider.com.br/tvboanova/tvboanova/chunklist_w774660889.m3u8
@@ -170,6 +182,9 @@ https://cloudflare.cdn.spalla.io/live/2b512662-a40f-46ef-b540-e8ee3f5bb1fb/s1/pl
 #EXTINF:0,TV TEMPLO
 #EXTGRP:EVANGÉLICOS
 https://664398c.ha.azioncdn.net/primary/tvtemplo_480p.sdp/chunklist_d72ec4d1-f1b7-4689-a58e-17ba017e1bd5.m3u8
+#EXTINF:0,TV CAPITAL
+#EXTGRP:EVANGÉLICOS
+https://stmv7.samcast.com.br/raimundoanselmolimamororo9090/raimundoanselmolimamororo9090/chunklist_w372296315.m3u8
 #EXTINF:0,TV UNIVERSAL
 #EXTGRP:EVANGÉLICOS
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_abfdb818-8624-428f-83ee-ec634babd8be.m3u8
@@ -302,6 +317,9 @@ http://189.14.239.62:1935/webtv/livestream1/chunklist_w280805006.m3u8
 #EXTINF:0,TV EDUCAR
 #EXTGRP:CATÓLICOS
 https://v1.comunicabh.com.br/tveducar/tveducar/playlist.m3u8?DVR
+#EXTINF:0,TVCI
+#EXTGRP:CATÓLICOS
+https://5e837408ea907.streamlock.net:1936/tvci/tvci/chunklist_w2017952617.m3u8
 #EXTINF:0,REDE VIDA
 #EXTGRP:CATÓLICOS
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/live-redevida/720p/chunks.m3u8
