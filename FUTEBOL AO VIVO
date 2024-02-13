@@ -1,23 +1,39 @@
 #EXTM3U
-#EXTINF:0, Brasil Visto de Cima
-Nordeste SC
-#EXTGRP:TV BRASIL PLAY
+#EXTINF:0,  CENTRO DO RIO
+#EXTGRP:Brasil Visto de Cima
+https://www.dailymotion.com/cdn/manifest/video/x7smf3l.m3u8?sec=T2ehPBLvPAfdYB7dm3MhzrHIgs-uUwndU5tZhzlSwnlm6xwfKYbUl9SQ6RUXOhTw&dmTs=654152&dmV1st=242268bd-6e72-41d9-95b1-a65fc3c89eaf
+#EXTINF:0, Campinas e Região
+#EXTGRP:Brasil Visto de Cima
+https://videos.ebc.com.br/geo/TVBR0579904018202030/hls/master.m3u8
+#EXTINF:0, Parque Estadual de Vila Velha
+#EXTGRP:Brasil Visto de Cima
+https://videos.ebc.com.br/geo/TVBR0579904009202030/hls/master.m3u8
+#EXTINF:0, Abrolhos
+#EXTGRP:Brasil Visto de Cima
+https://videos.ebc.com.br/geo/TVBR0579905014202030/hls/master.m3u8
+#EXTINF:0, Parque Nacional das Sempre-Vivas
+#EXTGRP:Brasil Visto de Cima
+https://videos.ebc.com.br/geo/TVBR0579905012202030/hls/master.m3u8
+#EXTINF:0, Diamantina
+#EXTGRP:Brasil Visto de Cima
+https://videos.ebc.com.br/geo/TVBR0579905011202030/hls/master.m3u8
+#EXTINF:0,Vale do Rio dos Sinos
+#EXTGRP:Brasil Visto de Cima
+https://videos.ebc.com.br/geo/TVBR0579905010202030/hls/master.m3u8
+#EXTINF:0, Nordeste SC
+#EXTGRP:Brasil Visto de Cima
 https://videos.ebc.com.br/geo/TVBR0579904017202030/hls/master.m3u8
-#EXTINF:0, Brasil Visto de Cima
-Litoral Norte de SC
-#EXTGRP:TV BRASIL PLAY
+#EXTINF:0, Litoral Norte de SC
+#EXTGRP:Brasil Visto de Cima
 https://videos.ebc.com.br/geo/TVBR0579904010202030/hls/master.m3u8
-#EXTINF:0, Brasil Visto de Cima
-Mantiqueira Paulista
-#EXTGRP:TV BRASIL PLAY
+#EXTINF:0, Mantiqueira Paulista
+#EXTGRP:Brasil Visto de Cima
 https://videos.ebc.com.br/geo/TVBR0579905009202030/hls/master.m3u8
-#EXTINF:0, Brasil Visto de Cima
-Sertões Gerais
-#EXTGRP:TV BRASIL PLAY
+#EXTINF:0, Sertões Gerais
+#EXTGRP:Brasil Visto de Cima
 https://videos.ebc.com.br/geo/TVBR0579905008202030/hls/master.m3u8
-#EXTINF:0, Brasil Visto de Cima
-Alto e Médio São Francisco
-#EXTGRP:TV BRASIL PLAY
+#EXTINF:0, Alto e Médio São Francisco
+#EXTGRP:Brasil Visto de Cima
 https://videos.ebc.com.br/geo/TVBR0579905007202030/hls/master.m3u8
 #EXTINF:0,CONJUNTOS INTERVALOS E LÓGICA
 #EXTGRP:CURSO COMPLETO MATEMÁTICA
