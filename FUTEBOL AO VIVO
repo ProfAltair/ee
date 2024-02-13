@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:0, Brasil Visto de Cima
+Alto e Médio São Francisco
+#EXTGRP:TV BRASIL PLAY
+https://videos.ebc.com.br/geo/TVBR0579905007202030/hls/master.m3u8
 #EXTINF:0,CONJUNTOS INTERVALOS E LÓGICA
 #EXTGRP:CURSO COMPLETO MATEMÁTICA
 https://ia601608.us.archive.org/32/items/matema-tica-aula-23-ciclo-trigonome-trico-e-arcos-co-ngruos/CURSO%20COMPLETO%20DE%20MATEM%C3%81TICA%2FMATEM%C3%81TICA%20-%20AULA%2001%20%E2%80%93%20L%C3%93GICA%2C%20CONJUNTOS%20E%20INTERVALOS.mp4
