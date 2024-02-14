@@ -1,40 +1,88 @@
 #EXTM3U
-#EXTINF:0,  NITERÓI E PRAIAS OCEÂNICAS - RJ
+#EXTINF:0, Porto Velho Rondônia
 #EXTGRP:Brasil Visto de Cima
-https://www.dailymotion.com/cdn/manifest/video/x7uq7id.m3u8?sec=Yd0OPQfaeu_lv5fD4J3TZtCU-8UEDYAZB9M4PYPe1qWcUiWVX7-mZYpm13546vE0&dmTs=654152&dmV1st=242268bd-6e72-41d9-95b1-a65fc3c89eaf
-#EXTINF:0,  NORTE DO PANTANAL -MS
+https://videos.ebc.com.br/geo/TVBR0579904035202030/hls/master.m3u8
+#EXTINF:0, Rio Branco AC
 #EXTGRP:Brasil Visto de Cima
-https://www.dailymotion.com/cdn/manifest/video/x7v4xie.m3u8?sec=9cHE_tn5rZ5L0E1DSg-l0xJzz1pgEzwDEF6w5OaBCtLCxev6ZFes-khLuwuBiMwK&dmTs=654152&dmV1st=242268bd-6e72-41d9-95b1-a65fc3c89eaf
-#EXTINF:0,  SALVADOR/BAHIA
+https://videos.ebc.com.br/geo/TVBR0579904034202030/hls/master.m3u8
+#EXTINF:0, Boa Vista Roraima
 #EXTGRP:Brasil Visto de Cima
-https://www.dailymotion.com/cdn/manifest/video/x7upo0d.m3u8?sec=5b7uUfi4haxUrIDXXsZAp-ng-NGl41H0tYs0r1ivj23xwCJ-1g5ydF_drnWnK590&dmTs=654152&dmV1st=242268bd-6e72-41d9-95b1-a65fc3c89eaf
-#EXTINF:0, Fernando De Noronha
+https://videos.ebc.com.br/geo/TVBR0579904033202030/hls/master.m3u8
+#EXTINF:0, Norte do Amazonas
 #EXTGRP:Brasil Visto de Cima
-https://www.dailymotion.com/cdn/manifest/video/x740q29.m3u8?sec=zQH868AjW7_zjGc6NCfsyUa2N4_vlVowVLcLcLn9Np0cZlSjtco-nG1txpfZf-1P&dmTs=654152&dmV1st=242268bd-6e72-41d9-95b1-a65fc3c89eaf
-#EXTINF:0, Curitiba e Florianópolis
+https://videos.ebc.com.br/geo/TVBR0579904032202030/hls/master.m3u8
+#EXTINF:0, Paritins PA
 #EXTGRP:Brasil Visto de Cima
-https://www.dailymotion.com/cdn/manifest/video/x75hj3h.m3u8?sec=7sEjuSi0OX0id9ORfNzohk0B0qG78bUbWTa1-TGS7pGZi2Xpcb25Us52CU1-o-yQ&dmTs=654152&dmV1st=242268bd-6e72-41d9-95b1-a65fc3c89eaf
-#EXTINF:0, Belo Horizonte (MG)
+https://videos.ebc.com.br/geo/TVBR0579904031202030/hls/master.m3u8
+#EXTINF:0, Manaus AM
 #EXTGRP:Brasil Visto de Cima
-https://www.dailymotion.com/cdn/manifest/video/x7cd3p6.m3u8?sec=rHT144SRESmHt0VryfONMB7iIeP36loKwJjYA9vLTTGlZztyYuWaBIcUlsJxUCtL&dmTs=654152&dmV1st=242268bd-6e72-41d9-95b1-a65fc3c89eaf
-#EXTINF:0, Vitória E Vila Velha
+https://videos.ebc.com.br/geo/TVBR0579904030202030/hls/master.m3u8
+#EXTINF:0, Ilha de Marajó
 #EXTGRP:Brasil Visto de Cima
-https://www.dailymotion.com/cdn/manifest/video/x7dyeu7.m3u8?sec=7ttTAiC_XD40M8eU4PzKD0F0GaTDrBea4l84oo39TRAIUM_2mRZccmaV0BzNLPzt&dmTs=654152&dmV1st=242268bd-6e72-41d9-95b1-a65fc3c89eaf
-#EXTINF:0, Parati Cidade Histórica
+https://videos.ebc.com.br/geo/TVBR0579904029202030/hls/master.m3u8
+#EXTINF:0, Macapá AP
 #EXTGRP:Brasil Visto de Cima
-https://www.dailymotion.com/cdn/manifest/video/x830kmj.m3u8?sec=V0D20SfXU6PNaR-64yXRIpqGQIAUJWz3CPqDo66cc8RQyhy8Vmv43J2pCiM54MI0&dmTs=654152&dmV1st=242268bd-6e72-41d9-95b1-a65fc3c89eaf
-#EXTINF:0, Veneza Brasileira – Recife
+https://videos.ebc.com.br/geo/TVBR0579904028202030/hls/master.m3u8
+#EXTINF:0, Barbacena MG
 #EXTGRP:Brasil Visto de Cima
-https://www.dailymotion.com/cdn/manifest/video/x79r10t.m3u8?sec=e1aisE7V-sJ2L6CkuNZkAZDx18TddbJ8dz69JQXwtsiTNsx5eowGNttNRvERv8xv&dmTs=654152&dmV1st=242268bd-6e72-41d9-95b1-a65fc3c89eaf
-#EXTINF:0,  São Paulo
+https://videos.ebc.com.br/geo/TVBR0579904027202030/hls/master.m3u8
+#EXTINF:0, Juiz de Fora MG
 #EXTGRP:Brasil Visto de Cima
-https://www.dailymotion.com/cdn/manifest/video/x7cyf48.m3u8?sec=eim7ZlGzzOrZyzo6JGyg2tVPyatJ3bYcADpOMuP6gsl86aAqsNBsLI8N3uN9bA3w&dmTs=654152&dmV1st=242268bd-6e72-41d9-95b1-a65fc3c89eaf
-#EXTINF:0, Brasília
+https://videos.ebc.com.br/geo/TVBR0579904026202030/hls/master.m3u8
+#EXTINF:0, Serra da Bocaína SP
 #EXTGRP:Brasil Visto de Cima
-https://www.dailymotion.com/cdn/manifest/video/x7ud4sv.m3u8?sec=X-yUHHQ62k2YOpMFbFyJlrcb1xPOq58uuKPXdJm3mcyIbv90IMcXRpJpXVqIH4s9&dmTs=654152&dmV1st=242268bd-6e72-41d9-95b1-a65fc3c89eaf
-#EXTINF:0,  CENTRO DO RIO
+https://videos.ebc.com.br/geo/TVBR0579904025202030/hls/master.m3u8
+#EXTINF:0, Vale do Paraíba SP
 #EXTGRP:Brasil Visto de Cima
-https://www.dailymotion.com/cdn/manifest/video/x7smf3l.m3u8?sec=T2ehPBLvPAfdYB7dm3MhzrHIgs-uUwndU5tZhzlSwnlm6xwfKYbUl9SQ6RUXOhTw&dmTs=654152&dmV1st=242268bd-6e72-41d9-95b1-a65fc3c89eaf
+https://videos.ebc.com.br/geo/TVBR0579904024202030/hls/master.m3u8
+#EXTINF:0, São José dos Sampos SP
+#EXTGRP:Brasil Visto de Cima
+https://videos.ebc.com.br/geo/TVBR0579904023202030/hls/master.m3u8
+#EXTINF:0, Piracicaba e Região SP
+#EXTGRP:Brasil Visto de Cima
+https://videos.ebc.com.br/geo/TVBR0579904022202030/hls/master.m3u8
+#EXTINF:0, São Carlos e Região SP
+#EXTGRP:Brasil Visto de Cima
+https://videos.ebc.com.br/geo/TVBR0579904021202030/hls/master.m3u8
+#EXTINF:0, Bauru SP
+#EXTGRP:Brasil Visto de Cima
+https://videos.ebc.com.br/geo/TVBR0579904020202030/hls/master.m3u8
+#EXTINF:0, Serra Catarinense
+#EXTGRP:Brasil Visto de Cima
+https://videos.ebc.com.br/geo/TVBR0579904008202030/hls/master.m3u8
+#EXTINF:0, Parque Estadual do Guartelá
+#EXTGRP:Brasil Visto de Cima
+https://videos.ebc.com.br/geo/TVBR0579904007202030/hls/master.m3u8
+#EXTINF:0, Sudoeste do RS
+#EXTGRP:Brasil Visto de Cima
+https://videos.ebc.com.br/geo/TVBR0579904006202030/hls/master.m3u8
+#EXTINF:0, Interior do RS
+#EXTGRP:Brasil Visto de Cima
+https://videos.ebc.com.br/geo/TVBR0579904005202030/hls/master.m3u8
+#EXTINF:0, Pequena Itália
+#EXTGRP:Brasil Visto de Cima
+https://videos.ebc.com.br/geo/TVBR0579904001202030/hls/master.m3u8
+#EXTINF:0, Pequena Alemanha
+#EXTGRP:Brasil Visto de Cima
+https://videos.ebc.com.br/geo/TVBR0579904016202030/hls/master.m3u8
+#EXTINF:0, Litoral do Norte do RS
+#EXTGRP:Brasil Visto de Cima
+https://videos.ebc.com.br/geo/TVBR0579904015202030/hls/master.m3u8
+#EXTINF:0, Londrina e Região
+#EXTGRP:Brasil Visto de Cima
+https://videos.ebc.com.br/geo/TVBR0579904014202030/hls/master.m3u8
+#EXTINF:0, Pontal do Paranapanema
+#EXTGRP:Brasil Visto de Cima
+https://videos.ebc.com.br/geo/TVBR0579904013202030/hls/master.m3u8
+#EXTINF:0, Fronteira com a Argentina
+#EXTGRP:Brasil Visto de Cima
+https://videos.ebc.com.br/geo/TVBR0579904012202030/hls/master.m3u8
+#EXTINF:0, Sul de Minas
+#EXTGRP:Brasil Visto de Cima
+https://videos.ebc.com.br/geo/TVBR0579905017202030/hls/master.m3u8
+#EXTINF:0, Serro
+#EXTGRP:Brasil Visto de Cima
+https://videos.ebc.com.br/geo/TVBR0579905013202030/hls/master.m3u8
 #EXTINF:0, Campinas e Região
 #EXTGRP:Brasil Visto de Cima
 https://videos.ebc.com.br/geo/TVBR0579904018202030/hls/master.m3u8
