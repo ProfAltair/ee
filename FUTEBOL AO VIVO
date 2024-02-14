@@ -1,4 +1,19 @@
 #EXTM3U
+#EXTINF:0, Pequena África RJ
+#EXTGRP: Meu pedaço do Brasil
+https://videos.ebc.com.br/play/TVBR0580804002202410/hls/master.m3u8
+#EXTINF:0, Madureira RJ
+#EXTGRP: Meu pedaço do Brasil
+https://videos.ebc.com.br/play/TVBR0580804001202410/hls/master.m3u8
+#EXTINF:0,Teresópolis RJ
+#EXTGRP: Meu pedaço do Brasil
+https://edge-mg-02.eduplay.rnp.br/media/ocp(r(8GedKg)t(F7Pcc9BIVKA)p(d(DxE)k(r5Y)m(bqhBz8sQytvpisIeOMrONQ)n(a(X5etNz6AxPM3GtOJ6kXXGNhocxY)s(X8g)'a(0ZnhBSR9sk9_dO9XKfjyc0Nr)s(7mY)'a(WvXjExcMh4zCK7nFt_DUfm6s)s(ywg)))s(t(B1I)b(HTcOOTWRw82CeF4hotWlxNQbRcrwxWIjYfkFJU4cUc4Kj_Hnjg8tfBlDVA_6yCZterPhT71NcaZgzC9sRiD3SKfT-kURdbxQewut2PKLIS5v_IOatXl2zk8VoLxShG90QN8n-8SmVpRr26io1vnMfjfh7AWVcJ6gkI9F79Bq5mmo)'t(JeQ)b(uKnh7t62grsT0jFWnQNFOJVtd--vDqEBWxfoZh9WEa_lKlfCnDcT2AHZsQ)))
+#EXTINF:0, Niterói RJ
+#EXTGRP: Meu pedaço do Brasil
+https://edge-mg-02.eduplay.rnp.br/media/ocp(r(8GedKg)t(F7PcSAU5Huo)p(d(DxE)k(r5Y)m(YcLTNjL_gHD8gxPP-oSnYA)n(a(e0oKYmrtiC2C2mkB1jkoIbdg_Bk)s(eMM)'a(-m2MqPYZJYrS4-ckULN9C5Y7)s(u1A)'a(Cra1yCCTV9k7VU6QA2CINXjp)s(wco)))s(t(RzY)b(Pbb7d26qSm_8Q3INN9bUYxImCU0T6nQLXPwCzJ7ax-0KJml5iEHVwh4hDWTTGbjJkNdR1q8KkbGviaInj6HczDUfFEeaahzStgs7_USzctsNEPHs0c-AvGB8NrodkVQMjy0TNz8D5AV4YjNG6yWhZMaPuEN_VryscczjZjseI1j0)'t(Jv4)b(6CAzdPEE4n3TP6KDJjvvJFOEOnZmtotnBaxgz4EBTrAzWFV8l5Xo9ChdVQ)))
+#EXTINF:0, Cidade RJ
+#EXTGRP: Meu pedaço do Brasil
+https://edge-rj-03.eduplay.rnp.br/media/ocp(r(8GedKg)t(F7PcSObomzU)p(d(DxE)k(r5Y)m(5pktrE5iEILtFKnW_9YNCQ)n(a(KPuiXnwEh3ZYndpkLVoX66qt3_Q)s(54E)'a(sNthtutCLJPLbYeEeCIqPQdR)s(pPM)'a(glwL9z7d8eXKGC0EpSe5hcku)s(-Ag)))s(t(5KQ)b(wMYvFAIPSIHNx0mzjKOdzAOYBJVnqZ5wfGI5ma5Gn_BFajhyUJWFZzfuegX1vrs_QsYm-Q0JkUT_K9409pdLowTLK6yiGXQvSrt9XhBf6roclfAj4pUdXjFZdK08NaBVGPLg7pPooeMa-DlBpWjGluTKNU0n3x5DRIoIIU7jW2zE)'t(vSA)b(iA4OVviowGipy-S2pEH-wRgOKEXalVH7DV-P2O0WBYp1HJERhhT0C_LDcQ)))
 #EXTINF:0,Búzios RJ
 #EXTGRP: Meu pedaço do Brasil
 https://edge-df-01.eduplay.rnp.br/media/ocp(r(8GedKg)t(F7PcGCX_GIw)p(d(DxE)k(r5Y)m(kDlXASVDw-DOGWe9VlDisw)n(a(rTT5IVuIeyOptghFTCEBevVXWOI)s(NqI)'a(Pb3uXS6es9kkU-iQaJitJkYw)s(aEE)'a(ZzKszMTb56j3oadqouNuIU3l)s(iSc)))s(t(44A)b(sSnO0E33EQkqRVRDpEheLv9V2-bICxOUCm8XiilyFh7vYliiAwYerE7d9uCckxAGI_iALoDj-3EaNwPYmcJO5VJq730TAyScvb3ISz0lB0teHmZMMoyjBSDmZ9NNWoHe_p1AMEp3IpuO8lPMM1sIo7nu0wgoYqd1krIkO5mHMqMV)'t(kZo)b(tH_FKgQvwpAPG6GV40NWsg2qZjD1amH3zFUE1eTRE2Jshd0AV4jCHWxZjQ)))
