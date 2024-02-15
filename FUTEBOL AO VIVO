@@ -1,4 +1,31 @@
 #EXTM3U
+#EXTINF:0,Ouro Preto (MG)
+#EXTGRP: Meu pedaço do Brasil
+https://videos.ebc.com.br/play/TVBR0580803003202210/hls/master.m3u8
+#EXTINF:0,Blumenau (SC)
+#EXTGRP: Meu pedaço do Brasil
+https://videos.ebc.com.br/play/TVBR0580803002202210/hls/master.m3u8
+#EXTINF:0,Curitiba (PR)
+#EXTGRP: Meu pedaço do Brasil
+https://videos.ebc.com.br/play/TVBR0580803001202210/hls/master.m3u8
+#EXTINF:0,Teresina (PI)
+#EXTGRP: Meu pedaço do Brasil
+https://videos.ebc.com.br/play/TVBR0580802004202110/hls/master.m3u8
+#EXTINF:0,Fortaleza (CE)
+#EXTGRP: Meu pedaço do Brasil
+https://videos.ebc.com.br/play/TVBR0580802003202110/hls/master.m3u8
+#EXTINF:0,Recife e Olinda
+#EXTGRP: Meu pedaço do Brasil
+https://edge-mg-02.eduplay.rnp.br/media/ocp(r(8GedKg)t(F7PklAJXamA)p(d(DxE)k(r5Y)m(fPiyhAH7_NWQ8tn2-oxrOA)n(a(2jsPKGLWf65H_4Qc_xbxUNHC1EA)s(u_o)'a(z7ibPio4wdXiQXzJ-mwUGBQJ)s(t2Y)'a(clXn8fIXq-qcBgsYnoGvESM-)s(tVQ)))s(t(QMg)b(-ydzUdxNSOewczFbkQf12ax4gDUvNazB9dnsmxQVIeMb5rniniyo9TtGlWuPC9T5BW4L_-VM4ol1E7yAxx9gpzHBoXrZeXFGYnOBswT8W3JamkCFm0GLBA1UAyzbHvbPqCccX9PGgsH7hnTd9U77HLpmooE4ZI2wKCwA_FrRTI-A)'t(kMg)b(ejKQQEqfe__t5Uyebq41KhVmYKGEPztsOCBECnQIB8kYjhmnVj01q30vCw)))
+#EXTINF:0,Natal e Rio Grande do Norte
+#EXTGRP: Meu pedaço do Brasil
+https://edge-rj-03.eduplay.rnp.br/media/ocp(r(8GedKg)t(F7Pkes633Y0)p(d(DxE)k(r5Y)m(0Iu8dG4ecfdEU7V_1PUtFg)n(a(o_CfoleZ1GG0CWIhDWNAzP0RbQA)s(3zk)'a(YibljLq4N9poWy0G90uw43OB)s(Bq8)'a(iY4s87sBdNg3KAzmpjW6AoLh)s(qQE)))s(t(vlI)b(PNpxwTc3PnLRqcswE1Tju-J2XCv4I0dFi8IvKg3Owe9cjECLj112SeaVbWabjGL7Sk8kxLL2vVcUIP0N_ckLHZydvmkhQ_PNa7KBKXVq42c036IJ-P1zt9xSXOgBE-bzMWmBsVcfjvHHI9TG-HucYMkimTBaUOeVBpAGggUI00Eo)'t(z9w)b(Xnyujy9IvxW_6YgtjEZGfSYHEV-QrRq3Top8JeXLZpOis48wsC1D0syL1Q)))
+#EXTINF:0, Brasília
+#EXTGRP: Meu pedaço do Brasil
+https://edge-pr-02.eduplay.rnp.br/media/ocp(r(8GedKg)t(F7PkYmgiIt4)p(d(DxE)k(r5Y)m(pUNZZBJnwUla5RPV32k_WA)n(a(jVewK9310dtWQBGLzNhlVwT7jEc)s(0KI)'a(fhLqAEvXMMXC6iOsLZnSKW9c)s(KDs)'a(b97knuvqvl8g45RkxlpQol-e)s(6KI)))s(t(Jkc)b(e4HzE60H3bY8EKOdw-qhYYdPffBDLSVCliy83mYRHrsGjoXvQXWLw9rm_0FRX1e3hfE8WPIvKOiLVO7GbVGa2KcFiz-2u8D6yz7HyzIBZORFbeJOht-2i88Hlgq-0jHboEnCho2SIgkMZRo41JcHUWQCysewoITc-m83sK2ooCVV)'t(1BM)b(AxAZPSsKePkTA-D3VSKchlgnLiSB68PxQO-SH0fugtybYPyW8kTk79yR6g)))
+#EXTINF:0, Caruaru PE
+#EXTGRP: Meu pedaço do Brasil
+https://edge-df-02.eduplay.rnp.br/media/ocp(r(8GedKg)t(F7PkSaZar6Y)p(d(DxE)k(r5Y)m(OKlgU0qwvoNLKGP0rNV7Ew)n(a(miWZqoPBdtrnizLie8SqkUuIH9k)s(I6M)'a(6d3cYI9TpwOwhBfO8VhXHX-j)s(Bp0)'a(Hxu8F1BUMM5o4iHIx_JSBG42)s(__0)))s(t(g54)b(JOKJSyLzo9CfWpwA-b5ZiN1KnHNnfQKF1ju9au6VU6-sIaHNkX9SzCacW8BoG7fWSdK0H_0vd6iS4vhpc3ilMgJssZw22cm2gHbK6WS8zNZLOKdvbBEKeLs58mHHxvqL-aZEQWJ8FHZ0l-z3fDBrgL5v4IIvMDE-RiuiElE52qZP)'t(tBs)b(86WTcFSkQFk8CIx8qIPWTVuTP-wLl7HD1cdhhw_77uOYeJvE74ZA_avBuQ)))
 #EXTINF:0, Pequena África RJ
 #EXTGRP: Meu pedaço do Brasil
 https://videos.ebc.com.br/play/TVBR0580804002202410/hls/master.m3u8
