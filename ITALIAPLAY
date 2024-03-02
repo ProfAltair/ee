@@ -4,884 +4,444 @@ http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56371&extensio
 #EXTINF:-1 tvg-id="" tvg-name="IT| Rai 1 FULL HD" group-title="IT| ITALIA",IT| Rai 1 FULL HD
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56372&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| RAI 1 HD" group-title="IT| ITALIA",IT| RAI 1 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56373&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT|  RAI 1 HEVC" group-title="IT| ITALIA",IT|  RAI 1 HEVC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=136675&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| RAI 1 SD" group-title="IT| ITALIA",IT| RAI 1 SD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56374&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| RAI 2 FULL HD" group-title="IT| ITALIA",IT| RAI 2 FULL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56375&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| RAI 2 HD" group-title="IT| ITALIA",IT| RAI 2 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56376&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT|  RAI 2 HEVC" group-title="IT| ITALIA",IT|  RAI 2 HEVC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=136677&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| RAI 2 SD" group-title="IT| ITALIA",IT| RAI 2 SD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56377&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| RAI 3 FULL HD" group-title="IT| ITALIA",IT| RAI 3 FULL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56378&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| RAI 3 HD" group-title="IT| ITALIA",IT| RAI 3 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56379&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT|  RAI 3 HEVC" group-title="IT| ITALIA",IT|  RAI 3 HEVC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=136679&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| RAI 3 SD" group-title="IT| ITALIA",IT| RAI 3 SD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56380&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| RAI 4 FULL HD" group-title="IT| ITALIA",IT| RAI 4 FULL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56381&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| RAI 4 HD" group-title="IT| ITALIA",IT| RAI 4 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56382&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| RAI 5 FULL HD" group-title="IT| ITALIA",IT| RAI 5 FULL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56383&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| RAI 5 HD" group-title="IT| ITALIA",IT| RAI 5 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56384&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| ITALIA 1 FULL HD" group-title="IT| ITALIA",IT| ITALIA 1 FULL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56385&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| ITALIA 1 HD" group-title="IT| ITALIA",IT| ITALIA 1 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56386&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT|  ITALIA 1 HEVC" group-title="IT| ITALIA",IT|  ITALIA 1 HEVC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=136673&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| ITALIA 1 SD" group-title="IT| ITALIA",IT| ITALIA 1 SD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56387&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| ITALIA 2" group-title="IT| ITALIA",IT| ITALIA 2
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56388&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| RETE 4 FULL HD" group-title="IT| ITALIA",IT| RETE 4 FULL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56389&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| RETE 4 HD" group-title="IT| ITALIA",IT| RETE 4 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56390&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT|  RETE 4 HEVC" group-title="IT| ITALIA",IT|  RETE 4 HEVC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=136681&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| RETE 4 SD" group-title="IT| ITALIA",IT| RETE 4 SD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56391&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CANALE 5 FULL HD" group-title="IT| ITALIA",IT| CANALE 5 FULL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56392&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CANALE 5 HD" group-title="IT| ITALIA",IT| CANALE 5 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56393&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT|  CANALE 5 HEVC" group-title="IT| ITALIA",IT|  CANALE 5 HEVC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=136671&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CANALE 5 SD" group-title="IT| ITALIA",IT| CANALE 5 SD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56394&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CANALE 20 FULL HD" group-title="IT| ITALIA",IT| CANALE 20 FULL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56395&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CANALE 20 HD" group-title="IT| ITALIA",IT| CANALE 20 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56396&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| MEDIASET EXTRA" group-title="IT| ITALIA",IT| MEDIASET EXTRA
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56397&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| LA 5" group-title="IT| ITALIA",IT| LA 5
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56399&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| LA 7d FULL HD" group-title="IT| ITALIA",IT| LA 7d FULL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56400&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| LA 7D" group-title="IT| ITALIA",IT| LA 7D
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56401&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| LA 7 FULL HD" group-title="IT| ITALIA",IT| LA 7 FULL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56402&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| LA 7" group-title="IT| ITALIA",IT| LA 7
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56403&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINE 34" group-title="IT| ITALIA",IT| CINE 34
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=175972&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| RAI PREMIUM FULL HD" group-title="IT| ITALIA",IT| RAI PREMIUM FULL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56406&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| RAI PREMIUM HD" group-title="IT| ITALIA",IT| RAI PREMIUM HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56407&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| RAI MOVIE FULL HD" group-title="IT| ITALIA",IT| RAI MOVIE FULL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56408&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| RAI MOVIE HD" group-title="IT| ITALIA",IT| RAI MOVIE HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56409&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| RAI GULP FULL HD" group-title="IT| ITALIA",IT| RAI GULP FULL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56410&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| RAI GULP HD" group-title="IT| ITALIA",IT| RAI GULP HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56411&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY RETE 7" group-title="IT| ITALIA",IT| SKY RETE 7
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56414&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="=IT= INTRANIMENTO =IT=" group-title="IT| INTRATTENIMENTO",=IT= INTRANIMENTO =IT=
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56470&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY ATLANTIC +1" group-title="IT| INTRATTENIMENTO",IT| SKY ATLANTIC +1
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=378620&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY ATLANTIC FULL HD" group-title="IT| INTRATTENIMENTO",IT| SKY ATLANTIC FULL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56471&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY ATLANTIC HD" group-title="IT| INTRATTENIMENTO",IT| SKY ATLANTIC HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56472&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY ATLANTIC SD" group-title="IT| INTRATTENIMENTO",IT| SKY ATLANTIC SD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56473&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY UNO FULL HD" group-title="IT| INTRATTENIMENTO",IT| SKY UNO FULL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56474&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY UNO HD" group-title="IT| INTRATTENIMENTO",IT| SKY UNO HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56475&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT|  SKY UNO HEVC" group-title="IT| INTRATTENIMENTO",IT|  SKY UNO HEVC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=136723&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY UNO SD" group-title="IT| INTRATTENIMENTO",IT| SKY UNO SD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56476&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY SERIE FULL HD" group-title="IT| INTRATTENIMENTO",IT| SKY SERIE FULL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=337088&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY SERIE HD" group-title="IT| INTRATTENIMENTO",IT| SKY SERIE HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=337089&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY SERIE HEVC" group-title="IT| INTRATTENIMENTO",IT| SKY SERIE HEVC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=337090&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY FOOD NETWORK FULL HD" group-title="IT| INTRATTENIMENTO",IT| SKY FOOD NETWORK FULL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56489&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY CIELO FULL HD" group-title="IT| INTRATTENIMENTO",IT| SKY CIELO FULL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56490&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CIELO" group-title="IT| INTRATTENIMENTO",IT| CIELO
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56493&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY COMEDY CENTRAL FULL HD" group-title="IT| INTRATTENIMENTO",IT| SKY COMEDY CENTRAL FULL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56497&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY DMAX FULL HD" group-title="IT| INTRATTENIMENTO",IT| SKY DMAX FULL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56498&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY DMAX" group-title="IT| INTRATTENIMENTO",IT| SKY DMAX
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56499&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| TOP CRIME" group-title="IT| ITALIA",IT| TOP CRIME
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56500&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| FOOD NETWORK" group-title="IT| INTRATTENIMENTO",IT| FOOD NETWORK
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56501&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| GIALLO" group-title="IT| ITALIA",IT| GIALLO
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56503&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| FOCUS" group-title="IT| INTRATTENIMENTO",IT| FOCUS
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56504&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| TV 8" group-title="IT| ITALIA",IT| TV 8
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56505&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| IRIS" group-title="IT| ITALIA",IT| IRIS
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56508&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT|  REALTIME HEVC" group-title="IT| CULTURA",IT|  REALTIME HEVC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=136700&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT|  SKY ARTE HEVC" group-title="IT| CULTURA",IT|  SKY ARTE HEVC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=136693&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT|  SKY COMEDY CENTRAL HEVC" group-title="IT| CINEMA",IT|  SKY COMEDY CENTRAL HEVC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=136705&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="=IT= CINEMA =IT=" group-title="IT| CINEMA",=IT= CINEMA =IT=
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56416&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY CINEMA UNO FULL HD" group-title="IT| CINEMA",IT| SKY CINEMA UNO FULL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56417&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY CINEMA UNO HD" group-title="IT| CINEMA",IT| SKY CINEMA UNO HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56418&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT|  SKY CINEMA UNO HEVC" group-title="IT| CINEMA",IT|  SKY CINEMA UNO HEVC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=136707&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY CINEMA UNO SD" group-title="IT| CINEMA",IT| SKY CINEMA UNO SD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56419&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY CINEMA UNO 24 FULL HD" group-title="IT| CINEMA",IT| SKY CINEMA UNO 24 FULL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56421&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY CINEMA UNO 24 HD" group-title="IT| CINEMA",IT| SKY CINEMA UNO 24 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56420&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT|  SKY CINEMA UNO 24 HEVC" group-title="IT| CINEMA",IT|  SKY CINEMA UNO 24 HEVC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=136708&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY CINEMA DUE FULL HD" group-title="IT| CINEMA",IT| SKY CINEMA DUE FULL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56422&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY CINEMA DUE HD" group-title="IT| CINEMA",IT| SKY CINEMA DUE HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56423&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT|  SKY CINEMA DUE HEVC" group-title="IT| CINEMA",IT|  SKY CINEMA DUE HEVC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=136712&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY CINEMA DUE SD" group-title="IT| CINEMA",IT| SKY CINEMA DUE SD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56424&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY CINEMA DUE 24 FULL HD" group-title="IT| CINEMA",IT| SKY CINEMA DUE 24 FULL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56425&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT|  SKY CINEMA DUE 24 HEVC" group-title="IT| CINEMA",IT|  SKY CINEMA DUE 24 HEVC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=136713&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY CINEMA DUE 24 HD" group-title="IT| CINEMA",IT| SKY CINEMA DUE 24 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56426&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY CINEMA SUSPENSE FULL HD" group-title="IT| CINEMA",IT| SKY CINEMA SUSPENSE FULL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56427&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY CINEMA SUSPENSE HD" group-title="IT| CINEMA",IT| SKY CINEMA SUSPENSE HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56428&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT|  SKY CINEMA SUSPENSE HEVC" group-title="IT| CINEMA",IT|  SKY CINEMA SUSPENSE HEVC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=136709&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY CINEMA SUSPENSE SD" group-title="IT| CINEMA",IT| SKY CINEMA SUSPENSE SD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56429&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY CINEMA ROMANCE FULL HD" group-title="IT| CINEMA",IT| SKY CINEMA ROMANCE FULL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56430&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY CINEMA ROMANCE HD" group-title="IT| CINEMA",IT| SKY CINEMA ROMANCE HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56431&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT|  SKY CINEMA ROMANCE HEVC" group-title="IT| CINEMA",IT|  SKY CINEMA ROMANCE HEVC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=136710&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY CINEMA ROMANCE SD" group-title="IT| CINEMA",IT| SKY CINEMA ROMANCE SD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56432&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY CINEMA FAMILY FULL HD" group-title="IT| CINEMA",IT| SKY CINEMA FAMILY FULL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56433&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY CINEMA FAMILY HD" group-title="IT| CINEMA",IT| SKY CINEMA FAMILY HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56434&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY CINEMA FAMILY SD" group-title="IT| CINEMA",IT| SKY CINEMA FAMILY SD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56435&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY CINEMA DRAMA FULL HD" group-title="IT| CINEMA",IT| SKY CINEMA DRAMA FULL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56436&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY CINEMA DRAMA HD" group-title="IT| CINEMA",IT| SKY CINEMA DRAMA HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56437&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT|  SKY CINEMA DRAMA HEVC" group-title="IT| CINEMA",IT|  SKY CINEMA DRAMA HEVC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=136714&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY CINEMA DRAMA SD" group-title="IT| CINEMA",IT| SKY CINEMA DRAMA SD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56438&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY CINEMA COMEDY FULL HD" group-title="IT| CINEMA",IT| SKY CINEMA COMEDY FULL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56440&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY CINEMA COMEDY HD" group-title="IT| CINEMA",IT| SKY CINEMA COMEDY HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56441&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT|  SKY CINEMA COMEDY HEVC" group-title="IT| ITALIA",IT|  SKY CINEMA COMEDY HEVC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=136715&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY CINEMA COMEDY SD" group-title="IT| CINEMA",IT| SKY CINEMA COMEDY SD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56442&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY CINEMA COLLECTION FULL HD" group-title="IT| CINEMA",IT| SKY CINEMA COLLECTION FULL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56443&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT|  SKY CINEMA COLLECTION HEVC" group-title="IT| CINEMA",IT|  SKY CINEMA COLLECTION HEVC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=136716&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY CINEMA COLLECTION HD" group-title="IT| CINEMA",IT| SKY CINEMA COLLECTION HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56444&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY CINEMA COLLECTION SD" group-title="IT| CINEMA",IT| SKY CINEMA COLLECTION SD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56445&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY CINEMA ACTION FULL HD" group-title="IT| CINEMA",IT| SKY CINEMA ACTION FULL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56446&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY CINEMA ACTION HD" group-title="IT| CINEMA",IT| SKY CINEMA ACTION HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56447&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT|  SKY CINEMA ACTION HEVC" group-title="IT| CINEMA",IT|  SKY CINEMA ACTION HEVC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=136717&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY CINEMA ACTION SD" group-title="IT| CINEMA",IT| SKY CINEMA ACTION SD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56448&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY CLASSICA FULL HD" group-title="IT| CINEMA",IT| SKY CLASSICA FULL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56449&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| 20thCenturyFox" group-title="IT| CINEMA",IT| 20thCenturyFox
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56450&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| || Primafila Live ||" group-title="IT| PRIMAFILA LIVE",IT| || Primafila Live ||
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=299821&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| Vetrina Prima Fila Live" group-title="IT| PRIMAFILA LIVE",IT| Vetrina Prima Fila Live
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=299822&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| Prima Fila 1" group-title="IT| PRIMAFILA LIVE",IT| Prima Fila 1
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=299823&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| Prima Fila 2" group-title="IT| PRIMAFILA LIVE",IT| Prima Fila 2
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=299824&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| Prima Fila 3" group-title="IT| PRIMAFILA LIVE",IT| Prima Fila 3
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=299825&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| Prima Fila 4" group-title="IT| PRIMAFILA LIVE",IT| Prima Fila 4
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=299826&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| Prima Fila 5" group-title="IT| PRIMAFILA LIVE",IT| Prima Fila 5
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=299827&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| Prima Fila 6" group-title="IT| PRIMAFILA LIVE",IT| Prima Fila 6
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=299828&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| Prima Fila 7" group-title="IT| PRIMAFILA LIVE",IT| Prima Fila 7
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=299829&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| Prima Fila 8" group-title="IT| PRIMAFILA LIVE",IT| Prima Fila 8
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=299830&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| Prima Fila 9" group-title="IT| PRIMAFILA LIVE",IT| Prima Fila 9
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=299831&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| Prima Fila 10" group-title="IT| PRIMAFILA LIVE",IT| Prima Fila 10
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=299832&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| Prima Fila 11" group-title="IT| PRIMAFILA LIVE",IT| Prima Fila 11
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=299833&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| Prima Fila 12" group-title="IT| PRIMAFILA LIVE",IT| Prima Fila 12
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=299834&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| Prima Fila 13" group-title="IT| PRIMAFILA LIVE",IT| Prima Fila 13
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=299835&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| Prima Fila 14" group-title="IT| PRIMAFILA LIVE",IT| Prima Fila 14
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=299836&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| Prima Fila 15" group-title="IT| PRIMAFILA LIVE",IT| Prima Fila 15
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=299837&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| Prima Fila 16" group-title="IT| PRIMAFILA LIVE",IT| Prima Fila 16
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=299838&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| Prima Fila 17" group-title="IT| PRIMAFILA LIVE",IT| Prima Fila 17
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=299839&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| Prima Fila 18" group-title="IT| PRIMAFILA LIVE",IT| Prima Fila 18
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=299840&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Cinema Bing HD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Cinema Bing HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325528&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Avengers Grimm Channel FHD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Avengers Grimm Channel FHD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325526&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Twilight Channel FHD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Twilight Channel FHD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325524&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Transformers Channel FHD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Transformers Channel FHD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325523&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   The Bourne Channel FHD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   The Bourne Channel FHD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325522&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   The Big Bang Theory FHD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   The Big Bang Theory FHD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325521&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Star Wars Channel FHD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Star Wars Channel FHD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325519&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Rocky Channel FHD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Rocky Channel FHD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325518&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Rambo Channel FHD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Rambo Channel FHD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325517&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Pirati dei Caraibi Channel FHD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Pirati dei Caraibi Channel FHD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325516&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Pirati dei Caraibi Channel 4K" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Pirati dei Caraibi Channel 4K
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325515&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Mission impossible Channel FHD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Mission impossible Channel FHD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325514&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Men in Black Channel FHD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Men in Black Channel FHD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325513&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Me-contro-Te Channel HD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Me-contro-Te Channel HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325512&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Kung Fu Panda Film Channel FHD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Kung Fu Panda Film Channel FHD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325511&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Karate Kid Channel FHD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Karate Kid Channel FHD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325510&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   IP MAN Channel FHD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   IP MAN Channel FHD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325509&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Indiana Jones Channel FHD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Indiana Jones Channel FHD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325508&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   IL Signore Degli Anelli Channel FHD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   IL Signore Degli Anelli Channel FHD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325500&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Il Re Scorpione Channel FHD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Il Re Scorpione Channel FHD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325499&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Hunger Games Channel FHD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Hunger Games Channel FHD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325498&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Disney Plus Nature HD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Disney Plus Nature HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325489&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Disney Plus Film 2 HD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Disney Plus Film 2 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325488&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Cinepanettone HD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Cinepanettone HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325487&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Cinema Famiglia FHD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Cinema Famiglia FHD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325485&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Cinema Biografico FHD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Cinema Biografico FHD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325484&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Brickleberry FHD 24H" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Brickleberry FHD 24H
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325483&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   American Dad 24H" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   American Dad 24H
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325482&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Peppa Pig FHD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Peppa Pig FHD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325479&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Masha e Orso HD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Masha e Orso HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325477&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Le Fiabe Disney HD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Le Fiabe Disney HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325475&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Disney Topolino Paperino e Pippo HD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Disney Topolino Paperino e Pippo HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325469&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Cinema Western FHD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Cinema Western FHD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325468&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Cinema Thriller FHD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Cinema Thriller FHD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325467&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Cinema Storico FHD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Cinema Storico FHD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325466&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Cinema Spaghetti Western FHD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Cinema Spaghetti Western FHD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325465&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Cinema Sorriso FHD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Cinema Sorriso FHD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325464&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Cinema Religion HD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Cinema Religion HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325463&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Cinema Prima Visione FHD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Cinema Prima Visione FHD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325462&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Cinema Passione FHD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Cinema Passione FHD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325461&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Cinema Mitologia HD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Cinema Mitologia HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325460&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Cinema Horror FHD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Cinema Horror FHD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325459&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Cinema Fantastico FHD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Cinema Fantastico FHD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325458&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Cinema Drammatico FHD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Cinema Drammatico FHD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325457&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Cinema Commedia FHD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Cinema Commedia FHD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325456&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Cinema Comico Cult FHD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Cinema Comico Cult FHD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325455&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Cinema Bud Spencer HD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Cinema Bud Spencer HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325454&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Cinema Azione FHD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Cinema Azione FHD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325453&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Cinema Avventura FHD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Cinema Avventura FHD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325452&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Cinema Animazione FHD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Cinema Animazione FHD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325451&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   Cinema 007 HD" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   Cinema 007 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325450&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEPLAY   4K" group-title="IT| PRIMAFILA LIVE",IT| CINEPLAY   4K
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=325449&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="=IT= BAMBINI =IT=" group-title="IT| BAMBINI",=IT= BAMBINI =IT=
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56509&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY BABY TV FULL HD" group-title="IT| BAMBINI",IT| SKY BABY TV FULL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56510&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY DEA KIDS FULL HD" group-title="IT| BAMBINI",IT| SKY DEA KIDS FULL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56520&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY DEA KIDS HD" group-title="IT| BAMBINI",IT| SKY DEA KIDS HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56521&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY FRISBEE MINI" group-title="IT| BAMBINI",IT| SKY FRISBEE MINI
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56528&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SUPER!" group-title="IT| BAMBINI",IT| SUPER!
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56532&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY NICKELODEON FULL HD" group-title="IT| BAMBINI",IT| SKY NICKELODEON FULL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56533&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY NICKELODEON HD" group-title="IT| BAMBINI",IT| SKY NICKELODEON HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56534&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| K2" group-title="IT| BAMBINI",IT| K2
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56541&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CARTOONITO" group-title="IT| BAMBINI",IT| CARTOONITO
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56542&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| BOING" group-title="IT| BAMBINI",IT| BOING
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56543&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| RAI YOYO FULL HD" group-title="IT| BAMBINI",IT| RAI YOYO FULL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56545&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| RAI YOYO HD" group-title="IT| BAMBINI",IT| RAI YOYO HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56546&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| La Casa di Topolino" group-title="IT| BAMBINI",IT| La Casa di Topolino
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=188035&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="=IT= CULTURA =IT=" group-title="IT| CULTURA",=IT= CULTURA =IT=
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56549&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY DISCOVERY FULL HD" group-title="IT| CULTURA",IT| SKY DISCOVERY FULL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56550&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY DISCOVERY HD" group-title="IT| CULTURA",IT| SKY DISCOVERY HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56551&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT|  SKY DISCOVERY HEVC" group-title="IT| CULTURA",IT|  SKY DISCOVERY HEVC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=136694&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY CRIME INVESTIGATION FULL HD" group-title="IT| CULTURA",IT| SKY CRIME INVESTIGATION FULL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56552&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY CRIME INVESTIGATION HD" group-title="IT| CULTURA",IT| SKY CRIME INVESTIGATION HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56553&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT|  SKY CRIME INVESTIGATION HEVC" group-title="IT| CULTURA",IT|  SKY CRIME INVESTIGATION HEVC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=136701&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| CRIME INVESTIGATION SD" group-title="IT| CULTURA",IT| CRIME INVESTIGATION SD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56554&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY NATURE FULL HD" group-title="IT| CULTURA",IT| SKY NATURE FULL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=337092&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY NATURE HD" group-title="IT| CULTURA",IT| SKY NATURE HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=337091&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY NATURE HEVC" group-title="IT| CULTURA",IT| SKY NATURE HEVC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=337093&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY DOCUMENTARIES FULL HD" group-title="IT| CULTURA",IT| SKY DOCUMENTARIES FULL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=337095&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY DOCUMENTARIES HD" group-title="IT| CULTURA",IT| SKY DOCUMENTARIES HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=337094&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY DOCUMENTARIES HEVC" group-title="IT| CULTURA",IT| SKY DOCUMENTARIES HEVC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=337096&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY HISTORY FULL HD" group-title="IT| CULTURA",IT| SKY HISTORY FULL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56565&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| SKY HISTORY HD" group-title="IT| CULTURA",IT| SKY HISTORY HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56566&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| RAI SCUOLA FULL HD" group-title="IT| CULTURA",IT| RAI SCUOLA FULL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56568&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| RAI SCUOLA HD" group-title="IT| CULTURA",IT| RAI SCUOLA HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56569&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| RAI STORIA FULL HD" group-title="IT| CULTURA",IT| RAI STORIA FULL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56570&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| RAI STORIA HD" group-title="IT| CULTURA",IT| RAI STORIA HD
 #EXTVLCOPT:cache=17238
