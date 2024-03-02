@@ -1,11 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="=IT= ITALIA =IT=" group-title="IT| ITALIA",=IT= ITALIA =IT=
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56371&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| Rai 1 FULL HD" group-title="IT| ITALIA",IT| Rai 1 FULL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://600600.org:8080/play/live.php?mac=00:1A:79:bf:36:77&stream=56372&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| RAI 1 HD" group-title="IT| ITALIA",IT| RAI 1 HD
 #EXTVLCOPT:cache=17238
