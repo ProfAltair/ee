@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,REDE BRASIL
 #EXTGRP:REDE BRASIL
-https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w1253525090.m3u8
+http://cs21.xyz:80/live/2545965177/0589983587/617733.m3u8
 #EXTINF:0,TBO 2
 #EXTGRP:REDE BRASIL
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/chunklist_w1175667777.m3u8
@@ -14,30 +14,6 @@ https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/chunklist_w1522467854.m3u8
 #EXTINF:0,TBO
 #EXTGRP:REDE BRASIL
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/chunklist_w196689578.m3u8
-#EXTINF:0,SBT FHD
-#EXTGRP:SÓ RIO DE JANEIRO
-http://voz.one:80/alexfnt/vTFBGKdUYq/313
-#EXTINF:0,RECORD HD
-#EXTGRP:SÓ RIO DE JANEIRO
-http://voz.one:80/alexfnt/vTFBGKdUYq/291
-#EXTINF:0,GLOBO HDTV
-#EXTGRP:SÓ RIO DE JANEIRO
-http://voz.one:80/alexfnt/vTFBGKdUYq/65236
-#EXTINF:0,BAND HDTV
-#EXTGRP:SÓ RIO DE JANEIRO
-http://voz.one:80/alexfnt/vTFBGKdUYq/248
-#EXTINF:0,GLOBO ALTO LITORAL
-#EXTGRP:SÓ RIO DE JANEIRO
-http://voz.one:80/alexfnt/vTFBGKdUYq/134001
-#EXTINF:0,GLOBO INTERIOR
-#EXTGRP:SÓ RIO DE JANEIRO
-http://voz.one:80/alexfnt/vTFBGKdUYq/45803
-#EXTINF:0,GLOBO PLANÍCIE
-#EXTGRP:SÓ RIO DE JANEIRO
-http://voz.one:80/alexfnt/vTFBGKdUYq/134000
-#EXTINF:0,GLOBO SP
-#EXTGRP:CANAIS ESPECIAIS
-https://cdn-1.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/mono.m3u8
 #EXTINF:0,Globo Rio 4K¹
 #EXTGRP:TV | GLOBO
 http://sv1.iptvcasa.online:80/danilo123/danilo123/1360909.ts
@@ -62,21 +38,9 @@ http://milka99.xyz:80/182722677047/531272023349/6926
 #EXTINF:0,GLOBO RJ GLOBOPLAY
 #EXTGRP:TV | GLOBO
 http://nxt.plus:8080/maria/maria/51461
-#EXTINF:0,TV Globo (Rio de Janeiro)
-#EXTGRP:TV | GLOBO
-http://m2online.tvpn.eu:80/fernandom2rec12f/123/431
 #EXTINF:0,RECORD NEWS
 #EXTGRP:TV | RECORD
 https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w345721195.m3u8
-#EXTINF:0,RECORD RJ HD
-#EXTGRP:TV | RECORD
-http://uniplay.link:80/p2puni777/8zksAAJgKEYq/244089
-#EXTINF:0,RECORD RJ INTERIOR FHD
-#EXTGRP:TV | RECORD
-http://uniplay.link:80/p2puni777/8zksAAJgKEYq/244096
-#EXTINF:0,RECORD RJ FHD
-#EXTGRP:TV | RECORD
-http://uniplay.link:80/p2puni777/8zksAAJgKEYq/244089
 #EXTINF:0,Record Rio HD
 #EXTGRP:TV | RECORD
 http://milka99.xyz:80/785378350818/865155367769/28748
@@ -98,45 +62,12 @@ http://milka99.xyz:80/182722677047/531272023349/28748
 #EXTINF:0,RecordTV (Rio de Janeiro)
 #EXTGRP:TV | RECORD
 http://m2online.tvpn.eu:80/fernandom2rec12f/123/449
-#EXTINF:0,SBT RJ FHD
-#EXTGRP:SBT
-https://ythlsgo.onrender.com/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
-#EXTINF:0,SBT RIO YOU TUBE
-#EXTGRP:SBT
-https://livestream.zazerconer.workers.dev/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
-#EXTINF:0,SBT RJ² YOU TUBE
-#EXTGRP:SBT
-https://livestream.zazerconer.workers.dev/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
-#EXTINF:0,SBT RJ
-#EXTGRP:SBT
-https://livestream.zazerconer.workers.dev/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
-#EXTINF:0,SBT RJ FHD
-#EXTGRP:SBT
-http://uniplay.link:80/p2puni777/8zksAAJgKEYq/244173
-#EXTINF:0,SBT HDTV 2
-#EXTGRP:SBT
-http://main.xplus2-main.xyz:2095/xplus-2-I2IasUuTYz/PMs0EjURdY/537
-#EXTINF:0,SBT HDTV
-#EXTGRP:SBT
-http://main.xplus2-main.xyz:2095/Tourobox3-JFNWp6qnha/w1E5HAC90a/537
-#EXTINF:0,SBT (RIO)
-#EXTGRP:SBT
-https://ythlsgo.onrender.com/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
 #EXTINF:0,SBT (São Paulo)
 #EXTGRP:SBT
 http://m2online.tvpn.eu:80/fernandom2rec12f/123/457
 #EXTINF:0,SBT SP HD¹
 #EXTGRP:SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
-#EXTINF:0,SBT SP SD¹
-#EXTGRP:SBT
-http://milka99.xyz:80/182722677047/531272023349/89587
-#EXTINF:0,Band SP HD¹
-#EXTGRP:TV |BAND
-http://milka99.xyz:80/785378350818/865155367769/39451
-#EXTINF:0,Band SP SD¹
-#EXTGRP:TV |BAND
-http://milka99.xyz:80/785378350818/865155367769/89641
 #EXTINF:0,BAND SP 4k
 #EXTGRP:TV |BAND
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w95579712.m3u8?WebM3UCL
