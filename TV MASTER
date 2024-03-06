@@ -1,370 +1,422 @@
 #EXTM3U
-#EXTINF:0,REDE BRASIL
-#EXTGRP:REDE BRASIL
-http://cs21.xyz:80/live/2545965177/0589983587/617733.m3u8
-#EXTINF:0,TBO 2
-#EXTGRP:REDE BRASIL
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/chunklist_w1175667777.m3u8
-#EXTINF:0,RBTV
-#EXTGRP:REDE BRASIL
-https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w1226291443.m3u8
-#EXTINF:0,TV MARAJOARA
-#EXTGRP:REDE BRASIL
-https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/chunklist_w1522467854.m3u8
-#EXTINF:0,TBO
-#EXTGRP:REDE BRASIL
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/chunklist_w196689578.m3u8
-#EXTINF:0,Globo Rio 4K¹
-#EXTGRP:TV | GLOBO
-http://sv1.iptvcasa.online:80/danilo123/danilo123/1360909.ts
-#EXTINF:0,Globo Rio HD¹
-#EXTGRP:TV | GLOBO
-http://sv1.iptvcasa.online:80/danilo123/danilo123/1360912.ts
-#EXTINF:0,GLOBO RJ 4K
-#EXTGRP:TV | GLOBO
-https://cdn-1.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/mono.m3u8
-#EXTINF:0,GLOBO RJ HD
-#EXTGRP:TV | GLOBO
-http://sv1.iptvcasa.online:80/danilo123/danilo123/1360913.ts
-#EXTINF:0,GLOBO RJ 4K
-#EXTGRP:TV | GLOBO
-http://main.xplus2-main.xyz:2095/xplus-2-I2IasUuTYz/PMs0EjURdY/504
-#EXTINF:0,GLOBO RJ HD
-#EXTGRP:TV | GLOBO
-http://main.xplus2-main.xyz:2095/xplus-2-I2IasUuTYz/PMs0EjURdY/503
-#EXTINF:0,Globo Rio HD¹
-#EXTGRP:TV | GLOBO
-http://milka99.xyz:80/182722677047/531272023349/6926
-#EXTINF:0,GLOBO RJ GLOBOPLAY
-#EXTGRP:TV | GLOBO
-http://nxt.plus:8080/maria/maria/51461
-#EXTINF:0,RECORD NEWS
-#EXTGRP:TV | RECORD
-https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w345721195.m3u8
-#EXTINF:0,Record Rio HD
-#EXTGRP:TV | RECORD
-http://milka99.xyz:80/785378350818/865155367769/28748
-#EXTINF:0,RECORD RJ 4K
-#EXTGRP:TV | RECORD
-http://uniplay.link:80/p2puni777/8zksAAJgKEYq/244089
-#EXTINF:0,RECORD RJ HD
-#EXTGRP:TV | RECORD
-http://main.xplus2-main.xyz:2095/xplus-2-I2IasUuTYz/PMs0EjURdY/527
-#EXTINF:0,RECORD RJ 4K
-#EXTGRP:TV | RECORD
-http://uniplay.link:80/p2puni777/8zksAAJgKEYq/244089
-#EXTINF:0,RECORD RJ HD
-#EXTGRP:TV | RECORD
-http://main.xplus2-main.xyz:2095/Tourobox3-JFNWp6qnha/w1E5HAC90a/527
-#EXTINF:0,Record Rio HD
-#EXTGRP:TV | RECORD
-http://milka99.xyz:80/182722677047/531272023349/28748
-#EXTINF:0,RecordTV (Rio de Janeiro)
-#EXTGRP:TV | RECORD
-http://m2online.tvpn.eu:80/fernandom2rec12f/123/449
-#EXTINF:0,SBT (São Paulo)
-#EXTGRP:SBT
-http://m2online.tvpn.eu:80/fernandom2rec12f/123/457
-#EXTINF:0,SBT SP HD¹
-#EXTGRP:SBT
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
-#EXTINF:0,BAND SP 4k
-#EXTGRP:TV |BAND
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w95579712.m3u8?WebM3UCL
-#EXTINF:0,BAND SP HD
-#EXTGRP:TV |BAND
-http://main.xplus2-main.xyz:2095/xplus-2-I2IasUuTYz/PMs0EjURdY/485
-#EXTINF:0,Band SP HD¹
-#EXTGRP:TV |BAND
-http://milka99.xyz:80/182722677047/531272023349/39451
-#EXTINF:0,Band SP SD¹
-#EXTGRP:TV |BAND
-http://milka99.xyz:80/182722677047/531272023349/89641
-#EXTINF:0,TV Band (São Paulo)
-#EXTGRP:TV |BAND
-http://m2online.tvpn.eu:80/fernandom2rec12f/123/452
-#EXTINF:0,REDE TV PR
-#EXTGRP:TV | ABERTOS
-https://tv02.zas.media:1936/redetvparana/redetvparana/chunklist_w898251760.m3u8
-#EXTINF:0,REDE TV TO
-#EXTGRP:TV | ABERTOS
-https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w68569837.m3u8
-#EXTINF:0,CNT
-#EXTGRP:TV | ABERTOS
-http://m2online.tvpn.eu:80/fernandom2rec12f/123/459
-#EXTINF:0,RedeTV! HD¹
-#EXTGRP:TV | ABERTOS
-https://cdn.live.br1.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
-#EXTINF:0,TV Cultura HD¹
-#EXTGRP:TV | ABERTOS
-https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1546136485.m3u8
-#EXTINF:0,Canal do Boi HD¹
-#EXTGRP:TV | ABERTOS
-http://milka99.xyz:80/785378350818/865155367769/66631
-#EXTINF:0,Terra Viva HD¹
-#EXTGRP:TV | ABERTOS
-http://milka99.xyz:80/785378350818/865155367769/17811
-#EXTINF:0,TV Brasil HD¹
-#EXTGRP:TV | ABERTOS
-https://tvbrasil-stream.ebc.com.br/mux_video_ts/index-1.m3u8
-#EXTINF:0,TV Brasil 2¹
-#EXTGRP:TV | ABERTOS
-http://milka99.xyz:80/785378350818/865155367769/64197
-#EXTINF:0,TV Camara SD¹
-#EXTGRP:TV | ABERTOS
-http://milka99.xyz:80/785378350818/865155367769/59978
-#EXTINF:0,TV Justiça¹
-#EXTGRP:TV | ABERTOS
-http://milka99.xyz:80/785378350818/865155367769/64196
-#EXTINF:0,TV Senado¹
-#EXTGRP:TV | ABERTOS
-http://milka99.xyz:80/785378350818/865155367769/64198
-#EXTINF:0,TV Gazeta¹
-#EXTGRP:TV | ABERTOS
-https://video02.logicahost.com.br/tvc21/tvc21/chunklist_w1843861829.m3u8
-#EXTINF:0,RECORD NDTV SC
-#EXTGRP:EXTRA
-https://caikron.com.br:19360/floripa/floripa.m3u8
-#EXTINF:0,SBT INTERIOR
-#EXTGRP:EXTRA
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
-#EXTINF:0,BAND PR
-#EXTGRP:EXTRA
-https://cdn.jmvstream.com/w/LVW-8390/LVW8390_yxLZXwR4PU/chunklist.m3u8
-#EXTINF:0,TV PAMPA RS
-#EXTGRP:EXTRA
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w1991167124.m3u8
-#EXTINF:0,NGT
-#EXTGRP:EXTRA
-https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
-#EXTINF:0,TV POMBAL( TV BRASIL)
-#EXTGRP:EXTRA
-https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/chunklist_w1063106558.m3u8
-#EXTINF:0,TV BRASIL INTERNACIONAL
-#EXTGRP:EXTRA
-https://tvbrasil-stream.ebc.com.br/mux_video_ts/index-1.m3u8
-#EXTINF:0,TV KIDMAIS
-#EXTGRP:EXTRA
-https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist_w1736789192.m3u8
-#EXTINF:0,UNIVERSO KIDS
-#EXTGRP:EXTRA
-https://srv3.zcast.com.br/universo3/universo3/chunklist_w121237627.m3u8
-#EXTINF:0,SOPHIA TV
-#EXTGRP:EXTRA
-https://bild-und-ton.stream/sophiatv-pt/smil:sophia-tv-pt.smil/chunklist_w302977259_b350000_slpt.m3u8
-#EXTINF:0,Globo SP HD
-#EXTGRP:SÓ SÃO PAULO
-https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
-#EXTINF:0,Globo SP HD [Alter]
-#EXTGRP:SÓ SÃO PAULO
-http://hls1.sua.tv:80/live/globosphd/s.m3u8
-#EXTINF:0,TV TEM SP HD
-#EXTGRP:SÓ SÃO PAULO
-http://cdn-1.nxplay.com.br/TV_TEM_TK/index.m3u8
-#EXTINF:0,Band SP SD
-#EXTGRP:SÓ SÃO PAULO
-https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8?ManoTV
-#EXTINF:0,Band SP HD
-#EXTGRP:SÓ SÃO PAULO
-https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?ManoTV
-#EXTINF:0,SBT SP HD
-#EXTGRP:SÓ SÃO PAULO
-https://enc2.proxy.tokplay.com.br/TV-SOROCABA-HD/tracks-v1a1/mono.m3u8
-#EXTINF:0,SBT Interior SP HD
-#EXTGRP:SÓ SÃO PAULO
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8?ManoTV
-#EXTINF:0,SBT Guajará
-#EXTGRP:SÓ SÃO PAULO
-https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
-#EXTINF:0,Record SP HD
-#EXTGRP:SÓ SÃO PAULO
-https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
-#EXTINF:0,GLOBO EPTV CAMPINAS HD
-#EXTGRP:CANAIS | REDE GLOBO SÃO PAULO
-http://cs21.xyz:80/live/2545965177/0589983587/108012.m3u8
-#EXTINF:0,GLOBO EPTV CAMPINAS SD
-#EXTGRP:CANAIS | REDE GLOBO SÃO PAULO
-http://cs21.xyz:80/live/2545965177/0589983587/617609.m3u8
-#EXTINF:0,GLOBO EPTV CENTRAL (SAO CARLOS) HD
-#EXTGRP:CANAIS | REDE GLOBO SÃO PAULO
-http://cs21.xyz:80/live/2545965177/0589983587/1167431.m3u8
-#EXTINF:0,GLOBO EPTV RIBEIRÃO PRETO HD
-#EXTGRP:CANAIS | REDE GLOBO SÃO PAULO
-http://cs21.xyz:80/live/2545965177/0589983587/108015.m3u8
-#EXTINF:0,GLOBO EPTV RIBEIRÃO PRETO SD
-#EXTGRP:CANAIS | REDE GLOBO SÃO PAULO
-http://cs21.xyz:80/live/2545965177/0589983587/617610.m3u8
-#EXTINF:0,GLOBO EPTV SAO CARLOS SD
-#EXTGRP:CANAIS |REDE GLOBO SÃO PAULO
-http://cs21.xyz:80/live/2545965177/0589983587/617611.m3u8
-#EXTINF:0,GLOBO PRESIDENTE PRUDENTE SP FHD
-#EXTGRP:CANAIS | REDE GLOBO SÃO PAULO
-http://cs21.xyz:80/live/2545965177/0589983587/276659.m3u8
-#EXTINF:0,GLOBO PRESIDENTE PRUDENTE SP HD
-#EXTGRP:CANAIS | REDE GLOBO SÃO PAULO
-http://cs21.xyz:80/live/2545965177/0589983587/276660.m3u8
-#EXTINF:0,GLOBO RJ FHD
-#EXTGRP:CANAIS | REDE GLOBO RIO DE JANEIRO
-http://cs21.xyz:80/live/2545965177/0589983587/108056.m3u8
-#EXTINF:0,GLOBO RJ FHD (H265)
-#EXTGRP:CANAIS | REDE GLOBO RIO DE JANEIRO
-http://cs21.xyz:80/live/2545965177/0589983587/290643.m3u8
-#EXTINF:0,GLOBO RJ HD
-#EXTGRP:CANAIS | REDE GLOBO RIO DE JANEIRO
-http://cs21.xyz:80/live/2545965177/0589983587/108057.m3u8
-#EXTINF:0,GLOBO RJ HD [ALT]
-#EXTGRP:CANAIS | REDE GLOBO RIO DE JANEIRO
-http://cs21.xyz:80/live/2545965177/0589983587/618231.m3u8
-#EXTINF:0,GLOBO RJ SD
-#EXTGRP:CANAIS | REDE GLOBO RIO DE JANEIRO
-http://cs21.xyz:80/live/2545965177/0589983587/617628.m3u8
-#EXTINF:0,GLOBO SP FHD
-#EXTGRP:CANAIS | REDE GLOBO SÃO PAULO
-http://cs21.xyz:80/live/2545965177/0589983587/108069.m3u8
-#EXTINF:0,GLOBO SP FHD (H265)
-#EXTGRP:CANAIS | REDE GLOBO SÃO PAULO
-http://cs21.xyz:80/live/2545965177/0589983587/126676.m3u8
-#EXTINF:0,GLOBO SP HD
-#EXTGRP:CANAIS | REDE GLOBO SÃO PAULO
-http://cs21.xyz:80/live/2545965177/0589983587/108070.m3u8
-#EXTINF:0,GLOBO SP HD [ALT]
-#EXTGRP:CANAIS | REDE GLOBO SÃO PAULO 
-http://cs21.xyz:80/live/2545965177/0589983587/618661.m3u8
-#EXTINF:0,GLOBO SP SD
-#EXTGRP:CANAIS | REDE GLOBO SÃO PAULO
-http://cs21.xyz:80/live/2545965177/0589983587/617631.m3u8
-#EXTINF:0,GLOBO TV RIO SUL HD
-#EXTGRP:CANAIS | REDE GLOBO RIO DE JANEIRO
-http://cs21.xyz:80/live/2545965177/0589983587/108092.m3u8
-#EXTINF:0,GLOBO TV RIO SUL SD
-#EXTGRP:CANAIS | REDE GLOBO RIO DE JANEIRO
-http://cs21.xyz:80/live/2545965177/0589983587/617640.m3u8
-#EXTINF:0,GLOBO INTER TV SERRA MAR FHD
-#EXTGRP:CANAIS | REDE GLOBO RIO DE JANEIRO
-http://cs21.xyz:80/live/2545965177/0589983587/276498.m3u8
-#EXTINF:0,GLOBO INTER TV SERRA MAR HD
-#EXTGRP:CANAIS | REDE GLOBO RIO DE JANEIRO
-http://cs21.xyz:80/live/2545965177/0589983587/108030.m3u8
-#EXTGRP:CANAIS | SBT
-http://cs21.xyz:80/live/2545965177/0589983587/108247.m3u8
-#EXTINF:0,SBT RJ FHD
-#EXTGRP:CANAIS | SBT
-http://cs21.xyz:80/live/2545965177/0589983587/108249.m3u8
-#EXTINF:0,SBT RJ HD
-#EXTGRP:CANAIS | SBT
-http://cs21.xyz:80/live/2545965177/0589983587/276484.m3u8
-#EXTINF:0,SBT RJ SD
-#EXTGRP:CANAIS | SBT
-http://cs21.xyz:80/live/2545965177/0589983587/617738.m3u8
-#EXTINF:0,SBT CAMPINAS FHD
-#EXTGRP:CANAIS | SBT
-http://cs21.xyz:80/live/2545965177/0589983587/276495.m3u8
-#EXTINF:0,SBT CAMPINAS HD
-#EXTGRP:CANAIS | SBT
-http://cs21.xyz:80/live/2545965177/0589983587/276494.m3u8
-#EXTINF:0,SBT SP FHD
-#EXTGRP:CANAIS | SBT
-http://cs21.xyz:80/live/2545965177/0589983587/108253.m3u8
-#EXTINF:0,SBT SP FHD (H265)
-#EXTGRP:CANAIS | SBT
-http://cs21.xyz:80/live/2545965177/0589983587/290673.m3u8
-#EXTINF:0,SBT SP HD
-#EXTGRP:CANAIS | SBT
-http://cs21.xyz:80/live/2545965177/0589983587/108254.m3u8
-#EXTINF:0,SBT SP SD
-#EXTGRP:CANAIS | SBT
-http://cs21.xyz:80/live/2545965177/0589983587/617739.m3u8
-#EXTINF:0,RECORD RJ FHD
-#EXTGRP:CANAIS | REDE RECORD
-http://cs21.xyz:80/live/2545965177/0589983587/611837.m3u8
-#EXTINF:0,RECORD RJ HD
-#EXTGRP:CANAIS | REDE RECORD
-http://cs21.xyz:80/live/2545965177/0589983587/108226.m3u8
-#EXTINF:0,RECORD RJ SD
-#EXTGRP:CANAIS | REDE RECORD
-http://cs21.xyz:80/live/2545965177/0589983587/617729.m3u8
-#EXTINF:0,RECORD SANTOS HD
-#EXTGRP:CANAIS | REDE RECORD
-http://cs21.xyz:80/live/2545965177/0589983587/276470.m3u8
-#EXTINF:0,RECORD SJRP HD
-#EXTGRP:CANAIS | REDE RECORD
-http://cs21.xyz:80/live/2545965177/0589983587/276468.m3u8
-#EXTINF:0,RECORD SP FHD
-#EXTGRP:CANAIS | REDE RECORD
-http://cs21.xyz:80/live/2545965177/0589983587/108230.m3u8
-#EXTINF:0,RECORD SP HD
-#EXTGRP:CANAIS | REDE RECORD
-http://cs21.xyz:80/live/2545965177/0589983587/108231.m3u8
-#EXTINF:0,RECORD SP SD
-#EXTGRP:CANAIS | REDE RECORD
-http://cs21.xyz:80/live/2545965177/0589983587/617731.m3u8
-#EXTINF:0,BAND CAMPINAS FHD
-#EXTGRP:CANAIS | REDE BANDEIRANTES
-http://cs21.xyz:80/live/2545965177/0589983587/276497.m3u8
-#EXTINF:0,BAND CAMPINAS HD
-#EXTGRP:CANAIS | REDE BANDEIRANTES
-http://cs21.xyz:80/live/2545965177/0589983587/276465.m3u8
-#EXTINF:0,BAND RIO INTERIOR SD
-#EXTGRP:CANAIS | REDE BANDEIRANTES
-http://cs21.xyz:80/live/2545965177/0589983587/1159276.m3u8
-#EXTINF:0,BAND RJ FHD
-#EXTGRP:CANAIS | REDE BANDEIRANTES
-http://cs21.xyz:80/live/2545965177/0589983587/276460.m3u8
-#EXTINF:0,BAND RJ HD
-#EXTGRP:CANAIS | REDE BANDEIRANTES
-http://cs21.xyz:80/live/2545965177/0589983587/107831.m3u8
-#EXTINF:0,BAND SP FHD
-#EXTGRP:CANAIS | REDE BANDEIRANTES
-http://cs21.xyz:80/live/2545965177/0589983587/107832.m3u8
-#EXTINF:0,BAND SP FHD (H265)
-#EXTGRP:CANAIS | REDE BANDEIRANTES
-http://cs21.xyz:80/live/2545965177/0589983587/290669.m3u8
-#EXTINF:0,BAND SP HD
-#EXTGRP:CANAIS | REDE BANDEIRANTES
-http://cs21.xyz:80/live/2545965177/0589983587/107833.m3u8
-#EXTINF:0,BAND SP SD
-#EXTGRP:CANAIS | REDE BANDEIRANTES
-http://cs21.xyz:80/live/2545965177/0589983587/617551.m3u8
-#EXTINF:0,REDE BRASIL SD
-#EXTGRP:CANAIS | ABERTOS
-http://cs21.xyz:80/live/2545965177/0589983587/617733.m3u8
-#EXTINF:0,REDE TV FHD
-#EXTGRP:CANAIS | ABERTOS
-http://cs21.xyz:80/live/2545965177/0589983587/108237.m3u8
-#EXTINF:0,REDE TV FHD (H265)
-#EXTGRP:CANAIS | ABERTOS
-http://cs21.xyz:80/live/2545965177/0589983587/126737.m3u8
-#EXTINF:0,REDE TV HD
-#EXTGRP:CANAIS | ABERTOS
-http://cs21.xyz:80/live/2545965177/0589983587/108238.m3u8
-#EXTINF:0,REDE TV SD
-#EXTGRP:CANAIS | ABERTOS
-http://cs21.xyz:80/live/2545965177/0589983587/617735.m3u8
-#EXTINF:0,TV BRASIL FHD
-#EXTGRP:CANAIS | ABERTOS
-http://cs21.xyz:80/live/2545965177/0589983587/290677.m3u8
-#EXTINF:0,TV BRASIL HD
-#EXTGRP:CANAIS | ABERTOS
-http://cs21.xyz:80/live/2545965177/0589983587/276392.m3u8
-#EXTINF:0,TV BRASIL SD
-#EXTGRP:CANAIS | ABERTOS
-http://cs21.xyz:80/live/2545965177/0589983587/617776.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 xui-id="337183" tvg-id="SPRT365" tvg-name="GUIA ESPORTIVO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUDPTPNcgVb0ERhyOkS4UgjXwiuntzqP3qPykTTpThJoj80y6tJG-mZgbHSShxcO7zesw&usqp=CAU" group-title="⚽JOGOS DO DIA ⚽",GUIA ESPORTIVO
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYlR3COM3jRAd_Ic5T3Y5mX
+#EXTINF:-1 xui-id="703526" tvg-id="" tvg-name="Globo Centro America FHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - CAPITAIS",Globo Centro America FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZ7bms9Xt_hp0w4BlroIeSt
+#EXTINF:-1 xui-id="703527" tvg-id="" tvg-name="Globo Centro America HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - CAPITAIS",Globo Centro America HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYrKn2bVsUsyP4fDrEodZyt
+#EXTINF:-1 xui-id="703528" tvg-id="" tvg-name="Globo Centro America SD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - CAPITAIS",Globo Centro America SD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhaZmoyMkl8Q3ZTLZohWJ2rH
+#EXTINF:-1 xui-id="703529" tvg-id="" tvg-name="Globo TV Brasilia FHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - CAPITAIS",Globo TV Brasilia FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIha0V3DjqswPmJYaAI8rCnG2
+#EXTINF:-1 xui-id="703530" tvg-id="" tvg-name="Globo TV Brasilia HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - CAPITAIS",Globo TV Brasilia HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhaRVxSKS8Q4Jq8I9wA8arry
+#EXTINF:-1 xui-id="703531" tvg-id="" tvg-name="Globo TV Brasilia SD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - CAPITAIS",Globo TV Brasilia SD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIha3oW4cUQcLVAc2WSPKYD44
+#EXTINF:-1 xui-id="703532" tvg-id="" tvg-name="Globo TV Recife HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - CAPITAIS",Globo TV Recife HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZqkY0SKg4LWPb-VRA4d2eX
+#EXTINF:-1 xui-id="703533" tvg-id="" tvg-name="TV Gazeta FHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - CAPITAIS",TV Gazeta FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZF2d6yuwsHUUb7_EgN0NEk
+#EXTINF:-1 xui-id="703534" tvg-id="" tvg-name="TV Gazeta HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - CAPITAIS",TV Gazeta HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhaBSl4E6gv9jxqczEldtRi9
+#EXTINF:-1 xui-id="703535" tvg-id="" tvg-name="TV Gazeta Vitória ES FHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - CAPITAIS",TV Gazeta Vitória ES FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhakq3mf331FjxT0KuZHLbbL
+#EXTINF:-1 xui-id="703536" tvg-id="" tvg-name="TV Gazeta Vitória ES HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - CAPITAIS",TV Gazeta Vitória ES HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIha-InsgMwt4SQrj0yFIocu4
+#EXTINF:-1 xui-id="703537" tvg-id="" tvg-name="Globo Inter Cabugi FHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - NORDESTE",Globo Inter Cabugi FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZx_aJhxseHgrHCp0QYZLa-
+#EXTINF:-1 xui-id="703538" tvg-id="" tvg-name="Globo Inter Cabugi HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - NORDESTE",Globo Inter Cabugi HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYzLjuDl2_CAZm5py-PYfWp
+#EXTINF:-1 xui-id="703539" tvg-id="" tvg-name="Globo Nordeste FHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - NORDESTE",Globo Nordeste FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZPBVe4SDyRzUOnGmCgLzDM
+#EXTINF:-1 xui-id="703540" tvg-id="" tvg-name="Globo Nordeste HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - NORDESTE",Globo Nordeste HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYE-vaxHP4BUFkbL3tzxRZn
+#EXTINF:-1 xui-id="703541" tvg-id="" tvg-name="Globo Nordeste SD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - NORDESTE",Globo Nordeste SD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZ7L9jtmuCqIzUmr0w5j7M4
+#EXTINF:-1 xui-id="703542" tvg-id="" tvg-name="Globo TV Asa Branca FHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - NORDESTE",Globo TV Asa Branca FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhaSAS8qABVka-tJwFKCWyCD
+#EXTINF:-1 xui-id="703543" tvg-id="" tvg-name="Globo TV Bahia FHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - NORDESTE",Globo TV Bahia FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhaccmyccfX6h7uYAtselOT5
+#EXTINF:-1 xui-id="703544" tvg-id="" tvg-name="Globo TV Bahia HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - NORDESTE",Globo TV Bahia HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhbAUcLkC74HG8ZvLGbZPwtn
+#EXTINF:-1 xui-id="703545" tvg-id="" tvg-name="Globo Tv Bahia SD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - NORDESTE",Globo Tv Bahia SD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZ9rNPZ5kNJPQAQDKS_O4zY
+#EXTINF:-1 xui-id="703546" tvg-id="" tvg-name="Globo TV Clube Piauí FHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - NORDESTE",Globo TV Clube Piauí FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhY_R2i1DY9RHFR9n2PkAs1A
+#EXTINF:-1 xui-id="703547" tvg-id="" tvg-name="Globo TV Clube Piauí HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - NORDESTE",Globo TV Clube Piauí HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYyJIpqcE6-cmKmnu3plxT1
+#EXTINF:-1 xui-id="703548" tvg-id="" tvg-name="Globo TV Gazeta Alagoas FHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - NORDESTE",Globo TV Gazeta Alagoas FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYrvZ_mbX4cNe0wTc6nE5aJ
+#EXTINF:-1 xui-id="703549" tvg-id="" tvg-name="Globo TV Mirante São Luis FHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - NORDESTE",Globo TV Mirante São Luis FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIha6myFF4GJ0E_PKsP94lNfh
+#EXTINF:-1 xui-id="703550" tvg-id="" tvg-name="Globo TV Mirante São Luis HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - NORDESTE",Globo TV Mirante São Luis HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZ5PRrDAiqlWlT_HoslHQvx
+#EXTINF:-1 xui-id="703551" tvg-id="" tvg-name="Globo TV Morena FHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - NORDESTE",Globo TV Morena FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYNVabhv_iFffnbRKiN7CF5
+#EXTINF:-1 xui-id="703552" tvg-id="" tvg-name="Globo TV Morena HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - NORDESTE",Globo TV Morena HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYH1DL7B1ooBIkG0os9RL8H
+#EXTINF:-1 xui-id="703553" tvg-id="" tvg-name="Globo TV Morena SD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - NORDESTE",Globo TV Morena SD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhbLtQGLS5O9mvo65G4zC173
+#EXTINF:-1 xui-id="703554" tvg-id="" tvg-name="Globo TV Recife FHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - NORDESTE",Globo TV Recife FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhboYfQ9nSOyTRP9da8YfCWX
+#EXTINF:-1 xui-id="703555" tvg-id="" tvg-name="Globo TV Santa Cruz FHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - NORDESTE",Globo TV Santa Cruz FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhbLPH-tXmPSRpxJk29BbBrU
+#EXTINF:-1 xui-id="703556" tvg-id="" tvg-name="Globo TV Santa Cruz HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - NORDESTE",Globo TV Santa Cruz HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYPYdcdkM2wui9rI86EXBwD
+#EXTINF:-1 xui-id="703557" tvg-id="" tvg-name="Globo TV Sergipe FHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - NORDESTE",Globo TV Sergipe FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhb5LGI8Cem3lyfTSIbZT1IW
+#EXTINF:-1 xui-id="703558" tvg-id="" tvg-name="Globo TV Sergipe HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - NORDESTE",Globo TV Sergipe HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhb_BIaqIOWEpXlBFTR49A0W
+#EXTINF:-1 xui-id="703559" tvg-id="" tvg-name="Globo TV Serra Mar HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - NORDESTE",Globo TV Serra Mar HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIha98EH9ls4jFZvPrt6y1NlD
+#EXTINF:-1 xui-id="703560" tvg-id="" tvg-name="Globo TV Verdes Mares CE FHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - NORDESTE",Globo TV Verdes Mares CE FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhb2b7ugShOWU6dX5DiVI86H
+#EXTINF:-1 xui-id="703561" tvg-id="" tvg-name="Globo TV Verdes Mares CE HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - NORDESTE",Globo TV Verdes Mares CE HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhbi-rjcYEQZIqbCtbDgSn3L
+#EXTINF:-1 xui-id="703562" tvg-id="" tvg-name="Globo TV Verdes Mares CE SD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - NORDESTE",Globo TV Verdes Mares CE SD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZCxml6MkAdLoXdHDW6iAiS
+#EXTINF:-1 xui-id="703563" tvg-id="" tvg-name="Globo Amazonica FHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - NORTE",Globo Amazonica FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZo9BxQXYB-l0KqMNmKpfEc
+#EXTINF:-1 xui-id="703564" tvg-id="" tvg-name="Globo Amazonica HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - NORTE",Globo Amazonica HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZFXoK73jNTrPqQbdh-_8WV
+#EXTINF:-1 xui-id="703565" tvg-id="" tvg-name="Globo Amazonica SD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - NORTE",Globo Amazonica SD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYgeTzqlXy1gbZdM8W0YEZs
+#EXTINF:-1 xui-id="703566" tvg-id="" tvg-name="Globo Amazônica Macapá HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - NORTE",Globo Amazônica Macapá HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhaWg466x4bL9BBrZ1vCA1NI
+#EXTINF:-1 xui-id="703567" tvg-id="" tvg-name="Globo Amazônica Rio Branco HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - NORTE",Globo Amazônica Rio Branco HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhaZEHdMOJGJIoVO3QLnOvUH
+#EXTINF:-1 xui-id="703568" tvg-id="" tvg-name="Globo Boa Vista Roraima HD" tvg-logo="http://cnts.fun:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - NORTE",Globo Boa Vista Roraima HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZfgndkfvA5upt9GnAMk3Hn
+#EXTINF:-1 xui-id="703569" tvg-id="" tvg-name="Globo Tapajós PA HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - NORTE",Globo Tapajós PA HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZZnrqySVhAfLd90H6cAh6U
+#EXTINF:-1 xui-id="703570" tvg-id="" tvg-name="Globo TV Belem HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - NORTE",Globo TV Belem HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYKkprp4sw_xE_oNrJpczzr
+#EXTINF:-1 xui-id="703571" tvg-id="" tvg-name="Globo TV Belem HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - NORTE",Globo TV Belem HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZ-C5cH8BMdq9oALaSCCXHF
+#EXTINF:-1 xui-id="703572" tvg-id="" tvg-name="Globo TV Cabo Branco FHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - NORTE",Globo TV Cabo Branco FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhbh7JKNZReFmsxzkXR5QMYs
+#EXTINF:-1 xui-id="703573" tvg-id="" tvg-name="Globo TV Cabo Branco HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - NORTE",Globo TV Cabo Branco HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYxGUUycKn4mcViGiwX-0Fv
+#EXTINF:-1 xui-id="703574" tvg-id="" tvg-name="Globo TV Liberal Belem HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - NORTE",Globo TV Liberal Belem HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZjG8wMrKhifldqpSDz038p
+#EXTINF:-1 xui-id="703575" tvg-id="" tvg-name="Globo TV Mirante Cocais FHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - NORTE",Globo TV Mirante Cocais FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhbGMUT8ASEsAiLdn-SGWgxo
+#EXTINF:-1 xui-id="703576" tvg-id="" tvg-name="Globo TV Porto Velho HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - NORTE",Globo TV Porto Velho HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYED8UXPjwvhr2QkbOcKD8o
+#EXTINF:-1 xui-id="703577" tvg-id="" tvg-name="Globo Bahia VDC HD" tvg-logo="http://cnts.fun:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - REGIONAIS",Globo Bahia VDC HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYBJ21TRRSNY7j3EaoWHrrz
+#EXTINF:-1 xui-id="703578" tvg-id="" tvg-name="Globo Inter TV Alto Litoral FHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - REGIONAIS",Globo Inter TV Alto Litoral FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhY4wpLWTp5QlLUKpXqs7coJ
+#EXTINF:-1 xui-id="703579" tvg-id="" tvg-name="Globo Inter TV dos Vales FHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - REGIONAIS",Globo Inter TV dos Vales FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIha1WIgVHYgJtwX7h4er5Qvn
+#EXTINF:-1 xui-id="703580" tvg-id="" tvg-name="Globo Inter TV dos Vales HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - REGIONAIS",Globo Inter TV dos Vales HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhY8YBunt_b85fz_pMgHQ2ho
+#EXTINF:-1 xui-id="703581" tvg-id="" tvg-name="Globo NOW" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - REGIONAIS",Globo NOW
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIha1nLDl_pUYq0pFXHnQSSjh
+#EXTINF:-1 xui-id="703582" tvg-id="" tvg-name="Globo NSC Centro Oeste FHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - REGIONAIS",Globo NSC Centro Oeste FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhY7KJ4rvObV5kM_1GN5KqHU
+#EXTINF:-1 xui-id="703583" tvg-id="" tvg-name="Globo RPC Foz do Iguaçu FHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - REGIONAIS",Globo RPC Foz do Iguaçu FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhbA4Qa5IQy_AODO1ykn4zCs
+#EXTINF:-1 xui-id="703584" tvg-id="" tvg-name="Globo RPC Ponta Grossa HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - REGIONAIS",Globo RPC Ponta Grossa HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhbNv_n_NMAApvXEAB6fJC6e
+#EXTINF:-1 xui-id="703585" tvg-id="" tvg-name="Globo TV Anhanguera  Goiania SD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - REGIONAIS",Globo TV Anhanguera  Goiania SD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYMNOFfQV5qpwh2s25UfHXG
+#EXTINF:-1 xui-id="703586" tvg-id="TVANHGU" tvg-name="Globo TV Anhanguera Goiania FHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - REGIONAIS",Globo TV Anhanguera Goiania FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYVoRwVztEhHaBjrNhst8f7
+#EXTINF:-1 xui-id="703587" tvg-id="GLBGOIA" tvg-name="Globo TV Anhanguera Goiania HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - REGIONAIS",Globo TV Anhanguera Goiania HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIha7ua_O49LGlDG9XiRQtvsF
+#EXTINF:-1 xui-id="703588" tvg-id="TVDIACE" tvg-name="Globo TV Diário HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - REGIONAIS",Globo TV Diário HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZuE_oALDdoO40GOVliJ74P
+#EXTINF:-1 xui-id="703589" tvg-id="TVDIAHD" tvg-name="Globo TV Diário Mogi HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - REGIONAIS",Globo TV Diário Mogi HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYWVa81C8BA4Kp0XSpej8jk
+#EXTINF:-1 xui-id="703590" tvg-id="GAZETAH" tvg-name="Globo TV Gazeta Alagoas HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - REGIONAIS",Globo TV Gazeta Alagoas HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZJOkj5_HUzeqp6exhv6A1b
+#EXTINF:-1 xui-id="703591" tvg-id="GAZETAH" tvg-name="Globo TV Gazeta ES HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - REGIONAIS",Globo TV Gazeta ES HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhbHQPBEog8b2bl2cihzTlcc
+#EXTINF:-1 xui-id="703592" tvg-id="GLBBITA" tvg-name="Globo TV Tem Itapetininga HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - REGIONAIS",Globo TV Tem Itapetininga HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhb6ZDvE2BXzRPBt1_pgYYSI
+#EXTINF:-1 xui-id="703593" tvg-id="VANGUHD" tvg-name="Globo TV Vanguarda SJC FHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - REGIONAIS",Globo TV Vanguarda SJC FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhbsSxJp8A4kkUVTpWT06fly
+#EXTINF:-1 xui-id="703594" tvg-id="GLOVSJC" tvg-name="Globo TV Vanguarda SJC HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - REGIONAIS",Globo TV Vanguarda SJC HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhadJuz6AIUJRJ-8HkYejUa9
+#EXTINF:-1 xui-id="703595" tvg-id="TVDIAHD" tvg-name="TV Diário Fortaleza HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - REGIONAIS",TV Diário Fortaleza HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhY4QwFr9KNvCuCbZOiCNK1J
+#EXTINF:-1 xui-id="703596" tvg-id="ZYA534" tvg-name="TV Gazeta Sul ES HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - REGIONAIS",TV Gazeta Sul ES HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIha-sk_VGwRZf1_FDOU44Xyy
+#EXTINF:-1 xui-id="703597" tvg-id="ZYB524" tvg-name="TV Rio Sul HD" tvg-logo="http://cnts.fun:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - REGIONAIS",TV Rio Sul HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhavxUoin0mdNpiMpb6MFHgU
+#EXTINF:-1 xui-id="703598" tvg-id="GLBTVTM" tvg-name="TV Tem Bauru FHD" tvg-logo="http://cnts.fun:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - REGIONAIS",TV Tem Bauru FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhY633rvOyyWhtoGm0ULKKB7
+#EXTINF:-1 xui-id="703599" tvg-id="GLBTVTM" tvg-name="TV Tem Bauru HD" tvg-logo="http://cnts.fun:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - REGIONAIS",TV Tem Bauru HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhbFVvyhc5zhD1LOYLCZfQ9d
+#EXTINF:-1 xui-id="703600" tvg-id="GLBTVTM" tvg-name="TV Tem Bauru SD" tvg-logo="http://cnts.fun:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - REGIONAIS",TV Tem Bauru SD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYl-7nhLQeYsuJSt2uBWMyu
+#EXTINF:-1 xui-id="703601" tvg-id="GLBEPCA" tvg-name="Globo EPTV Campinas FHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo EPTV Campinas FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYMK9ofWU4JTiROC4dSMkrc
+#EXTINF:-1 xui-id="703602" tvg-id="GLBEPCA" tvg-name="Globo EPTV Campinas HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo EPTV Campinas HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhaBwEuJoBrTddAATPAYqx69
+#EXTINF:-1 xui-id="703603" tvg-id="GLBEPCA" tvg-name="Globo EPTV Campinas SD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo EPTV Campinas SD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZGaP3UKr3IUX2f0xWt1bbY
+#EXTINF:-1 xui-id="703604" tvg-id="EPTVRIB" tvg-name="Globo EPTV Ribeirão Preto HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo EPTV Ribeirão Preto HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYuxUMfwiB5Mram7zfEHzyN
+#EXTINF:-1 xui-id="703605" tvg-id="EPTVSUL" tvg-name="Globo EPTV Sul de Minas FHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo EPTV Sul de Minas FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZgxeIs6bOYj4A2douimiHI
+#EXTINF:-1 xui-id="703606" tvg-id="EPTVSUL" tvg-name="Globo EPTV Sul de Minas HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo EPTV Sul de Minas HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZ3tn2xKh8-Kan75JQLgyW0
+#EXTINF:-1 xui-id="703607" tvg-id="ECENTHD" tvg-name="Globo EPTV São Carlos HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo EPTV São Carlos HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZmBU6JGIxE07TvVoFMCRYH
+#EXTINF:-1 xui-id="703608" tvg-id="ZYA724H" tvg-name="Globo Integração Uberlândia HD" tvg-logo="http://cnts.fun:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo Integração Uberlândia HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYrFdj_Agus1lb0zVLvpkUG
+#EXTINF:-1 xui-id="703609" tvg-id="" tvg-name="Globo Inter PT FHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo Inter PT FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYqsBzBlmDYutMPdhfXEKh4
+#EXTINF:-1 xui-id="703610" tvg-id="" tvg-name="Globo Inter PT HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo Inter PT HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhY7OszlpUXYG57spTM8mKgV
+#EXTINF:-1 xui-id="703611" tvg-id="ZYA728" tvg-name="Globo Inter TV Grande Minas FHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo Inter TV Grande Minas FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhbxb05BXPjeDm9csdhrYy6N
+#EXTINF:-1 xui-id="703612" tvg-id="GRAMIHD" tvg-name="Globo Inter TV Grande Minas HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo Inter TV Grande Minas HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIha5OhCBbBB8IDLRY9-6wLlj
+#EXTINF:-1 xui-id="703613" tvg-id="ZYA728" tvg-name="Globo Inter TV Grande Minas SD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo Inter TV Grande Minas SD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYapYz8nDZ8ZShlgu0E0_MY
+#EXTINF:-1 xui-id="703614" tvg-id="ZYB762H" tvg-name="Globo Minas FHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo Minas FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYH81QvW3vgJeoU3LpNPx7B
+#EXTINF:-1 xui-id="703615" tvg-id="ZYB762" tvg-name="Globo Minas FHD²" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo Minas FHD²
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYou0mZrQFrM3JA99-DBBgG
+#EXTINF:-1 xui-id="703616" tvg-id="GCRICHD" tvg-name="Globo Minas HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo Minas HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYQ1xO8Qm6QMkKTaMHyA_iM
+#EXTINF:-1 xui-id="703617" tvg-id="GCRICHD" tvg-name="Globo Minas SD" tvg-logo="http://cnts.fun:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo Minas SD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhbtZHfllnqeFnaiCB9FeJAV
+#EXTINF:-1 xui-id="703618" tvg-id="CACOMUN" tvg-name="Globo Nacional FHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo Nacional FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZWRbj2_VqflOi71UhwZ-nW
+#EXTINF:-1 xui-id="703619" tvg-id="GLBRJHD" tvg-name="Globo RJ Alto Litoral HD" tvg-logo="http://cnts.fun:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo RJ Alto Litoral HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYT2rvNB2XFVmRAox-QVyW4
+#EXTINF:-1 xui-id="703620" tvg-id="GLBRJ" tvg-name="Globo RJ FHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo RJ FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhafehL-RgICJAUMKRhzczJo
+#EXTINF:-1 xui-id="703621" tvg-id="GLBRJ" tvg-name="Globo RJ FHD²" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo RJ FHD²
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhaOkkcsPBZWoPQ24gWPqlsW
+#EXTINF:-1 xui-id="703622" tvg-id="GLBRJHD" tvg-name="Globo RJ FHD³" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo RJ FHD³
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYQtS3YaZKOflRycBQZa3iK
+#EXTINF:-1 xui-id="703623" tvg-id="GLBRJ" tvg-name="Globo RJ HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo RJ HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZscqA0-XrGohiiEzyrOWnY
+#EXTINF:-1 xui-id="703624" tvg-id="GLBRJ" tvg-name="Globo RJ HD²" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo RJ HD²
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhbj5_0RyV0XcL3PfGc2omsF
+#EXTINF:-1 xui-id="703625" tvg-id="GLBRJ" tvg-name="Globo RJ Interior HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo RJ Interior HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZWLKvDT7jDqs9FaAm5O2_l
+#EXTINF:-1 xui-id="703626" tvg-id="GLBRJ" tvg-name="Globo RJ Planície HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo RJ Planície HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZGqwsYt6UlApKYio0Q4ju-
+#EXTINF:-1 xui-id="703627" tvg-id="GLBRJHD" tvg-name="Globo RJ SD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo RJ SD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhaFL8NeCm_l9yulcbV0RLEj
+#EXTINF:-1 xui-id="703628" tvg-id="GLBRJHD" tvg-name="Globo RJ SD²" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo RJ SD²
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYTL-vpDO0mvigqpxcGymR6
+#EXTINF:-1 xui-id="703629" tvg-id="GLBRJHD" tvg-name="Globo RJ UHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo RJ UHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhbj9ph0cLaZ-9fUtrtJWNVp
+#EXTINF:-1 xui-id="703630" tvg-id="ZYB861" tvg-name="Globo SJ do Rio Preto HD" tvg-logo="http://cnts.fun:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo SJ do Rio Preto HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZMqc_e9XPhKRUQXFKLdKjI
+#EXTINF:-1 xui-id="703631" tvg-id="GLBSJRP" tvg-name="Globo SJ do Rio Preto SD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo SJ do Rio Preto SD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhaTGnP8HjaBdlTjueluN8Pk
+#EXTINF:-1 xui-id="703632" tvg-id="RGSAOP" tvg-name="GLOBO SP FHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",GLOBO SP FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhbCwD2AR-o2RSBjUNHp8J3r
+#EXTINF:-1 xui-id="703633" tvg-id="RGSPHD" tvg-name="GLOBO SP FHD²" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",GLOBO SP FHD²
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhbN-lewV_VBmVW-3VJCBegP
+#EXTINF:-1 xui-id="703634" tvg-id="RGSPHD" tvg-name="Globo SP HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo SP HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYfgEfKgpKah80kpsUXohLq
+#EXTINF:-1 xui-id="703635" tvg-id="RGSPHD" tvg-name="Globo SP HD²" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo SP HD²
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhbcocD5SuuBKxhKElhXoIJD
+#EXTINF:-1 xui-id="703636" tvg-id="RGSPHD" tvg-name="Globo SP HD³" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo SP HD³
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhaZ3yRBSLpqC_m7Y_QA6qcW
+#EXTINF:-1 xui-id="703637" tvg-id="RGSPHD" tvg-name="Globo SP SD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo SP SD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhbNEWlwmWJE21LOg6Yqj-z0
+#EXTINF:-1 xui-id="703638" tvg-id="RGSPHD" tvg-name="Globo SP UHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo SP UHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhawiABCpndwoTrS_aWdxEVC
+#EXTINF:-1 xui-id="703639" tvg-id="TVFRONT" tvg-name="Globo TV Fronteira Paulista HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo TV Fronteira Paulista HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhaoJd9iCzGCExqUrCmwgL5v
+#EXTINF:-1 xui-id="703640" tvg-id="ZYA738" tvg-name="Globo TV Integração Araxá HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo TV Integração Araxá HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIha9LCUAgOwRqSLW0Q-wyfAA
+#EXTINF:-1 xui-id="703641" tvg-id="IJDFHD" tvg-name="Globo TV Integração Juiz de Fora MG FHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo TV Integração Juiz de Fora MG FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhY05dCTp-hEqeAgSegVI1-7
+#EXTINF:-1 xui-id="703642" tvg-id="IJDFHD" tvg-name="Globo TV Integração Juiz de Fora MG HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo TV Integração Juiz de Fora MG HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhbqVy-2SGbzSUZofcVnd42i
+#EXTINF:-1 xui-id="703643" tvg-id="ZYA724" tvg-name="Globo TV Integração Uberlandia HD" tvg-logo="http://cnts.fun:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo TV Integração Uberlandia HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIha9vAn2FgjTNx_6kServB6g
+#EXTINF:-1 xui-id="703644" tvg-id="TVTEM" tvg-name="Globo TV TEM Sorocaba HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo TV TEM Sorocaba HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYRH7xx8sTG7hT3F5WpEb86
+#EXTINF:-1 xui-id="703645" tvg-id="TVTEM" tvg-name="Globo TV TEM Sorocaba SD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo TV TEM Sorocaba SD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIha6YV1hdyFY9wZF8-PQc7mB
+#EXTINF:-1 xui-id="703646" tvg-id="GLBBITA" tvg-name="Globo TV Tem Taubaté HD" tvg-logo="http://cnts.fun:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo TV Tem Taubaté HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhbT1V-bIbm-tB9juTHaUJ7j
+#EXTINF:-1 xui-id="703647" tvg-id="BTRIBUH" tvg-name="Globo TV Tribuna Santos HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo TV Tribuna Santos HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhbC4zyqGoSctIXT9rSSOsji
+#EXTINF:-1 xui-id="703648" tvg-id="TRISPHD" tvg-name="Globo TV Tribuna Santos SD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUDESTE",Globo TV Tribuna Santos SD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhY0DDP7I-dNp1ofZPxgeeBG
+#EXTINF:-1 xui-id="703649" tvg-id="ZYB763" tvg-name="Globo NSC Florianopolis FHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUL",Globo NSC Florianopolis FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYdL9eh5qz0XxscgqhYXRHE
+#EXTINF:-1 xui-id="703650" tvg-id="RBSFLHD" tvg-name="Globo NSC Florianopolis HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUL",Globo NSC Florianopolis HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhbLd4xNFWfM52XhYzsOuYKa
+#EXTINF:-1 xui-id="703651" tvg-id="RBSFLHD" tvg-name="Globo NSC Florianopolis SD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUL",Globo NSC Florianopolis SD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhaNFBuatl-q60sSlmy0PZDd
+#EXTINF:-1 xui-id="703652" tvg-id="RBSBLHD" tvg-name="Globo NSC TV Blumenau FHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUL",Globo NSC TV Blumenau FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhY4uLLYrmJeK6ahkQYxb6Is
+#EXTINF:-1 xui-id="703653" tvg-id="ZYB760" tvg-name="Globo NSC TV Blumenau HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUL",Globo NSC TV Blumenau HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhbnZSf2v9CHvZ3nh1uijrk9
+#EXTINF:-1 xui-id="703654" tvg-id="ZYB767" tvg-name="Globo NSC TV Chapeco FHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUL",Globo NSC TV Chapeco FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhbtpLYNFDGiN45wv8eP8nMt
+#EXTINF:-1 xui-id="703655" tvg-id="ZYB762" tvg-name="Globo NSC TV Criciuma FHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUL",Globo NSC TV Criciuma FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZ0qy0WOMnGOPSOPh3FfSWF
+#EXTINF:-1 xui-id="703656" tvg-id="RBSJOIH" tvg-name="Globo NSC TV Joinville FHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUL",Globo NSC TV Joinville FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZZ-gepmnGuUMCckDviXkwZ
+#EXTINF:-1 xui-id="703657" tvg-id="ZYB626" tvg-name="Globo RBS Passo Fundo HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUL",Globo RBS Passo Fundo HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYOEQcdRfdLbt4ik7NnbuD9
+#EXTINF:-1 xui-id="703658" tvg-id="RBSCDSH" tvg-name="Globo RBS TV Caxias do Sul HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUL",Globo RBS TV Caxias do Sul HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZlEZ3fY-4M16--I0SmuIgb
+#EXTINF:-1 xui-id="703659" tvg-id="RBSPEHD" tvg-name="Globo RBS TV Pelotas FHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUL",Globo RBS TV Pelotas FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZf5irkZMmo8_LPWNp0OEWJ
+#EXTINF:-1 xui-id="703660" tvg-id="RBSPAHD" tvg-name="Globo RBS TV POA FHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUL",Globo RBS TV POA FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZ_Ezf1yRmvCZhQYVTWbHpM
+#EXTINF:-1 xui-id="703661" tvg-id="RBSPAHD" tvg-name="Globo RBS TV POA HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUL",Globo RBS TV POA HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYRn-0h03NKWXfmW5XrqdF2
+#EXTINF:-1 xui-id="703662" tvg-id="GLBRBSP" tvg-name="Globo RBS TV POA SD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUL",Globo RBS TV POA SD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZ5hUq-nWIqlUqHhxu0Fqo-
+#EXTINF:-1 xui-id="703663" tvg-id="RBSSMHD" tvg-name="Globo RBS TV Santa Maria HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUL",Globo RBS TV Santa Maria HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhbR79oz7_SPYbv7WTLc35Iw
+#EXTINF:-1 xui-id="703664" tvg-id="GLBRBSP" tvg-name="Globo RBS TV UHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUL",Globo RBS TV UHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYpGEJMtEth9IWVAyf9IAvH
+#EXTINF:-1 xui-id="703665" tvg-id="ZYB402" tvg-name="Globo RPC Cascavel HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUL",Globo RPC Cascavel HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhbZoquL9HR0Qmyl0GANVChK
+#EXTINF:-1 xui-id="703666" tvg-id="GLRPCHD" tvg-name="Globo RPC Curitiba FHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUL",Globo RPC Curitiba FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhampRU6DKLQ4wxu84tx5sme
+#EXTINF:-1 xui-id="703667" tvg-id="GLRPCHD" tvg-name="Globo RPC Curitiba HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUL",Globo RPC Curitiba HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhb7eDQVqfqMs3fSyrVtimt7
+#EXTINF:-1 xui-id="703668" tvg-id="GLRPCHD" tvg-name="Globo RPC Curitiba SD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUL",Globo RPC Curitiba SD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYfSzJ02GBSL1R9a_bhng_r
+#EXTINF:-1 xui-id="703669" tvg-id="RPCLONH" tvg-name="Globo RPC Londrina HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUL",Globo RPC Londrina HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhaRYdc8Zea7chuMrCkHhCQ2
+#EXTINF:-1 xui-id="703670" tvg-id="MARINHD" tvg-name="Globo RPC Maringa FHD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUL",Globo RPC Maringa FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhaL2yFIlYEO7n7Iv05bDvhO
+#EXTINF:-1 xui-id="703671" tvg-id="MARINHD" tvg-name="Globo RPC Maringa HD" tvg-logo="http://cnts.fun:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUL",Globo RPC Maringa HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhaR1cMLbppAa139kPF_Ikri
+#EXTINF:-1 xui-id="703672" tvg-id="RPCPAHD" tvg-name="Globo RPC Paranavaí HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUL",Globo RPC Paranavaí HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZbs2ibIZqRU1t2HHP8x-ux
+#EXTINF:-1 xui-id="703673" tvg-id="RIOSULH" tvg-name="Globo TV Rio Sul HD" tvg-logo="http://capivara.top:80/images/VgaeRL2tCFmMjRsDWrpiOzH1ZVrpklsikJCkFXoXaLYwxmGDsKrnZP2bzyEjk6xGRK4p-U5yHxZZ6tugCSiDKxct_vYfNjRRlxKBo7iL79g0nRPHKQ9Pn4P9K8awF-vWibRTjYzY8n_gayZuviwLX2b1071FY1JV6baRz0fC68o.png" group-title="GLOBO - SUL",Globo TV Rio Sul HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIha-vz_ie8JzphwIriHxS5Dy
+#EXTINF:-1 xui-id="703674" tvg-id="BBAHIAH" tvg-name="Band Bahia HD" tvg-logo="http://capivara.top:80/images/KzaeFxAY48SKwaLpBzQydD0ujZXoUKMqDn7yFZV3R0t3o8KXcdgQ0neDGcoy8fnNMrEtYJdK2XKWQ9cM7KitCg-lKXnkNMQoUtmAX6hEiOE.png" group-title="BAND",Band Bahia HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYCrLPYbPfk4WFo3zYKfhYW
+#EXTINF:-1 xui-id="703675" tvg-id="ZYA510" tvg-name="Band Brasilia HD" tvg-logo="http://capivara.top:80/images/KzaeFxAY48SKwaLpBzQydD0ujZXoUKMqDn7yFZV3R0t3o8KXcdgQ0neDGcoy8fnNMrEtYJdK2XKWQ9cM7KitCg-lKXnkNMQoUtmAX6hEiOE.png" group-title="BAND",Band Brasilia HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhbq0CPpyv48K9bIid_LIY0v
+#EXTINF:-1 xui-id="703676" tvg-id="BDCAMHD" tvg-name="Band Campinas HD" tvg-logo="http://capivara.top:80/images/KzaeFxAY48SKwaLpBzQydD0ujZXoUKMqDn7yFZV3R0t3o8KXcdgQ0neDGcoy8fnNMrEtYJdK2XKWQ9cM7KitCg-lKXnkNMQoUtmAX6hEiOE.png" group-title="BAND",Band Campinas HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZihuDuHvIouodBDnnEO0Er
+#EXTINF:-1 xui-id="703677" tvg-id="BANDCHD" tvg-name="Band Cascavel PR FHD" tvg-logo="http://capivara.top:80/images/KzaeFxAY48SKwaLpBzQydD0ujZXoUKMqDn7yFZV3R0t3o8KXcdgQ0neDGcoy8fnNMrEtYJdK2XKWQ9cM7KitCg-lKXnkNMQoUtmAX6hEiOE.png" group-title="BAND",Band Cascavel PR FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZL-p0K0lHXvgbOEmbiwL5W
+#EXTINF:-1 xui-id="703678" tvg-id="ZYB852" tvg-name="Band FHD" tvg-logo="http://capivara.top:80/images/KzaeFxAY48SKwaLpBzQydD0ujZXoUKMqDn7yFZV3R0t3o8KXcdgQ0neDGcoy8fnNMrEtYJdK2XKWQ9cM7KitCg-lKXnkNMQoUtmAX6hEiOE.png" group-title="BAND",Band FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhaIUJKK8IgfdK9BOx8FM4HQ
+#EXTINF:-1 xui-id="703679" tvg-id="ZYB852" tvg-name="Band HD" tvg-logo="http://capivara.top:80/images/KzaeFxAY48SKwaLpBzQydD0ujZXoUKMqDn7yFZV3R0t3o8KXcdgQ0neDGcoy8fnNMrEtYJdK2XKWQ9cM7KitCg-lKXnkNMQoUtmAX6hEiOE.png" group-title="BAND",Band HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYyrMzE8Of0DD0VzlJrNm5P
+#EXTINF:-1 xui-id="703680" tvg-id="BMINASH" tvg-name="Band MG FHD" tvg-logo="http://capivara.top:80/images/KzaeFxAY48SKwaLpBzQydD0ujZXoUKMqDn7yFZV3R0t3o8KXcdgQ0neDGcoy8fnNMrEtYJdK2XKWQ9cM7KitCg-lKXnkNMQoUtmAX6hEiOE.png" group-title="BAND",Band MG FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYbmar5x9R8D4aZYpB6cCco
+#EXTINF:-1 xui-id="703681" tvg-id="BNATALH" tvg-name="Band Nordeste HD" tvg-logo="http://capivara.top:80/images/KzaeFxAY48SKwaLpBzQydD0ujZXoUKMqDn7yFZV3R0t3o8KXcdgQ0neDGcoy8fnNMrEtYJdK2XKWQ9cM7KitCg-lKXnkNMQoUtmAX6hEiOE.png" group-title="BAND",Band Nordeste HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhaOCj6CgresHh9LRMZ_WZFt
+#EXTINF:-1 xui-id="703682" tvg-id="BNATALH" tvg-name="Band Nordeste|CE FHD" tvg-logo="http://capivara.top:80/images/KzaeFxAY48SKwaLpBzQydD0ujZXoUKMqDn7yFZV3R0t3o8KXcdgQ0neDGcoy8fnNMrEtYJdK2XKWQ9cM7KitCg-lKXnkNMQoUtmAX6hEiOE.png" group-title="BAND",Band Nordeste|CE FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhb0f0Qe8sv7LJRnDc3Vx25a
+#EXTINF:-1 xui-id="703684" tvg-id="BANDRJH" tvg-name="Band RJ FHD" tvg-logo="http://capivara.top:80/images/KzaeFxAY48SKwaLpBzQydD0ujZXoUKMqDn7yFZV3R0t3o8KXcdgQ0neDGcoy8fnNMrEtYJdK2XKWQ9cM7KitCg-lKXnkNMQoUtmAX6hEiOE.png" group-title="BAND",Band RJ FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZ3GcyOkoGXOt8My7hpCkEo
+#EXTINF:-1 xui-id="703685" tvg-id="BANDRJH" tvg-name="Band RJ HD" tvg-logo="http://capivara.top:80/images/KzaeFxAY48SKwaLpBzQydD0ujZXoUKMqDn7yFZV3R0t3o8KXcdgQ0neDGcoy8fnNMrEtYJdK2XKWQ9cM7KitCg-lKXnkNMQoUtmAX6hEiOE.png" group-title="BAND",Band RJ HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYnwZSXPBwB5pKtmaPnPTNz
+#EXTINF:-1 xui-id="703686" tvg-id="BDRGSHD" tvg-name="Band RS FHD" tvg-logo="http://capivara.top:80/images/KzaeFxAY48SKwaLpBzQydD0ujZXoUKMqDn7yFZV3R0t3o8KXcdgQ0neDGcoy8fnNMrEtYJdK2XKWQ9cM7KitCg-lKXnkNMQoUtmAX6hEiOE.png" group-title="BAND",Band RS FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZJgZaZPvcoba7__q0_JyfP
+#EXTINF:-1 xui-id="703687" tvg-id="ZYB852" tvg-name="Band SD" tvg-logo="http://capivara.top:80/images/KzaeFxAY48SKwaLpBzQydD0ujZXoUKMqDn7yFZV3R0t3o8KXcdgQ0neDGcoy8fnNMrEtYJdK2XKWQ9cM7KitCg-lKXnkNMQoUtmAX6hEiOE.png" group-title="BAND",Band SD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYwNsXb7nZfIyaz6b6P8L5t
+#EXTINF:-1 xui-id="703688" tvg-id="ZYB852" tvg-name="Band SD²" tvg-logo="http://capivara.top:80/images/KzaeFxAY48SKwaLpBzQydD0ujZXoUKMqDn7yFZV3R0t3o8KXcdgQ0neDGcoy8fnNMrEtYJdK2XKWQ9cM7KitCg-lKXnkNMQoUtmAX6hEiOE.png" group-title="BAND",Band SD²
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhajPjRidYa5H_mFqZ3KwPQs
+#EXTINF:-1 xui-id="703689" tvg-id="ZYB852" tvg-name="Band SP FHD" tvg-logo="http://capivara.top:80/images/KzaeFxAY48SKwaLpBzQydD0ujZXoUKMqDn7yFZV3R0t3o8KXcdgQ0neDGcoy8fnNMrEtYJdK2XKWQ9cM7KitCg-lKXnkNMQoUtmAX6hEiOE.png" group-title="BAND",Band SP FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZmg-ZhH-5Qa838xbnZs3eJ
+#EXTINF:-1 xui-id="703690" tvg-id="ZYB852" tvg-name="Band SP HD" tvg-logo="http://capivara.top:80/images/KzaeFxAY48SKwaLpBzQydD0ujZXoUKMqDn7yFZV3R0t3o8KXcdgQ0neDGcoy8fnNMrEtYJdK2XKWQ9cM7KitCg-lKXnkNMQoUtmAX6hEiOE.png" group-title="BAND",Band SP HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhbH87FbwscP60e275BK5l8Q
+#EXTINF:-1 xui-id="703691" tvg-id="PAJUCHD" tvg-name="Record AL HD" tvg-logo="http://capivara.top:80/images/KzaeFxAY48SKwaLpBzQydD0ujZXoUKMqDn7yFZV3R0sJT1_H_UtWk7Id7ZVdllzt_fZJYZ0ZT7QG1XI3NoJrJmOUOykmNBhkNTOQYDtBeng.png" group-title="RECORD",Record AL HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYC2yCEbvSOj7qpXBX3nlpC
+#EXTINF:-1 xui-id="703692" tvg-id="RECBELH" tvg-name="Record Belém HD" tvg-logo="http://capivara.top:80/images/Afiw1E3ANFWil9am66MTsJOrG6qjrMg6ZHQETlch-ySF3dNvRTeZEU-ZsAtDKSsubaUN6-lWuvWiqKhXqEDH2y-Iq-g7SEPQLonW7x7byuUNU666Lm5XQ9yd6GNx0FHaRvwjy3PxcxpFJTknA-3DPbVUBq8qNkFXQX_7CQkN1Vui2qonSwZ-0UIRMpLUP6Bx.png" group-title="RECORD",Record Belém HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZjneKES_FZjUwjNQ88AG_Z
+#EXTINF:-1 xui-id="703693" tvg-id="RECBRAH" tvg-name="Record Brasília HD" tvg-logo="http://capivara.top:80/images/Afiw1E3ANFWil9am66MTsJOrG6qjrMg6ZHQETlch-ySF3dNvRTeZEU-ZsAtDKSsubaUN6-lWuvWiqKhXqEDH2y-Iq-g7SEPQLonW7x7byuUNU666Lm5XQ9yd6GNx0FHaRvwjy3PxcxpFJTknA-3DPbVUBq8qNkFXQX_7CQkN1Vui2qonSwZ-0UIRMpLUP6Bx.png" group-title="RECORD",Record Brasília HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhaFvTmkP0jJ_V0enNqpRydH
+#EXTINF:-1 xui-id="703694" tvg-id="" tvg-name="Record ES SD" tvg-logo="http://capivara.top:80/images/Afiw1E3ANFWil9am66MTsJOrG6qjrMg6ZHQETlch-ySF3dNvRTeZEU-ZsAtDKSsubaUN6-lWuvWiqKhXqEDH2y-Iq-g7SEPQLonW7x7byuUNU666Lm5XQ9yd6GNx0FHaRvwjy3PxcxpFJTknA-3DPbVUBq8qNkFXQX_7CQkN1Vui2qonSwZ-0UIRMpLUP6Bx.png" group-title="RECORD",Record ES SD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYhNAz7QFHRHf3yPsonzr3n
+#EXTINF:-1 xui-id="703695" tvg-id="RECGOIH" tvg-name="Record Goiás HD" tvg-logo="http://capivara.top:80/images/Afiw1E3ANFWil9am66MTsJOrG6qjrMg6ZHQETlch-ySF3dNvRTeZEU-ZsAtDKSsubaUN6-lWuvWiqKhXqEDH2y-Iq-g7SEPQLonW7x7byuUNU666Lm5XQ9yd6GNx0FHaRvwjy3PxcxpFJTknA-3DPbVUBq8qNkFXQX_7CQkN1Vui2qonSwZ-0UIRMpLUP6Bx.png" group-title="RECORD",Record Goiás HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhaaDRR0mDpVd1Dfjn1QATtq
+#EXTINF:-1 xui-id="703696" tvg-id="RECITAH" tvg-name="Record Itapoan BA HD" tvg-logo="http://capivara.top:80/images/Afiw1E3ANFWil9am66MTsJOrG6qjrMg6ZHQETlch-ySF3dNvRTeZEU-ZsAtDKSsubaUN6-lWuvWiqKhXqEDH2y-Iq-g7SEPQLonW7x7byuUNU666Lm5XQ9yd6GNx0FHaRvwjy3PxcxpFJTknA-3DPbVUBq8qNkFXQX_7CQkN1Vui2qonSwZ-0UIRMpLUP6Bx.png" group-title="RECORD",Record Itapoan BA HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhbfMsvuBdmzzOax_5oLQV-c
+#EXTINF:-1 xui-id="703697" tvg-id="" tvg-name="Record Manaus HD" tvg-logo="http://capivara.top:80/images/Afiw1E3ANFWil9am66MTsJOrG6qjrMg6ZHQETlch-ySF3dNvRTeZEU-ZsAtDKSsubaUN6-lWuvWiqKhXqEDH2y-Iq-g7SEPQLonW7x7byuUNU666Lm5XQ9yd6GNx0FHaRvwjy3PxcxpFJTknA-3DPbVUBq8qNkFXQX_7CQkN1Vui2qonSwZ-0UIRMpLUP6Bx.png" group-title="RECORD",Record Manaus HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZIy0ob5VanMDu2TDI5pX07
+#EXTINF:-1 xui-id="703698" tvg-id="" tvg-name="Record Minas HD" tvg-logo="http://capivara.top:80/images/Afiw1E3ANFWil9am66MTsJOrG6qjrMg6ZHQETlch-ySF3dNvRTeZEU-ZsAtDKSsubaUN6-lWuvWiqKhXqEDH2y-Iq-g7SEPQLonW7x7byuUNU666Lm5XQ9yd6GNx0FHaRvwjy3PxcxpFJTknA-3DPbVUBq8qNkFXQX_7CQkN1Vui2qonSwZ-0UIRMpLUP6Bx.png" group-title="RECORD",Record Minas HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhazin_9mjOLpCDfbhGjhHt6
+#EXTINF:-1 xui-id="703699" tvg-id="" tvg-name="Record MT FHD" tvg-logo="http://capivara.top:80/images/KzaeFxAY48SKwaLpBzQydD0ujZXoUKMqDn7yFZV3R0sJT1_H_UtWk7Id7ZVdllzt_fZJYZ0ZT7QG1XI3NoJrJmOUOykmNBhkNTOQYDtBeng.png" group-title="RECORD",Record MT FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZGmT21EIb1dyaPpffWUGrI
+#EXTINF:-1 xui-id="703700" tvg-id="" tvg-name="Record PA HD" tvg-logo="http://capivara.top:80/images/KzaeFxAY48SKwaLpBzQydD0ujZXoUKMqDn7yFZV3R0sJT1_H_UtWk7Id7ZVdllzt_fZJYZ0ZT7QG1XI3NoJrJmOUOykmNBhkNTOQYDtBeng.png" group-title="RECORD",Record PA HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhY_GsVDGdQkZrDu_zAhx1Tm
+#EXTINF:-1 xui-id="703701" tvg-id="" tvg-name="Record PR FHD" tvg-logo="http://capivara.top:80/images/KzaeFxAY48SKwaLpBzQydD0ujZXoUKMqDn7yFZV3R0sJT1_H_UtWk7Id7ZVdllzt_fZJYZ0ZT7QG1XI3NoJrJmOUOykmNBhkNTOQYDtBeng.png" group-title="RECORD",Record PR FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZ0tbt08oZMMq7gtr1eQTvR
+#EXTINF:-1 xui-id="703702" tvg-id="" tvg-name="Record RJ FHD" tvg-logo="http://capivara.top:80/images/KzaeFxAY48SKwaLpBzQydD0ujZXoUKMqDn7yFZV3R0sJT1_H_UtWk7Id7ZVdllzt_fZJYZ0ZT7QG1XI3NoJrJmOUOykmNBhkNTOQYDtBeng.png" group-title="RECORD",Record RJ FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYMngrDuQmd-AZPPrvGHhUZ
+#EXTINF:-1 xui-id="703703" tvg-id="" tvg-name="Record RJ HD" tvg-logo="http://capivara.top:80/images/Afiw1E3ANFWil9am66MTsJOrG6qjrMg6ZHQETlch-ySF3dNvRTeZEU-ZsAtDKSsubaUN6-lWuvWiqKhXqEDH2y-Iq-g7SEPQLonW7x7byuUNU666Lm5XQ9yd6GNx0FHaRvwjy3PxcxpFJTknA-3DPbVUBq8qNkFXQX_7CQkN1Vui2qonSwZ-0UIRMpLUP6Bx.png" group-title="RECORD",Record RJ HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhaGe2AD6QubMlmkRPXOtKQ5
+#EXTINF:-1 xui-id="703704" tvg-id="" tvg-name="Record RJ SD" tvg-logo="http://capivara.top:80/images/KzaeFxAY48SKwaLpBzQydD0ujZXoUKMqDn7yFZV3R0sJT1_H_UtWk7Id7ZVdllzt_fZJYZ0ZT7QG1XI3NoJrJmOUOykmNBhkNTOQYDtBeng.png" group-title="RECORD",Record RJ SD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZNDyva6uJpjM25NEOYDCkv
+#EXTINF:-1 xui-id="703705" tvg-id="" tvg-name="Record RN HD" tvg-logo="http://capivara.top:80/images/KzaeFxAY48SKwaLpBzQydD0ujZXoUKMqDn7yFZV3R0sJT1_H_UtWk7Id7ZVdllzt_fZJYZ0ZT7QG1XI3NoJrJmOUOykmNBhkNTOQYDtBeng.png" group-title="RECORD",Record RN HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhbEZ2F1FrKtX3DMcuL_Tf8r
+#EXTINF:-1 xui-id="703706" tvg-id="" tvg-name="Record RS HD" tvg-logo="http://capivara.top:80/images/Afiw1E3ANFWil9am66MTsJOrG6qjrMg6ZHQETlch-ySF3dNvRTeZEU-ZsAtDKSsubaUN6-lWuvWiqKhXqEDH2y-Iq-g7SEPQLonW7x7byuUNU666Lm5XQ9yd6GNx0FHaRvwjy3PxcxpFJTknA-3DPbVUBq8qNkFXQX_7CQkN1Vui2qonSwZ-0UIRMpLUP6Bx.png" group-title="RECORD",Record RS HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhbHPth7moDi3IIyQpe3OQLx
+#EXTINF:-1 xui-id="703707" tvg-id="" tvg-name="Record SC FHD" tvg-logo="http://capivara.top:80/images/KzaeFxAY48SKwaLpBzQydD0ujZXoUKMqDn7yFZV3R0sJT1_H_UtWk7Id7ZVdllzt_fZJYZ0ZT7QG1XI3NoJrJmOUOykmNBhkNTOQYDtBeng.png" group-title="RECORD",Record SC FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhb-8pkGwxK6uo0WaG03fOo9
+#EXTINF:-1 xui-id="703708" tvg-id="" tvg-name="Record SD" tvg-logo="http://capivara.top:80/images/Afiw1E3ANFWil9am66MTsJOrG6qjrMg6ZHQETlch-ySF3dNvRTeZEU-ZsAtDKSsubaUN6-lWuvWiqKhXqEDH2y-Iq-g7SEPQLonW7x7byuUNU666Lm5XQ9yd6GNx0FHaRvwjy3PxcxpFJTknA-3DPbVUBq8qNkFXQX_7CQkN1Vui2qonSwZ-0UIRMpLUP6Bx.png" group-title="RECORD",Record SD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhb1OLtDeEP6b0R0ISZVSQ1v
+#EXTINF:-1 xui-id="703709" tvg-id="" tvg-name="Record SD" tvg-logo="http://capivara.top:80/images/Afiw1E3ANFWil9am66MTsJOrG6qjrMg6ZHQETlch-ySF3dNvRTeZEU-ZsAtDKSsubaUN6-lWuvWiqKhXqEDH2y-Iq-g7SEPQLonW7x7byuUNU666Lm5XQ9yd6GNx0FHaRvwjy3PxcxpFJTknA-3DPbVUBq8qNkFXQX_7CQkN1Vui2qonSwZ-0UIRMpLUP6Bx.png" group-title="RECORD",Record SD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZXfUl-6NfLSVd6ZXhzQiKr
+#EXTINF:-1 xui-id="703710" tvg-id="" tvg-name="Record SD ²" tvg-logo="http://capivara.top:80/images/Afiw1E3ANFWil9am66MTsJOrG6qjrMg6ZHQETlch-ySF3dNvRTeZEU-ZsAtDKSsubaUN6-lWuvWiqKhXqEDH2y-Iq-g7SEPQLonW7x7byuUNU666Lm5XQ9yd6GNx0FHaRvwjy3PxcxpFJTknA-3DPbVUBq8qNkFXQX_7CQkN1Vui2qonSwZ-0UIRMpLUP6Bx.png" group-title="RECORD",Record SD ²
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYczvPy6NxihmSloa0LLGVt
+#EXTINF:-1 xui-id="703711" tvg-id="" tvg-name="Record SP FHD" tvg-logo="http://capivara.top:80/images/Afiw1E3ANFWil9am66MTsJOrG6qjrMg6ZHQETlch-ySF3dNvRTeZEU-ZsAtDKSsubaUN6-lWuvWiqKhXqEDH2y-Iq-g7SEPQLonW7x7byuUNU666Lm5XQ9yd6GNx0FHaRvwjy3PxcxpFJTknA-3DPbVUBq8qNkFXQX_7CQkN1Vui2qonSwZ-0UIRMpLUP6Bx.png" group-title="RECORD",Record SP FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhb4LJrNn0x7nsUpb4dAhdIC
+#EXTINF:-1 xui-id="703712" tvg-id="" tvg-name="Record SP HD" tvg-logo="http://capivara.top:80/images/Afiw1E3ANFWil9am66MTsJOrG6qjrMg6ZHQETlch-ySF3dNvRTeZEU-ZsAtDKSsubaUN6-lWuvWiqKhXqEDH2y-Iq-g7SEPQLonW7x7byuUNU666Lm5XQ9yd6GNx0FHaRvwjy3PxcxpFJTknA-3DPbVUBq8qNkFXQX_7CQkN1Vui2qonSwZ-0UIRMpLUP6Bx.png" group-title="RECORD",Record SP HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYtxppuKzqXYTUsseTe9qxW
+#EXTINF:-1 xui-id="703714" tvg-id="" tvg-name="Record TV Cidade CE FHD" tvg-logo="http://capivara.top:80/images/KzaeFxAY48SKwaLpBzQydD0ujZXoUKMqDn7yFZV3R0sJT1_H_UtWk7Id7ZVdllzt_fZJYZ0ZT7QG1XI3NoJrJmOUOykmNBhkNTOQYDtBeng.png" group-title="RECORD",Record TV Cidade CE FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhbRNc0lHS2XFqCe9WcFN6qa
+#EXTINF:-1 xui-id="703715" tvg-id="" tvg-name="SBT BA HD" tvg-logo="http://capivara.top:80/images/_PFPECAfduyBrBSxQu9ZP8h5vGGQAasG1ipPf_HBBzSr5gBsItE41IPTO5XFtpNplx3Ma0TU7slBp9-rm-ogdw.jpg" group-title="SBT",SBT BA HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhY8fVx_MwWBuSFjPoOw357z
+#EXTINF:-1 xui-id="703716" tvg-id="" tvg-name="SBT Brasilia FHD" tvg-logo="http://capivara.top:80/images/_PFPECAfduyBrBSxQu9ZP8h5vGGQAasG1ipPf_HBBzSr5gBsItE41IPTO5XFtpNplx3Ma0TU7slBp9-rm-ogdw.jpg" group-title="SBT",SBT Brasilia FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYm3_sNvaMyf_AHOJ-y5QeK
+#EXTINF:-1 xui-id="703717" tvg-id="" tvg-name="SBT GO HD" tvg-logo="http://capivara.top:80/images/_PFPECAfduyBrBSxQu9ZP8h5vGGQAasG1ipPf_HBBzSr5gBsItE41IPTO5XFtpNplx3Ma0TU7slBp9-rm-ogdw.jpg" group-title="SBT",SBT GO HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhbcawtQIOfrbzES10KWseJO
+#EXTINF:-1 xui-id="703718" tvg-id="" tvg-name="SBT HD" tvg-logo="http://capivara.top:80/images/_PFPECAfduyBrBSxQu9ZP8h5vGGQAasG1ipPf_HBBzSr5gBsItE41IPTO5XFtpNplx3Ma0TU7slBp9-rm-ogdw.jpg" group-title="SBT",SBT HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhbPILz_7a-eW3BzYnf_970V
+#EXTINF:-1 xui-id="703719" tvg-id="" tvg-name="SBT Int SP HD" tvg-logo="http://capivara.top:80/images/_PFPECAfduyBrBSxQu9ZP8h5vGGQAasG1ipPf_HBBzSr5gBsItE41IPTO5XFtpNplx3Ma0TU7slBp9-rm-ogdw.jpg" group-title="SBT",SBT Int SP HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhbHBcEoRh9I5NG5WyYlIX4r
+#EXTINF:-1 xui-id="703720" tvg-id="" tvg-name="SBT Jangadeiro CE FHD" tvg-logo="http://capivara.top:80/images/_PFPECAfduyBrBSxQu9ZP8h5vGGQAasG1ipPf_HBBzSr5gBsItE41IPTO5XFtpNplx3Ma0TU7slBp9-rm-ogdw.jpg" group-title="SBT",SBT Jangadeiro CE FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZ1_JLIW9B0eLuhh8zgterY
+#EXTINF:-1 xui-id="703721" tvg-id="" tvg-name="SBT MA HD" tvg-logo="http://capivara.top:80/images/_PFPECAfduyBrBSxQu9ZP8h5vGGQAasG1ipPf_HBBzSr5gBsItE41IPTO5XFtpNplx3Ma0TU7slBp9-rm-ogdw.jpg" group-title="SBT",SBT MA HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZ1FpsEiIu1VX2ToDF-xIzj
+#EXTINF:-1 xui-id="703722" tvg-id="" tvg-name="SBT MG HD" tvg-logo="http://capivara.top:80/images/_PFPECAfduyBrBSxQu9ZP8h5vGGQAasG1ipPf_HBBzSr5gBsItE41IPTO5XFtpNplx3Ma0TU7slBp9-rm-ogdw.jpg" group-title="SBT",SBT MG HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZ4Eu6F9M8CknS1kLC7OS3c
+#EXTINF:-1 xui-id="703723" tvg-id="" tvg-name="SBT MT HD" tvg-logo="http://capivara.top:80/images/_PFPECAfduyBrBSxQu9ZP8h5vGGQAasG1ipPf_HBBzSr5gBsItE41IPTO5XFtpNplx3Ma0TU7slBp9-rm-ogdw.jpg" group-title="SBT",SBT MT HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYedw4gV9SIjgm1h9OAo7iG
+#EXTINF:-1 xui-id="703724" tvg-id="" tvg-name="SBT Nacional FHD" tvg-logo="http://capivara.top:80/images/_PFPECAfduyBrBSxQu9ZP8h5vGGQAasG1ipPf_HBBzSr5gBsItE41IPTO5XFtpNplx3Ma0TU7slBp9-rm-ogdw.jpg" group-title="SBT",SBT Nacional FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhavCQUC48A51Ixooi12KXSO
+#EXTINF:-1 xui-id="703725" tvg-id="" tvg-name="SBT PA Guajará FHD" tvg-logo="http://capivara.top:80/images/_PFPECAfduyBrBSxQu9ZP8h5vGGQAasG1ipPf_HBBzSr5gBsItE41IPTO5XFtpNplx3Ma0TU7slBp9-rm-ogdw.jpg" group-title="SBT",SBT PA Guajará FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhbWPfq-FXka1L2fj2aKwwQY
+#EXTINF:-1 xui-id="703726" tvg-id="" tvg-name="SBT PE HD" tvg-logo="http://capivara.top:80/images/_PFPECAfduyBrBSxQu9ZP8h5vGGQAasG1ipPf_HBBzSr5gBsItE41IPTO5XFtpNplx3Ma0TU7slBp9-rm-ogdw.jpg" group-title="SBT",SBT PE HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZY1_ThbyJ_mm5fY_Zc-b_n
+#EXTINF:-1 xui-id="703727" tvg-id="" tvg-name="SBT PI HD" tvg-logo="http://capivara.top:80/images/_PFPECAfduyBrBSxQu9ZP8h5vGGQAasG1ipPf_HBBzSr5gBsItE41IPTO5XFtpNplx3Ma0TU7slBp9-rm-ogdw.jpg" group-title="SBT",SBT PI HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYXfuiXgcyuVo5Z5IgunyxG
+#EXTINF:-1 xui-id="703728" tvg-id="" tvg-name="SBT PR HD" tvg-logo="http://capivara.top:80/images/_PFPECAfduyBrBSxQu9ZP8h5vGGQAasG1ipPf_HBBzSr5gBsItE41IPTO5XFtpNplx3Ma0TU7slBp9-rm-ogdw.jpg" group-title="SBT",SBT PR HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhZi-tHlpQPYmUyl54RxzVI_
+#EXTINF:-1 xui-id="703729" tvg-id="" tvg-name="SBT RJ FHD" tvg-logo="http://capivara.top:80/images/_PFPECAfduyBrBSxQu9ZP8h5vGGQAasG1ipPf_HBBzSr5gBsItE41IPTO5XFtpNplx3Ma0TU7slBp9-rm-ogdw.jpg" group-title="SBT",SBT RJ FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhbR32UjshQu_8HdAqypuVKK
+#EXTINF:-1 xui-id="703730" tvg-id="" tvg-name="SBT RJ HD" tvg-logo="http://capivara.top:80/images/_PFPECAfduyBrBSxQu9ZP8h5vGGQAasG1ipPf_HBBzSr5gBsItE41IPTO5XFtpNplx3Ma0TU7slBp9-rm-ogdw.jpg" group-title="SBT",SBT RJ HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhbGvvsxAPWeDzT0Q11gPjMh
+#EXTINF:-1 xui-id="703731" tvg-id="" tvg-name="SBT RS HD" tvg-logo="http://capivara.top:80/images/_PFPECAfduyBrBSxQu9ZP8h5vGGQAasG1ipPf_HBBzSr5gBsItE41IPTO5XFtpNplx3Ma0TU7slBp9-rm-ogdw.jpg" group-title="SBT",SBT RS HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIha-y5AC3sDiv8qyY_EfELo_
+#EXTINF:-1 xui-id="703732" tvg-id="" tvg-name="SBT SC HD" tvg-logo="http://capivara.top:80/images/_PFPECAfduyBrBSxQu9ZP8h5vGGQAasG1ipPf_HBBzSr5gBsItE41IPTO5XFtpNplx3Ma0TU7slBp9-rm-ogdw.jpg" group-title="SBT",SBT SC HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhatUvR9E1AajEiwzXKquXRC
+#EXTINF:-1 xui-id="703733" tvg-id="" tvg-name="SBT SD" tvg-logo="http://capivara.top:80/images/_PFPECAfduyBrBSxQu9ZP8h5vGGQAasG1ipPf_HBBzSr5gBsItE41IPTO5XFtpNplx3Ma0TU7slBp9-rm-ogdw.jpg" group-title="SBT",SBT SD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYq7t3nVRSTK_qAtlGrI9lX
+#EXTINF:-1 xui-id="703734" tvg-id="" tvg-name="SBT SP FHD" tvg-logo="http://capivara.top:80/images/_PFPECAfduyBrBSxQu9ZP8h5vGGQAasG1ipPf_HBBzSr5gBsItE41IPTO5XFtpNplx3Ma0TU7slBp9-rm-ogdw.jpg" group-title="SBT",SBT SP FHD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhYM7ajf-F0bXsW_CrvQ8wY1
+#EXTINF:-1 xui-id="703735" tvg-id="" tvg-name="SBT SP HD" tvg-logo="http://capivara.top:80/images/_PFPECAfduyBrBSxQu9ZP8h5vGGQAasG1ipPf_HBBzSr5gBsItE41IPTO5XFtpNplx3Ma0TU7slBp9-rm-ogdw.jpg" group-title="SBT",SBT SP HD
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIhbN6X0LgjQptSjeedY9tsL2
+#EXTINF:-1 xui-id="703736" tvg-id="" tvg-name="SBT SP HD²" tvg-logo="http://capivara.top:80/images/_PFPECAfduyBrBSxQu9ZP8h5vGGQAasG1ipPf_HBBzSr5gBsItE41IPTO5XFtpNplx3Ma0TU7slBp9-rm-ogdw.jpg" group-title="SBT",SBT SP HD²
+http://capivara.top:80/play/-A5zCryS4duCJ0VfH2ZJhuiPjhbitiJGbUntqn2RIha42CEPfObkvo95p0TKEo_d
