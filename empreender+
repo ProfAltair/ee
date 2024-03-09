@@ -1,4 +1,28 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere 1 HD" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere.png" group-title="Canais :: PREMIERE",Premiere 1 HD
+http://dns.maxptv.net:2052/lidiane10/336699/86
+#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere 1 HD²" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere.png" group-title="Canais :: PREMIERE",Premiere 1 HD²
+http://dns.maxptv.net:2052/lidiane10/336699/247
+#EXTINF:-1 tvg-id="Premiere 2 HD" tvg-name="Premiere 2 HD" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere2.png" group-title="Canais :: PREMIERE",Premiere 2 HD
+http://dns.maxptv.net:2052/lidiane10/336699/13216
+#EXTINF:-1 tvg-id="Premiere 2 HD" tvg-name="Premiere 2 HD²" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere2.png" group-title="Canais :: PREMIERE",Premiere 2 HD²
+http://dns.maxptv.net:2052/lidiane10/336699/1462
+#EXTINF:-1 tvg-id="Premiere 3 HD" tvg-name="Premiere 3 HD" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere3.png" group-title="Canais :: PREMIERE",Premiere 3 HD
+http://dns.maxptv.net:2052/lidiane10/336699/82
+#EXTINF:-1 tvg-id="Premiere 3 HD" tvg-name="Premiere 3 HD²" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere3.png" group-title="Canais :: PREMIERE",Premiere 3 HD²
+http://dns.maxptv.net:2052/lidiane10/336699/1463
+#EXTINF:-1 tvg-id="Premiere 4 HD" tvg-name="Premiere 4 HD" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere4.png" group-title="Canais :: PREMIERE",Premiere 4 HD
+http://dns.maxptv.net:2052/lidiane10/336699/80
+#EXTINF:-1 tvg-id="Premiere 4 HD" tvg-name="Premiere 4 HD²" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere4.png" group-title="Canais :: PREMIERE",Premiere 4 HD²
+http://dns.maxptv.net:2052/lidiane10/336699/1464
+#EXTINF:-1 tvg-id="Premiere 5 HD" tvg-name="Premiere 5 HD" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere5.png" group-title="Canais :: PREMIERE",Premiere 5 HD
+http://dns.maxptv.net:2052/lidiane10/336699/78
+#EXTINF:-1 tvg-id="Premiere 5 HD" tvg-name="Premiere 5 HD²" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere5.png" group-title="Canais :: PREMIERE",Premiere 5 HD²
+http://dns.maxptv.net:2052/lidiane10/336699/1465
+#EXTINF:-1 tvg-id="Premiere 6 HD" tvg-name="Premiere 6 HD" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere6.png" group-title="Canais :: PREMIERE",Premiere 6 HD
+http://dns.maxptv.net:2052/lidiane10/336699/76
+#EXTINF:-1 tvg-id="Premiere 7 HD" tvg-name="Premiere 7 HD²" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere7.png" group-title="Canais :: PREMIERE",Premiere 7 HD²
+http://dns.maxptv.net:2052/lidiane10/336699/1467
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD H265" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE 2 FHD H265
 http://infraz.top:80/u8sp825b/dmyvdxn2/71.ts
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD H265²" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE 2 FHD H265²
