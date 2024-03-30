@@ -30,8 +30,11 @@ https://video01.soultv.com.br/feliz7play/feliz7play/playlist.m3u8
 #EXTGRP:NOVOS CANAIS 
 https://tv02.zas.media:1936/unimidia/unimidia/chunklist_w1160626396.m3u8
 #EXTINF:0, TV CONFIEGO GOSPEL
+#EXTGRP:NOVOS CANAIS
 https://stmv1.voxtvhd.com.br/tvconfiegogospel/tvconfiegogospel/chunklist_w648225369.m3u8
-#EXTGRP:NOVOS CANAIS 
+#EXTINF:0, KTV BR
+#EXTGRP:NOVOS CANAIS
+https://stmv1.samcast.com.br/paulohenrique5216/paulohenrique5216/chunklist_w1717963564.m3u8
 #EXTINF:0,TV SUPER GOSPEL
 #EXTGRP:NOVOS CANAIS 
 https://srv3.zcast.com.br/7002/7002/chunklist_w1329571678.m3u8
