@@ -1,416 +1,1240 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="SPORT TV" tvg-logo="https://watchindia.net/images/channels/usa/FS1.png" group-title="BEINSPORT", Becyta
-http://186.207.148.141:8096/videos/5b024c42-1a39-8be7-3c2b-d6f6886196d3/live.m3u8?DeviceId=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyMC4wLjAuMCBTYWZhcmkvNTM3LjM2fDE3MDY2MjQ1OTIyNDE1&MediaSourceId=105863395ce19c565c155a299450e38d&VideoCodec=h264,h264&AudioCodec=aac&AudioStreamIndex=-1&VideoBitrate=139869371&AudioBitrate=130629&AudioSampleRate=48000&MaxFramerate=30&PlaySessionId=52afac4bb8e04e0ab1d5dfbaa4695297&api_key=866b51297fb94337a9c805f526935872&LiveStreamId=a17c75760a04e99b68cf766e11316e1c_09efa0d56b934a82adec00a87b837fb0_105863395ce19c565c155a299450e38d&TranscodingMaxAudioChannels=2&RequireAvc=false&SegmentContainer=ts&MinSegments=1&BreakOnNonKeyFrames=True&h264-level=31&h264-videobitdepth=8&h264-profile=high&h264-audiochannels=2&aac-profile=lc&h264-rangetype=SDR&h264-deinterlace=true&TranscodeReasons=ContainerNotSupported
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Soccer_ball_animated.svg" tvg-group="🇪🇸..DEPORTES",⚽️╭─➤ - treintones futebol 4.ᴴᴰ
-https://cloud2.streaminglivehd.com:1936/8010/8010/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest/scale-to-width-down/250?cb= 20201108180658" tvg-group="DEPORTES",⚽️.🇪🇸 Bein Sports xtra.ᴴᴰ
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
-
-#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="Fox Sports 1" tvg-logo="https://watchindia.net/images/channels/usa/FS1.png" group-title="Sports",Fox Sports 1
-http://watchindia.net:8880/live/71740/31043/2421.ts
-#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="MATY" tvg-logo="https://watchindia.net/images/channels/usa/FS1.png" group-title="CANAIS EXTRAS",MATY
-http://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="SPORT TV" tvg-logo="https://watchindia.net/images/channels/usa/FS1.png" group-title="CANAIS EXTRAS", ESPN 3
-https://headlinessportsfoot.com/chunklist/hlsch6.m3u8
-#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="SPORT TV" tvg-logo="https://watchindia.net/images/channels/usa/FS1.png" group-title="CANAIS EXTRAS", SONY 2
-https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="SPORT TV" tvg-logo="https://watchindia.net/images/channels/usa/FS1.png" group-title="BEINSPORT", BEIN SPORT 1
-bein sport Mena 1
-https://at.live12.ir/hls2/beinsport1.m3u8
-#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="SPORT TV" tvg-logo="https://watchindia.net/images/channels/usa/FS1.png" group-title="BEINSPORT", BEIN SPORT 2
-bein sport Mena 2
-https://at.live12.ir/hls2/beinsport2.m3u8
-#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="SPORT TV" tvg-logo="https://watchindia.net/images/channels/usa/FS1.png" group-title="BEINSPORT", BEIN SPORT 3
-bein sport Mena 3
-https://at.live12.ir/hls2/beinsport3.m3u8
-#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="SPORT TV" tvg-logo="https://watchindia.net/images/channels/usa/FS1.png" group-title="BEINSPORT", BEIN SPORT 4
-bein sport Mena 4
-https://at.live12.ir/hls2/beinsport4.m3u8
-#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="SPORT TV" tvg-logo="https://watchindia.net/images/channels/usa/FS1.png" group-title="BEINSPORT", BEIN SPORT 5
-bein sport Mena 5
-https://at.live12.ir/hls2/beinsport5.m3u8
-#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="SPORT TV" tvg-logo="https://watchindia.net/images/channels/usa/FS1.png" group-title="BEINSPORT", BEIN SPORT 6
-bein sport Mena 6
-https://at.live12.ir/hls2/beinsport6.m3u8
-#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="SPORT TV" tvg-logo="https://watchindia.net/images/channels/usa/FS1.png" group-title="BEINSPORT", BEIN SPORT 1.1
-BEIN sports 1 
-https://edge1.laotv.la/live/Bsport1/index.m3u8
-#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="SPORT TV" tvg-logo="https://watchindia.net/images/channels/usa/FS1.png" group-title="BEINSPORT", BEIN SPORT 2.1
-BEIN sports 2
-https://edge1.laotv.la/live/Bsport2/index.m3u8
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1 SD" tvg-logo="https://i.pinimg.com/originals/81/31/7a/81317a6d2382e0213799c22ac89da9a8.png" group-title="Portugal",PT: SPORT TV 1 SD
-http://705343517557623298.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/623298.ts
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="PT: SPORT TV 2 SD" tvg-logo="https://asiagrandiptv.us/logo//SPORTTV2.jpeg" group-title="Portugal",PT: SPORT TV 2 SD
-http://705343517557737448.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/737448.ts
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1 SD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 1 SD
-http://705343517557744506.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/744506.ts
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT: ELEVEN SPORTS 5 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 5 FHD
-http://705343517557744514.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/744514.ts
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT: ELEVEN SPORTS 6 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 6 FHD
-http://705343517557744516.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/744516.ts
-#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="PT: SPORT TV + SD" tvg-logo="https://tvepg.eu/img/portugal/reviews/sport_tv_plus/european_qualifiers_antevisao_jornadas_9_e_10.png" group-title="Portugal",PT: SPORT TV + SD
-http://705343517557744572.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/744572.ts
-#EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="PT: SPORTING SD" tvg-logo="" group-title="Portugal",PT: SPORTING SD
-http://705343517557744577.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/744577.ts
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORTS 3 HEVC" tvg-logo="http://box20.co:80/images/654e6a6d3542cf9e1514a51918473211.png" group-title="Portugal",PT: ELEVEN SPORTS 3 HEVC
-http://705343517557746355.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/746355.ts
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2 SD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 2 SD
-http://705343517557748992.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/748992.ts
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORT 1 HEVC" tvg-logo="https://asiagrandiptv.us/logo/elevensport1.png" group-title="Portugal",PT: ELEVEN SPORT 1 HEVC
-http://705343517557755726.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/755726.ts
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORT 2 HD" tvg-logo="https://asiagrandiptv.us/logo/elevensport2.png" group-title="Portugal",PT: ELEVEN SPORT 2 HD
-http://705343517557755727.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/755727.ts
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORT 3 HEVC" tvg-logo="https://asiagrandiptv.us/logo/elevensport3.png" group-title="Portugal",PT: ELEVEN SPORT 3 HEVC
-http://705343517557755728.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/755728.ts
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: ELEVEN SPORT 4 FHD" tvg-logo="https://asiagrandiptv.us/logo/elevensport4.png" group-title="Portugal",PT: ELEVEN SPORT 4 FHD
-http://705343517557755729.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/755729.ts
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT: ELEVEN SPORT 5 FHD" tvg-logo="https://asiagrandiptv.us/logo//elevensports5vip.png" group-title="Portugal",PT: ELEVEN SPORT 5 FHD
-http://705343517557755730.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/755730.ts
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT: ELEVEN SPORT 6 FHD" tvg-logo="https://asiagrandiptv.us/logo/elevensports6vip.png" group-title="Portugal",PT: ELEVEN SPORT 6 FHD
-http://705343517557755731.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/755731.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 HD HEVEC HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 1 HD HEVEC HD
-http://705343517557755734.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/755734.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3ᶠᴴᴰ HEVC" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 3ᶠᴴᴰ HEVC
-http://705343517557755738.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/755738.ts
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: ELEVEN SPORTS 4 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 4 FHD
-http://705343517557755739.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/755739.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6ᶠᴴᴰ FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 6ᶠᴴᴰ FHD
-http://705343517557755746.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/755746.ts
-#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="PT: EUROSPORT 2 SD" tvg-logo="https://www.sportda.com/wp-content/uploads/2018/10/14618607951807.png" group-title="Portugal",PT: EUROSPORT 2 SD
-http://705343517557755751.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/755751.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 2ᶠᴴᴰ SD" tvg-logo="" group-title="Portugal",PT: EUROSPORT 2ᶠᴴᴰ SD
-http://705343517557755753.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/755753.ts
-#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="PT: SPORT TV + HEVC" tvg-logo="https://tvepg.eu/img/portugal/reviews/sport_tv_plus/european_qualifiers_antevisao_jornadas_9_e_10.png" group-title="Portugal",PT: SPORT TV + HEVC
-http://705343517557770469.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/770469.ts
-#EXTINF:-1 tvg-id="SportTV4K.pt" tvg-name="PT: SPORT TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/2560px-Logo_SportTV.svg.png" group-title="Portugal",PT: SPORT TV FHD
-http://705343517557770472.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/770472.ts
-#EXTINF:-1 tvg-id="SportTV4K.pt" tvg-name="PT: SPORT TV HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/2560px-Logo_SportTV.svg.png" group-title="Portugal",PT: SPORT TV HEVC
-http://705343517557770473.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/770473.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORTV FHD" tvg-logo="https://www.sportcal.com/wp-content/uploads/sites/32/2022/09/main632dcf244bfae.png" group-title="Portugal",PT: SPORTV FHD
-http://705343517557770474.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/770474.ts
-#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="IT: SKY SPORT UNO HD" tvg-logo="" group-title="Italy",IT: SKY SPORT UNO HD
-http://705343517557713226.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/713226.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT 256 FHD" tvg-logo="" group-title="Italy",IT: SKY SPORT 256 FHD
-http://705343517557715881.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/715881.ts
-#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="IT: EUROSPORT 2 HD" tvg-logo="" group-title="Italy",IT: EUROSPORT 2 HD
-http://705343517557745315.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/745315.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: EUROSPORT 2 VIP SD" tvg-logo="" group-title="Italy",IT: EUROSPORT 2 VIP SD
-http://705343517557750657.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/750657.ts
-#EXTINF:-1 tvg-id="raisportplus.it" tvg-name="IT: RAI SPORT + HD" tvg-logo="" group-title="Italy",IT: RAI SPORT + HD
-http://705343517557750750.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/750750.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI SPORT+ VIP HD" tvg-logo="https://xplanetiptv.com/Logotv/countries/italy/countrypic.png" group-title="Italy",IT: RAI SPORT+ VIP HD
-http://705343517557750752.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/750752.ts
-#EXTINF:-1 tvg-id="skysport24.it" tvg-name="IT: SKY SPORT 24 HD" tvg-logo="" group-title="Italy",IT: SKY SPORT 24 HD
-http://705343517557750816.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/750816.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT 24 VIP [LIVE DURING EVENTS ONLY] FHD" tvg-logo="http://landiptv.vip:2095/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGaydFsFr0h6jJv8fPNCqYzDrsKaCHp_o46_t56YKZupDDHC8PGoiMfJ8S85JAFikBk.png" group-title="Italy",IT: SKY SPORT 24 VIP [LIVE DURING EVENTS ONLY] FHD
-http://705343517557750817.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/750817.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT ARENA VIP HD" tvg-logo="https://xplanetiptv.com/Logotv/countries/italy/sky-sport-arena-it.png" group-title="Italy",IT: SKY SPORT ARENA VIP HD
-http://705343517557750822.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/750822.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT CALCIO FHD" tvg-logo="" group-title="Italy",IT: SKY SPORT CALCIO FHD
-http://705343517557750823.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/750823.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT 259 SD" tvg-logo="" group-title="Italy",IT: SKY SPORT 259 SD
-http://705343517557764521.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/764521.ts
-#EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="IT: SKY SPORT FOOTBALL HD" tvg-logo="" group-title="Italy",IT: SKY SPORT FOOTBALL HD
-http://705343517557764522.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/764522.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: EUROSPORT 1 VIP FHD" tvg-logo="" group-title="Italy",IT: EUROSPORT 1 VIP FHD
-http://705343517557766038.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/766038.ts
-#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="IT: EUROSPORT 2 FHD" tvg-logo="" group-title="Italy",IT: EUROSPORT 2 FHD
-http://705343517557766040.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/766040.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT 255 FHD" tvg-logo="" group-title="Italy",IT: SKY SPORT 255 FHD
-http://705343517557768086.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/768086.ts
-#EXTINF:-1 tvg-id="Canal+ Sport 4" tvg-name="PL: CANAL+ SPORT 4 HD" tvg-logo="https://asiagrandiptv.us/logo/canalsport.png" group-title="Poland",PL: CANAL+ SPORT 4 HD
-http://705343517557688947.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/688947.ts
-#EXTINF:-1 tvg-id="Polsat Sport Premium 1" tvg-name="PL: POLSAT SPORT PREMIUM 1 HD" tvg-logo="http://landiptv.vip:2095/images/HjwEu7iTOqkLhxl1ITLIBT0L-y3PwidvdB19xKu5z7cGSjKHEvWmHn27iySE4DOp17BYwp7UM3sqPuyRWUZglQ.png" group-title="Poland",PL: POLSAT SPORT PREMIUM 1 HD
-http://705343517557726207.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/726207.ts
-#EXTINF:-1 tvg-id="Canal+ Sport 5" tvg-name="PL: CANAL+ SPORT FHD" tvg-logo="http://estoxy.net:80/images/OdFBzNmEcTtcud-kJh7Uca2qZIw0aIbBY3CHMEcN_saEO3LE29BONmWVZ2GdBzScYXtV3xHfeANAscj_QKjG1QASfOblk7LoJxdBpleIPYiQbzkFp2CB899h60oiBeeXViwKIL7fBzdC-61oBtAx_g.png" group-title="Poland",PL: CANAL+ SPORT FHD
-http://705343517557749274.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/749274.ts
-#EXTINF:-1 tvg-id="Canal+ Sport 3" tvg-name="PL: CANAL+ SPORT 3 HD" tvg-logo="https://asiagrandiptv.us/logo/canalsport.png" group-title="Poland",PL: CANAL+ SPORT 3 HD
-http://705343517557749277.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/749277.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX4 (EVENT ONLY)" tvg-logo="" group-title="France HEVC",FR: BEIN SPORTS MAX4 (EVENT ONLY)
-http://705343517557338984.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/338984.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX5 (EVENT ONLY)" tvg-logo="" group-title="France HEVC",FR: BEIN SPORTS MAX5 (EVENT ONLY)
-http://705343517557338985.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/338985.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX6 (EVENT ONLY)" tvg-logo="" group-title="France HEVC",FR: BEIN SPORTS MAX6 (EVENT ONLY)
-http://705343517557338986.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/338986.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX7 (EVENT ONLY)" tvg-logo="" group-title="France HEVC",FR: BEIN SPORTS MAX7 (EVENT ONLY)
-http://705343517557338987.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/338987.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX8 (EVENT ONLY)" tvg-logo="" group-title="France HEVC",FR: BEIN SPORTS MAX8 (EVENT ONLY)
-http://705343517557338988.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/338988.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX9 (EVENT ONLY)" tvg-logo="" group-title="France HEVC",FR: BEIN SPORTS MAX9 (EVENT ONLY)
-http://705343517557338989.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/338989.ts
-
-#EXTINF:-1 tvg-id="bein10max.fr" tvg-name="FR: BEIN SPORTS MAX 10 FHD (EVENT ONLY)" tvg-logo="http://fanc.tmsimg.com/assets/s87239_ll_h3_aa.png" group-title="France Sport",FR: BEIN SPORTS MAX 10 FHD (EVENT ONLY)
-http://705343517557610822.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610822.ts
-#EXTINF:-1 tvg-id="bein4max.fr" tvg-name="FR: BEIN SPORTS MAX 4 FHD (EVENT ONLY)" tvg-logo="http://fanc.tmsimg.com/assets/s83212_ll_h3_aa.png" group-title="France Sport",FR: BEIN SPORTS MAX 4 FHD (EVENT ONLY)
-http://705343517557610823.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610823.ts
-#EXTINF:-1 tvg-id="bein4max.fr" tvg-name="FR: BEIN SPORTS MAX 4 HD (EVENT ONLY)" tvg-logo="http://fanc.tmsimg.com/assets/s83212_ll_h3_aa.png" group-title="France Sport",FR: BEIN SPORTS MAX 4 HD (EVENT ONLY)
-http://705343517557610824.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610824.ts
-#EXTINF:-1 tvg-id="bein5max.fr" tvg-name="FR: BEIN SPORTS MAX 5 FHD (EVENT ONLY)" tvg-logo="http://fanc.tmsimg.com/assets/s87243_ll_h3_aa.png" group-title="France Sport",FR: BEIN SPORTS MAX 5 FHD (EVENT ONLY)
-http://705343517557610825.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610825.ts
-#EXTINF:-1 tvg-id="bein5max.fr" tvg-name="FR: BEIN SPORTS MAX 5 HD (EVENT ONLY)" tvg-logo="http://fanc.tmsimg.com/assets/s87243_ll_h3_aa.png" group-title="France Sport",FR: BEIN SPORTS MAX 5 HD (EVENT ONLY)
-http://705343517557610826.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610826.ts
-#EXTINF:-1 tvg-id="bein6max.fr" tvg-name="FR: BEIN SPORTS MAX 6 FHD (EVENT ONLY)" tvg-logo="http://fanc.tmsimg.com/assets/s87244_h3_aa.png" group-title="France Sport",FR: BEIN SPORTS MAX 6 FHD (EVENT ONLY)
-http://705343517557610827.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610827.ts
-#EXTINF:-1 tvg-id="bein6max.fr" tvg-name="FR: BEIN SPORTS MAX 6 HD (EVENT ONLY)" tvg-logo="http://fanc.tmsimg.com/assets/s87244_h3_aa.png" group-title="France Sport",FR: BEIN SPORTS MAX 6 HD (EVENT ONLY)
-http://705343517557610828.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610828.ts
-#EXTINF:-1 tvg-id="bein7max.fr" tvg-name="FR: BEIN SPORTS MAX 7 FHD (EVENT ONLY)" tvg-logo="http://fanc.tmsimg.com/assets/s87246_ll_h3_aa.png" group-title="France Sport",FR: BEIN SPORTS MAX 7 FHD (EVENT ONLY)
-http://705343517557610829.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610829.ts
-#EXTINF:-1 tvg-id="bein7max.fr" tvg-name="FR: BEIN SPORTS MAX 7 HD (EVENT ONLY)" tvg-logo="http://fanc.tmsimg.com/assets/s87246_ll_h3_aa.png" group-title="France Sport",FR: BEIN SPORTS MAX 7 HD (EVENT ONLY)
-http://705343517557610830.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610830.ts
-#EXTINF:-1 tvg-id="bein9max.fr" tvg-name="FR: BEIN SPORTS MAX 9 FHD (EVENT ONLY)" tvg-logo="http://fanc.tmsimg.com/assets/s87250_h3_aa.png" group-title="France Sport",FR: BEIN SPORTS MAX 9 FHD (EVENT ONLY)
-http://705343517557610832.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610832.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 9 HD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX 9 HD (EVENT ONLY)
-http://705343517557610833.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610833.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX10 (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX10 (EVENT ONLY)
-http://705343517557610834.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610834.ts
-#EXTINF:-1 tvg-id="bein10max.fr" tvg-name="FR: BEIN SPORTS MAX10 FHD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX10 FHD (EVENT ONLY)
-http://705343517557610835.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610835.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX10 HD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX10 HD (EVENT ONLY)
-http://705343517557610836.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610836.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX10 SD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX10 SD (EVENT ONLY)
-http://705343517557610837.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610837.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX4 (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX4 (EVENT ONLY)
-http://705343517557610838.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610838.ts
-#EXTINF:-1 tvg-id="bein4max.fr" tvg-name="FR: BEIN SPORTS MAX4 FHD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX4 FHD (EVENT ONLY)
-http://705343517557610839.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610839.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX4 HD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX4 HD (EVENT ONLY)
-http://705343517557610840.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610840.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX4 SD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX4 SD (EVENT ONLY)
-http://705343517557610841.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610841.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX5 (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX5 (EVENT ONLY)
-http://705343517557610842.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610842.ts
-#EXTINF:-1 tvg-id="bein5max.fr" tvg-name="FR: BEIN SPORTS MAX5 FHD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX5 FHD (EVENT ONLY)
-http://705343517557610843.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610843.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX5 HD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX5 HD (EVENT ONLY)
-http://705343517557610844.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610844.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX5 SD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX5 SD (EVENT ONLY)
-http://705343517557610845.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610845.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX6 (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX6 (EVENT ONLY)
-http://705343517557610846.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610846.ts
-#EXTINF:-1 tvg-id="bein6max.fr" tvg-name="FR: BEIN SPORTS MAX6 FHD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX6 FHD (EVENT ONLY)
-http://705343517557610847.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610847.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX6 HD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX6 HD (EVENT ONLY)
-http://705343517557610848.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610848.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX6 SD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX6 SD (EVENT ONLY)
-http://705343517557610849.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610849.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX7 (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX7 (EVENT ONLY)
-http://705343517557610850.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610850.ts
-#EXTINF:-1 tvg-id="bein7max.fr" tvg-name="FR: BEIN SPORTS MAX7 FHD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX7 FHD (EVENT ONLY)
-http://705343517557610851.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610851.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX7 HD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX7 HD (EVENT ONLY)
-http://705343517557610852.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610852.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX7 SD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX7 SD (EVENT ONLY)
-http://705343517557610853.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610853.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX8 (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX8 (EVENT ONLY)
-http://705343517557610854.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610854.ts
-#EXTINF:-1 tvg-id="bein8max.fr" tvg-name="FR: BEIN SPORTS MAX8 FHD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX8 FHD (EVENT ONLY)
-http://705343517557610855.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610855.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX8 HD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX8 HD (EVENT ONLY)
-http://705343517557610856.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610856.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX8 SD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX8 SD (EVENT ONLY)
-http://705343517557610857.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610857.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX9 (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX9 (EVENT ONLY)
-http://705343517557610858.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610858.ts
-#EXTINF:-1 tvg-id="bein9max.fr" tvg-name="FR: BEIN SPORTS MAX9 FHD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX9 FHD (EVENT ONLY)
-http://705343517557610859.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610859.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX9 HD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX9 HD (EVENT ONLY)
-http://705343517557610860.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610860.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX9 SD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: BEIN SPORTS MAX9 SD (EVENT ONLY)
-http://705343517557610861.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610861.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORTS 1 HD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: MULTISPORTS 1 HD (EVENT ONLY)
-http://705343517557610863.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610863.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORTS 1 SD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: MULTISPORTS 1 SD (EVENT ONLY)
-http://705343517557610864.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610864.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORTS 2 HD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: MULTISPORTS 2 HD (EVENT ONLY)
-http://705343517557610865.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610865.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORTS 2 SD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: MULTISPORTS 2 SD (EVENT ONLY)
-http://705343517557610866.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610866.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORTS 3 HD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: MULTISPORTS 3 HD (EVENT ONLY)
-http://705343517557610867.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610867.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORTS 3 SD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: MULTISPORTS 3 SD (EVENT ONLY)
-http://705343517557610869.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610869.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORTS 4 HD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: MULTISPORTS 4 HD (EVENT ONLY)
-http://705343517557610870.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610870.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORTS 4 SD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: MULTISPORTS 4 SD (EVENT ONLY)
-http://705343517557610871.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610871.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORTS 5 FHD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: MULTISPORTS 5 FHD (EVENT ONLY)
-http://705343517557610872.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610872.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORTS 5 HD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: MULTISPORTS 5 HD (EVENT ONLY)
-http://705343517557610873.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610873.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORTS 5 SD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: MULTISPORTS 5 SD (EVENT ONLY)
-http://705343517557610874.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610874.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORTS 6 FHD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: MULTISPORTS 6 FHD (EVENT ONLY)
-http://705343517557610875.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610875.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORTS 6 HD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: MULTISPORTS 6 HD (EVENT ONLY)
-http://705343517557610876.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610876.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORTS 6 SD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: MULTISPORTS 6 SD (EVENT ONLY)
-http://705343517557610877.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610877.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORTS 10 FHD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: RMC SPORTS 10 FHD (EVENT ONLY)
-http://705343517557610880.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610880.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORTS 11 FHD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: RMC SPORTS 11 FHD (EVENT ONLY)
-http://705343517557610881.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610881.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORTS 12 FHD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: RMC SPORTS 12 FHD (EVENT ONLY)
-http://705343517557610882.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610882.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORTS 4 FHD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: RMC SPORTS 4 FHD (EVENT ONLY)
-http://705343517557610884.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610884.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORTS 5 FHD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: RMC SPORTS 5 FHD (EVENT ONLY)
-http://705343517557610885.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610885.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORTS 6 FHD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: RMC SPORTS 6 FHD (EVENT ONLY)
-http://705343517557610886.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610886.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORTS 7 FHD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: RMC SPORTS 7 FHD (EVENT ONLY)
-http://705343517557610887.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610887.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORTS 8 FHD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: RMC SPORTS 8 FHD (EVENT ONLY)
-http://705343517557610889.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610889.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORTS 9 FHD (EVENT ONLY)" tvg-logo="" group-title="France Sport",FR: RMC SPORTS 9 FHD (EVENT ONLY)
-http://705343517557610890.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/610890.ts
-#EXTINF:-1 tvg-id="seasons.fr" tvg-name="FR: SEASONS SD" tvg-logo="" group-title="France",FR: SEASONS SD
-http://705343517557612242.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/612242.ts
-#EXTINF:-1 tvg-id="parispremiere.fr" tvg-name="FR: PARIS PREMIERE HD" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwIQ-qxFJrNiqnbJIk5zL7lQt013wP_0R3zgVAZii_uruQ.png" group-title="France",FR: PARIS PREMIERE HD
-http://705343517557616924.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/616924.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 6 HD" tvg-logo="https://asiagrandiptv.us/logo/alacarte6.png" group-title="France",FR: A LA CARTE 6 HD
-http://705343517557618688.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/618688.ts
-#EXTINF:-1 tvg-id="comedieplus.fr" tvg-name="FR: COMEDIE+ HD" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3ypRVdeYmturMHF0hAQ_mbsKK2rYR7knApy_VKVtPvWF-g.png" group-title="France",FR: COMEDIE+ HD
-http://705343517557619953.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/619953.ts
-#EXTINF:-1 tvg-id="cartoonnetwork.fr" tvg-name="FR: CARTOON NETWORK HD" tvg-logo="http://fanc.tmsimg.com/assets/s90474_ll_h3_aa.png" group-title="France",FR: CARTOON NETWORK HD
-http://705343517557633116.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/633116.ts
-#EXTINF:-1 tvg-id="france4.fr" tvg-name="FR: FRANCE 4 HD" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwLniOFWnmS-rhTtXA0-b4gm69y1cDzBARAAl5BHVcur7A.png" group-title="France",FR: FRANCE 4 HD
-http://705343517557656330.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/656330.ts
-#EXTINF:-1 tvg-id="m6.fr" tvg-name="FR: M6 SD" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78TKUQamkb_ZpWHGAwb97hfbVSsZbe5gV6ORa2yFMVT9Yg.png" group-title="France",FR: M6 SD
-http://705343517557656345.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/656345.ts
-#EXTINF:-1 tvg-id="tiji.fr" tvg-name="FR: TIJI HD" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yr0XtafYbewfKTXt0dYL1_n.png" group-title="France",FR: TIJI HD
-http://705343517557656370.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/656370.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 1 FHD" tvg-logo="https://asiagrandiptv.us/logo/canalplay1.png" group-title="France",FR: CANAL PLAY 1 FHD
-http://705343517557659170.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/659170.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 5 FHD" tvg-logo="https://asiagrandiptv.us/logo/canalplay5.png" group-title="France",FR: CANAL PLAY 5 FHD
-http://705343517557664328.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/664328.ts
-#EXTINF:-1 tvg-id="planeteadventureexperience.fr" tvg-name="FR: PLANETE+ A&E HD" tvg-logo="" group-title="France",FR: PLANETE+ A&E HD
-http://705343517557668604.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/668604.ts
-#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR: BEIN SPORTS 1 HD" tvg-logo="http://fanc.tmsimg.com/assets/s89738_ll_h3_aa.png" group-title="France Sport",FR: BEIN SPORTS 1 HD
-http://705343517557669540.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/669540.ts
-#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR: BEIN SPORTS 2 HD" tvg-logo="http://fanc.tmsimg.com/assets/s87224_ll_h3_aa.png" group-title="France Sport",FR: BEIN SPORTS 2 HD
-http://705343517557669541.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/669541.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 10 HD" tvg-logo="https://asiagrandiptv.us/logo/alacarte10.png" group-title="France",FR: A LA CARTE 10 HD
-http://705343517557674417.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/674417.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 7 HD" tvg-logo="https://asiagrandiptv.us/logo/alacarte7.png" group-title="France",FR: A LA CARTE 7 HD
-http://705343517557674420.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/674420.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 9 HD" tvg-logo="https://asiagrandiptv.us/logo/alacarte9.png" group-title="France",FR: A LA CARTE 9 HD
-http://705343517557674421.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/674421.ts
-#EXTINF:-1 tvg-id="cineplusclassic.fr" tvg-name="FR: CINE+ CLASSIC HD" tvg-logo="http://fanc.tmsimg.com/assets/s97617_ll_h3_aa.png" group-title="France",FR: CINE+ CLASSIC HD
-http://705343517557674478.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/674478.ts
-#EXTINF:-1 tvg-id="cineplusfrisson.fr" tvg-name="FR: CINE+ FRISSON SD" tvg-logo="http://fanc.tmsimg.com/assets/s87295_ll_h3_aa.png" group-title="France",FR: CINE+ FRISSON SD
-http://705343517557674482.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/674482.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ POLAR+ SD" tvg-logo="" group-title="France",FR: CINE+ POLAR+ SD
-http://705343517557674483.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/674483.ts
-#EXTINF:-1 tvg-id="clique.fr" tvg-name="FR: CLIQUE TV FHD" tvg-logo="https://asiagrandiptv.us/logo/cliquetv.png" group-title="France",FR: CLIQUE TV FHD
-http://705343517557674486.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/674486.ts
-#EXTINF:-1 tvg-id="disneychannel.fr" tvg-name="FR: DISNEY CHANNEL HEVC" tvg-logo="http://fanc.tmsimg.com/assets/s87393_ll_h3_aa.png" group-title="France",FR: DISNEY CHANNEL HEVC
-http://705343517557674496.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/674496.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: DISNEY+ HD" tvg-logo="http://fanc.tmsimg.com/assets/s53440_ll_h3_aa.png" group-title="France",FR: DISNEY+ HD
-http://705343517557674499.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/674499.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE24ENG SD" tvg-logo="" group-title="France",FR: FRANCE24ENG SD
-http://705343517557674520.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/674520.ts
-#EXTINF:-1 tvg-id="mcmtop.fr" tvg-name="FR: MCM TOP SD" tvg-logo="http://infinity-logo.ddns.net/images/logo_channel/FR/mcmtop.png" group-title="France",FR: MCM TOP SD
-http://705343517557674542.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/674542.ts
-#EXTINF:-1 tvg-id="planetecrimeinvestigation.fr" tvg-name="FR: PLANETE+ CI HD" tvg-logo="" group-title="France",FR: PLANETE+ CI HD
-http://705343517557674583.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/674583.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: RTS UN HD" tvg-logo="" group-title="France",FR: RTS UN HD
-http://705343517557674596.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/674596.ts
-#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR: BEIN SPORTS 3 HD" tvg-logo="http://fanc.tmsimg.com/assets/s87241_ll_h3_aa.png" group-title="France Sport",FR: BEIN SPORTS 3 HD
-http://705343517557674643.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/674643.ts
-#EXTINF:-1 tvg-id="eurosport3602.fr" tvg-name="FR: EUROSPORT360 2 HD" tvg-logo="" group-title="France Sport",FR: EUROSPORT360 2 HD
-http://705343517557674653.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/674653.ts
-#EXTINF:-1 tvg-id="eurosport3603.fr" tvg-name="FR: EUROSPORT360 3 HD" tvg-logo="" group-title="France Sport",FR: EUROSPORT360 3 HD
-http://705343517557674654.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/674654.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 3 FHD" tvg-logo="https://asiagrandiptv.us/logo/canalplay3.png" group-title="France",FR: CANAL PLAY 3 FHD
-http://705343517557731499.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/731499.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 7 FHD" tvg-logo="https://asiagrandiptv.us/logo//canalplay.png" group-title="France",FR: CANAL PLAY 7 FHD
-http://705343517557731500.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/731500.ts
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="PT: SPORT TV 3 SD" tvg-logo="https://www.satfrequency.com/wp-content/uploads/ktz/Sport-TV-3-HD-Satellite-2yze6ql8o58qc69amcdhxm.png" group-title="Portugal",PT: SPORT TV 3 SD
-http://705343517557339545.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/339545.ts
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="PT: SPORT TV 4 HEVC" tvg-logo="https://asiagrandiptv.us/logo//SPORTTV4.png" group-title="Portugal",PT: SPORT TV 4 HEVC
-http://705343517557400103.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/400103.ts
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT: SPORT TV 5 SD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/9bf5af3772129242bc57be6863073ff7.png" group-title="Portugal",PT: SPORT TV 5 SD
-http://705343517557416380.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/416380.ts
-#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="PT: SPORT TV 6 FHD" tvg-logo="https://asiagrandiptv.us/logo//SportTV6.png" group-title="Portugal",PT: SPORT TV 6 FHD
-http://705343517557416381.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/416381.ts
-#EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="PT: SPORTING TV SD" tvg-logo="https://seeklogo.com/images/S/sporting-tv-logo-442B250094-seeklogo.com.png" group-title="Portugal",PT: SPORTING TV SD
-http://705343517557416382.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/416382.ts
-
-#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: EUROSPORT 1 FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP" group-title="ES EUROSPORT",ES: EUROSPORT 1 FHD
-http://705343517557290348.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/290348.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 1 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP" group-title="ES EUROSPORT",ES: EUROSPORT 1 HD
-http://705343517557290349.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/290349.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 1 SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP" group-title="ES EUROSPORT",ES: EUROSPORT 1 SD
-http://705343517557290350.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/290350.ts
-#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: EUROSPORT 2 FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP2" group-title="ES EUROSPORT",ES: EUROSPORT 2 FHD
-http://705343517557290351.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/290351.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 2 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP2" group-title="ES EUROSPORT",ES: EUROSPORT 2 HD
-http://705343517557290352.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/290352.ts
-#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: EUROSPORT 2 SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP2" group-title="ES EUROSPORT",ES: EUROSPORT 2 SD
-http://705343517557290353.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/290353.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 4 HD" tvg-logo="" group-title="ES EUROSPORT",ES: EUROSPORT 4 HD
-http://705343517557290354.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/290354.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 5 HD" tvg-logo="" group-title="ES EUROSPORT",ES: EUROSPORT 5 HD
-http://705343517557290355.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/290355.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 6 HD" tvg-logo="" group-title="ES EUROSPORT",ES: EUROSPORT 6 HD
-http://705343517557290356.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/290356.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 8 HD" tvg-logo="" group-title="ES EUROSPORT",ES: EUROSPORT 8 HD
-http://705343517557290357.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/290357.ts
-#EXTINF:-1 tvg-id="esport3.es" tvg-name="ES: ESPORT 3 HD" tvg-logo="https://img.ccma.cat/multimedia/png/9/9/1619526053499.png" group-title="ES DEPORTES",ES: ESPORT 3 HD
-http://705343517557538755.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/538755.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: ESPORT 3 SD" tvg-logo="https://img.ccma.cat/multimedia/png/9/9/1619526053499.png" group-title="ES DEPORTES",ES: ESPORT 3 SD
-http://705343517557538756.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/538756.ts
-#EXTINF:-1 tvg-id="gol.es" tvg-name="ES: GOL PLAY FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" group-title="ES DEPORTES",ES: GOL PLAY FHD
-http://705343517557538757.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/538757.ts
-#EXTINF:-1 tvg-id="gol.es" tvg-name="ES: GOL PLAY HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" group-title="ES DEPORTES",ES: GOL PLAY HD
-http://705343517557538758.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/538758.ts
-#EXTINF:-1 tvg-id="gol.es" tvg-name="ES: GOL PLAY SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" group-title="ES DEPORTES",ES: GOL PLAY SD
-http://705343517557538759.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/538759.ts
-#EXTINF:-1 tvg-id="beIN SPORTS XTRA ñ" tvg-name="ES: BEIN SPORTS XTRA ñ FHD" tvg-logo="http://vpsapache.hopto.org/images/beinxtraespanol.png" group-title="ES   MOVISTAR+",ES: BEIN SPORTS XTRA ñ FHD
-http://705343517557706105.ofd0120.xyz:80/play/vi620729/FBFSNegCVQxp/706105.ts
-
-#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="Star Sports 1 HD 1" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" group-title="Sports",Star Sports 1 HD 1
-http://watchindia.net:8880/live/71740/31043/2186.ts
-#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="Star Sports 1 HD 2" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" group-title="Sports",Star Sports 1 HD 2
-http://watchindia.net:8880/live/71740/31043/2232.ts
-#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="Star Sports 1 HD 3" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" group-title="Sports",Star Sports 1 HD 3
-http://watchindia.net:8880/live/71740/31043/2456.ts
-#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="Star Sports 2 HD 1" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_2_HD.png" group-title="Sports",Star Sports 2 HD 1
-http://watchindia.net:8880/live/71740/31043/1069.ts
-#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="Star Sports 2 HD 2" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_2_HD.png" group-title="Sports",Star Sports 2 HD 2
-http://watchindia.net:8880/live/71740/31043/2163.ts
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD 1" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" group-title="Sports",Star Sports Select 1 HD 1
-http://watchindia.net:8880/live/71740/31043/1070.ts
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD 2" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" group-title="Sports",Star Sports Select 1 HD 2
-http://watchindia.net:8880/live/71740/31043/2292.ts
-#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_2_HD.png" group-title="Sports",Star Sports Select 2 HD
-http://watchindia.net:8880/live/71740/31043/1071.ts
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="Sky Sports Cricket 1" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Cricket.png" group-title="Sports",Sky Sports Cricket 1
-http://watchindia.net:8880/live/71740/31043/2090.ts
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="Sky Sports Cricket 2" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Cricket.png" group-title="Sports",Sky Sports Cricket 2
-http://watchindia.net:8880/live/71740/31043/2143.ts
-#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Main_Event.png" group-title="Sports",Sky Sports Main Event
-http://watchindia.net:8880/live/71740/31043/2091.ts
-#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Premier_League.png" group-title="Sports",Sky Sports Premier League
-http://watchindia.net:8880/live/71740/31043/2092.ts
-#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="Sky Sports Football" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Football.png" group-title="Sports",Sky Sports Football
-http://watchindia.net:8880/live/71740/31043/2093.ts
-#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="Sky Sports F1" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_F1.png" group-title="Sports",Sky Sports F1
-http://watchindia.net:8880/live/71740/31043/2094.ts
-#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="Sky Sports Arena" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Arena.png" group-title="Sports",Sky Sports Arena
-http://watchindia.net:8880/live/71740/31043/2095.ts
-#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="Sky Sports Golf" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Golf.png" group-title="Sports",Sky Sports Golf
-http://watchindia.net:8880/live/71740/31043/2096.ts
-#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 1 HD 1" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_1_HD.png" group-title="Sports",Sony Ten 1 HD 1
-http://watchindia.net:8880/live/71740/31043/1756.ts
-#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 1 HD 2" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_1_HD.png" group-title="Sports",Sony Ten 1 HD 2
-http://watchindia.net:8880/live/71740/31043/2215.ts
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="Sony Ten 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_2_HD.png" group-title="Sports",Sony Ten 2 HD
-http://watchindia.net:8880/live/71740/31043/1757.ts
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="Sony Ten 3 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_3_HD.png" group-title="Sports",Sony Ten 3 HD
-http://watchindia.net:8880/live/71740/31043/1758.ts
-#EXTINF:-1 tvg-id="sports18.in" tvg-name="Sports 18 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sports_18.png" group-title="Sports",Sports 18 HD
-http://watchindia.net:8880/live/71740/31043/2423.ts
-#EXTINF:-1 tvg-id="" tvg-name="Jio Cricket 1" tvg-log
-
+#EXTINF:0,TECNO BREGA
+#EXTGRP:RITMO MUSICAL
+http://stm16.srvaudio.com.br:10106/stream?1608801166036
+#EXTINF:0,RODEIO
+#EXTGRP:RITMO MUSICAL
+https://servidor28-4.brlogic.com:8544/live
+#EXTINF:0,TECHNO
+#EXTGRP:RITMO MUSICAL
+http://hts01.kshost.com.br:9752/stream?1608801361987
+#EXTINF:0,ANOS 60
+#EXTGRP:RITMO MUSICAL
+http://stm18.xcast.com.br:7916/;
+#EXTINF:0,BREGA FUNK
+#EXTGRP:RITMO MUSICAL
+http://stm11.srvstm.com:8632/;
+#EXTINF:0,CATÓLICA
+#EXTGRP:RITMO MUSICAL
+https://s25.maxcast.com.br:8262/live?1608802945180
+#EXTINF:0,INSTRUMENTAL
+#EXTGRP:RITMO MUSICAL
+http://server02.ouvir.radio.br:8045/stream?1608804019044
+#EXTINF:0,ROBERTO CARLOS
+#EXTGRP:RITMO MUSICAL
+http://servidor15.brlogic.com:8058/live?1608801613909
+#EXTINF:0,MUSICA DE AMOR
+#EXTGRP:RITMO MUSICAL
+http://centova11.ciclanohost.com.br:9095/1;
+#EXTINF:0,VIBE
+#EXTGRP:RITMO MUSICAL
+http://45.136.151.3:8120/live?1608801765242
+#EXTINF:0,SERTANEJO HIT
+#EXTGRP:RITMO MUSICAL
+http://streaming.ntelecom.com.br:8508/;
+#EXTINF:0,Kids
+#EXTGRP:RITMO MUSICAL
+https://stream.zeno.fm/yuu82xwymwzuv?1608801932427
+#EXTINF:0,MPB
+#EXTGRP:RITMO MUSICAL
+https://stream.zeno.fm/xe0sf9pfvbruv
+#EXTINF:0,Bossa Nova
+#EXTGRP:RITMO MUSICAL
+http://54.38.43.201:8009/stream-128kmp3-BossaNovaBrazil
+#EXTINF:0,Forro
+#EXTGRP:RITMO MUSICAL
+http://05.stmip.in:7288/1;
+#EXTINF:0,Pagode
+#EXTGRP:RITMO MUSICAL
+https://stream.zeno.fm/7sdtm8c8y5quv
+#EXTINF:0,Anos 2000
+#EXTGRP:RITMO MUSICAL
+http://6d9a.webradio.upx.net.br:9940/stream
+#EXTINF:0,Sertanejo
+#EXTGRP:RITMO MUSICAL
+http://centova.radioempresabrasil.com.br:8314/stream
+#EXTINF:0,Funk
+#EXTGRP:RITMO MUSICAL
+https://stream.zeno.fm/sxqqgnqpn3quv?1608802171267
+#EXTINF:0,Lounge
+#EXTGRP:RITMO MUSICAL
+https://vm.motionfm.com/motionthree_aacp
+#EXTINF:0,Pop Rock
+#EXTGRP:RITMO MUSICAL
+https://stream.zeno.fm/3rdwqmk9y5quv
+#EXTINF:0,Anos 70
+#EXTGRP:RITMO MUSICAL
+http://199.233.234.34:25418/stream?1608802449419
+#EXTINF:0,Anos 80
+#EXTGRP:RITMO MUSICAL
+http://stm11.srvstm.com:7924/;
+#EXTINF:0,Anos 90
+#EXTGRP:RITMO MUSICAL
+https://stream.zeno.fm/6p61tgqh1xquv
+#EXTINF:0,Romanticas
+#EXTGRP:RITMO MUSICAL
+https://stream.zeno.fm/brmyanbuk2zuv
+#EXTINF:0,Rap Nacional
+#EXTGRP:RITMO MUSICAL
+http://216.245.204.226:8028/live
+#EXTINF:0,Rock Brasil
+#EXTGRP:RITMO MUSICAL
+http://node-26.zeno.fm/h23mxsg3a0quv?rj-ttl=5&amp;
+#EXTINF:0,Eletronica
+#EXTGRP:RITMO MUSICAL
+http://suaradio1.dyndns.ws:13636/stream?_=953
+#EXTINF:0,Festa
+#EXTGRP:RITMO MUSICAL
+http://6d9a.webradio.upx.net.br:9070/stream
+#EXTINF:0,Gospel
+#EXTGRP:RITMO MUSICAL
+http://centova2.euroti.com.br:8131/stream?1608742932643
+#EXTINF:0,Hip Hop
+#EXTGRP:RITMO MUSICAL
+https://stream.geracaoradios.com:7014/stream?1608802734849
+#EXTINF:0,Jazz
+#EXTGRP:RITMO MUSICAL
+https://streaming.wkar.msu.edu/wkar-jazz
+#EXTINF:0,Axe
+#EXTGRP:RITMO MUSICAL
+http://euroticast5.euroti.com.br:8070/;
+#EXTINF:0,Brega
+#EXTGRP:RITMO MUSICAL
+https://stream.zeno.fm/dxe2we5z3tzuv
+#EXTINF:0,Musica Classica
+#EXTGRP:RITMO MUSICAL
+https://streaming.live365.com/b37545_128mp3
+#EXTINF:0,New Rock
+#EXTGRP:RITMO MUSICAL
+http://powerhitz.powerhitz.com:6530/;
+#EXTINF:0,Reggae
+#EXTGRP:RITMO MUSICAL
+https://s16.maxcast.com.br:8028/live
+#EXTINF:0,Sertanejo Universitario
+#EXTGRP:RITMO MUSICAL
+https://stream.zeno.fm/f7qe0be3smzuv
+#EXTINF:0,Samba de Raiz
+#EXTGRP:RITMO MUSICAL
+https://stream.zeno.fm/08pzyh88azzuv
+#EXTINF:0,Pop Hits
+#EXTGRP:RITMO MUSICAL
+https://stream.zeno.fm/qn1pyp1fceruv
+#EXTINF:0,Metal
+#EXTGRP:RITMO MUSICAL
+http://centova.euroti.com.br:8024/stream;
+#EXTINF:0,Trilhas Sonoras
+#EXTGRP:RITMO MUSICAL
+https://s25.maxcast.com.br:8262/live?1608802945180
+#EXTINF:0,PATATI PATATA 1
+#EXTGRP:INFANTIL
+https://ia801409.us.archive.org/35/items/dvdvoltaaomundo_202206/PATATI_PATATA_VOLTA_AO_MUNDO1.mp4
+#EXTINF:0,ELVIS PRESLEY
+#EXTGRP:GRANDES CANTORES
+https://ia802207.us.archive.org/3/items/elvis-in-concert-june-19-1977-omaha-ne/Elvis%20in_concert_june%2019%201977%20Omaha%2CNE.ia.mp4?cnt=0
+#EXTINF:0,MADONNA
+#EXTGRP:GRANDES CANTORES
+https://ia800106.us.archive.org/16/items/Madonna_Blond_Ambition_World_Tour_90/Madonna%20Blond%20Ambition%20World%20Tour%2090%20Live%201991-07-28.mp4
+#EXTINF:0,FRANK SINATRA LIZA MINNELLI SAMMY DAVIS JR
+#EXTGRP:GRANDES CANTORES
+https://ia801801.us.archive.org/30/items/frank-liza-and-sammy-the-ultimate-event-1989/Frank%2C%20Liza%20and%20Sammy%20-%20The%20Ultimate%20Event%21%20%281989%29.mp4?cnt=0
+#EXTINF:0,MARIAH CAREY
+#EXTGRP:GRANDES CANTORES
+https://ia801404.us.archive.org/9/items/mtv-special-remixes-mariah-carey-fan-made-2022-part.-1-by-novak/MTV%20SPECIAL%20REMIXES%20-%20Mariah%20Carey%20%28fan%20Made%29%20%282022%29%20Part.1%20by%20Nov%C3%A1k.mp4?cnt=0
+#EXTINF:0,MICHAEL JACKSON
+#EXTGRP:GRANDES CANTORES
+https://ia802907.us.archive.org/2/items/m6michaeljackson1rf27/Suite%20Clips%20MJ%20.ia.mp4
+#EXTINF:0,ROD STEWART
+#EXTGRP:GRANDES CANTORES
+https://ia903008.us.archive.org/1/items/RodStewart_201905/Title%2002.mp4?cnt=0
+#EXTINF:0,BRUCE SPRINGSTEEN
+#EXTGRP:GRANDES CANTORES
+https://ia801905.us.archive.org/22/items/springsteen-80s/Springsteen%2080s.mp4?cnt=0
+#EXTINF:0,DIANA ROSS
+#EXTGRP:GRANDES CANTORES
+https://ia802305.us.archive.org/23/items/diana-a-diana-ross-tv-special-april-1971/Diana%21%20A%20Diana%20Ross%20TV%20Special%20%28April%2C%201971%29.mp4?cnt=0
+#EXTINF:0,LEGIÃO URBANA
+#EXTGRP:GRANDES BANDAS BRASILEIRAS
+https://ia801509.us.archive.org/8/items/fita-3-d-show-legia-o-urbana-metropolitan-rio-1994/FITA%203D%20-%20SHOW%20LEGI%C3%83O%20URBANA%20-%20METROPOLITAN%20RIO%201994.mp4?cnt=0
+#EXTINF:0,NOVOS BAIANOS
+#EXTGRP:GRANDES BANDAS BRASILEIRAS
+https://ia802901.us.archive.org/4/items/novosbaianosfutebolclubesolanoribeiro1973/Novos%20Baianos%20Futebol%20Clube%20%28Solano%20Ribeiro%2C%201973%29.mp4?cnt=0
+#EXTINF:0,OS MUTANTES
+#EXTGRP:GRANDES BANDAS BRASILEIRAS
+https://ia904703.us.archive.org/0/items/mutantes-bootleg/Os%20Mutantes%20-%20Bootleg.ia.mp4?cnt=0
+#EXTINF:0,SEPULTURA
+#EXTGRP:GRANDES BANDAS BRASILEIRAS
+https://ia801902.us.archive.org/26/items/Sepultura_Alive-at-Rock-in-Rio_Cidade-do-Rock_Rio-de-Janeiro-2013/Sepultura_Alive-at-Rock-in-Rio_Cidade-do-Rock_Rio-de-Janeiro_2013.mp4?cnt=0
+#EXTINF:0,ANGRA
+#EXTGRP:GRANDES BANDAS BRASILEIRAS
+https://ia803203.us.archive.org/20/items/angra-angels-cry-20th-anniversary-tour-2013/ANGRA%20-%20Angels%20Cry%2020th%20Anniversary%20Tour%20%282013%29.mp4?cnt=0
+#EXTINF:0,CAPITAL INICIAL
+#EXTGRP:GRANDES BANDAS BRASILEIRAS
+https://ia904604.us.archive.org/23/items/capital-inicial-acustico-mtv/Capital%20Inicial%20-%20Acustico%20MTV.mp4?cnt=0
+#EXTINF:0,ENGENHEIROS DO HAWAII
+#EXTGRP:GRANDES BANDAS BRASILEIRAS
+https://ia804608.us.archive.org/5/items/acustico-mtv-engenheiros-do-hawaii/MTV%20Acustico%20Engenheiros%20do%20Hawaii.mp4?cnt=0
+#EXTINF:0,PINK FLOYD 1980
+#EXTGRP:GRANDES BANDAS MUNDIAIS
+https://ia902909.us.archive.org/15/items/PFLiveAtNassau/Pink%20Floyd%20Live%20At%20Nassau%20Feb27th1980.mp4?cnt=0
+#EXTINF:0,THE BEATLES
+#EXTGRP:GRANDES BANDAS MUNDIAIS
+https://ia803206.us.archive.org/24/items/04-the-beatles-anthology-abc-broadcast-version-1995/01%20The%20Beatles%20-%20A%20Hard%20Day%27s%20Night%20%5BSpecial%20Edition%5D.mp4?cnt=0
+#EXTINF:0,THE ROLLING STONES
+#EXTGRP:GRANDES BANDAS MUNDIAIS
+https://ia801505.us.archive.org/3/items/The_Rolling_Stones_Tape_5_We_Should_Have_Won_The_Contest_Revisited_Mr_Sucky/The_Rolling_Stones_Tape_5_We_Should_Have_Won_The_Contest_Revisited_Mr_Sucky.mp4?cnt=0
+#EXTINF:0,LED ZEPPELIN
+#EXTGRP:GRANDES BANDAS MUNDIAIS
+https://ia802808.us.archive.org/30/items/ledzeppelinliveindortmundgermanyjune17th1980_202001/Led%20Zeppelin%20-%20Live%20in%20Dortmund%2C%20Germany%20%28June%2017th%2C%201980%29.mp4?cnt=0
+#EXTINF:0,U2
+#EXTGRP:GRANDES BANDAS MUNDIAIS
+https://ia601705.us.archive.org/26/items/vhs-tape-1983-u2-live-at-red-rocks-under-a-blood-red-sky/VHS%20Tape%20-%201983%20-%C2%A0U2%20-%20Live%20at%20Red%20Rocks%20-%20Under%20a%20Blood%20Red%20Sky.ia.mp4?cnt=0
+#EXTINF:0,THE WHO
+#EXTGRP:GRANDES BANDAS MUNDIAIS
+https://ia802304.us.archive.org/9/items/the-who-tommy-live-special-guests/The%20Who%20%20-%20%20Tommy%20%28Live%20%26%20Special%20Guests%29.mp4
+#EXTINF:0,NIRVANA
+#EXTGRP:GRANDES BANDAS MUNDIAIS
+https://ia600808.us.archive.org/33/items/youtube-Sf16YAMpDgY/Nirvana_-_23_01_1993_Praca_da_Apoteose_RJ_BR_Legendado-Sf16YAMpDgY.mp4?cnt=0
+#EXTINF:0,THE DOORS
+#EXTGRP:GRANDES BANDAS MUNDIAIS
+https://ia802306.us.archive.org/9/items/the-doors-hollywood-bowl-1968-vhs/TheDoors_HollywoodBowl1968_%5B1987%5D.mp4?cnt=0
+#EXTINF:0,YES
+#EXTGRP:GRANDES BANDAS MUNDIAIS
+https://ia803203.us.archive.org/34/items/yes-greatest-video-hits/Yes%20-%20Greatest%20Video%20Hits.mp4?cnt=0
+#EXTINF:0,VAN HALEN
+#EXTGRP:GRANDES BANDAS MUNDIAIS
+https://ia801405.us.archive.org/9/items/Van_Halen_Sydney_Entertainment_Centre_Sydney_Australia_1998-04-20/Van_Halen_Sydney_Entertainment_Centre_Sydney_Australia_1998-04-20.mp4?cnt=0
+#EXTINF:0,DEEP PURPLE
+#EXTGRP:GRANDES BANDAS MUNDIAIS
+https://ia801802.us.archive.org/0/items/deep-purple-mk-3-space-truckin-original-iso_202101/DEEP%20PURPLE%20%28MK3%29%20%28Space%20Truckin%27%29%20Original%20ISO.mp4?cnt=0
+#EXTINF:0,AEROSMITH
+#EXTGRP:GRANDES BANDAS MUNDIAIS
+https://ia902309.us.archive.org/16/items/aerosmith-mtv-unplugged-complete-unaired-version-dvd-workprint/Aerosmith%20MTV%20Unplugged%20%28Complete%20unaired%20version%29%20DVD%20Workprint.mp4?cnt=0
+#EXTINF:0,IRON MAIDEN
+#EXTGRP:GRANDES BANDAS MUNDIAIS
+https://ia801503.us.archive.org/23/items/Iron_Maiden_Long_Beach_CA_1985-03-15/Iron_Maiden_Long_Beach_CA_1985-03-15.mp4?cnt=0
+#EXTINF:0,BLACK SABBATH
+#EXTGRP:GRANDES BANDAS MUNDIAIS
+https://ia801507.us.archive.org/1/items/Black_Sabbath_Sao_Paulo_Brazil_1994-08-27/Black_Sabbath_Sao_Paulo_Brazil_1994-08-27.mp4?cnt=0
+#EXTINF:0,METALLICA
+#EXTGRP:GRANDES BANDAS MUNDIAIS
+https://ia801405.us.archive.org/8/items/Metallica_Stuttgart_1997-08-23/Metallica_Stuttgart_1997-08-23.mp4?cnt=0
+#EXTINF:0,PESRL JAN
+#EXTGRP:GRANDES BANDAS MUNDIAIS
+https://ia902905.us.archive.org/25/items/pearljamearlyvideosandlive/Pearl%20Jam%20-%20Early%20Videos%20And%20Live.mp4?cnt=0
+#EXTINF:0,SCORPIONS
+#EXTGRP:GRANDES BANDAS MUNDIAIS
+https://ia803009.us.archive.org/30/items/scorpionsvideo.collection.2011.xvid.dvdripkaspr/Scorpions-Video.Collection.2011.XviD.DVDRip_kaspr.mp4?cnt=0
+#EXTINF:0,LINKIN PARK
+#EXTGRP:GRANDES BANDAS MUNDIAIS
+https://ia801607.us.archive.org/32/items/youtube-7Mxg4VkkRRI/Live_In_Texas_Full_-_Linkin_Park-7Mxg4VkkRRI.mp4?cnt=0
+#EXTINF:0,DIRE STRAITS
+#EXTGRP:GRANDES BANDAS MUNDIAIS
+https://ia804709.us.archive.org/31/items/mtv-6-2-84-dire-straits-concert-special-live-in-london/MTV%206%202%2084%20DIRE%20STRAITS%20CONCERT%20SPECIAL%20LIVE%20IN%20LONDON.ia.mp4?cnt=0
+#EXTINF:0,RAMONES
+#EXTGRP:GRANDES BANDAS MUNDIAIS
+https://ia904505.us.archive.org/8/items/20141231-the-ramones-ramones-live-at-the-rainbow-december-31-1977/20141231_The%20Ramones_Ramones%20-%20Live%20At%20The%20Rainbow%20-%20December%2031%2C%201977.mp4?cnt=0
+#EXTINF:0,COLDPLAY
+#EXTGRP:GRANDES BANDAS MUNDIAIS
+https://ia600607.us.archive.org/15/items/videojam687/VIDEOJAM687.mp4?cnt=0
+#EXTINF:0,RUSH
+#EXTGRP:GRANDES BANDAS MUNDIAIS
+https://ia801800.us.archive.org/9/items/vhs-tape-rush-fresno-ca-february-8th-1994/VHS%20Tape%20-%20Rush%20-%20Fresno%2C%20CA%20-%20February%208th%2C%201994.ia.mp4
+#EXTINF:0,MOTORHEAD
+#EXTGRP:GRANDES BANDAS MUNDIAIS
+https://ia802900.us.archive.org/18/items/TheVistaGroup-MotorheadLiveTheBirthdayParty/Motorhead%20Live%20-%20The%20Birthday%20Party%20%E2%80%A2%2060%20FPS%201985.ia.mp4?cnt=0
+#EXTINF:0,THE POLICE
+#EXTGRP:GRANDES BANDAS MUNDIAIS
+https://ia802900.us.archive.org/22/items/thepolicemusicvideocollection/The%20Police%20-%20Music%20Video%20Collection.mp4?cnt=0
+#EXTINF:0,OASIS
+#EXTGRP:GRANDES BANDAS MUNDIAIS
+https://ia902200.us.archive.org/13/items/oasis-mtv-live-unplugged-1996/Oasis%20MTV%20Live%20Unplugged%20%281996%29.mp4?cnt=0
+#EXTINF:0,BEACH BOYS
+#EXTGRP:GRANDES BANDAS MUNDIAIS
+https://ia802801.us.archive.org/8/items/Concerts_in_the_Park_-_Surf_s_Up_Beach_Boys_Tribute/Concerts_in_the_Park_-_Surf_s_Up_Beach_Boys_Tribute.mp4?cnt=0
+#EXTINF:0,THE CURE
+#EXTGRP:GRANDES BANDAS MUNDIAIS
+https://ia904604.us.archive.org/23/items/Cure_2012-06-11_video/2012-06-11%20Tushino%20Air%20Field%2C%20Moscow%2C%20Russia%20%5BVideo%5D%2FThe%20Cure%20-%20Maxidrom%202012%2C%20Tushino%20Airfield%2C%20Moscow%2C%20Russia%20%5B2012-06-11%2C%20AUD%5D.mp4?cnt=0
+#EXTINF:0,OLIVIA NEWRON JOHN
+#EXTGRP:GRANDES BANDAS MUNDIAIS
+https://ia802302.us.archive.org/5/items/olivia-newton-john-television-specials/Olivia%20Newton%20John%2FOlivia%20-%20Hollywood%20Nights%20%28Apr%201980%29.mp4
+#EXTINF:0,BON JOVI
+#EXTGRP:GRANDES BANDAS MUNDIAIS
+https://ia802503.us.archive.org/35/items/Bon_Jovi_Tokyo_1985-04-28_and_1984/Bon_Jovi_Tokyo_1985-04-28_and_1984.mp4?cnt=0
+#EXTINF:0,MARCELO D2
+#EXTGRP:SHOWS
+https://ia804709.us.archive.org/14/items/marcelo-d-2-acustico/Marcelo_D2_Acustico.mp4?cnt=0
+#EXTINF:0,CIDADE NEGRA
+#EXTGRP:SHOWS
+https://ia804702.us.archive.org/25/items/cidade-negra/Cidade%20Negra.mp4?cnt=0
+#EXTINF:0,CÁSSIA ELLER 2015
+#EXTGRP:SHOWS
+https://ia803104.us.archive.org/10/items/cassia-eller-2015-documentario/C%C3%A1ssia%20Eller%20%282015%29%20-%20Document%C3%A1rio.mp4?cnt=0
+#EXTINF:0,LUIZ GONZAGA
+#EXTGRP:SHOWS
+https://ia804604.us.archive.org/32/items/luiz-gonzaga/LUIZ_GONZAGA.mp4
+#EXTINF:0,GIAN GIOVANI
+#EXTGRP:SHOWS
+https://ia601509.us.archive.org/2/items/gian-giovani-uma-historia-de-sucesso-show-completo/Gian%20%20Giovani%20%20Uma%20Hist%C3%B3ria%20De%20Sucesso%20%20Show%20Completo.ia.mp4?cnt=0
+#EXTINF:0,JOÃO GILBERTO
+#EXTGRP:SHOWS
+https://ia902307.us.archive.org/31/items/editor_202109/Editor.ia.mp4?cnt=0
+#EXTINF:0,CLUBE DO SAMBA
+#EXTGRP:SHOWS
+https://ia803208.us.archive.org/25/items/mix-live-de-terca-2020-wsl-28-dlay-clube-do-samba-1080/MixLive%20de%20Ter%C3%A7a%202020%20%23WSL28%20DLay%20%5BClube%20do%20Samba%5D%201080.ia.mp4
+#EXTINF:0,BIQUINI CAVADÃO
+#EXTGRP:SHOWS
+https://ia801906.us.archive.org/13/items/biquini-cavadao-ao-vivo-dvd-480-p-1/Biquini%20Cavad%C3%A3o%20-%20Ao%20Vivo%20%28DVD%29%28480P%29_1.ia.mp4?cnt=0
+#EXTINF:0,LEGIÃO URBANA
+#EXTGRP:SHOWS
+https://ia803201.us.archive.org/1/items/legiao-urbana-ao-vivo-no-jockey-club-1990/Legi%C3%A3o%20Urbana%20ao%20vivo%20no%20Jockey%20Club%20%281990%29.ia.mp4?cnt=0
+#EXTINF:0,BTS
+#EXTGRP:SHOWS
+https://ia902500.us.archive.org/9/items/f0b3bad6-13eb-47de-b532-5b77d09384f4/TURNE%CC%82%20AME%20VOCE%CC%82%20MESMO%20EM%20NOVA%20IORQUE%20-%20SHOW%20%5BPT-BR%5D.ia.mp4?cnt=0
+#EXTINF:0,ACÚSTICO MTV TITÃS
+#EXTGRP:SHOWS
+https://ia803105.us.archive.org/0/items/acustico-MTV-titas-volume2/MTV%20Acustico%20Titas.mp4?cnt=0
+#EXTINF:0,SAMBÔ
+#EXTGRP:SHOWS
+https://ia802307.us.archive.org/16/items/ddp-sambo/DDP%20SAMBO%CC%82.mp4
+#EXTINF:0,ALOK 2016 ULTRA BRASIL
+#EXTGRP:SHOWS
+https://ia601708.us.archive.org/11/items/alok-live-ultra-music-festival-brasil-2016/ALOK%20Live%20%40%20Ultra%20Music%20Festival%20Brasil%20-%202016.mp4
+#EXTINF:0,FESTA SERTANEJA
+#EXTGRP:SHOWS
+https://ia802309.us.archive.org/18/items/festa-sertaneja-2/FESTA_SERTANEJA_2.mp4?cnt=0
+#EXTINF:0,WESLEY SAFADÃO 2016
+#EXTGRP:SHOWS
+https://ia800202.us.archive.org/27/items/WesleySafadaoAoVivoEmBrasilia/Wesley_Safad%C3%A3o_-_Ao_Vivo_em_Brasilia.mp4?cnt=0
+#EXTINF:0,VANESSA DA MATA
+#EXTGRP:SHOWS
+https://ia801906.us.archive.org/9/items/dvd-vanessa-da-mata-carnaval-do-recife-2017-show-completo-360-p-1/DVD%20Vanessa%20da%20Mata%20-%20Carnaval%20do%20Recife%202017%20%28Show%20Completo%29%28360P%29_1.mp4?cnt=0
+#EXTINF:0,PET SHOP BOYS
+#EXTGRP:SHOWS
+https://ia803201.us.archive.org/29/items/pet-shop-boys-in-the-80s-480-p-1/Pet%20Shop%20Boys%20in%20the%2080s%28480P%29_1.ia.mp4?cnt=0
+#EXTINF:0,BIQUINI CAVADÃO CIRCO VOADOR
+#EXTGRP:SHOWS
+https://ia903201.us.archive.org/20/items/biquini.-cavadao.-ao-vivo-2-circo-voador-completo-720x-480-hd-480-p-1/Biquini.Cavad%C3%A3o.Ao%20Vivo%202%20Circo%20Voador%20completo%20%28720x480%29%20HD%28480P%29_1.ia.mp4?cnt=0
+#EXTINF:0,LOLLAPALOOZA CHICAGO 2022 - J-HOPE
+#EXTGRP:SHOWS
+https://ia801404.us.archive.org/1/items/4e6d97b0-c19b-4b0f-bde4-44f1bc498706/LOLLAPALOOZA%20CHICAGO%202022%20-%20J-HOPE%20%5BRAW%5D.ia.mp4?cnt=0
+#EXTINF:0,Habstrakt  Lollapalooza Chicago 2022
+#EXTGRP:SHOWS
+https://ia801502.us.archive.org/32/items/lollapalooza-20220731-habstrakt-360p/Lollapalooza%2020220731%20%20Habstrakt%20360p.mp4?cnt=0
+#EXTINF:0,2017 I
+#EXTGRP:ROCK IN RIO
+https://ia601401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/maroon52017.mp4?cnt=0
+#EXTINF:0,AEROSMITH
+#EXTGRP:ROCK IN RIO
+https://ia801401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Aerosmith%20Rock%20in%20Rio%202017-%28480p%29.ia.mp4
+#EXTINF:0,2019 I
+#EXTGRP:ROCK IN RIO
+https://ia601401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Anthrax%20-%20Rock%20in%20Rio%202019%28360p%29%20%281%29.mp4
+#EXTINF:0,2019 II
+#EXTGRP:ROCK IN RIO
+https://ia801401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Bebe%20Rexha%20-%20Rock%20in%20Rio%202019%20HD%201080-%28480p%29.ia.mp4
+#EXTINF:0,2019 III
+#EXTGRP:ROCK IN RIO
+https://ia601401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Charlie%20Puth%20%20-%20Rock%20in%20Rio%202019%20%28Best%20Quality%29.mp4
+#EXTINF:0,2019 IV
+#EXTGRP:ROCK IN RIO
+https://ia801401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Ellie%20Goulding%20-%20Rock%20in%20Rio%202019%20%28Best%20Quality%29%28360p%29.mp4
+#EXTINF:0,FOO FIGHTERS
+#EXTGRP:ROCK IN RIO
+https://ia801401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Foo%20Fighters%20-%20Rock%20in%20Rio%202019-%28480p%29.ia.mp4
+#EXTINF:0,HER
+#EXTGRP:ROCK IN RIO
+https://ia801401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-H%20E%20R%20-%20Rock%20in%20Rio%202019%20%28Best%20Quality%29.mp4
+#EXTINF:0,2019 V
+#EXTGRP:ROCK IN RIO
+https://ia601401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Halloween%20-%20Rock%20in%20Rio%202019%20%28Best%20Quality%29%28360p%29.mp4
+#EXTINF:0,IMAGINE DRAGONS
+#EXTGRP:ROCK IN RIO
+https://ia601401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Imagine%20Dragons%20-%20Rock%20in%20Rio%202019%20%28Best%20Quality%29.mp4
+#EXTINF:0,IRON MAIDEN
+#EXTGRP:ROCK IN RIO
+https://ia601401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Iron%20Maiden%20Rock%20in%20Rio%202019-%28480p%29.ia.mp4
+#EXTINF:0,JESSIE J
+#EXTGRP:ROCK IN RIO
+https://ia601401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Jessie%20J%20-%20Rock%20in%20Rio%202019%20%28Best%20Quality%29%28360p%29.mp4
+#EXTINF:0,JUSTIN TIMBERLAKE
+#EXTGRP:ROCK IN RIO
+https://ia601401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Justin%20Timberlake%20-%20Rock%20in%20Rio%202017-%28480p%29.ia.mp4
+#EXTINF:0,KATY PERRY
+#EXTGRP:ROCK IN RIO
+https://ia601401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Katy%20Perry%20Live%20%20Rock%20in%20Rio%202015%20HD%20%20brasil.mp4
+#EXTINF:0,MRS CARTER WORLD TOUR BEYONCÉ
+#EXTGRP:ROCK IN RIO
+https://ia601401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Mrs.%20Carter%20World%20Tour%20-%20Beyonc%C3%A9%20Ao%20Vivo%20no%20Rock%20in%20Rio%20Brasil%20%282013%29.mp4
+#EXTINF:0,NICKELBACK
+#EXTGRP:ROCK IN RIO
+https://ia801401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Nickelback%20-%20Rock%20in%20Rio%202019%20%28Best%20Quality%29-%28480p%29.ia.mp4
+#EXTINF:0,PINK
+#EXTGRP:ROCK IN RIO
+https://ia801401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-P%21nk%20-%20Rock%20in%20Rio%202019%20%28Best%20Quality%29%28360p%29.mp4
+#EXTINF:0,PANIC!
+#EXTGRP:ROCK IN RIO
+https://ia801401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Panic%21%20At%20The%20Disco_Rock%20In%20Rio%202019-Full%20Performance%20In%204K-%28480p%29.ia.mp4
+#EXTINF:0,RED HOT CHILI PEPPERS
+#EXTGRP:ROCK IN RIO
+https://ia601401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Red%20Hot%20Chili%20Peppers%20-%20Rock%20in%20Rio%202019%20%28Best%20quality%29-%28480p%29.ia.mp4
+#EXTINF:0,RIHANNA
+#EXTGRP:ROCK IN RIO
+https://ia801401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Rihanna%20-%20Live_Ao%20Vivo%20at%20Rock%20in%20Rio%20Brazil%20%28Complete%20Show%29%20HD-%28480p%29.ia.mp4
+#EXTINF:0,RIHANNA
+#EXTGRP:ROCK IN RIO
+https://ia801401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Rihanna%20-%20Live_Ao%20Vivo%20at%20Rock%20in%20Rio%20Brazil%20%28Complete%20Show%29%20HD-%28480p%29.ia.mp4
+#EXTINF:0,SEAL
+#EXTGRP:ROCK IN RIO
+https://ia801401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Seal%20-%20Rock%20in%20Rio%202019%20%28Best%20Quality%29.mp4
+#EXTINF:0,SEPULTURA
+#EXTGRP:ROCK IN RIO
+https://ia801401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Sepultura%20-%20Rock%20in%20Rio%202019-%28480p%29.ia.mp4
+#EXTINF:0,SLIPKNOT
+#EXTGRP:ROCK IN RIO
+https://ia601401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Slipknot%20-%20Rock%20in%20Rio%202011%20HD%20%20%28Full%20Concert%29-%28480p%29.ia.mp4
+#EXTINF:0,SYSTEM OF A DOWN
+#EXTGRP:ROCK IN RIO
+https://ia601401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-System%20Of%20A%20Down%20-%20Rock%20In%20Rio%202015%20-%20Completo%20Full%20Show%20HD%20-%20Full%20concert-%28480p%29.ia.mp4
+#EXTINF:0,TENACIOUS D
+#EXTGRP:ROCK IN RIO
+https://ia801401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Tenacious%20D%20-%20Rock%20in%20Rio%202019%20%28Best%20Quality%29%28360p%29.mp4
+#EXTINF:0,THE BLACK EYED PEAS
+#EXTGRP:ROCK IN RIO
+https://ia601401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-The%20Black%20Eyed%20Peas%20-%20Rock%20in%20Rio%202019%20%28Best%20Quality%29-%28480p%29.ia.mp4
+#EXTINF:0,WEEZER
+#EXTGRP:ROCK IN RIO
+https://ia601401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Weezer%20-%20Rock%20in%20Rio%202019%20%28Best%20Quality%29%28360p%29.mp4
+#EXTINF:0,1994
+#EXTGRP:HOLLYWOOD ROCK
+https://ia803405.us.archive.org/21/items/hollywood-rock-1994/Hollywood%20Rock%201994.mp4?cnt=0
+#EXTINF:0,1988
+#EXTGRP:HOLLYWOOD ROCK
+https://ia903408.us.archive.org/22/items/hollywood-rock-1988/Hollywood%20Rock%201988.mp4?cnt=0
+#EXTINF:0,1992
+#EXTGRP:HOLLYWOOD ROCK
+https://ia903403.us.archive.org/26/items/hollywood-rock-1992/Hollywood%20Rock%201992.mp4?cnt=0
+#EXTINF:0,1993
+#EXTGRP:HOLLYWOOD ROCK
+https://ia903406.us.archive.org/18/items/hollywood-rock-1993/Hollywood%20Rock%201993.mp4?cnt=0
+#EXTINF:0,1996
+#EXTGRP:HOLLYWOOD ROCK
+https://ia904503.us.archive.org/24/items/hollywood-rock-1996/Hollywood%20Rock%201996.mp4?cnt=0
+#EXTINF:0,1995
+#EXTGRP:HOLLYWOOD ROCK
+https://ia803407.us.archive.org/32/items/hollywood-rock-1995/Hollywood%20Rock%201995.mp4?cnt=0
+#EXTINF:0,MPB AS MELHORES
+#EXTGRP:MÚSICAS VARIADAS
+https://ia601705.us.archive.org/27/items/mpb-as-melhores-mpb-antigas-acustico-e-classicos-mpb-relax-mpb-de-domingo-anos-80-e-90-720-p-hd-1/MPB%20As%20Melhores%20%E2%98%80%20MPB%20Antigas_%20Ac%C3%BAstico%20e%20Cl%C3%A1ssicos%20_%20MPB%20Relax%20_%20MPB%20de%20Domingo%20anos%2080%20e%2090%28720P_HD%29_1.mp4?cnt=0
+#EXTINF:0,SERTANEJO 3
+#EXTGRP:MÚSICAS VARIADAS
+https://ia601406.us.archive.org/33/items/universo-sertanejo-3/Universo%20Sertanejo3.ia.mp4?cnt=0
+#EXTINF:0,BEE GEES
+#EXTGRP:MÚSICAS VARIADAS
+https://ia601404.us.archive.org/29/items/coletanea-bee-gees/COLETANEA%20BEE%20GEES.mp4?cnt=0
+#EXTINF:0,TRACY CHAPMAN
+#EXTGRP:MÚSICAS VARIADAS
+https://ia804603.us.archive.org/0/items/tracy-chapman-greatest-hits-full-album-best-songs-of-tracy-chapman-tracy-chapman-playlist-2021/Tracy%20Chapman%20Greatest%20Hits%20Full%20Album%20-%20Best%20Songs%20Of%20Tracy%20Chapman%20-%20Tracy%20Chapman%20Playlist%202021.ia.mp4?cnt=0
+#EXTINF:0,SERTANEJO 4
+#EXTGRP:MÚSICAS VARIADAS
+https://ia801400.us.archive.org/9/items/universo-sertanejo-4/Universo%20Sertanejo%204.ia.mp4?cnt=0
+#EXTINF:0,SERTANEJO 2
+#EXTGRP:MÚSICAS VARIADAS
+https://ia801504.us.archive.org/8/items/universo-sertanejo-2/Universo%20Sertanejo2.ia.mp4?cnt=0
+#EXTINF:0,SERTANEJO 1
+#EXTGRP:MÚSICAS VARIADAS
+https://ia601508.us.archive.org/24/items/universo-sertanejo/Universo%20Sertanejo.ia.mp4?cnt=0
+#EXTINF:0,SERTANEJO ROMÂNTICO
+#EXTGRP:MÚSICAS VARIADAS
+https://ia802309.us.archive.org/13/items/sertanejoromantico/SERTANEJO%20ROMANTICO.ia.mp4?cnt=0
+#EXTINF:0,TOP SERTANEJO 2021
+#EXTGRP:MÚSICAS VARIADAS
+https://ia804504.us.archive.org/4/items/topsertanejo2021/TOP%20SERTANEJO%202021.ia.mp4?cnt=0
+#EXTINF:0,SERTANEJO 5
+#EXTGRP:MÚSICAS VARIADAS
+https://ia601507.us.archive.org/32/items/universo-sertanejo-5/Universo%20Sertanejo%205.ia.mp4?cnt=0
+#EXTINF:0,SOM BRASIL
+#EXTGRP:MÚSICAS VARIADAS
+https://ia801402.us.archive.org/22/items/som-brasil-vol-1/Som%20Brasil%20vol1.ia.mp4?cnt=0
+#EXTINF:0,BOSSA NOVA
+#EXTGRP:MÚSICAS VARIADAS
+https://ia802307.us.archive.org/13/items/bossa-in-rio/BOSSA_IN_RIO.mp4
+#EXTINF:0,ROCK NACIONAL
+#EXTGRP:MÚSICAS VARIADAS
+https://seed163.bitchute.com/lmV0qAJ1h1xW/5a7NstOiY9Ja.mp4
+#EXTINF:0,ROCK NACIONAL ANOS 80
+#EXTGRP:MÚSICAS VARIADAS
+https://seed125.bitchute.com/lmV0qAJ1h1xW/3CBY4zEfqjyi.mp4
+#EXTINF:0,ADRYANA RIBEIRO GRANDES SUCESSOS
+#EXTGRP:MÚSICAS VARIADAS
+https://ia801507.us.archive.org/18/items/adryana-ribeiro-grandes-sucessos/Adryana%20Ribeiro%20-%20Grandes%20Sucessos.ia.mp4?cnt=0
+#EXTINF:0,SET MIX PAGODE
+#EXTGRP:MÚSICAS VARIADAS
+https://ia902908.us.archive.org/5/items/setmixpagode2020vol.01juniorcaladomagistral/Set%20Mix%20Pagode%202020%20Vol.01%20-%20Junior%20Calado%20Magistral.mp4
+#EXTINF:0,MÚSICAS ELETRÔNICAS
+#EXTGRP:MÚSICAS VARIADAS
+https://ia801408.us.archive.org/17/items/musicas-eletronicas-parte-17_202209/Musicas%20Eletronicas%20Parte%2017.mp4?cnt=0
+#EXTINF:0,ROCK BRASIL
+#EXTGRP:MÚSICAS VARIADAS
+https://ia601807.us.archive.org/26/items/curso-completo-de-filosofia-para-o-enem-/Curso%20Completo%20de%20Filosofia%20para%20o%20Enem%20%28720p_30fps_H264-192kbit_AAC%29.mp4?cnt=0
+#EXTINF:0,MTV HITS
+#EXTGRP:MÚSICAS VARIADAS
+https://ia801407.us.archive.org/6/items/music-videos-MTVBrasil-MTVHits/DaneTV%20MTV%20BR%20Hits%201.mp4
+#EXTINF:0,NANINHA MTV
+#EXTGRP:MÚSICAS VARIADAS
+https://ia601500.us.archive.org/13/items/music-videos-MTVBrasil-Naninha/DaneTV%20MTV%20BR%20Naninha%201.mp4?cnt=0
+#EXTINF:0,ZEZÉ DI CAMARGO LUCIANO AS MELHORES ANTIGAS ( 1991-1999)
+#EXTGRP:MÚSICAS VARIADAS
+https://ia600201.us.archive.org/6/items/ZEZEDICAMARGOLUCIANOASMELHORESANTIGAS1991HA19994/Zeze%20di%20camargo%20so%20antigas.mp4?cnt=0
+#EXTINF:0,AS MELHORES LEGIÃO URBANA
+#EXTGRP:MÚSICAS VARIADAS
+https://ia803207.us.archive.org/30/items/legiao-urbana-as-melhores/Legi%C3%A3o%20Urbana%20-%20As%20Melhores.ia.mp4?cnt=0
+#EXTINF:0,DNA LOUNGE
+#EXTGRP:MÚSICAS VARIADAS
+https://ia803208.us.archive.org/1/items/DNALOUNGE-VIDEO-2018-08-25/2018-08-25.mp4?cnt=0
+#EXTINF:0,TOP CANÇÕES DE ROCK MUNDIAL
+#EXTGRP:MÚSICAS VARIADAS
+https://ia802808.us.archive.org/25/items/51MEJORESROCK/rockearaul.mp4?cnt=0
+#EXTINF:0,TOP CANÇÕES DE ROMÂNTICAS MUNDIAL
+#EXTGRP:MÚSICAS VARIADAS
+https://ia902808.us.archive.org/22/items/Top50BestRomanticsSongsInEnglishHD/Top%2050%20best%20romantics%20songs%20in%20English%20-%20HD.mp4?cnt=0
+#EXTINF:0,PARALAMAS DO SUCESSO
+#EXTGRP:MÚSICAS VARIADAS
+https://ia803202.us.archive.org/1/items/paralamas-do-sucesso-as-melhores-album-completo/PARALAMAS%20do%20SUCESSO%20-%20As%20Melhores%20-%20ALBUM%20COMPLETO.ia.mp4?cnt=0
+#EXTINF:0,JAZZ
+#EXTGRP:MÚSICAS VARIADAS
+https://ia801708.us.archive.org/29/items/manhattan-jazz-quartett-vocal-jazz-classics-720-p-hd-1/Manhattan%20Jazz%20Quartett%20-%20Vocal%20Jazz%20Classics%28720P_HD%29_1.ia.mp4?cnt=0
+#EXTINF:0,JOÃO GILBERTO
+#EXTGRP:MÚSICAS VARIADAS
+https://ia801706.us.archive.org/27/items/joao-gilberto-joao-gilberto-sings-famous-brazilian-songs-480-p-1/Jo%C3%A3o%20Gilberto%20-%20Joao%20Gilberto%20Sings%20Famous%20Brazilian%20Songs%28480P%29_1.ia.mp4?cnt=0
+#EXTINF:0,ANTENA LOVE
+#EXTGRP:MÚSICAS VARIADAS
+https://ia801908.us.archive.org/14/items/coleta-nea-ballads-love-songs-vol-1-cd-pre-mio-do-recadolove-720-p-hd-1/COLET%C3%82NEA%20BALLADS%20LOVE%20SONGS%20VOL%201%20%28%20CD%20PR%C3%8AMIO%20DO%20RECADOLOVE%29%28720P_HD%29_1.ia.mp4?cnt=0
+#EXTINF:0,ANTENA 1
+#EXTGRP:MÚSICAS VARIADAS
+https://ia801908.us.archive.org/4/items/antena-1-alpha-fm-sequencias-de-classe-pra-voce-vol.-20-720-p-hd-1/Antena%201%20_%20Alpha%20Fm%20Sequ%C3%AAncias%20de%20Classe%20pra%20voc%C3%AA%20Vol.20%28720P_HD%29_1.ia.mp4?cnt=0
+#EXTINF:0,ANOS 90 INTERNACIONAL
+#EXTGRP:MÚSICAS VARIADAS
+https://ia801805.us.archive.org/19/items/as-roma-nticas-inesqueci-veis-dos-anos-90-s-antenalove-720-p-hd/AS%20ROM%C3%82NTICAS%20INESQUEC%C3%8DVEIS%20DOS%20ANOS%2090_S%20_ANTENALOVE_%28720P_HD%29.ia.mp4?cnt=0
+#EXTINF:0,ALTERNATIVE ROCK
+#EXTGRP:MÚSICAS VARIADAS
+https://ia802902.us.archive.org/2/items/bestofalternativerocksongsaerosmithbonjoviu2gunsnirvansgreatest/Best%20Of%20Alternative%20Rock%20Songs%20-%20Aerosmith-Bon%20Jovi-U2-Gun%27s-Nirvans%20Greatest.mp4?cnt=0
+#EXTINF:0,TOP MÚSICA 2020
+#EXTGRP:MÚSICAS VARIADAS
+https://ia903202.us.archive.org/17/items/best-bossa-nova-jazz-full-album-bossa-nova-songs-2020-bossa-nova-relaxing-720-p-hd-1/Best%20Bossa%20Nova%20Jazz%20Full%20Album%20_%20Bossa%20Nova%20Songs%202020%20_%20Bossa%20Nova%20Relaxing%28720P_HD%29_1.ia.mp4?cnt=0
+#EXTINF:0,ROCK DE ESTRADA
+#EXTGRP:MÚSICAS VARIADAS
+https://ia902806.us.archive.org/7/items/baladasrockparaouvirnaestradaii/Baladas%20Rock%20para%20ouvir%20na%20estrada%20II.mp4?cnt=0
+#EXTINF:0,LEGIÃO URBANA 4 ESTAÇÕES
+#EXTGRP:MÚSICAS VARIADAS
+https://ia803206.us.archive.org/11/items/legiao-cd-completo./Legi%C3%A3o%20CD%20Completo..ia.mp4?cnt=0
+#EXTINF:0,ROCK INTERNACIONAL
+#EXTGRP:MÚSICAS VARIADAS
+https://ia801909.us.archive.org/11/items/scorpions-led-zeppelin-aerosmith-bon-jovi-u-2-slow-rock-ballads-collection-720-p-hd-1/Scorpions_%20LedZeppelin_%20Aerosmith_%20Bon%20Jovi_%20U2%20-%20Slow%20Rock%20Ballads%20Collection%28720P_HD%29_1.ia.mp4?cnt=0
+#EXTINF:0,BOSSA NOVA BRASIL
+#EXTGRP:MÚSICAS VARIADAS
+https://ia903204.us.archive.org/3/items/vintage-brazil-bossa-nova/Vintage%20Brazil%20Bossa-Nova.ia.mp4?cnt=0
+#EXTINF:0,DIRE STRAITS
+#EXTGRP:MÚSICAS VARIADAS
+https://ia903201.us.archive.org/10/items/dire-straits-greatest-hits-full-album-2018.-hd-720-p-hd-1/Dire%20Straits%20-%20Greatest%20Hits%20%28Full%20Album%29%202018.%20HD%28720P_HD%29_1.ia.mp4?cnt=0
+#EXTINF:0,FLASHBACK ANOS 80
+#EXTGRP:MÚSICAS VARIADAS
+https://ia801703.us.archive.org/13/items/flashback-anos-80-cd-completo-2002-2017-hq-720-p-hd-1/Flashback%20Anos%2080%20%20%20CD%20Completo%202002%202017%20%20HQ%28720P_HD%29_1.ia.mp4?cnt=0
+#EXTINF:0,ANOS 80 E 90
+#EXTGRP:MÚSICAS VARIADAS
+https://ia903204.us.archive.org/9/items/antena-1-anos-80-e-90-dj-eddie-blue-720-p-hd-1/Antena%201%20Anos%2080%20e%2090%20Dj%20Eddie%20Blue%20--%28720P_HD%29_1.ia.mp4?cnt=0
+#EXTINF:0,THE BEST OF ENYA
+#EXTGRP:MÚSICAS VARIADAS
+https://ia801800.us.archive.org/22/items/the-best-of-enya-non-stop-playlist-720-p-hd-1/The%20Best%20of%20ENYA%20_%20Non-Stop%20Playlist%28720P_HD%29_1.ia.mp4?cnt=0
+#EXTINF:0,RENATO RUSSO
+#EXTGRP:MÚSICAS VARIADAS
+https://ia803208.us.archive.org/23/items/renato-russo-renato-russo-as-melhores-melhores-musicas-de-renato-russo/Renato%20Russo%20Renato%20Russo%20As%20Melhores%20Melhores%20M%C3%BAsicas%20de%20Renato%20Russo.ia.mp4?cnt=0
+#EXTINF:0,ROCK WAVE
+#EXTGRP:MÚSICAS VARIADAS
+https://ia801803.us.archive.org/31/items/rock-wave-2-cd-completo-2002-2018-repack-hq/Rock%20Wave%202%20-%20CD%20Completo%20%282002-2018%29%20%5BREPACK%5D%20HQ.ia.mp4?cnt=0
+#EXTINF:0,U2
+#EXTGRP:MÚSICAS VARIADAS
+https://ia803202.us.archive.org/11/items/u-2-greatest-hits-full-album-the-best-of-u-2-u-2-love-songs-ever/U2%20Greatest%20Hits%20Full%20Album%20%E2%99%AC%20The%20Best%20of%20U2%20%E2%99%AC%20U2%20Love%20Songs%20Ever.ia.mp4?cnt=0
+#EXTINF:0,MADRUGADAS ANOS 80 E 90
+#EXTGRP:MÚSICAS VARIADAS
+https://ia801808.us.archive.org/5/items/manchete-fm-madrugadas-anos-80-e-90/MANCHETE%20FM%20%20%20MADRUGADAS%20ANOS%2080%20e%2090.ia.mp4?cnt=0
+#EXTINF:0,CLASSIC ROCK ANOS 60 70 80
+#EXTGRP:MÚSICAS VARIADAS
+https://ia601705.us.archive.org/16/items/classic-rock-greatest-hits-60s-70s-and-80s-classic-rock-songs-of-all-time/Classic%20Rock%20Greatest%20Hits%2060s%20%26%2070s%20and%2080s%20%20%20Classic%20Rock%20Songs%20Of%20All%20Time.ia.mp4?cnt=0
+#EXTINF:0,PINK FLOYD 2020
+#EXTGRP:MÚSICAS VARIADAS
+https://ia803202.us.archive.org/19/items/pink-floyd-greatest-hits-full-album-pink-floyd-playlist-2020-pink-floyd-live-720-p-hd-1/Pink%20Floyd%20Greatest%20Hits%20Full%20Album%20_%20Pink%20Floyd%20Playlist%202020_%20Pink%20Floyd%20Live%28720P_HD%29_1.ia.mp4?cnt=0
+#EXTINF:0,BOSSA NOVA 2020
+#EXTGRP:MÚSICAS VARIADAS
+https://ia801707.us.archive.org/3/items/bossa-nova-2020-the-best-bossa-nova-covers-of-popular-songs-2020-720-p-hd-1/Bossa%20Nova%202020%20_%20The%20Best%20Bossa%20Nova%20Covers%20Of%20Popular%20Songs%202020%28720P_HD%29_1.ia.mp4?cnt=0
+#EXTINF:0,OASIS ACOUSTIC COLLECTION
+#EXTGRP:MÚSICAS VARIADAS
+https://ia801707.us.archive.org/32/items/oasis-acoustic-collection-cd-2-480-p-1/Oasis%20-%20Acoustic%20Collection%20%5BCD%202%5D%28480P%29_1.ia.mp4?cnt=0
+#EXTINF:0,MPB AS MELHORES 2020
+#EXTGRP:MÚSICAS VARIADAS
+https://ia801803.us.archive.org/2/items/marisa-monte-rita-lee-ana-carolina-maria-rita-as-melhores-mpb-as-melhores-antigas-2020-13-720-p-hd-1/Marisa%20Monte_%20Rita%20Lee_%20Ana%20Carolina_%20Maria%20Rita%20As%20Melhores%20_%20MPB%20As%20Melhores%20Antigas%202020%20_13%28720P_HD%29_1.ia.mp4?cnt=0
+#EXTINF:0,A HA 1984
+#EXTGRP:MÚSICAS VARIADAS
+https://ia601706.us.archive.org/24/items/a-ha-the-singles-1984-2004-full-album-with-lyrics-on-all-19-songs-720-p-hd-1/A-Ha%20The%20Singles%201984%20-%202004%20Full%20Album%20with%20lyrics%20on%20all%2019%20songs%28720P_HD%29_1.ia.mp4?cnt=0
+#EXTINF:0,MARISA MONTE E ANA CAROLINA 2020
+#EXTGRP:MÚSICAS VARIADAS
+https://ia601703.us.archive.org/27/items/ana-carolina-marisa-monte-as-melhores-melhores-musicas-de-ana-carolina-marisa-monte-2020-720-p-hd-1/Ana%20Carolina%20_%20Marisa%20Monte%20As%20Melhores%20_%20Melhores%20M%C3%BAsicas%20de%20Ana%20Carolina%20_%20Marisa%20Monte%20%202020%28720P_HD%29_1.ia.mp4?cnt=0
+#EXTINF:0,MICHAEL JACKSON
+#EXTGRP:MÚSICAS VARIADAS
+https://ia801902.us.archive.org/32/items/michael-jackson-greatest-hits-playlist-720-p-hd-1/Michael%20Jackson%20Greatest%20Hits%20_%20Playlist%28720P_HD%29_1.ia.mp4?cnt=0
+#EXTINF:0,COLDPLAY 2018
+#EXTGRP:MÚSICAS VARIADAS
+https://ia902904.us.archive.org/4/items/coldplay-greatest-hits-the-best-of-coldplay-playlist-2018/Coldplay%20Greatest%20Hits%20--%20The%20Best%20Of%20Coldplay%20Playlist%202018.mp4?cnt=0
+#EXTINF:0,ROCK PARA SEMPRE
+#EXTGRP:MÚSICAS VARIADAS
+https://ia601805.us.archive.org/25/items/queen-deep-purple-led-zeppelin-genesis-eric-clapton/Queen-Deep%20Purple-Led%20Zeppelin-G%C3%A9nesis-Eric%20Clapton.ia.mp4?cnt=0
+#EXTINF:0,TEARS FOR FEARS 1983
+#EXTGRP:MÚSICAS VARIADAS
+https://ia601701.us.archive.org/8/items/tears-f-o-r-fears-the-hurting-1983-lp-album-720-p-hd-1/Tears%20f%20o%20r%20Fears%20%20-%20The%20Hurting%20-%201983%20_LP%20Album%28720P_HD%29_1.ia.mp4?cnt=0
+#EXTINF:0,ROD STEWART
+#EXTGRP:MÚSICAS VARIADAS
+https://ia801708.us.archive.org/33/items/rod-stewart-greatest-hits-full-album-best-song-of-rod-stewart-collection-2018/Rod%20stewart%20Greatest%20hits%20full%20album%20Best%20song%20of%20Rod%20stewart%20collection%202018.ia.mp4?cnt=0
+#EXTINF:0,CREEDENCE
+#EXTGRP:MÚSICAS VARIADAS
+https://ia801904.us.archive.org/5/items/25-sucessos-do-creedence/25%20SUCESSOS%20DO%20CREEDENCE.ia.mp4?cnt=0
+#EXTINF:0,SOUL MUSIC
+#EXTGRP:MÚSICAS VARIADAS
+https://ia903203.us.archive.org/3/items/greatest-soul-songs-best-soul-music-of-all-time-soul-songs-playlist-2020-720-p-hd-1/Greatest%20Soul%20Songs%20-%20Best%20Soul%20Music%20Of%20All%20Time%20-%20Soul%20Songs%20Playlist%202020%28720P_HD%29_1.ia.mp4?cnt=0
+#EXTINF:0,BAILÃO SERTANEJO 1
+#EXTGRP:MÚSICAS VARIADAS
+https://ia904501.us.archive.org/20/items/bailaosertanejo/bail%C3%A3osertanejo.ia.mp4?cnt=0
+#EXTINF:0,BAILÃO SERTANEJO 2
+#EXTGRP:MÚSICAS VARIADAS
+https://ia804501.us.archive.org/20/items/baila-o-sertanejo/BAIL%C3%83O%20SERTANEJO.ia.mp4?cnt=0
+#EXTINF:0,AGITO SERANEJO
+#EXTGRP:MÚSICAS VARIADAS
+https://ia601004.us.archive.org/8/items/agitosertanejo/agitosertanejo.ia.mp4?cnt=0
+#EXTINF:0,FLASHBACK ROMÂNTICAS 1
+#EXTGRP:MÚSICAS VARIADAS
+https://ia801406.us.archive.org/34/items/love-flasback-3/Love%20Flasback3.ia.mp4?cnt=0
+#EXTINF:0,FLASHBACK ROMÂNTICAS 2
+#EXTGRP:MÚSICAS VARIADAS
+https://ia601408.us.archive.org/32/items/love-flashback-4/Love%20Flashback4.ia.mp4?cnt=0
+#EXTINF:0,ELVIS COLLECTION
+#EXTGRP:MÚSICAS VARIADAS
+https://ia903001.us.archive.org/3/items/ElvisLoveCollection/Elvis%20-%20Love%20Collection.mp4?cnt=0
+#EXTINF:0,FLASHBACK ROMÂNTICAS 3
+#EXTGRP:MÚSICAS VARIADAS
+https://ia601405.us.archive.org/12/items/love-flashback-5/love%20Flashback5.ia.mp4?cnt=0
+#EXTINF:0,AS MELHORES SERTANEJA 2018
+#EXTGRP:MÚSICAS VARIADAS
+https://ia903101.us.archive.org/28/items/MsicasSertanejasMaisTocadas2018AsMelhoresLanamentos2018SeleoMaioDe2018/M%C3%BAsicas%20Sertanejas%20Mais%20Tocadas%202018%20-%20As%20Melhores%20Lan%C3%A7amentos%202018%20-%20Sele%C3%A7%C3%A3o%20Maio%20de%202018.mp4?cnt=0
+#EXTINF:0,TV CAFÉ
+#EXTGRP:WEBTV
+https://srv5.zcast.com.br/tvcafe/tvcafe/chunklist_w860748714.m3u8
+#EXTINF:0,UTV MUSIC
+#EXTGRP:WEBTV
+https://srv2.zcast.com.br/redetv2/redetv2/playlist.m3u8
+#EXTINF:0,FM O DIA TV
+#EXTGRP:WEBTV
+https://cdn.livespanel.com/bw-live/adt_fmodia/live/fmodia/chunks.m3u8
+#EXTINF:0,COLINA FM
+#EXTGRP:WEBTV
+https://srv1.zcast.com.br/paulohenrique7705/paulohenrique7705/chunklist_w338484513.m3u8
+#EXTINF:0,TERÊ FM
+#EXTGRP:WEBTV
+https://alanza.iptv2022.com/TEREFMTV/tracks-v1a1/mono.m3u8
+#EXTINF:0,TV 538
+#EXTGRP:WEBTV
+https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
+#EXTINF:0,MILTITVA
+#EXTGRP:WEBTV
+https://livefocamundo.com:8081/multitva/tracks-v1a1/mono.m3u8
+#EXTINF:0,JK FM 102.7
+#EXTGRP:WEBTV
+https://video02.logicahost.com.br/jkfm/jkfm/chunklist_w747445834.m3u8
+#EXTINF:0,MONTE FM 96.7
+#EXTGRP:WEBTV
+https://montefm.brasilstream.com.br/hls/montefm/index.m3u8
+#EXTINF:0,INTERATIVA FM  94.9
+#EXTGRP:WEBTV
+https://59f1cbe63db89.streamlock.net:1443/interativafm/_definst_/interativafm/chunklist_w742921662.m3u8
+#EXTINF:0,NOSSA 87.7 FM
+#EXTGRP:WEBTV
+https://6mngseslsw.zoeweb.tv/z609-live/stream/chunklist.m3u8
+#EXTINF:0,RADIO CLUB 100,5 FM
+#EXTGRP:WEBTV
+https://live.cdn.upx.com/5e5c_5/myStream.sdp/chunklist.m3u8?d7659e67be3a2a737ab3db8943de5b45
+#EXTINF:0,TRIBUNA FM
+#EXTGRP:WEBTV
+https://serv2.videovox.pw/marcelo8576/marcelo8576/chunklist_w1676943023.m3u8
+#EXTINF:0,JM 95.5 FM
+#EXTGRP:WEBTV
+https://virtues.es:1936/radiojm/radiojm/chunklist_w753033537.m3u8
+#EXTINF:0,Q MUSIC
+#EXTGRP:WEBTV
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL_720p.m3u8
+#EXTINF:0,977 JAMZ(HIP HOP)
+#EXTGRP:WEBTV
+https://playerservices.streamtheworld.com/api/livestream-redirect/977_JAMZ.mp3
+#EXTINF:0,977 HITS
+#EXTGRP:WEBTV
+https://playerservices.streamtheworld.com/api/livestream-redirect/977_HITS.mp3
+#EXTINF:0,977 ALTERNATIVE
+#EXTGRP:WEBTV
+https://playerservices.streamtheworld.com/api/livestream-redirect/977_ALTERN.mp3
+#EXTINF:0,977 MIX
+#EXTGRP:WEBTV
+https://playerservices.streamtheworld.com/api/livestream-redirect/977_MIX.mp3
+#EXTINF:0,TV NJ
+#EXTGRP:WEBTV
+https://stmv2.voxtvhd.com.br/webradiotvnj/webradiotvnj/chunklist_w1126671678.m3u8
+#EXTINF:0,FACE TV BRASIL
+#EXTGRP:WEBTV
+https://alanza.iptv2022.com/FACE_TV_BRASIL/tracks-v1a1/mono.m3u8
+#EXTINF:0,RÁDIO LITORAL
+#EXTGRP:WEBTV
+https://59f1cbe63db89.streamlock.net:1443/tvradiolitoral/_definst_/tvradiolitoral/chunklist_w1331605967.m3u8
+#EXTINF:0,NRJ HITS
+#EXTGRP:WEBTV
+https://tv.ngroup.be/live/ngrp:nrj_all/chunklist_w1569827825_b3268608.m3u8
+#EXTINF:0,WEB TV MUSIC
+#EXTGRP:WEBTV
+https://srv5.zcast.com.br/pedro3742/pedro3742/chunklist_w1947850789.m3u8
+#EXTINF:0,RÁDIO BEST MUSIC
+#EXTGRP:WEBTV
+https://stmv.streamingvip.click/television/television/chunklist_w942411401.m3u8
+#EXTINF:0,ALVORADA SERTANEJA
+#EXTGRP:WEBTV
+https://stmv1.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/chunklist_w1443828699.m3u8
+#EXTINF:0,MUSIC CHOICE
+#EXTGRP:WEBTV
+https://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/ROTFL121/O0U9MTY2NTQ0NDU1MDtBPTE7Sz0wO1A9MDExMTA7Uz1hMWM5ZmNkZDhlZDUzYjg2YzFjMmNlYmViNGFjY2U5M2M1MzU5MDE1/chunklist.m3u8
+#EXTINF:0,OCKO GOLD
+#EXTGRP:WEBTV
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/chunklist_b2628000.m3u8
+#EXTINF:0,GOSTEI POP
+#EXTGRP:WEBTV
+https://59f1cbe63db89.streamlock.net:1443/redegostei/_definst_/redegostei/chunklist_w675237342.m3u8
+#EXTINF:0,QFM
+#EXTGRP:WEBTV
+https://qfm.ddns.net/hlsq/index.m3u8
+#EXTINF:0,POWER HD
+#EXTGRP:WEBTV
+https://live2.tensila.com/1-1-1.power-tv/hls/live/mystream.m3u8
+#EXTINF:0,CENTRAL BR
+#EXTGRP:WEBTV
+https://stmv2.centralcast.com.br/central/central/chunklist_w2055579852.m3u8
+#EXTINF:0,30A TV
+#EXTGRP:WEBTV
+https://30a-tv.com/feeds/720p/6.m3u8
+#EXTINF:0,RÁDIO TAORMINA
+#EXTGRP:WEBTV
+https://stream2.xdevel.com/video1s3-7/stream/chunks.m3u8?nimblesessionid=86401862
+#EXTINF:0,RTL 102.5
+#EXTGRP:WEBTV
+https://streamcdnc1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/chunklist_b732000.m3u8
+#EXTINF:0,NH FM 104.7
+#EXTGRP:WEBTV
+https://5a57bda70564a.streamlock.net/novosh/novosh.sdp/chunklist_w1246080652.m3u8
+#EXTINF:0,DELUXE MUSIC
+#EXTGRP:WEBTV
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/63437dd490d7e_13018905_2210100205_480p.m3u8
+#EXTINF:0,POWER TV
+#EXTGRP:WEBTV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b2650000_sltur.m3u8?nimblesessionid=169037378
+#EXTINF:0,GO TV
+#EXTGRP:WEBTV
+https://593aed234297b.streamlock.net/gotvsjoerd/gotvsjoerd/chunklist_w1159950433.m3u8
+#EXTINF:0,ZAPPING TV
+#EXTGRP:WEBTV
+https://zmlive.zappingtv.com/zm-free/zm.smil/chunklist_live3_b941600_sles.m3u8
+#EXTINF:0,4 FUN TV
+#EXTGRP:WEBTV
+https://stream.4fun.tv:8888/hls/4f_med/index.m3u8
+#EXTINF:0,CITY TV
+#EXTGRP:WEBTV
+https://tv.city.bg/play/tshls/citytv/3.m3u8
+#EXTINF:0,MUSIC TOP
+#EXTGRP:WEBTV
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1103223421_b964000_sleng.m3u8
+#EXTINF:0,RU TV
+#EXTGRP:WEBTV
+https://hls-03-video.webcaramba.com/rutv/live_360/index.m3u8
+#EXTINF:0,98 FM BH
+#EXTGRP:WEBTV
+https://9554.brasilstream.com.br/stream
+#EXTINF:0,106 FM Sertaneja
+#EXTGRP:WEBTV
+https://sc4s.cdn.upx.com:8067/stream
+#EXTINF:0,106 FM Sertaneja (Estúdio Ao Vivo)
+#EXTGRP:WEBTV
+https://live.cdn.upx.com/2384/myStream.sdp/playlist.m3u8
+#EXTINF:0,99.5 FM Goiânia
+#EXTGRP:WEBTV
+https://ssl.zoeweb.net/proxy/serradourada?mp=/stream
+#EXTINF:0,Antena 1
+#EXTGRP:WEBTV
+http://antena1.newradio.it/stream?1519462006844
+#EXTINF:0,Atlântida FM
+#EXTGRP:WEBTV
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+#EXTINF:0,Band FM
+#EXTGRP:WEBTV
+https://26513.live.streamtheworld.com/RADIOBANDEIRANTESAAC/HLS/36d37c5e-e3ad-4930-b08e-f670d5a29c0f/0/playlist.m3u8
+#EXTINF:0,Band Vale FM
+#EXTGRP:WEBTV
+http://evpp.mm.uol.com.br/band/bandvale/playlist.m3u8
+#EXTINF:0,BandNews FM
+#EXTGRP:WEBTV
+https://26603.live.streamtheworld.com/BANDNEWSFM_SPAAC/HLS/ce287b03-c2d6-4ae2-b0b3-13466f838a58/0/playlist.m3u8
+#EXTINF:0,BH FM
+#EXTGRP:WEBTV
+http://medias.sgr.globo.com/hls/aBHFM/aBHFM.m3u8
+#EXTINF:0,Canal Louvor
+#EXTGRP:WEBTV
+http://stm3.srvvox.com.br:7178/;
+#EXTINF:0,Canal Louvor Fortaleza
+#EXTGRP:WEBTV
+https://player.srvvox.com.br/proxy/7178
+#EXTINF:0,Canção Nova FM
+#EXTGRP:WEBTV
+https://rdfmchp-lh.akamaihd.net/i/rdfmchp_1_0@190586/master.m3u8
+#EXTINF:0,Canudos FM
+#EXTGRP:WEBTV
+https://streammaior.jmhost.com.br/radio/8020/stream
+#EXTINF:0,Capão FM
+#EXTGRP:WEBTV
+http://cast4.audiostream.com.br:8656/mp3
+#EXTINF:0,CBN
+#EXTGRP:WEBTV
+https://medias.sgr.globo.com/hls/aCBNSP/aCBNSP.m3u8
+#EXTINF:0,CBN (Estúdio Ao Vivo)
+#EXTGRP:WEBTV
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+#EXTINF:0,CBN BH
+#EXTGRP:WEBTV
+http://medias.sgr.globo.com/hls/aCBNBH/aCBNBH.m3u8
+#EXTINF:0,CBN Brasília
+#EXTGRP:WEBTV
+https://medias.sgr.globo.com/hls/aCBNBSB/aCBNBSB.m3u8
+#EXTINF:0,CBN Rio
+#EXTGRP:WEBTV
+http://medias.sgr.globo.com/hls/aCBNRJ/aCBNRJ.m3u8
+#EXTINF:0,CBN Rio (Estúdio Ao Vivo)
+#EXTGRP:WEBTV
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+#EXTINF:0,Cidreira FM
+#EXTGRP:WEBTV
+http://cast4.audiostream.com.br:8657/mp3
+#EXTINF:0,Classic Pan
+#EXTGRP:WEBTV
+http://ingest1sc.cdn.upx.com:8032/stream
+#EXTINF:0,Clube FM Bagé
+#EXTGRP:WEBTV
+https://player.painelvox.com/player-ssl/6766/;
+#EXTINF:0,Cultura Brasil
+#EXTGRP:WEBTV
+http://tvcultura.com.br/_radio/streaming.php?radio=am
+#EXTINF:0,Cultura FM
+#EXTGRP:WEBTV
+https://radiocultura.jmvstream.com/stream
+#EXTINF:0,Difusora de São João Nepomuceno
+#EXTGRP:WEBTV
+https://live.paineldj.com.br/proxy/difaac?mp=/stream
+#EXTINF:0,Esperança FM Boa Viagem
+#EXTGRP:WEBTV
+http://51.222.56.196:6230/stream
+#EXTINF:0,FM 96 Muriaé
+#EXTGRP:WEBTV
+http://wz1.dnip.com.br/fm96muriae/fm96muriae.stream/playlist.m3u8
+#EXTINF:0,FM Express
+#EXTGRP:WEBTV
+http://cast4.audiostream.com.br:8648/mp3
+#EXTINF:0,FM O Dia
+#EXTGRP:WEBTV
+http://streaming.livespanel.com:20000/live
+#EXTINF:0,FM Premium
+#EXTGRP:WEBTV
+http://cast4.audiostream.com.br:8663/mp3
+#EXTINF:0,FM Tramandaí
+#EXTGRP:WEBTV
+http://cast4.audiostream.com.br:8658/mp3
+#EXTINF:0,Gaúcha
+#EXTGRP:WEBTV
+https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/playlist.m3u8
+#EXTINF:0,Gazeta Online
+#EXTGRP:WEBTV
+https://shout25.crossradio.com.br:18006/1
+#EXTINF:0,Imbé FM
+#EXTGRP:WEBTV
+http://cast4.audiostream.com.br:8660/mp3
+#EXTINF:0,Interativa FM
+#EXTGRP:WEBTV
+http://suaradio1.dyndns.ws:13551/stream
+#EXTINF:0,Itapema FM
+#EXTGRP:WEBTV
+https://47809y.ha.azioncdn.net/primary/ita_fln.sdp/playlist.m3u8
+#EXTINF:0,Jovem Pan News
+#EXTGRP:WEBTV
+https://26643.live.streamtheworld.com/JP_SP_AMAAC.aac
+#EXTINF:0,Jovem Pan FM
+#EXTGRP:WEBTV
+https://24253.live.streamtheworld.com/JP_SP_FMAAC.aac
+#EXTINF:0,Kairós FM Morada Nova
+#EXTGRP:WEBTV
+http://stm16.xcast.com.br:9042/stream
+#EXTINF:0,Mais FM Ibicuitinga
+#EXTGRP:WEBTV
+http://stream.zeno.fm/cdbfeym4b48uv
+#EXTINF:0,Manchete FM
+#EXTGRP:WEBTV
+https://webradio.amsolution.com.br/radio/8220/manchete
+#EXTINF:0,Mega Ribeirão Preto
+#EXTGRP:WEBTV
+http://pontofixo-megasistema.webnow.com.br/mega.aac
+#EXTINF:0,Metropolitana FM SP
+#EXTGRP:WEBTV
+http://74.63.237.85:8598/live
+#EXTINF:0,Mix FM
+#EXTGRP:WEBTV
+https://20823.live.streamtheworld.com/MIXFM_SAOPAULOAAC.aac
+#EXTINF:0,Nativa FM
+#EXTGRP:WEBTV
+https://26493.live.streamtheworld.com/NATIVA_SPAAC/HLS/ca618559-d598-4eed-b1c5-a83160ca1b4c/0/playlist.m3u8
+#EXTINF:0,Nossa Rádio SP
+#EXTGRP:WEBTV
+https://servidor24.brlogic.com:8524/live
+#EXTINF:0,Nova FM Ascurra
+#EXTGRP:WEBTV
+https://stm01.virtualcast.com.br:8264/live
+#EXTINF:0,NovaBrasil FM
+#EXTGRP:WEBTV
+https://20823.live.streamtheworld.com/NOVABRASIL_SPAAC.aac
+#EXTINF:0,Princesa AM
+#EXTGRP:WEBTV
+http://cast4.audiostream.com.br:8016/mp3
+#EXTINF:0,RBC FM
+#EXTGRP:WEBTV
+http://paineldj.com.br:8046/live
+#EXTINF:0,Rede Brasileira de Rádios
+#EXTGRP:WEBTV
+https://webradio.amsolution.com.br/radio/8380/live
+#EXTINF:0,Sucesso FM Goiânia
+#EXTGRP:WEBTV
+http://cast61.sitehosting.com.br:8446/live
+#EXTINF:0,Sucesso FM Jaraguá
+#EXTGRP:WEBTV
+http://cast61.sitehosting.com.br:8487/live?1573825310257
+#EXTINF:0,Sucesso FM Jataí
+#EXTGRP:WEBTV
+https://ice.fabricahost.com.br/redesucessojatai915
+#EXTINF:0,Super Rádio Tupi
+#EXTGRP:WEBTV
+https://8923.brasilstream.com.br/stream
+#EXTINF:0,Super Rede Boa Vontade
+#EXTGRP:WEBTV
+https://9000.brasilstream.com.br/stream
+#EXTINF:0,Top FM
+#EXTGRP:WEBTV
+http://cloud1.cdnseguro.com:8320/;
+#EXTINF:0,Torres FM
+#EXTGRP:WEBTV
+http://cast4.audiostream.com.br:8661/mp3
+#EXTINF:0,Transamérica São Paulo
+#EXTGRP:WEBTV
+https://26513.live.streamtheworld.com/RT_SPAAC.aac
+#EXTINF:0,Trianon
+#EXTGRP:WEBTV
+http://afiliadamix2.crossradio.com.br:9008/;
+#EXTINF:0,Xangri-lá FM
+#EXTGRP:WEBTV
+http://cast4.audiostream.com.br:8659/mp3
+#EXTINF:0,Rádio 104
+#EXTGRP:WEBTV
+http://cast4.audiostream.com.br:8651/mp3
+#EXTINF:0,Rádio Alegria
+#EXTGRP:WEBTV
+http://stream.ouveai.com.br:8061/;
+#EXTINF:0,Rádio Bandeirantes
+#EXTGRP:WEBTV
+https://18693.live.streamtheworld.com/RADIOBANDEIRANTESAAC/HLS/4b382b5c-665d-4040-8f3e-c846f0ec4f42/0/playlist.m3u8
+#EXTINF:0,Rádio Bandeirantes Goiânia
+#EXTGRP:WEBTV
+http://suaradio2.dyndns.ws:13633/stream
+#EXTINF:0,Rádio BSD
+#EXTGRP:WEBTV
+https://webradio.amsolution.com.br/radio/8040/aac
+#EXTINF:0,Rádio Caiçara
+#EXTGRP:WEBTV
+http://cast4.audiostream.com.br:8654/mp3
+#EXTINF:0,Rádio Campo Maior
+#EXTGRP:WEBTV
+https://streammaior.jmhost.com.br/radio/8010/stream
+#EXTINF:0,Rádio Canção Nova
+#EXTGRP:WEBTV
+https://rdamchp1-lh.akamaihd.net/i/rdamchp_1_0@193678/master.m3u8
+#EXTINF:0,Rádio Cidade Leopoldina
+#EXTGRP:WEBTV
+http://streaming21.hstbr.net:8220/live
+#EXTINF:0,Rádio Conexão Gospel
+#EXTGRP:WEBTV
+https://node-09.zeno.fm/3rqh6euz5hhvv
+#EXTINF:0,Rádio Continental
+#EXTGRP:WEBTV
+http://cast4.audiostream.com.br:8650/mp3
+#EXTINF:0,Rádio Criativa
+#EXTGRP:WEBTV
+https://ssl.xcast.com.br:9650/mountpoint
+#EXTINF:0,Rádio Disney
+#EXTGRP:WEBTV
+https://22973.live.streamtheworld.com/DISNEY_BRA_SP.mp3
+#EXTINF:0,Rádio Eldorado
+#EXTGRP:WEBTV
+http://cast4.audiostream.com.br:8652/mp3
+#EXTINF:0,Rádio Farroupilha
+#EXTGRP:WEBTV
+https://1592747t.ha.azioncdn.net/primary/far_poa.sdp/playlist.m3u8
+#EXTINF:0,Rádio Feliz
+#EXTGRP:WEBTV
+https://cloud1.cdnseguro.com:5520/;
+#EXTINF:0,Rádio Lopes
+#EXTGRP:WEBTV
+http://stm18.xcast.com.br:8174/;
+#EXTINF:0,Rádio Globo
+#EXTGRP:WEBTV
+https://medias.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8
+#EXTINF:0,Rádio Grenal
+#EXTGRP:WEBTV
+http://cast4.audiostream.com.br:8649/mp3
+#EXTINF:0,Rádio Guaíba
+#EXTGRP:WEBTV
+http://cast4.audiostream.com.br:8007/site
+#EXTINF:0,Rádio Itatiaia
+#EXTGRP:WEBTV
+https://8903.brasilstream.com.br/stream
+#EXTINF:0,Rádio Jornal
+#EXTGRP:WEBTV
+https://evpp.mm.uol.com.br/ne10/ne10-radiojornal-recife-audio-web.sdp/playlist.m3u8
+#EXTINF:0,Rádio Jornal (Estúdio Ao Vivo)
+#EXTGRP:WEBTV
+https://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/playlist.m3u8
+#EXTINF:0,Rádio Liberdade FM
+#EXTGRP:WEBTV
+http://cast4.audiostream.com.br:8655/mp3
+#EXTINF:0,Rádio Mania FM
+#EXTGRP:WEBTV
+http://shout35.crossradio.com.br:8086/1/;
+#EXTINF:0,Rádio Novo Tempo
+#EXTGRP:WEBTV
+http://stream.novotempo.com:1935/radio/smil:rntPortoAlegreRS.smil/playlist.m3u8
+#EXTINF:0,Rádio Ômega FM
+#EXTGRP:WEBTV
+https://webradio.amsolution.com.br/radio/8000/aac
+#EXTINF:0,Rádio Pampa
+#EXTGRP:WEBTV
+http://cast4.audiostream.com.br:8653/mp3
+#EXTINF:0,Rádio Sagres
+#EXTGRP:WEBTV
+https://c1.audiostream.com.br:20029/stream
+#EXTINF:0,Rádio Super Notícia
+#EXTGRP:WEBTV
+https://9134.brasilstream.com.br/stream
+#EXTINF:0,Web Rádio Melodia Limoeiro
+#EXTGRP:WEBTV
+http://stm9.xcast.com.br:9970/stream######################################
+#EXTINF:0,MPB TV
+#EXTGRP:EXTRA
+https://stmv1.srvif.com/mpbtv/mpbtv/chunklist_w1539268331.m3u8
+#EXTINF:0,TV CAFÉ( SERTANEJO)
+#EXTGRP:EXTRA
+https://srv5.zcast.com.br/tvcafe/tvcafe/chunklist_w223482404.m3u8
+#EXTINF:0,KARAOKÊ
+#EXTGRP:EXTRA
+https://stream.ads.ottera.tv/cl/231226cm5kl2ob1vkkqhk3das0/1280x720_1400000_1_f.m3u8?i=475_469
+#EXTINF:0,iHeart Latino Hits
+#EXTGRP:O MELHOR DOS HITS
+https://iheart-iheartlatinohits-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:0,iHeart Alt Radio
+#EXTGRP:O MELHOR DOS HITS
+https://iheart-iheartaltradio-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:0,iHeart Hit Nation
+#EXTGRP:O MELHOR DOS HITS
+https://iheart-ihearthitnation-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:0,iHeart Country
+#EXTGRP:O MELHOR DOS HITS
+https://iheart-iheartcountry-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:0,iHeart 90s
+#EXTGRP:O MELHOR DOS HITS
+https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:0,iHeart 80s
+#EXTGRP:O MELHOR DOS HITS
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:0,TOP PAGODE 2023
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia601607.us.archive.org/33/items/save-tube.-app-top-pagode-2023-pagode-roma-ntico-2023-720p/SaveTube.App-TOP%20PAGODE%202023%20%E2%AD%90%20PAGODE%20ROM%C3%82NTICO%202023%20%E2%9D%A4%EF%B8%8F%28720p%29.mp4
+#EXTINF:0,ADRYANA RIBEIRO GRANDES SUCESSOS
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia601507.us.archive.org/18/items/adryana-ribeiro-grandes-sucessos/Adryana%20Ribeiro%20-%20Grandes%20Sucessos.ia.mp4
+#EXTINF:0,SOM BRASIL VOLUME 1
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia601402.us.archive.org/22/items/som-brasil-vol-1/Som%20Brasil%20vol1.ia.mp4
+#EXTINF:0,MÚSICA ROMÂNTICA 1
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia801406.us.archive.org/34/items/love-flasback-3/Love%20Flasback3.ia.mp4
+#EXTINF:0,MÚSICA ROMÂNTICA 2
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia601405.us.archive.org/12/items/love-flashback-5/love%20Flashback5.ia.mp4
+#EXTINF:0,MÚSICA ROMÂNTICA 3
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia801408.us.archive.org/32/items/love-flashback-4/Love%20Flashback4.ia.mp4
+#EXTINF:0,TRACY CHAPMAN
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia904603.us.archive.org/0/items/tracy-chapman-greatest-hits-full-album-best-songs-of-tracy-chapman-tracy-chapman-playlist-2021/Tracy%20Chapman%20Greatest%20Hits%20Full%20Album%20-%20Best%20Songs%20Of%20Tracy%20Chapman%20-%20Tracy%20Chapman%20Playlist%202021.ia.mp4
+#EXTINF:0,BIQUINI CAVADÃO
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia804708.us.archive.org/8/items/dvdbiquinicavadao20anosaovivo_202301/BIQUINI_CAVADAO.mp4
+#EXTINF:0,BRUNO E MARRONE
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia801602.us.archive.org/34/items/bruno-marrone-acustico-ao-vivo-2001_202302/Bruno%20%26%20Marrone%20Ac%C3%BAstico%20Ao%20Vivo%20%5B2001%5D.mp4
+#EXTINF:0,FÁBIO JR.
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia601600.us.archive.org/26/items/dvd-fabio-jr-ao-vivo-2003/DVDVOLUME.mp4
+#EXTINF:0,BANDA CALYPSO
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia802608.us.archive.org/27/items/dvdbandacalypsoemsaopaulo_202305/BANDA_CALYPSO.mp4?cnt=0
+#EXTINF:0,ROUPA NOVA
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia801606.us.archive.org/18/items/dvd-roupa-nova-30-anos/ROUPA_NOVA_30.mp4
+#EXTINF:0,AGITO SERTANEJO
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia801004.us.archive.org/8/items/agitosertanejo/agitosertanejo.ia.mp4
+#EXTINF:0,TOP SERTANEJO 2021
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia804504.us.archive.org/4/items/topsertanejo2021/TOP%20SERTANEJO%202021.ia.mp4
+#EXTINF:0,AS MELHORES ANTIGAS 2020
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia801803.us.archive.org/2/items/marisa-monte-rita-lee-ana-carolina-maria-rita-as-melhores-mpb-as-melhores-antigas-2020-13-720-p-hd-1/Marisa%20Monte_%20Rita%20Lee_%20Ana%20Carolina_%20Maria%20Rita%20As%20Melhores%20_%20MPB%20As%20Melhores%20Antigas%202020%20_13%28720P_HD%29_1.ia.mp4
+#EXTINF:0,MPB PLAYBACK
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia804706.us.archive.org/4/items/videoplayback_20230111_1831/videoplayback.mp4
+#EXTINF:0,DIRE STRAITS
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia903201.us.archive.org/10/items/dire-straits-greatest-hits-full-album-2018.-hd-720-p-hd-1/Dire%20Straits%20-%20Greatest%20Hits%20%28Full%20Album%29%202018.%20HD%28720P_HD%29_1.ia.mp4
+#EXTINF:0,BEE GEES
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia803200.us.archive.org/15/items/bee-gees-melhores-musicas-grandes-sucessos-best-songs-of-bee-gees-360p/BeeGees%20Melhores%20Musicas%20Grandes%20Sucessos%20Best%20Songs%20Of%20BeeGees%20360p.ia.mp4
+#EXTINF:0,JOÃO GILBERTO
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia801706.us.archive.org/27/items/joao-gilberto-joao-gilberto-sings-famous-brazilian-songs-480-p-1/Jo%C3%A3o%20Gilberto%20-%20Joao%20Gilberto%20Sings%20Famous%20Brazilian%20Songs%28480P%29_1.ia.mp4
+#EXTINF:0,LEGIÃO URBANA 4 ESTAÇÕES
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia903206.us.archive.org/11/items/legiao-cd-completo./Legi%C3%A3o%20CD%20Completo..ia.mp4
+#EXTINF:0,ROCK CLÁSSICO
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia802801.us.archive.org/35/items/acousticclassicrock60s70s80sclassicrockgreatesthitsplaylist/Acoustic%20Classic%20Rock%2060s%2070s%2080s%20-%20Classic%20Rock%20Greatest%20Hits%20Playlist.mp4
+#EXTINF:0,SCORPIONS
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia803200.us.archive.org/5/items/20200705_20200705_0304/%E0%B8%AA%E0%B8%81%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%9B%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%AA%E0%B9%8C%20%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%AE%E0%B8%B4%E0%B8%95.ia.mp4
+#EXTINF:0,CLASSIC ROCK ANOS 70 80 90
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia801805.us.archive.org/14/items/classic-rock-70-80-e-90_202101/Classic%20Rock%2070-80%20e%2090.mp4
+#EXTINF:0,ROMÂNTICAS INTERNACIONAL
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia801804.us.archive.org/23/items/romanticas-do-passado-internacionais-8/Rom%C3%A2nticas%20do%20Passado%20Internacionais%208%F0%9F%92%93.ia.mp4
+#EXTINF:0,SOUL MUSIC
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia801908.us.archive.org/13/items/soul-collection-best-of-soul-music-top-hit-soul-songs-2020-collection-720-p-hd-1/Soul%20Collection%20-%20Best%20of%20Soul%20Music%20-%20Top%20Hit%20Soul%20Songs%202020%20Collection%28720P_HD%29_1.ia.mp4
+#EXTINF:0,CREEDENCE
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia801904.us.archive.org/5/items/25-sucessos-do-creedence/25%20SUCESSOS%20DO%20CREEDENCE.ia.mp4
+#EXTINF:0,MARISA MONTE E ANA CAROLINA 2020
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia801703.us.archive.org/27/items/ana-carolina-marisa-monte-as-melhores-melhores-musicas-de-ana-carolina-marisa-monte-2020-720-p-hd-1/Ana%20Carolina%20_%20Marisa%20Monte%20As%20Melhores%20_%20Melhores%20M%C3%BAsicas%20de%20Ana%20Carolina%20_%20Marisa%20Monte%20%202020%28720P_HD%29_1.ia.mp4
+#EXTINF:0,CHARLIE BROWN JR E VANESSA DA MATA
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia803201.us.archive.org/9/items/charlie-brown-jr.-e-vanessa-da-mata-estudio-coca-cola-zero-completo-720-p-hd-1/Charlie%20Brown%20Jr.%20e%20Vanessa%20da%20Mata%20-%20Est%C3%BAdio%20Coca-Cola%20Zero%20Completo%28720P_HD%29_1.ia.mp4
+#EXTINF:0,COLDPLAY
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia902904.us.archive.org/4/items/coldplay-greatest-hits-the-best-of-coldplay-playlist-2018/Coldplay%20Greatest%20Hits%20--%20The%20Best%20Of%20Coldplay%20Playlist%202018.mp4
+#EXTINF:0,BLUES
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia601903.us.archive.org/14/items/blues-vol.-4-john-mayall-gary-moore-eric-clapton.../Blues%20Vol.4%20-John%20Mayall-%20Gary%20Moore-Eric%20Clapton....ia.mp4?cnt=0
+#EXTINF:0,OASIS ACOUSTIC COLLECTION
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia601707.us.archive.org/32/items/oasis-acoustic-collection-cd-2-480-p-1/Oasis%20-%20Acoustic%20Collection%20%5BCD%202%5D%28480P%29_1.ia.mp4
+#EXTINF:0,PINK FLOYD
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia803202.us.archive.org/19/items/pink-floyd-greatest-hits-full-album-pink-floyd-playlist-2020-pink-floyd-live-720-p-hd-1/Pink%20Floyd%20Greatest%20Hits%20Full%20Album%20_%20Pink%20Floyd%20Playlist%202020_%20Pink%20Floyd%20Live%28720P_HD%29_1.ia.mp4
+#EXTINF:0,U2
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia601806.us.archive.org/24/items/u-2-dire-straits-aerosmith-bon-jovi-eagles-scorpions-led-zeppelin-slow-rock-songs-collection/U2-Dire%20Straits-Aerosmith-Bon%20Jovi-Eagles-Scorpions-LedZeppelin%20-%20Slow%20Rock%20Songs%20Collection.ia.mp4?cnt=0
+#EXTINF:0,HIP HOP
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia601703.us.archive.org/7/items/lofi-hip-hop-to-relax-studying-chill-720-p-hd-1/Lofi%20Hip%20Hop%20to%20Relax_%20Studying%20_%20Chill%28720P_HD%29_1.ia.mp4
+#EXTINF:0,RENATO RUSSO
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia903208.us.archive.org/23/items/renato-russo-renato-russo-as-melhores-melhores-musicas-de-renato-russo/Renato%20Russo%20Renato%20Russo%20As%20Melhores%20Melhores%20M%C3%BAsicas%20de%20Renato%20Russo.ia.mp4?cnt=0
+#EXTINF:0,ROD STEWART
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia601708.us.archive.org/33/items/rod-stewart-greatest-hits-full-album-best-song-of-rod-stewart-collection-2018/Rod%20stewart%20Greatest%20hits%20full%20album%20Best%20song%20of%20Rod%20stewart%20collection%202018.ia.mp4?cnt=0
+#EXTINF:0,BOSSA NOVA
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia803202.us.archive.org/17/items/best-bossa-nova-jazz-full-album-bossa-nova-songs-2020-bossa-nova-relaxing-720-p-hd-1/Best%20Bossa%20Nova%20Jazz%20Full%20Album%20_%20Bossa%20Nova%20Songs%202020%20_%20Bossa%20Nova%20Relaxing%28720P_HD%29_1.ia.mp4?cnt=0
+#EXTINF:0,BOSSA IN RIO
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia802307.us.archive.org/13/items/bossa-in-rio/BOSSA_IN_RIO.mp4
+#EXTINF:0,SAMBÔ
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia802307.us.archive.org/16/items/ddp-sambo/DDP%20SAMBO%CC%82.mp4
+#EXTINF:0,TIM MAIA
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia601400.us.archive.org/4/items/tim-maia-45-sucessos-480-p/TimMaia%20%20-%20%2045%20Sucessos%28480P%29.ia.mp4
+#EXTINF:0,ANOS 80 VOL 2
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia902308.us.archive.org/26/items/80s-remember-vol-2/80%27s%20Remember%20vol2.ia.mp4?cnt=0
+#EXTINF:0,DANCE MUSIC
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia802305.us.archive.org/9/items/100musicdance/100%25musicdance.ia.mp4
+#EXTINF:0,ANOS 80 VOL 1
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia804602.us.archive.org/12/items/remember-anos-80-vol-1/Remember%20anos%2080%20vol1x.ia.mp4
+#EXTINF:0,TOP HITS ANOS 80-90 VOL 1
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia802500.us.archive.org/26/items/top-hits-anos-80-90-volume-1/Top%20Hits%20anos%2080%2C90%20Volume%201.ia.mp4
+#EXTINF:0,TOP HITS ANOS 80-90 VOL 2
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia601506.us.archive.org/35/items/top-hits-anos-80-90-volume-2/Top%20Hits%20anos%2080%2C90%20Volume%202.ia.mp4
+#EXTINF:0,TOP HITS ANOS 80-90 VOL 3
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia802504.us.archive.org/34/items/top-hits-anos-80-90-e-2000-volume-3/Top%20Hits%20anos%2080%20%2C%2090%20e%202000%20Volume%203.ia.mp4
+#EXTINF:0,ROCK BRASIL
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia804508.us.archive.org/35/items/rock-brasil_202106/RockBrasil.mp4
+#EXTINF:0,LUIZ GONZAGA
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia904604.us.archive.org/32/items/luiz-gonzaga/LUIZ_GONZAGA.mp4?cnt=0
+#EXTINF:0,A COISONA
+#EXTGRP:O MELHOR DA MÚSICA
+https://5cf4a2c2512a2.streamlock.net/acoisona/acoisona/chunklist_w2093196155.m3u8
+#EXTINF:0,FM O DIA TV
+#EXTGRP:O MELHOR DA MÚSICA
+https://cdn.livespanel.com/live/fmodia/playlist.m3u8
+#EXTINF:0,MELHOR DO SERTANEJO
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia600506.us.archive.org/27/items/os-melhores-dos-clipes-sertanejos-dvd-fan-made/DVDVOLUME.mp4
+#EXTINF:0,Acústico MPB
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia801203.us.archive.org/28/items/acustico-mpb-melhores-da-mpb-de-todos-os-tempos/Ac%C3%BAstico%20MPB%20-%20Melhores%20da%20MPB%20de%20Todos%20os%20Tempos.mp4?cnt=0
+#EXTINF:0,AS MELHORES DO FORRÓ 2023
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia600503.us.archive.org/31/items/as-melhores-do-forro-2023/AS%20MELHORES%20DO%20FORR%C3%93%202023.mp4
+#EXTINF:0,Seleção Forró Românticas
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia601201.us.archive.org/35/items/moleca-100-vergonha-as-melhores-musicas-selecao-forro-romanticas-das-antigas-pra-recordar/Moleca%20100%20Vergonha%20-%20As%20melhores%20M%C3%BAsicas%20-%20Sele%C3%A7%C3%A3o%20Forr%C3%B3%20Rom%C3%A2nticas%20das%20antigas%20pra%20recordar.mp4
+#EXTINF:0,CLASSICOS AXE BAHIA
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia804508.us.archive.org/16/items/classicosaxebahia/CLASSICOSAXEBAHIA.ia.mp4
+#EXTINF:0,AS MELHORES DE ROBERTO CARLOS
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia801608.us.archive.org/18/items/rc-as-melhores/rc%20as%20melhores.mp4
+#EXTINF:0,MÚSICAS DE NATAL
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia601206.us.archive.org/25/items/musicas-de-natal-em-portugues-2024/M%C3%BAsicas%20De%20Natal%20Em%20Portugu%C3%AAs%202024.mp4
+#EXTINF:0,QUEEN
+#EXTGRP:O MELHOR DA MÚSICA
+https://ia802705.us.archive.org/5/items/queen-wwry-ptbr-dvd/QUEEN.mp4
