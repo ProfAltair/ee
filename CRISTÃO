@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:0, SPIRIT TV
+#EXTGRP:TOP LOUVORES
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v2a1/mono.m3u8
 #EXTINF:0,TV LITORAL GOSPEL(2023)
 #EXTGRP:TOP LOUVORES
 https://stmv2.webtvninjas.com.br/diraldomelodelima2359/diraldomelodelima2359/chunklist_w2087545743.m3u8
