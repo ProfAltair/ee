@@ -1,4 +1,70 @@
 #EXTM3U
+
+#EXTINF:0, TVMIX BELÉM
+#EXTGRP: MÚSICA 2024
+https://tv02.zas.media:1936/mixbelem/mixbelem/chunklist_w1921849150.m3u8
+#EXTINF:0, BETELHOST SERTANEJO
+#EXTGRP: MÚSICA 2024
+https://srv3.zcast.com.br/betelhostbr/betelhostbr/chunklist_w1582171388.m3u8
+#EXTINF:0, QFM
+#EXTGRP: MÚSICA 2024
+https://qfm.geraistec.com.br/hlsq/index.m3u8
+#EXTINF:0, POSITIVA FM
+#EXTGRP: MÚSICA 2024
+https://video02.logicahost.com.br/positivafm/positivafm/chunklist_w232825881.m3u8
+#EXTINF:0, AGITO MAX
+#EXTGRP: MÚSICA 2024
+https://stmv2.samcast.com.br/agitomax/agitomax/chunklist_w18952744.m3u8
+#EXTINF:0, TV A7
+#EXTGRP: MÚSICA 2024
+https://stmv2.samcast.com
+https://srv3.zcast.com.br/wellington7720/wellington7720/chunklist_w1269001024.m3u8
+#EXTINF:0, TU POP
+#EXTGRP: MÚSICA 2024
+https://stream.ads.ottera.tv/cl/240331co4ne7et3ovemmo1vjhg/1280x720_1400000_1_f.m3u8?i=475_1086
+#EXTINF:0, DANCE TV
+#EXTGRP: MÚSICA 2024
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:0, TU MÚSICA
+#EXTGRP: MÚSICA 2024
+https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8
+#EXTINF:0,FLASH
+#EXTGRP: MÚSICA 2024
+https://flash-freetv.amagi.tv/flash/master_4.m3u8
+#EXTINF:0,TECHNO WAREHOUSE
+#EXTGRP: MÚSICA 2024
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
+#EXTINF:0,DEEP HOUSE
+#EXTGRP: MÚSICA 2024
+https://m1b2.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8
+#EXTINF:0,DREAM TURK
+#EXTGRP: MÚSICA 2024
+https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_2_550/playlist.m3u8?key=7763e4ac1e460d9913ada7b279c8af81&live=true&app=com.dreamturk
+#EXTINF:0,V2BEAT
+#EXTGRP: MÚSICA 2024
+https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8?nimblesessionid=95640542
+#EXTINF:0, INDISTRY
+#EXTGRP: MÚSICA 2024
+https://stream-us-east-1.getpublica.com/cl/240331co4n4o5hg25q2p1fdbq0/640x360_782476_5_f.m3u8?i=513_2535
+#EXTINF:0, TRACE URBAN
+#EXTGRP: MÚSICA 2024
+https://amg01076-lightningintern-traceurban-xiaomi-m78n3.amagi.tv/playlist/amg01076-lightningintern-traceurban-xiaomi/cb543d177a6c678a98d43d65d4ef47a4f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7451db80148b61299bce8c37683f03409a5e5afba358b1ebb4594cdd3ff5e54f55c07943ee9f43c88149a6898009cd5e8070f3149f9af6df8616d087f3db986d935c83e5911ce3e25ba18b3b94c89b73309003502c7c66c7d35d7ad35efc2a7053edebc3ff44f216dc8026801a44d3c001fde542e645a51fa6a167a7b8ba7c85547bddac8ed395c197c2b8d14f5d8f6ff4e2edd8335698f8117155c627b8706c50f58cff00c0348a36e083fc298e89837748603bd7c3a2e2b59f439f2485f4f59702724f76080dbc90c3f062f626c771a4c2126e090314edd262cd88dd5127710fa8b41e854355e980cbb4d6006d9e3b5b42be34901b247cdc38694be02fd2932823dc755dcb666bbb101ea876d19460b5abd2ee037b92dbc449f026af9602c0f90fac226d0b51fda2620f0b1c3de3ef600c22708c10b78484b2217b75869dfaf7ce5737102a57035cf985c944dbdf90674d6c823940477b1f109a01ac19fc085b0f23cc5e9eec3e7d8b022e3af5e558795f7f9ddcbe918db59b1ce067b2c29954014db5bdc357c3295a905803fb/185/1280x720_2657600/index.m3u8
+#EXTINF:0, NOW 80'S AO VIVO
+#EXTGRP: MÚSICA 2024
+#EXTINF:0, NOW 80'S AP VIVO
+#EXTGRP: MÚSICA 2024
+https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:0, RÁDIO EU E VOCÊ
+#EXTGRP: MÚSICA 2024
+#EXTINF:0, RÁDIO EU E VOCÊ
+#EXTGRP: MÚSICA 2024
+https://virtues.es:1936/radioeuevoce/radioeuevoce/chunklist_w2076218547.m3u8
+#EXTINF:0, SUPRA FM
+#EXTGRP: MÚSICA 2024
+https://live.cdn.upx.com/00079/myStream.sdp/chunklist.m3u8
+#EXTINF:0, TV UNIÃO
+#EXTGRP: MÚSICA 2024
+https://live.uniaoplus.com/hls/8b43MluBjzR7M1Uk.m3u8
 #EXTINF:0,TECNO BREGA
 #EXTGRP:RITMO MUSICAL
 http://stm16.srvaudio.com.br:10106/stream?1608801166036
