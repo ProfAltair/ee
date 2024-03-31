@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:0, MUSIC BOX BR
+#EXTGRP: MÚSICA 2024
+https://cdn-1.nxplay.com.br/MUSIC_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0, TVMIX BELÉM
 #EXTGRP: MÚSICA 2024
 https://tv02.zas.media:1936/mixbelem/mixbelem/chunklist_w1921849150.m3u8
@@ -15,6 +18,9 @@ https://video02.logicahost.com.br/positivafm/positivafm/chunklist_w232825881.m3u
 #EXTINF:0, AGITO MAX
 #EXTGRP: MÚSICA 2024
 https://stmv2.samcast.com.br/agitomax/agitomax/chunklist_w18952744.m3u8
+#EXTINF:0, SPIRIT TV
+#EXTGRP: MÚSICA 2024
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v2a1/mono.m3u8
 #EXTINF:0, TV A7
 #EXTGRP: MÚSICA 2024
 https://stmv2.samcast.com
@@ -65,6 +71,15 @@ https://live.cdn.upx.com/00079/myStream.sdp/chunklist.m3u8
 #EXTINF:0, TV UNIÃO
 #EXTGRP: MÚSICA 2024
 https://live.uniaoplus.com/hls/8b43MluBjzR7M1Uk.m3u8
+#EXTINF:0, DELUXE MUSIC
+#EXTGRP: MÚSICA MUNDO
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/6608c4d11666f_13018905_2403310205_480p.m3u8
+#EXTINF:0, MAGIC TV
+#EXTGRP: MÚSICA MUNDO
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4_output_0.m3u8
+#EXTINF:0, THT MUSIC
+#EXTGRP: MÚSICA MUNDO
+https://edge04-alm.beetv.kz/bpk-token/2an@dnblyte2fmbpsqnmrvm1ccwqhrilyc4ed34ldfaa/btv/SWM/Tnt_music/Tnt_music_576p_2000kbps.m3u8
 #EXTINF:0,TECNO BREGA
 #EXTGRP:RITMO MUSICAL
 http://stm16.srvaudio.com.br:10106/stream?1608801166036
