@@ -1404,6 +1404,74 @@ https://ia804508.us.archive.org/16/items/classicosaxebahia/CLASSICOSAXEBAHIA.ia.
 https://ia801608.us.archive.org/18/items/rc-as-melhores/rc%20as%20melhores.mp4
 #EXTINF:0,MÚSICAS DE NATAL
 #EXTGRP:O MELHOR DA MÚSICA
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d6fd8d_f388beaf30024344a175dcbc14741686~mv2.png/v1/fit/w_2500,h_1330,al_c/d6fd8d_f388beaf30024344a175dcbc147 41686~mv2.png",🎶╭─➤ - Afrobeats.ᴴᴰ
+https://stream.ecable.tv/afrobeats/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDSgVZh5YZ-s5CT1duiuJ6u4HX0hT2Nc3i_jbPTkhZ9ynkS-6O2rnQ9h5StZ79ytZqtIg&usqp=CAU" group-title="Black Music",🎶➾ Fe música
+https://dmecgxuzr2ywk.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-FEVAMusic/693f968e-9019-417a-a940-d4723a933854/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dbm-tv.fr/wp-content/uploads/2017/12/logo-dbm.png" group-title="Black Music",🎶➾ DBM (Música Africana)
+https://edge21.vedge.infomaniak.com/livecast/smil:dbmtv.smil/chunklist_w978770520_b1000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://muzangala.tv/wp-content/uploads/2022/08/LOGO_MUZANGALA_TV_.png" group-title="Música",🎶➾ Muzangala TV.ᴴᴰ
+https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1087878616.m3u8
+
+#EXTINF:-1 tvg-logo="https://afrovibes.tv/wp-content/uploads/2020/10/AFROVIBES_UPGRADE_LOGO.png",🎶➾ AFROVIBES TV
+https://vse2-sa-all56.secdn.net/tvsw4-chorigin/play/prod-f71bb37841b54966890bdf772c79cbaa/chunklist_sess641139627.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/play-1.svg" group-title="Música",🎶➾ Reproduzir TV (Música)
+http://connectiktv.ddns.net:5000/playtv/@playtv/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gAKgCxYU1hHi4Q9_PGH7Ut3sFgXvQPVe85TNA4yy50HBRp8dApHNXfhUKdLK2W1B9YTx" group-title="Música",🎶➾ Baraza Music TV
+https://ssh101.bozztv.com/ssh101/relaxing/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/1fb210a8-0d8a-47b5-84da-f6457988f8cd/labocinalatina_logo_light_-_Jordan_Warkol.png" group-title="MÚSICA ",🎶➾ LA BOCINA LATINA
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-631932e2f6672ff675ee5ec0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000001280741-j0jvvu-t500x500.jpg" group-title="Música",🎶➾ Portal Foxmix
+https://panel.tvstream.cl:1936/8040/8040/chunklist_w652873405.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/FBZCTLGXtaWZ0RJmnKs-r8mDZEEcdgIOuLv-msvTghdP2OsDrvzueR-KBvWZYkcDPBtE" group-title="Música",🎶➾ SomosTopoPointTV
+https://cloudflare.streamgato.us:3901/live/somostopopointtvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/iLSHjhbOhBBk3uNvDKD44BI1pTs9jNwfIjgRkF9S2zsXMgcXExO_3QuFuXkWZezwp3o" group-title="Música",🎶➾ Flow Caribe.ᴴᴰ
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1083
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/iLSHjhbOhBBk3uNvDKD44BI1pTs9jNwfIjgRkF9S2zsXMgcXExO_3QuFuXkWZezwp3o" group-title="Música",🎶➾ Canela TV Music.ᴴᴰ
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5083
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41ZgPNe739L.png" group-title="Música",🎶➾ BOX PLAYLIST
+https://boxplaylist-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_62193b7126c4be132057fe73_boxplaylist-live/m.m3u8
+
+#EXTINF:-1 tvg-logo="https://balleballe.tv/wp-content/uploads/2019/08/intro-img-1.png" group-title="Música",🎶➾ BALLE BALLE 1. ᴴᴰ
+https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://balleballe.tv/wp-content/uploads/2019/08/intro-img-1.png" group-title="Música",🎶➾ BALLE BALLE 2. ᴴᴰ
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3398
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kpoptvplay.png" group-title="Música",🎶➾ Kpop TV Play.ᴴᴰ
+https://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/DNfPCtTBPrgZYJB8Af8riMIki3gaPKrMs5cHI4ALFs3zS5-DHZACQtOpJAbHnFX0jQ" group-title="Música ao vivo YT",🎶➾ The Kpop Youtube 1
+https://livestream.zazerconer.workers.dev/channel/UCoRXPcv8XK5fAplLbk9PTww.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/DNfPCtTBPrgZYJB8Af8riMIki3gaPKrMs5cHI4ALFs3zS5-DHZACQtOpJAbHnFX0jQ" group-title="Música ao vivo YT",🎶➾ The Kpop Youtube 2
+https://ythls.armelin.one/channel/UCoRXPcv8XK5fAplLbk9PTww.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/Show_Champion_Logo.png" group-title="⭐ Música Coreana",🎶➾ Novo Kpop.ᴴᴰ
+https://newidco-newkid-1-br.lg.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/Show_Champion_Logo.png" group-title="⭐ Música Coreana",🎶➾ Novo Kpop MX.ᴴᴰ
+https://newidco-newkid-1-mx.lg.wurl.tv/3000.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Top_TV_logo.svg" group-title="Música",🎶 - 🇧🇷 ➾ Principais TV.ᴴᴰ
+https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/11/avant-logo-1.png" group-title="Música ao vivo",🎶 - 🇧🇷 ➾ TV Avant
+https://video04.logicahost.com.br/tvavant/tvavant/chunklist_w977600341.m3u8
+
+#EXTINF: -1 tvg-logo="https://www.jornalafolha.com.br/wp-content/uploads/2020/11/logo-png-bordado.png" group-title="BRASIL LIVE MUSIC", 🎶 - 🇧🇷 ➾ TV A FOLHA
+https://video01.logicahost.com.br/tvafolha/tvafolha/playlist-720p.m3u8
 https://ia601206.us.archive.org/25/items/musicas-de-natal-em-portugues-2024/M%C3%BAsicas%20De%20Natal%20Em%20Portugu%C3%AAs%202024.mp4
 #EXTINF:0,QUEEN
 #EXTGRP:O MELHOR DA MÚSICA
