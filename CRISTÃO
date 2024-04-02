@@ -191,6 +191,9 @@ https://hqf6tcxuhk.singularcdn.net.br/live/2b512662-a40f-46ef-b540-e8ee3f5bb1fb/
 #EXTINF:0,TV TEMPLO
 #EXTGRP:EVANGÉLICOS
 https://664398c.ha.azioncdn.net/primary/tvtemplo_480p.sdp/chunklist_d72ec4d1-f1b7-4689-a58e-17ba017e1bd5.m3u8
+#EXTINF:0, RIT TV
+#EXTGRP:EVANGÉLICOS
+https://acesso.ecast.site:3648/live/ritlive.m3u8
 #EXTINF:0,TV CAPITAL
 #EXTGRP:EVANGÉLICOS
 https://stmv7.samcast.com.br/raimundoanselmolimamororo9090/raimundoanselmolimamororo9090/chunklist_w372296315.m3u8
