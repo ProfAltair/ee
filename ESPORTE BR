@@ -71,6 +71,95 @@ https://live.cdn.upx.com/00079/myStream.sdp/chunklist.m3u8
 #EXTINF:0, TV UNIÃO
 #EXTGRP: MÚSICA 2024
 https://live.uniaoplus.com/hls/8b43MluBjzR7M1Uk.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/zsV3aqE.png" group-title="ESTUDIO FM", IN TV
+https://59f1cbe63db89.streamlock.net:1443/interativafm/_definst_/interativafm/chunklist_w2030672488.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/StEijIO.png" group-title="ESTUDIO FM", LUPA 1 FM
+https://a.cdni.live/lupa1fm/lupa1fm/chunklist_w1262335719.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/vKOloMY.png" group-title="ESTUDIO FM", BLINK 102 FM
+https://video05.logicahost.com.br/blink105/blink105/chunklist_w1664250019.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/V3FRyRQ.png" group-title="ESTUDIO FM", MIX FM BELEM
+https://tv02.zas.media:1936/mixbelem/mixbelem/chunklist_w585975866.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/vpz8JCL.png" group-title="ESTUDIO FM", REDE CLUBE
+https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/7MNKEdQ.png" group-title="ESTUDIO FM", JK FM
+https://video02.logicahost.com.br/jkfm/jkfm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/bmZ8AIL.png" group-title="ESTUDIO FM", ATIVIDADE FM
+https://stmv1.transmissaodigital.com/obmor2250/obmor2250/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/6FnSLix.png" group-title="ESTUDIO FM", SUPRA FM
+https://live.cdn.upx.com/00079/myStream.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/P8cTovk.png" group-title="ESTUDIO FM", POSITIVA FM
+https://video02.logicahost.com.br/positivafm/positivafm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/WGgD7jL.png" group-title="ESTUDIO FM", CLUBE FM
+https://video02.logicahost.com.br/clubefmuberlandia/clubefmuberlandia/chunklist_w772490489.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Tfmu2cB.png" group-title="ESTUDIO FM", FM O DIA
+https://cdn.livespanel.com/live/fmodia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ELW1F8f.png" group-title="ESTUDIO FM", ATIVA FM
+https://a.cdni.live/ativa98/ativa98/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/bWfrZOS.png" group-title="ESTUDIO FM", 95 MAIS FM
+https://video01.logicahost.com.br/radio95fm/radio95fm/chunklist_w1563600198.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ieKLdwM.png" group-title="ESTUDIO FM", RÁDIO SUPER MARAJOARA
+https://tv02.zas.media:1936/supermarajoara/supermarajoara/chunklist_w1239847871.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/EhOYgFT.png" group-title="ESTUDIO FM", RÁDIO TUPI
+https://ythls-v2.onrender.com/channel/UC9u7p59wlSaAuBmPevKWo9A.m3u8?playlist=index
+#EXTINF:-1 tvg-logo="https://imgur.com/TH3t9OT.png" group-title="ESTUDIO FM", REDE ITATIAIA
+https://ythls-v2.onrender.com/channel/UC9T0ZAarQHL4cJGFzORVsFg.m3u8?playlist=index
+#EXTINF:-1 tvg-logo="https://imgur.com/baJrt3o.png" group-title="ESTUDIO FM", 98 AO VIVO
+https://ythls-v2.onrender.com/channel/UClF866E2u34LioEzDppZj9g.m3u8?playlist=index
+#EXTINF:-1 tvg-logo="https://imgur.com/Gv7yula.png" group-title="ESTUDIO FM", MASSA FM
+https://cdn-cdn-massafmsp.ciclano.io:1443/cdn-massafmsp/cdn-massafmsp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/i25DYst.png" group-title="ESTUDIO FM", RÁDIO DIÁRIO MACAPA
+https://video02.logicahost.com.br/tvdiario/tvdiario/chunklist_w1291941461.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RDTA02g.png" group-title="ESTUDIO FM", RÁDIO REDENTOR
+https://virtues.es:1936/redentor/redentor/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/A7tzip6.png" group-title="ESTUDIO FM", RÁDIO DEUS E AMOR YOUTUBE
+https://ythls-v2.onrender.com/channel/UC5BPvgWTJbjWR5yRHLlf2qQ.m3u8?playlist=index
+#EXTINF:-1 tvg-logo="https://imgur.com/9oTO4m1.png" group-title="ESTUDIO FM", CATVE FM FOZ
+http://wowza4.catve.com.br:1935/radiocamera/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/bDd4XH6.png" group-title="ESTUDIO FM", RÁDIO MONTE FM
+https://montefm.brasilstream.com.br/hls/montefm/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/3wUBW9Z.png" group-title="ESTUDIO FM", 106 SERTANEJA
+https://live.cdn.upx.com/2384/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/su2e7IY.png" group-title="ESTUDIO FM",CLUBE FM RP
+https://live.cdn.upx.com/5e5c_5/myStream.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/BYHdDL5.png" group-title="ESTUDIO FM", RÁDIO CLUBE ARARENSE
+https://virtues.es:1936/clubeararense/clubeararense/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/XECm2wC.png" group-title="ESTUDIO FM", IND FM
+https://virtues.es:1936/indfm/indfm/chunklist_w1569348741.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/LOVDhdU.png" group-title="ESTUDIO FM", RÁDIO CULTURA FM
+https://culturahd.brasilstream.com.br/hls/culturahd/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/TBIeFz6.png" group-title="ESTUDIO FM", FM LIBERDADE
+https://fmliberdade.brasilstream.com.br/hls/fmliberdade/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9GK2b9f.png" group-title="ESTUDIO FM", RÁDIO DIFUSORA FM
+https://difusoraamaovivo.brasilstream.com.br/hls/difusoraamaovivo/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/83RTSdx.png" group-title="ESTUDIO FM", RÁDIO DIFUSORA FM 98
+https://difusorafm.brasilstream.com.br/hls/difusorafm/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/fDiFBw4.png" group-title="ESTUDIO FM", RÁDIO NOVA ONDA FM
+https://5a57bda70564a.streamlock.net/novaondafm/novaondafm.sdp/chunklist_w925747159.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/hywBzmx.png" group-title="ESTUDIO FM", RÁDIO CIDADE LITORAL
+https://tv02.zas.media:1936/cidadelitoral/cidadelitoral/chunklist_w207047863.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/MYLH1cG.png" group-title="ESTUDIO FM", FM MUNDIAL
+https://virtues.es:1936/mundialfmpirassununga/mundialfmpirassununga/chunklist_w1563727305.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jKMc3yI.png" group-title="ESTUDIO FM", RÁDIO TRANSJOVEM
+https://srv6.zcast.com.br/raimundofrancisco4701/raimundofrancisco4701/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/CbYZvDh.png" group-title="ESTUDIO FM", RÁDIO EU E VOCE
+https://virtues.es:1936/radioeuevoce/radioeuevoce/chunklist_w2076218547.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qzajvDo.png" group-title="ESTUDIO FM", RÁDIO 102 AP FM
+https://stmv1.srvstm.com/rogerio2689/rogerio2689/chunklist_w1791525089.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/VkCbOET.png" group-title="ESTUDIO FM", RÁDIO PLANALTO FM
+https://cdn-planaltofm.ciclano.io:1443/planaltofm/planaltofm/chunklist_w2018644666.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/y1LwEho.png" group-title="ESTUDIO FM", RÁDIO PLANALTO NEWS
+https://cdn-rdplanalto.ciclano.io:1443/rdplanalto/rdplanalto/chunklist_w1840781305.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qnWYMIU.png" group-title="ESTUDIO FM", RÁDIO TAROBA FM
+https://cdn.jmvstream.com/w/LVW-8799/LVW8799_UJQ7Y9nliA/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/HH4TUDQ.png" group-title="ESTUDIO FM", LIDER FM UBA
+https://lideruba.brasilstream.com.br/hls/lideruba/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/K0HSU7i.png" group-title="ESTUDIO FM", RÁDIO EDUCADORA
+https://stmv1.transmissaodigital.com/educadoralaranjeirassul/educadoralaranjeirassul/chunklist_w366377505.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/gqHry1a.png" group-title="ESTUDIO FM", RÁDIO NATUREZA FM
+https://tv02.zas.media:1936/natureza/natureza/chunklist_w143124316.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Z2cV80L.png" group-title="ESTUDIO FM", ESTUDIO A FM
+https://5a57bda70564a.streamlock.net/estudioatv/estudioatv.sdp/chunklist_w1422113754.m3u8
 #EXTINF:0, DELUXE MUSIC
 #EXTGRP: MÚSICA MUNDO
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/6608c4d11666f_13018905_2403310205_480p.m3u8
