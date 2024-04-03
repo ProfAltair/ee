@@ -38,6 +38,15 @@ https://stmv1.voxtvhd.com.br/tvconfiegogospel/tvconfiegogospel/chunklist_w648225
 #EXTINF:0, KTV BR
 #EXTGRP:NOVOS CANAIS
 https://stmv1.samcast.com.br/paulohenrique5216/paulohenrique5216/chunklist_w1717963564.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/3Jd2lQz.png" group-title="NOVIDADE",🙏..ABBA RTV
+https://video01.kshost.com.br:4443/adilson8953/adilson8953/playlist.m3u8
+#EXTINF:-1 tvg-id="br" tvg-logo="https://imgur.com/K80WBnu.png" group-title="NOVIDADE",🙏..PROMESSAS 
+http://cdn2.connectbr.com.br/Promessas/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Ilw2KNp.png" group-title="NOVIDADE",🙏..TV PBC
+https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8
+#EXTINF:0, Tv Maranata FHD
+#EXTGRP:NOVOS CANAIS
+https://5e837408ea907.streamlock.net:1936/maranatalive/smil:maranatalive.smil/chunklist.m3u8
 #EXTINF:0,TV SUPER GOSPEL
 #EXTGRP:NOVOS CANAIS 
 https://srv3.zcast.com.br/7002/7002/chunklist_w1329571678.m3u8
