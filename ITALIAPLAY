@@ -3,31 +3,33 @@
 https://video01.soultv.com.br/paulozorello/paulozorello/chunklist.m3u8
 #EXTINF:-1,Inova360
 https://video01.soultv.com.br/inova360/inova360/chunklist.m3u8
-#EXTINF:-1,The Market Guide
+#EXTINF:-1,O Guia de Mercado
 https://video01.soultv.com.br/tvmarketguide/tvmarketguide/chunklist.m3u8
 #EXTINF:-1,Direto ao Ponto
 https://video01.soultv.com.br/diretoaoponto/diretoaoponto/chunklist.m3u8
-#EXTINF:-1,Doda Equestrian TV
+#EXTINF:-1,Doda Equestre TV
 https://video01.soultv.com.br/doda/doda/chunklist.m3u8
-#EXTINF:-1,Feliz 7 Play
+#EXTINF:-1,Feliz 7 Jogar
 https://video01.soultv.com.br/feliz7play/feliz7play/chunklist.m3u8
 #EXTINF:-1,Canal Marcão do Povo
 https://video01.soultv.com.br/marcaodopovo/marcaodopovo/chunklist.m3u8
 #EXTINF:-1,Pop Bola
 https://video01.soultv.com.br/popbola/popbola/chunklist.m3u8
+#EXTINF:-1,TV Correio do Imbé
+https://srv1.saragosonet.com.br/play/hls/tvc/index.m3u8
 #EXTINF:-1,Universidade da Pessoa
 https://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/chunklist.m3u8
 #EXTINF:-1,Soul TV
 https://video01.soultv.com.br/soultv/soultv/chunklist.m3u8
-#EXTINF:-1,TV Grande Natal 
+#EXTINF:-1,TV Grande Natal
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
-#EXTINF:-1,Unique TV
+#EXTINF:-1,TV Única
 https://stream.uniquetv.com.br/uniquetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,011 News
+#EXTINF:-1.011 Notícias
 https://011news.akamaized.net/011news/011news/chunklist.m3u8
 #EXTINF:-1,Darkflix
 https://video01.soultv.com.br/darkflix/darkflix/chunklist.m3u8
-#EXTINF:-1,TV R
+#EXTINF:-1,TVR
 https://video01.soultv.com.br/tvr/tvr/chunklist.m3u8
 #EXTINF:-1,TV Metropolitana Rio
 https://stmv1.srvstm.com/luis5346/luis5346/chunklist.m3u8
@@ -37,7 +39,7 @@ https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist.m3u8
 https://cdn2.connectbr.com.br/life/index.m3u8
 #EXTINF:-1,TV Estilo
 https://cdn.live.br1.jmvstream.com/w/AVJ-12950/playlist/chunklist.m3u8
-#EXTINF:-1,U Miss
+#EXTINF:-1, sua senhorita
 https://video01.soultv.com.br/umiss/umiss/chunklist.m3u8
 #EXTINF:-1,BRSUPERTV
 http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
@@ -49,21 +51,25 @@ https://video01.soultv.com.br/solbrasil/solbrasil/chunklist.m3u8
 https://video01.kshost.com.br:4443/antonio9510/antonio9510/chunklist.m3u8
 #EXTINF:-1,Rede QDM
 https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/chunklist.m3u8
-#EXTINF:-1,TV Max
+#EXTINF:-1,TV máx.
 https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist.m3u8
 #EXTINF:-1,TVC Brasil
 https://a.cdni.live/tvcbrasil/tvcbrasil/chunklist.m3u8
 #EXTINF:-1,TV Com Brasil
 https://br5093.streamingdevideo.com.br/abc/abc/chunklist.m3u8
+#EXTINF:-1,NSC
+https://cdn-2.nxplay.com.br/PLAYOUT_02_NSC/tracks-v2a1/mono.m3u8
+#EXTINF:-1,Rede Premium
+https://5c483b9d1019c.streamlock.net/8066/8066/chunklist.m3u8
 #EXTINF:-1,WTJ Minas
-https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/chunklist.m3u8
+https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/chunklist-720p.m3u8
 #EXTINF:-1,Blits TV
 https://video03.logicahost.com.br/blitstv01/blitstv01/chunklist.m3u8
-#EXTINF:-1,D+ TV
+#EXTINF:-1,D+TV
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist.m3u8
 #EXTINF:-1,Rede UTV Brasil
 https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/chunklist.m3u8
-#EXTINF:-1,QTal Channel
+#EXTINF:-1,Canal QTal
 https://video03.logicahost.com.br/qtalchannel01/qtalchannel01/chunklist.m3u8
 #EXTINF:-1,TV Planalto Norte
 https://video05.logicahost.com.br/tvplanalto/tvplanalto/chunklist.m3u8
@@ -71,21 +77,21 @@ https://video05.logicahost.com.br/tvplanalto/tvplanalto/chunklist.m3u8
 https://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist.m3u8
 #EXTINF:-1,TV Gazeta
 https://video02.logicahost.com.br/tvc21/tvc21/chunklist.m3u8
-#EXTINF:-1,Unique TV Sports
+#EXTINF:-1,Esportes de TV exclusivos
 https://stream.uniquetv.com.br/uniquetvsports/index.m3u8
 #EXTINF:-1,TV Petrópolis
 https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/chunklist.m3u8
-#EXTINF:-1,TV Mon 
+#EXTINF:-1,TV Seg
 https://srv1.zcast.com.br/tvmon/tvmon/chunklist.m3u8
 #EXTINF:-1,TV Carioca Net
-https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8
-#EXTINF:-1,TV King
+https://a.cdni.live/tvcarioca/tvcarioca/chunklist-720p.m3u8
+#EXTINF:-1,Rei da TV
 https://stmv1.srvstm.com/pedropaulomendes3413/pedropaulomendes3413/chunklist.m3u8
-#EXTINF:-1,Amazon Sat
+#EXTINF:-1, Amazon Sábado
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1,TV A Folha
 https://video01.logicahost.com.br/tvafolha/tvafolha/chunklist.m3u8
-#EXTINF:-1,TV Sonata
+#EXTINF:-1,TVSonata
 https://video01.kshost.com.br:4443/tiago2001/tiago2001/chunklist.m3u8
 #EXTINF:-1,TV Potengi
 https://stmv1.samcast.com.br/jeova3318/jeova3318/chunklist.m3u8
@@ -97,7 +103,7 @@ https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/chunklist.m3u8
 https://video01.soultv.com.br/phoenixtv/phoenixtv/chunklist.m3u8
 #EXTINF:-1,TV Litoral
 https://srv1.saragosonet.com.br/hls/redelitoral/index.m3u8
-#EXTINF:-1,Rede Smart
+#EXTINF:-1,Rede Inteligente
 https://5ffab78b24f94.streamlock.net/smart/smart/chunklist.m3u8
 #EXTINF:-1,Rede Minas
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist.m3u8
@@ -113,11 +119,11 @@ https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 http://177.74.174.57:8080/hls/primertv.m3u8
 #EXTINF:-1,TV Verdade
 https://cdn-2.nxplay.com.br/TV_VERDADE/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TV Florida 
+#EXTINF:-1,TV Flórida
 https://srv1.zcast.com.br/tvflorida/tvflorida/chunklist.m3u8
-#EXTINF:-1,Imperial TV
+#EXTINF:-1,TV Imperial
 https://acesso.ecast.site:3630/live/imperiallive.m3u8
-#EXTINF:-1,All Sports TV
+#EXTINF:-1,Todas as TVs esportivas
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 #EXTINF:-1,Sou TV
 https://video01.kshost.com.br/tiago4725/tiago4725/chunklist.m3u8
@@ -125,12 +131,14 @@ https://video01.kshost.com.br/tiago4725/tiago4725/chunklist.m3u8
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 #EXTINF:-1,TV Milagro Brasil
 http://201.87.136.36:8091/hls/tvmilagro.m3u8
-#EXTINF:-1,VTR Channel
-https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8#EXTINF:-1,GLN TV
-https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist.m3u8#EXTINF:-1,TVideoNews
+#EXTINF:-1,Canal VTR
+https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
+#EXTINF:-1,GLN TV
+https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist.m3u8
+#EXTINF:-1,TVideoNews
 https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
 #EXTINF:-1,TV Descalvado
-https://tvdescalvado.acessaradios.com.br/tvdescalvado/smil:tvdescalvado.smil/chunklist.m3u8
+https://tvdescalvado.assaradios.com.br/tvdescalvado/smil:tvdescalvado.smil/chunklist.m3u8
 #EXTINF:-1,Rede Mundo de Televisão
 https://video04.logicahost.com.br/redemundotv/redemundotv/chunklist.m3u8
 #EXTINF:-1,TV Mais ABC
@@ -143,40 +151,43 @@ https://video01.soultv.com.br/programa4por4/programa4por4/chunklist.m3u8
 https://video03.logicahost.com.br/tvsaobernardo/tvsaobernardo/chunklist.m3u8
 #EXTINF:-1,RAE TV
 https://video01.logicahost.com.br/raetv/raetv/chunklist.m3u8
-#EXTINF:-1,RS News Sports
+#EXTINF:-1,RS Notícias Esportes
 https://59f1cbe63db89.streamlock.net:1443/rsnewssports/_definst_/rsnewssports/chunklist.m3u8
-#EXTINF:-1,RS News Sports 2
+#EXTINF:-1,RS Notícias Esportes 2
 https://59f1cbe63db89.streamlock.net:1443/rsnews/_definst_/rsnews/chunklist.m3u8
 #EXTINF:-1,Roraima TV
 https://video01.soultv.com.br/roraimatv/roraimatv/chunklist.m3u8
-#EXTINF:-1,Astral TV
+#EXTINF:-1,TV Astral
 https://isaocorp.cloudecast.com/astraltv/index.m3u8
 #EXTINF:-1,TV A7
 https://srv3.zcast.com.br/wellington7720/wellington7720/chunklist.m3u8
 #EXTINF:-1,WTV Brasil
 https://stmv7.samcast.com.br/wtvbrasil/wtvbrasil/chunklist.m3u8
-#EXTINF:-1,TV Avivando Nações 
+#EXTINF:-1,TV Avivando Nações
 https://video01.kshost.com.br:4443/edinardo2448/edinardo2448/chunklist.m3u8
 #EXTINF:-1,Blast Channel TV
 https://video01.logicahost.com.br/blast/blast/chunklist.m3u8
-#EXTINF:-1,TV Ondas de Marica
+#EXTINF:-1,TV Ondas de Maricá
 https://stmv5.samcast.com.br/portalondasdemarica/portalondasdemarica/chunklist.m3u8
 #EXTINF:-1,TV Educar
-https://v1.comunicabh.com.br/tveducar/tveducar/chunklist.m3u8#EXTINF:-1,RS News Sports 3
+https://cdn-2.nxplay.com.br/TV_EDUCAR/tracks-v2a1/mono.m3u8
+#EXTINF:-1,RS Notícias Esportes 3
 https://59f1cbe63db89.streamlock.net:1443/rsnews03/_definst_/rsnews03/chunklist.m3u8
-#EXTINF:-1,MKK TV
+#EXTINF:-1, MKKTV
 https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/chunklist.m3u8
 #EXTINF:-1,AWTV
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
-#EXTINF:-1,TV Zoom
+#EXTINF:-1,Zoom TV
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/chunklist.m3u8
+#EXTINF:-1, TV América
+https://stmv7.samcast.com.br/natanael4054/natanael4054/chunklist.m3u8
 #EXTINF:-1,TV Nova MT
 https://video05.logicahost.com.br/tvnovaweb1/tvnovaweb1/chunklist.m3u8
 #EXTINF:-1,TV Conquista - Record TV
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 #EXTINF:-1,KPop TV Play
 https://250weu.bozztv.com/ssh101/ssh101/kpoptv/chunks.m3u8
-#EXTINF:-1,TV Recon
+#EXTINF:-1,Reconhecimento de TV
 https://acesso.ecast.site:3862/hybrid/play.m3u8
 #EXTINF:-1,TV Itapê
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
@@ -190,11 +201,11 @@ https://stmv1.srvstm.com/abc7762/abc7762/chunklist.m3u8
 https://video05.logicahost.com.br/extremotv/extremotv/chunklist.m3u8
 #EXTINF:-1,CNB TV
 https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/chunklist.m3u8
-#EXTINF:-1,CNB American TV
+#EXTINF:-1,CNB TV americana
 https://5cf4a2c2512a2.streamlock.net/tvcnbamerican/tvcnbamerican/chunklist.m3u8
-#EXTINF:-1,TV Amplitude Juína
+#EXTINF:-1,Amplitude TV Juína
 https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
-#EXTINF:-1,TV Amplitude Juara
+#EXTINF:-1,Amplitude de TV Juara
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1,TV Rio Preto
 https://video02.logicahost.com.br/tvriopreto/tvriopreto/chunklist.m3u8
@@ -212,9 +223,9 @@ https://5f593df7851db.streamlock.net/evangelizar/tv/chunklist.m3u8
 https://vezatv.mediastreaming.com.br/vezatv/live.stream/chunks.m3u8
 #EXTINF:-1,TV Sertão
 https://stmv7.samcast.com.br/tvsertao/tvsertao/chunklist.m3u8
-#EXTINF:-1,Series Classic
+#EXTINF:-1,Série Clássica
 https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist.m3u8
-#EXTINF:-1,BR Global Station
+#EXTINF:-1,Estação Global BR
 https://alanza.iptv2022.com/TV_BR_GLOBAL/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TV Com Santos
 https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/chunklist.m3u8
@@ -222,9 +233,11 @@ https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/chunklist.m3u8
 https://video01.soultv.com.br/cinemonde/cinemonde/chunklist.m3u8
 #EXTINF:-1,TV Mogiana
 https://cdn2.connectbr.com.br/Soultv/video.m3u8
-#EXTINF:-1,Canal Start
+#EXTINF:-1,Início do canal
 https://stmv1.srvif.com/canalstart/canalstart/chunklist.m3u8
-#EXTINF:-1,TV Recôncavo 
+#EXTINF:-1,Notícias do Euro
+https://stmv3.voxtvhd.com.br/tveuronews/tveuronews/chunklist.m3u8
+#EXTINF:-1,TV Recôncavo
 https://video04.logicahost.com.br/tvreconcavo/tvreconcavo/chunklist.m3u8
 #EXTINF:-1,TV Mais Brasil
 https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/chunklist.m3u8
@@ -240,7 +253,7 @@ https://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/chunklist.m3
 https://cdn.tvlondres.uk/8744_push_3653_001/05a4e5d3c1769a61f8350e4fc677a4a5.sdp/live/8744_push_3653_001Tvlondres/chunks.m3u8
 #EXTINF:-1,Canal Andreia Grezzana
 https://video01.soultv.com.br/andreiagrezzana/andreiagrezzana/chunklist.m3u8
-#EXTINF:-1,Record News
+#EXTINF:-1,Recordar Notícias
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5429
 #EXTINF:-1,TVC Potiraguá
 https://stmv1.voxtvhd.com.br/canaltvc/canaltvc/chunklist.m3u8
@@ -256,8 +269,7 @@ https://video01.soultv.com.br/litocavalcanti/litocavalcanti/chunklist.m3u8
 https://isaocorp.cloudecast.com/ngt/index.fmp4.m3u8
 #EXTINF:-1,Rede Meio Norte
 https://streaming.jornalmn.com.br/live/tvmn.m3u8
-#EXTINF:-1,TV Jornal Meio Norte
-https://streaming.jornalmn.com.br/live/tvmn.m3u8
+#EXTINF:-1,TV Jornal Meio Norte https://streaming.jornalmn.com.br/live/tvmn.m3u8
 #EXTINF:-1,TV Cultura
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4559
 #EXTINF:-1,TV Onix
@@ -270,7 +282,7 @@ https://mpix05.tmwpix.com:6516/pix/pixtv_hi.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4555
 #EXTINF:-1,TV Brasil Popular
 https://srv2.zcast.com.br/rsmusic/rsmusic/chunklist.m3u8
-#EXTINF:-1,Play TV
+#EXTINF:-1,Reproduzir TV
 https://cdn-2.nxplay.com.br/PLAY_TV_NXPLAY/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TV Agora Limeira
 https://video05.logicahost.com.br/eveontv/eveontv/chunklist.m3u8
@@ -282,13 +294,17 @@ https://stmv2.samcast.com.br/marcus8647/marcus8647/chunklist.m3u8
 https://cdn.jmvstream.com/w/AVJ-13010/playlist/chunklist.m3u8
 #EXTINF:-1,Tenda TV
 https://tv02.zas.media:1936/tendatv/tendatv/chunklist.m3u8
-#EXTINF:-1,Esflix TV
+#EXTINF:-1,EsflixTV
 https://flussonic-redetv.cloudecast.com/esflix/index.m3u8
+#EXTINF:-1,ColetivaTV
+https://video02.logicahost.com.br/coletivatv/coletivatv/chunklist.m3u8
 #EXTINF:-1,TV Gramado
 https://isaocorp.cloudecast.com/tvgramado/index.m3u8
 #EXTINF:-1,TV Aurora
 https://stream.skyspace.com.br:3466/stream/play.m3u8
-#EXTINF:-1,Geekdot 
+#EXTINF:-1,Canal Rural No Ar
+https://video05.logicahost.com.br/agronoar/agronoar/chunklist.m3u8
+#EXTINF:-1,Geekdot
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1,TV Diário do Sertão
 https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/chunklist.m3u8
@@ -314,25 +330,25 @@ https://live.comets.com.br/tvnovanordeste_222/index.m3u8
 https://video01.kshost.com.br:4443/marcelo6682/marcelo6682/chunklist.m3u8
 #EXTINF:-1,TV Pampa
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist.m3u8
-#EXTINF:-1,Live TV SP
+#EXTINF:-1,TV Ao Vivo SP
 https://live.mediastreaming.com.br/livetvhd/livetv.stream/chunks.m3u8
-#EXTINF:-1,Central TV
+#EXTINF:-1,TV Central
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist.m3u8
-#EXTINF:-1,Masper TV
+#EXTINF:-1,MasperTV
 https://br5093.streamingdevideo.com.br/ujtxpjgkyn/ujtxpjgkyn/chunklist.m3u8
-#EXTINF:-1,Onda Digital TV
+#EXTINF:-1,Onda TV Digital
 https://v4.tustreaming.cl/ondadigitaltv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Peru Channel
+#EXTINF:-1,Canal Peru
 https://a.cdni.live/peruchanel/peruchanel/chunklist.m3u8
-#EXTINF:-1,DM Kids TV
+#EXTINF:-1,DM TV Infantil
 https://video03.logicahost.com.br/dmkidstv/dmkidstv/chunklist.m3u8
 #EXTINF:-1,BHTV
 https://vdo.grupolimalive.com:3762/live/bhtvlive.m3u8
-#EXTINF:-1,TV Pet Lovers
+#EXTINF:-1,Amantes de animais de estimação na TV
 https://video04.logicahost.com.br/petloverstv/petloverstv/chunklist.m3u8
 #EXTINF:-1,Viva e Eduque
 https://video01.logicahost.com.br/vivaedeixeviver/vivaedeixeviver/chunklist.m3u8
-#EXTINF:-1,RS News Sports 4
+#EXTINF:-1,RS Notícias Esportes 4
 https://59f1cbe63db89.streamlock.net:1443/rsnews04/_definst_/rsnews04/chunklist.m3u8
-#EXTINF:-1,RS News Sports 5
+#EXTINF:-1,RS Notícias Esportes 5
 https://59f1cbe63db89.streamlock.net:1443/danielteste/_definst_/danielteste/chunklist.m3u8
