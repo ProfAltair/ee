@@ -185,7 +185,10 @@ http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/chunklist_w1542425249
 #EXTINF:0,LOGOS TV
 #EXTGRP:INTERNACIONAL
 https://streamer1.streamhost.org/salive/logosH/chunklist_w946286197.m3u8
-#EXTINF:0,REDE SUPER
+#EXTINF:0,REDE SUPER 2
+#EXTGRP:EVANGÉLICOS
+https://m2online.tvpn.eu:443/fernandom2rec12f/123/397
+#EXTINF:0,REDE SUPER 1
 #EXTGRP:EVANGÉLICOS
 https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w2059396448.m3u8
 #EXTINF:0,IMPD TV
@@ -200,9 +203,12 @@ https://hqf6tcxuhk.singularcdn.net.br/live/2b512662-a40f-46ef-b540-e8ee3f5bb1fb/
 #EXTINF:0,TV TEMPLO
 #EXTGRP:EVANGÉLICOS
 https://664398c.ha.azioncdn.net/primary/tvtemplo_480p.sdp/chunklist_d72ec4d1-f1b7-4689-a58e-17ba017e1bd5.m3u8
-#EXTINF:0, RIT TV
+#EXTINF:0, RIT TV 1
 #EXTGRP:EVANGÉLICOS
 https://acesso.ecast.site:3648/live/ritlive.m3u8
+#EXTINF:0, RIT TV 2
+#EXTGRP:EVANGÉLICOS
+https://m2online.tvpn.eu:443/fernandom2rec12f/123/280
 #EXTINF:0,TV CAPITAL
 #EXTGRP:EVANGÉLICOS
 https://stmv7.samcast.com.br/raimundoanselmolimamororo9090/raimundoanselmolimamororo9090/chunklist_w372296315.m3u8
