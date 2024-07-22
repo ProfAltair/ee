@@ -50,15 +50,7 @@ https://abc.embedmax.site/espn4/tracks-v1a1/mono.m3u8
 #EXTINF:0,FUTEBOL AO VIVO 15
 #EXTGRP:FUTEBOL DA HORA
 https://abc.embedmax.site/espn5/tracks-v1a1/mono.m3u8
-#EXTINF:0,JOGO AO VIVO 16
-#EXTGRP:FUTEBOL DA HORA
-https://abc.embedmax.site/premiere5/tracks-v1a1/mono.m3u8
-#EXTINF:0,JOGO AO VIVO 17
-#EXTGRP:FUTEBOL DA HORA
-https://abc.embedmax.site/premiere6/tracks-v1a1/mono.m3u8
-#EXTINF:0,JOGO AO VIVO 18
-#EXTGRP:FUTEBOL DA HORA
-https://abc.embedmax.site/premiere7/tracks-v1a1/mono.m3u8
+
 
 
 
