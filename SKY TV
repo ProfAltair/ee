@@ -41,6 +41,27 @@ https://bal02.vivartec.com.br:8088/hls/livechannel5.m3u8
 #EXTINF:0,FUTEBOL AO VIVO 5
 #EXTGRP:FUTEBOL DA HORA
 https://bal02.vivartec.com.br:8088/hls/livechannel1.m3u8
-#EXTINF:0,AO VIVO INTERNACIONAL 1
-#EXTGRP:INTERNACIONAL
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+#EXTINF:0,FUTEBOL AO VIVO 13
+#EXTGRP:FUTEBOL DA HORA
+https://abc.embedmax.site/espn3/tracks-v1a1/mono.m3u8
+#EXTINF:0,FUTEBOL AO VIVO 14
+#EXTGRP:FUTEBOL DA HORA
+https://abc.embedmax.site/espn4/tracks-v1a1/mono.m3u8
+#EXTINF:0,FUTEBOL AO VIVO 15
+#EXTGRP:FUTEBOL DA HORA
+https://abc.embedmax.site/espn5/tracks-v1a1/mono.m3u8
+#EXTINF:0,JOGO AO VIVO 16
+#EXTGRP:FUTEBOL DA HORA
+https://abc.embedmax.site/premiere5/tracks-v1a1/mono.m3u8
+#EXTINF:0,JOGO AO VIVO 17
+#EXTGRP:FUTEBOL DA HORA
+https://abc.embedmax.site/premiere6/tracks-v1a1/mono.m3u8
+#EXTINF:0,JOGO AO VIVO 18
+#EXTGRP:FUTEBOL DA HORA
+https://abc.embedmax.site/premiere7/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
