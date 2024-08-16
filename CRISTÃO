@@ -5,12 +5,6 @@ https://stmv2.samcast.com.br/marcostimotheo5865/marcostimotheo5865/chunklist_w12
 #EXTINF:0,SPIRIT TV
 #EXTGRP:TOP LOUVORES
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v2a1/mono.m3u8
-#EXTINF:0,TV LITORAL GOSPEL(2023)
-#EXTGRP:TOP LOUVORES
-https://stmv2.webtvninjas.com.br/diraldomelodelima2359/diraldomelodelima2359/chunklist_w2087545743.m3u8
-#EXTINF:0,SERTANEJO GOSPEL
-#EXTGRP:TOP LOUVORES
-https://stmv3.voxtvhd.com.br/tvmvam/tvmvam/chunklist_w1352006201.m3u8
 #EXTINF:0,RÁDIO GOSPEL FM
 #EXTGRP:TOP LOUVORES
 https://virtues.es:1936/gospel90/gospel90/chunklist_w1719027398.m3u8
@@ -23,12 +17,6 @@ http://cdn2.connectbr.com.br/Promessas/index.m3u8
 #EXTINF:0,🙏..TV PBC
 #EXTGRP:unsorted
 https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8
-#EXTINF:0,TV CONFIEGO GOSPEL
-#EXTGRP:unsorted
-https://stmv1.voxtvhd.com.br/tvconfiegogospel/tvconfiegogospel/chunklist_w648225369.m3u8
-#EXTINF:0,IGREJA PRESBITERIANA INDEPEDENTE DE LONDRINA
-#EXTGRP:NOVOS CANAIS 
-https://ythls.armelin.one/channel/UCvvU3v1pJortnPqp9VTfWeA.m3u8
 #EXTINF:0,TV SEPIOL
 #EXTGRP:NOVOS CANAIS 
 https://5a57bda70564a.streamlock.net/tvsepiol/tvsepiol.sdp/chunklist_w1426952478.m3u8
@@ -38,52 +26,9 @@ https://stmv1.liveplushd.com.br/tvvivam/tvvivam/chunklist_w1706069876.m3u8
 #EXTINF:0,TV PROMESSAS
 #EXTGRP:NOVOS CANAIS 
 https://video01.kshost.com.br:4443/gente8322/gente8322/chunklist_w1771562012.m3u8
-#EXTINF:0,TV GIDEÕES
-#EXTGRP:EVANGÉLICOSh
-https://tv01.zas.media:1936/gideoes/gideoes/chunklist_w1307383553.m3u8
-#EXTINF:0,QUARTO DE GUERRA
-#EXTGRP:FILMES
-https://d1v7l1rvoo28jl.cloudfront.net/filmes/quarto_guerra.mp4
-#EXTINF:0,ENCONTRO DE CASAIS
-#EXTGRP:FILMES
-https://d14z5zgripclfw.cloudfront.net/account1321-i1382/video/2521/format480p_encontro_de_casais_custom.m3u8
-#EXTINF:0,DIA AMARELO
-#EXTGRP:FILMES
-https://d14z5zgripclfw.cloudfront.net/account1321-i1382/video/2580/format720p_dia_amarelo_hd_por20_custom.m3u8
-#EXTINF:0,ENCONTROS
-#EXTGRP:FILMES
-https://d14z5zgripclfw.cloudfront.net/account1321-i1382/video/2523/format480p_encontros_dub_custom.m3u8
-#EXTINF:0,IRÃ UM BRADO DE FÉ
-#EXTGRP:FILMES
-https://d14z5zgripclfw.cloudfront.net/account1321-i1382/video/2530/format480p_ira_um_brado_de_fe_sd_16x9_ptbr_custom.m3u8
-#EXTINF:0,MAIS QUE VENCEDOR
-#EXTGRP:FILMES
-https://d14z5zgripclfw.cloudfront.net/account1321-i1382/video/2533/format720p_mais_que_vencedor_por20_custom.m3u8
-#EXTINF:0,UMA JORNADA
-#EXTGRP:FILMES
-https://d14z5zgripclfw.cloudfront.net/account1321-i1382/video/2497/format720p_a_jornada_portuguese_custom.m3u8
-#EXTINF:0,BIBLEMAN A LUTA PELA FÉ
-#EXTGRP:FILMES
-https://d14z5zgripclfw.cloudfront.net/account1321-i1382/video/2083/format720p_bibleman_a_luta_pela_fe_16x9_por20_pddblck_custom.m3u8
-#EXTINF:0,NOÉ
-#EXTGRP:FILMES
-https://v.baixarfree.com/file/utxgmpx/f/No%C3%A9%20-%202014_86834.mp4
-#EXTINF:0,SUPERAÇÃO: O MILAGRE DA FÉ
-#EXTGRP:FILMES
-https://v.baixarfree.com/file/utxgmpx/f/Supera%C3%A7%C3%A3o%20O%20Milagre%20da%20F%C3%A9%20-%202019_514439.mp4
-#EXTINF:0,UMA VIDA DE PROPÓSITO
-#EXTGRP:FILMES
-https://v.baixarfree.com/file/utxgmpx/f/Uma%20Vida%20Com%20Prop%C3%B3sito%20-%202016_409502.mp4
 #EXTINF:0,PARTE 1
 #EXTGRP:A VIDA DE JESUS CRISTO
 https://ia902205.us.archive.org/3/items/1-3-melhor-filme-de-jesus-de-todos-os-tempos-a-vida-de-jesus-cristo-filme-completo-dublado/1_3%20_%20MELHOR%20FILME%20DE%20JESUS%20DE%20TODOS%20OS%20TEMPOS%20_%20A%20vida%20de%20Jesus%20Cristo%20_%20Filme%20Completo%20Dublado.mp4
-#EXTINF:0,PARTE 2
-#EXTGRP:A VIDA DE JESUS CRISTO
-https://ia802500.us.archive.org/28/items/2-3-melhor-filme-de-jesus-de-todos-os-tempos-a-vida-de-jesus-cristo-filme-completo-dublado/2_3%20_%20MELHOR%20FILME%20DE%20JESUS%20DE%20TODOS%20OS%20TEMPOS%20_%20A%20vida%20de%20Jesus%20Cristo%20_%20Filme%20Completo%20Dublado.mp4
-#EXTINF:0,PARTE 3
-#EXTGRP:A VIDA DE JESUS CRISTO
-https://ia802500.us.archive.org/28/items/2-3-melhor-filme-de-jesus-de-todos-os-tempos-a-vida-de-jesus-cristo-filme-completo-dublado/3_3%20_%20MELHOR%20FILME%20DE%20JESUS%20DE%20TODOS%20OS%20TEMPOS%20_%20A%20vida%20de%20Jesus%20Cristo%20_%20Filme%20Completo%20Dublado.mp4
-#EXTINF:0,JESUS CRISTO 24 HORAS
 #EXTGRP:FILMES NOVOS
 https://stmv1.srvif.com/especial4/especial4/chunklist.m3u8
 #EXTINF:0,TV NOVO TEMPO OFICIAL
@@ -95,15 +40,6 @@ https://video01.soultv.com.br/feliz7play/feliz7play/playlist.m3u8
 #EXTINF:0,REDE CIDADE VIVA
 #EXTGRP:NOVOS CANAIS
 https://live.cdn.upx.com/kwjqp/smil:cidadeviva.smil/chunklist_b150000.m3u8
-#EXTINF:0,Tv Maranata FHD
-#EXTGRP:NOVOS CANAIS
-https://5e837408ea907.streamlock.net:1936/maranatalive/smil:maranatalive.smil/chunklist.m3u8
-#EXTINF:0,KTV BR
-#EXTGRP:NOVOS CANAIS
-https://stmv1.samcast.com.br/paulohenrique5216/paulohenrique5216/chunklist_w1717963564.m3u8
-#EXTINF:0,TV UNIMIDIA
-#EXTGRP:NOVOS CANAIS
-https://tv02.zas.media:1936/unimidia/unimidia/chunklist_w1160626396.m3u8
 #EXTINF:0,TV SUPER GOSPEL
 #EXTGRP:NOVOS CANAIS
 https://srv3.zcast.com.br/7002/7002/chunklist_w1329571678.m3u8
@@ -113,15 +49,9 @@ https://stmv1.srvif.com/familia/familia/chunklist_w2117085486.m3u8
 #EXTINF:0,TTV EXODUS
 #EXTGRP:NOVOS CANAIS
 https://stmv7.samcast.com.br/tvexodus/tvexodus/chunklist_w986219629.m3u8
-#EXTINF:0,CHD TV
-#EXTGRP:NOVOS CANAIS
-https://stmv1.liveplushd.com.br/chdtv/chdtv/chunklist_w2016427704.m3u8
 #EXTINF:0,TV FILADÉLFIA
 #EXTGRP:NOVOS CANAIS
 https://stmv2.samcast.com.br/marcostimotheo5865/marcostimotheo5865/chunklist_w1147310358.m3u8
-#EXTINF:0,TV SONORA(JUN 2023)
-#EXTGRP:NOVOS CANAIS
-https://cdn.jmvstream.com/w/LVW-8600/LVW8600_dPUj47PQ9P/chunklist.m3u8
 #EXTINF:0,CONVERT TV
 #EXTGRP:NOVOS CANAIS
 https://stmv1.srvif.com/converttv/converttv/chunklist_w625482410.m3u8
@@ -147,8 +77,6 @@ https://stmv1.liveplushd.com.br/tvvivam/tvvivam/chunklist_w1044887681.m3u8
 #EXTGRP:NOVOS CANAIS
 https://tv02.zas.media:1936/mdgtv/mdgtv/chunklist_w1027308776.m3u8
 #EXTINF:0,TV ENTRE AMIGOS
-#EXTGRP:NOVOS CANAIS
-https://stmv1.srvif.com/igreja/igreja/chunklist_w916840614.m3u8
 #EXTINF:0,TV PELA FÉ
 #EXTGRP:NOVOS CANAIS
 https://stmv1.samcast.com.br/pelafetv/pelafetv/chunklist_w1470513566.m3u8
@@ -158,18 +86,9 @@ https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/chunklist_w194012346
 #EXTINF:0,TV VIDAS TRANSFORMADAS
 #EXTGRP:NOVOS CANAIS
 https://stmv1.srvstm.com/edvaldo7467/edvaldo7467/chunklist_w1929866789.m3u8
-#EXTINF:0,REDE GOSPEL BR
-#EXTGRP:NOVOS CANAIS
-https://stmv1.srvif.com/redegospelbrasil/redegospelbrasil/chunklist_w1754506625.m3u8
-#EXTINF:0,TV PRECABURA
-#EXTGRP:NOVOS CANAIS
-http://srv1.zcast.com.br/tvprecabura/tvprecabura/playlist-480p.m3u8
 #EXTINF:0,TV BOA NOVA
 #EXTGRP:NOVOS CANAIS
 https://stmv.video.expressolider.com.br/tvboanova/tvboanova/chunklist_w674000147.m3u8
-#EXTINF:0,WEB TV LITORAL GOSPEL
-#EXTGRP:ENTRETENIMENTO CRISTÃOS
-https://stmv2.webtvninjas.com.br/diraldomelodelima2359/diraldomelodelima2359/chunklist_w2087545743.m3u8
 #EXTINF:0,MiTV
 #EXTGRP:ENTRETENIMENTO CRISTÃOS
 https://stmv4.voxtvhd.com.br/1990/1990/chunklist_w512045479.m3u8
@@ -194,9 +113,6 @@ https://59f1cbe63db89.streamlock.net:1443/gospeltv/_definst_/gospeltv/chunklist_
 #EXTINF:0,CASA INTERNACIONAL DE ORAÇÃO
 #EXTGRP:ENTRETENIMENTO CRISTÃOS
 https://storage.sardius.media/archives/-K6FGrVYzVr92SDZiDnc/events/site_68FBe1c2dE/playlist-gpr1080.m3u8
-#EXTINF:0,CANAL VIDA PORTUGAL
-#EXTGRP:ENTRETENIMENTO CRISTÃOS
-https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv_2/chunklist_w297849224.m3u8
 #EXTINF:0,TOP MIX
 #EXTGRP:ENTRETENIMENTO CRISTÃOS
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w1395416261.m3u8
@@ -206,9 +122,6 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w5042874.m3u8
 #EXTINF:0,MOVIE FE(VENEZUELA)
 #EXTGRP:ENTRETENIMENTO CRISTÃOS
 https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w1774094480.m3u8
-#EXTINF:0,NUBEH TV
-#EXTGRP:INTERNACIONAL
-https://vcp.myplaytv.com/nubehtv/nubehtv/chunklist_w1707524284.m3u8
 #EXTINF:0,ALTAR TV
 #EXTGRP:INTERNACIONAL
 https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
@@ -230,9 +143,9 @@ http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/chunklist_w1542425249
 #EXTINF:0,LOGOS TV
 #EXTGRP:INTERNACIONAL
 https://streamer1.streamhost.org/salive/logosH/chunklist_w946286197.m3u8
-#EXTINF:0,REDE SUPER 2
+#EXTINF:0, SEMEAR TV
 #EXTGRP:EVANGÉLICOS
-https://m2online.tvpn.eu:443/fernandom2rec12f/123/397
+https://5a0c3936c25c8.streamlock.net/semeartvstation/semeartvstation/chunklist_w502943221.m3u8
 #EXTINF:0,REDE SUPER 1
 #EXTGRP:EVANGÉLICOS
 https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w2059396448.m3u8
@@ -256,7 +169,7 @@ https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 https://video04.logicahost.com.br/tvreconcavo/tvreconcavo/chunklist_w417912819.m3u8
 #EXTINF:0,CNT
 #EXTGRP:EVANGÉLICOS
-https://hqf6tcxuhk.singularcdn.net.br/live/2b512662-a40f-46ef-b540-e8ee3f5bb1fb/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJiZXkiOnRydWUsImV4cCI6MTcxMjQxMTE2OCwiaWF0IjoxNzExODA2MzY4LCJpZCI6IjAxOGU4ZjljLTQ0OGQtNzI2Yi05ZTA5LTJiYzIyZTg2ZWYwMCIsIm5iZiI6MTcxMTgwNDU2OCwicmF1IjpbXSwidWlkIjoiMDE4ZThmOWMtNDQ4ZC03MjZiLTllMDktMmJjMjJlODZlZjAwIiwidXJpX3N1YiI6Ii8yYjUxMjY2Mi1hNDBmLTQ2ZWYtYjU0MC1lOGVlM2Y1YmIxZmIvIn0.-Vnl2C1hQ0AuQPBCf2jQ0t51Fh_zGrOZceE-eS6NPtQ&uid=018e8f9c-448d-726b-9e09-2bc22e86ef00
+https://cloudflare.cdn.spalla.io/live/2b512662-a40f-46ef-b540-e8ee3f5bb1fb/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJiZXkiOnRydWUsImV4cCI6MTcyNDQ0NTI0NCwiaWF0IjoxNzIzODQwNDQ0LCJpZCI6IjAxOTE1Y2U1LWIyMzctN2QxNy1iZjM5LWI4NGE2YjUxNjVlMyIsIm5iZiI6MTcyMzgzODY0NCwicmF1IjpbXSwidWlkIjoiMDE5MTVjZTUtYjIzNy03ZDE3LWJmMzktYjg0YTZiNTE2NWUzIiwidXJpX3N1YiI6Ii8yYjUxMjY2Mi1hNDBmLTQ2ZWYtYjU0MC1lOGVlM2Y1YmIxZmIvIn0._gr8TdQbZG-j-3FNB04O64QVcOnTNo25r2euvsPJ-NQ&uid=01915ce5-b237-7d17-bf39-b84a6b5165e3&
 #EXTINF:0,TV TEMPLO
 #EXTGRP:EVANGÉLICOS
 https://664398c.ha.azioncdn.net/primary/tvtemplo_480p.sdp/chunklist_d72ec4d1-f1b7-4689-a58e-17ba017e1bd5.m3u8
@@ -272,45 +185,24 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:0,TV FELIZ
 #EXTGRP:EVANGÉLICOS
 https://video01.logicahost.com.br/tvfeliz/tvfeliz/chunklist_w1243364630.m3u8
-#EXTINF:0,WEBITV CANAL DA FÉ
-#EXTGRP:EVANGÉLICOS
-https://video04.logicahost.com.br/deivitcoimbra/deivitcoimbra/chunklist_w70978888.m3u8
 #EXTINF:0,TV KAIROS
 #EXTGRP:EVANGÉLICOS
 https://stmv2.voxtvhd.com.br/kairosfm893/kairosfm893/playlist.m3u8
-#EXTINF:0,TV VIDA NOVA
-#EXTGRP:EVANGÉLICOS
-https://srv2.zcast.com.br/jairopastor/jairopastor/chunklist_w1469861886.m3u8
-#EXTINF:0,TV MISSÃO
-#EXTGRP:EVANGÉLICOS
-https://video01.kshost.com.br:4443/paulo8859/paulo8859/chunklist_w813256249.m3u8
 #EXTINF:0,CANAL MISSIONÁRIO
 #EXTGRP:EVANGÉLICOS
 https://59f1cbe63db89.streamlock.net:1443/canalmissionario/_definst_/canalmissionario/chunklist_w770939674.m3u8
-#EXTINF:0,REDE NOVA TV
-#EXTGRP:EVANGÉLICOS
-https://5d2c98775bafe.streamlock.net/8058/8058/chunklist_w1483113913.m3u8
 #EXTINF:0,TEMPO DE VITÓRIA
 #EXTGRP:EVANGÉLICOS
 https://5cf4a2c2512a2.streamlock.net/tempodevitoria/tempodevitoria/chunklist_w333621650.m3u8
-#EXTINF:0,TV ROSA DE SARON
-#EXTGRP:EVANGÉLICOS
-https://stmv3.voxtvhd.com.br/rosadesaron/rosadesaron/chunklist_w685289789.m3u8
 #EXTINF:0,TV FÉ E LUZ
 #EXTGRP:EVANGÉLICOS
 https://5cf4a2c2512a2.streamlock.net/sjbcampinas/sjbcampinas/chunklist_w679510436.m3u8
 #EXTINF:0,REDE BOAS NOVAS
 #EXTGRP:EVANGÉLICOS
 https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/chunklist.m3u8
-#EXTINF:0,SEMEAR TV
-#EXTGRP:EVANGÉLICOS
-https://5a0c3936c25c8.streamlock.net/semeartvstation/semeartvstation/chunklist_w502943221.m3u8
 #EXTINF:0,TV ADORANDO JESUS
 #EXTGRP:EVANGÉLICOS
 https://stmv1.srvif.com/adorando/adorando/chunklist_w1677549071.m3u8
-#EXTINF:0,TV ANTARES
-#EXTGRP:EVANGÉLICOS
-https://stmv1.srvstm.com/carloseduardo/carloseduardo/chunklist_w1265793905.m3u8
 #EXTINF:0,FONTE TV
 #EXTGRP:EVANGÉLICOS
 https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1441723829.m3u8
@@ -332,21 +224,12 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_b1381c14-
 #EXTINF:0,TV CRISTO VIVE
 #EXTGRP:EVANGÉLICOS
 https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/chunklist_w731530507.m3u8#EXTGRP:EVANGÉLICOShttps://meupainel.top:1936/iaptd/iaptd/chunklist_w851109203.m3u8
-#EXTINF:0,TV RECOMECO
-#EXTGRP:EVANGÉLICOS
-https://stmv1.srvstm.com/carloseduardo/carloseduardo/chunklist_w153226793.m3u8
 #EXTINF:0,TV OURO NEGRO
 #EXTGRP:EVANGÉLICOS
 https://stmv1.srvstm.com/diegodemenezes3156/diegodemenezes3156/playlist.m3u8?wowzasessionid=1980943398
 #EXTINF:0,TV VOTULINE
 #EXTGRP:EVANGÉLICOS
 https://srv5.zcast.com.br/votuline/votuline/chunklist_w855406627.m3u8
-#EXTINF:0,TV MAANAIM
-#EXTGRP:EVANGÉLICOS
-https://5e837408ea907.streamlock.net:1936/maranatalive/smil:maranatalive.smil/chunklist_w1499948144_b2000000_slen.m3u8
-#EXTINF:0,REDE FAMILIA
-#EXTGRP:EVANGÉLICOS
-https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b1628000.m3u8
 #EXTINF:0,TV IEADI
 #EXTGRP:EVANGÉLICOS
 http://streaming03.zas.media:1935/adindaiatuba/adindaiatuba/chunklist_w499199445.m3u8
@@ -359,21 +242,9 @@ https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/chunklist_w99636553
 #EXTINF:0,Paróquia São João Batista
 #EXTGRP:CATÓLICOS
 https://5cf4a2c2512a2.streamlock.net/sjbcampinas/sjbcampinas/chunklist_w577167439.m3u8
-#EXTINF:0,TVCI
-#EXTGRP:CATÓLICOS
-https://5e837408ea907.streamlock.net:1936/tvci/tvci/chunklist_w2017952617.m3u8
 #EXTINF:0,PUC TV
 #EXTGRP:CATÓLICOS
 https://stmv5.samcast.com.br/puctvgoias/puctvgoias/chunklist_w354824524.m3u8
-#EXTINF:0,TV HORIZONTE
-#EXTGRP:CATÓLICOS
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703811038/ei/fsONZcStE9StobIPlv-XkAo/ip/191.242.234.82/id/sfh-cVDGMoo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/900/manifest_duration/900/demuxed/1/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/24007246/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgHpr7V0XIE8PLGnYovaZtvisxdD2vKRtbJoXg7seA4PACIQCN8smZjxxUU5OvX1-_Esb20fzzsFrYfVZWxaIAmf3kGg%3D%3D/file/index.m3u8
-#EXTINF:0,TV AMOR ETERNO
-#EXTGRP:CATÓLICOS
-https://stmv1.srvif.com/amoreterno/amoreterno/chunklist_w325524627.m3u8
-#EXTINF:0,TV SANTA CECÍLIA
-#EXTGRP:CATÓLICOS
-https://60d88f8ce1206.streamlock.net/2063/2063/chunklist_w1676724501.m3u8
 #EXTINF:0,TV PENTECOSTES
 #EXTGRP:CATÓLICOS
 https://stmv2.samcast.com.br/radiopentecostes/radiopentecostes/chunklist_w1659628034.m3u8
@@ -403,7 +274,7 @@ https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/chunklist_w1781839972.m3u8
 #EXTINF:0,TV EVANGELIZAR
 #EXTGRP:CATÓLICOS
-https://5f593df7851db.streamlock.net/evangelizar/tv/chunklist_w1326112056.m3u8
+https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
 #EXTINF:0,SANTA CRUZ TV
 #EXTGRP:CATÓLICOS
 https://stmv1.srvstm.com/santacruztv9906/santacruztv9906/chunklist_w1481316242.m3u8
@@ -491,10 +362,19 @@ https://node-19.zeno.fm/r8wfkt64b48uv?rj-ttl=5&amp;
 #EXTINF:0,MARUMBY
 #EXTGRP:RADIOS
 https://5a2b083e9f360.streamlock.net/marumby/marumby.sdp/chunklist_w1766665811.m3u8
-#EXTINF:0,ESCOLA DA BÍBLIA
+#EXTINF:0, TV PLENITUDE
 #EXTGRP:EXTRAS
-https://live01.livemustv.com.br/radioescoladabiblia80/radioescoladabiblia80/chunklist_w223100492.m3u8
+https://meupainel.top:1936/iaptd/iaptd/chunklist_w949637685.m3u8
 #EXTINF:0,UNIVERSO TV
 #EXTGRP:EXTRAS
 https://srv5.zcast.com.br/universotv/universotv/chunklist_w598740508.m3u8
+#EXTINF:0,GIDEÕES TV
+#EXTGRP:EXTRAS
+https://tv01.zas.media:1936/gideoes/gideoes/chunklist_w818401676.m3u8
+#EXTINF:0,SEMEAR TV
+#EXTGRP:EXTRAS
+https://stmv2.samcast.com.br/semeartv/semeartv/chunklist_w1610904151.m3u8
+#EXTINF:0,PONTA DOURADA TV
+#EXTGRP:EXTRAS
+https://stmv1.srvif.com/tvpontadourada/tvpontadourada/chunklist_w1955064879.m3u8
 
