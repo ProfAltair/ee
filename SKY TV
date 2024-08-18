@@ -23,12 +23,12 @@ https://abc.embedmax.site/premiere3/tracks-v1a1/mono.m3u8
 #EXTINF:0,JOGO AO VIVO 12
 #EXTGRP:FUTEBOL DA HORA
 https://abc.embedmax.site/premiere4/tracks-v1a1/mono.m3u8
-#EXTINF:0,DIA DE JOGO CAZÉ TV 2
+#EXTINF:0, SPORT TV 2
 #EXTGRP:FUTEBOL DA HORA
-https://abc.embedmax.site/cazetv2/tracks-v1a1/mono.m3u8
-#EXTINF:0,DIA DE JOGO CAZÉ TV
+https://abc.embedmax.site/sportv2/tracks-v1a1/mono.m3u8
+#EXTINF:0, SPORT TV 3
 #EXTGRP:FUTEBOL DA HORA
-https://abc.embedmax.site/cazetv1/tracks-v1/index.fmp4.m3u8
+https://abc.embedmax.site/sportv3/tracks-v1a1/mono.m3u8
 #EXTINF:0,FUTEBOL AO VIVO 2
 #EXTGRP:FUTEBOL DA HORA
 https://bal01.vivartec.com.br:8088/hls/livechannel2.m3u8
@@ -50,11 +50,21 @@ https://abc.embedmax.site/espn4/tracks-v1a1/mono.m3u8
 #EXTINF:0,FUTEBOL AO VIVO 15
 #EXTGRP:FUTEBOL DA HORA
 https://abc.embedmax.site/espn5/tracks-v1a1/mono.m3u8
+#EXTINF:0,FUTEBOL AO VIVO 16
 #EXTGRP:FUTEBOL DA HORA
 https://cdn-4.nxplay.com.br/NOSSO_FUTEBOL/tracks-v2a1/mono.m3u8
-
-
-
+#EXTINF:0,FUTEBOL AO VIVO 17
+#EXTGRP:FUTEBOL DA HORA
+https://abc.embedmax.site/paraMountMais1/tracks-v1/mono.m3u8
+#EXTINF:0,FUTEBOL AO VIVO 18
+#EXTGRP:FUTEBOL DA HORA
+https://abc.embedmax.site/paramountmais3/tracks-v1a1/mono.m3u8
+#EXTINF:0,FUTEBOL AO VIVO 19
+#EXTGRP:FUTEBOL DA HORA
+https://abc.embedmax.site/bandsports/tracks-v1a1/mono.m3u8
+#EXTINF:0,FUTEBOL AO VIVO 20
+#EXTGRP:FUTEBOL DA HORA
+https://cdn-4.nxplay.com.br/ESPN_EXTRA/tracks-v1a1/mono.m3u8
 
 
 
