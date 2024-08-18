@@ -7,13 +7,13 @@ https://bal01.vivartec.com.br:8088/hls/livechannel3.m3u8
 https://abc.embedmax.site/sportv1/tracks-v1a1/mono.m3u8
 #EXTINF:0,FUTEBOL AO VIVO 7
 #EXTGRP:FUTEBOL DA HORA
-https://abc.embedmax.site/espn1/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/ESPN1/tracks-v1a1/mono.m3u8
 #EXTINF:0,FUTEBOL AO VIVO 8
 #EXTGRP:FUTEBOL DA HORA
 https://ythls.armelin.one/channel/UCIkAO7iHS6R9AtcABE9MdRQ.m3u8
 #EXTINF:0,JOGO AO VIVO 9
 #EXTGRP:FUTEBOL DA HORA
-https://abc.embedmax.site/premiere1/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/Premiere1/tracks-v1a1/mono.m3u8
 #EXTINF:0,JOGO AO VIVO 10
 #EXTGRP:FUTEBOL DA HORA
 https://abc.embedmax.site/premiere2/tracks-v1/index.fmp4.m3u8
@@ -22,7 +22,7 @@ https://abc.embedmax.site/premiere2/tracks-v1/index.fmp4.m3u8
 https://abc.embedmax.site/premiere3/tracks-v1a1/mono.m3u8
 #EXTINF:0,JOGO AO VIVO 12
 #EXTGRP:FUTEBOL DA HORA
-https://abc.embedmax.site/premiere4/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/premiere4/tracks-v1/mono.m3u8
 #EXTINF:0, SPORT TV 2
 #EXTGRP:FUTEBOL DA HORA
 https://abc.embedmax.site/sportv2/tracks-v1a1/mono.m3u8
