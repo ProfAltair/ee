@@ -2,18 +2,18 @@
 #EXTINF:0,GLOBO PLAY RJ
 #EXTGRP:unsorted
 https://new.embedflix.co/p2p/globorj/chunks.m3u8?nimblesessionid=11069249&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI0IDE6MjI6NTEgQU0maGFzaF92YWx1ZT1Hd2p1Z0RZZjRaTlZKa3g2clJFRXR3PT0mdmFsaWRtaW51dGVzPTE2MA==
-#EXTINF:0,CINEMAX
+#EXTINF:0, Telecine Touch
 #EXTGRP:EXTRAS
-https://abc.embedmax.site/cinemax/tracks-v1/index.fmp4.m3u8
+https://new.embedflix.co/p2p/telecinetouch/chunks.m3u8?nimblesessionid=11085578&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI0IDE6MzA6MzQgQU0maGFzaF92YWx1ZT1XbTNiRUFxSVVhbDkrclVURzd6TlhRPT0mdmFsaWRtaW51dGVzPTE2MA==
 #EXTINF:0,Globo MG HD
 #EXTGRP:unsorted
 https://new.embedflix.co/p2p/globominas/chunks.m3u8?nimblesessionid=11071233&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI0IDE6MjM6NDggQU0maGFzaF92YWx1ZT1ORTUrTnJPVnd3YlRUdDdLNU03MER3PT0mdmFsaWRtaW51dGVzPTE2MA==
-#EXTINF:0,RECORD HD TOTAL
+#EXTINF:0, Hbo Pop
 #EXTGRP:unsorted
-https://abc.embedmax.site/recordSP/tracks-v1/index.fmp4.m3u8
-#EXTINF:0,BAND HD TOTAL
+https://new.embedflix.co/p2p/hbopop/chunks.m3u8?nimblesessionid=11089439&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI0IDE6MzI6MzAgQU0maGFzaF92YWx1ZT1Tc3F6SG5zVFE2MHIrWTltUld3NzNnPT0mdmFsaWRtaW51dGVzPTE2MA==
+#EXTINF:0, Hbo 2
 #EXTGRP:unsorted
-https://abc.embedmax.site/band/tracks-v1/index.fmp4.m3u8
+https://new.embedflix.co/p2p/hbo2/chunks.m3u8?nimblesessionid=11092387&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI0IDE6MzQ6MDIgQU0maGFzaF92YWx1ZT1zK3NQNVFFdEdQdG0yR3NFRiswUC9nPT0mdmFsaWRtaW51dGVzPTE2MA==
 #EXTINF:0,REDE TV
 #EXTGRP:unsorted
 https://new.embedflix.co/p2p/redetv/chunks.m3u8?nimblesessionid=11072490&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI0IDE6MjQ6MjQgQU0maGFzaF92YWx1ZT1LSlViSjBCSzRPUzhDQWUreVptODNnPT0mdmFsaWRtaW51dGVzPTE2MA==
@@ -157,10 +157,10 @@ http://nitrohd.xyz:80/621215653/814537435/1632739.ts
 http://bccdn.xyz:80/8i38b2cx/3ygen4hl/307
 #EXTINF:0,RECORD PLAYPLUS
 #EXTGRP:EXTRAS
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/527
+https://new.embedflix.co/p2p/recordsp/chunks.m3u8?nimblesessionid=11095883&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI0IDE6MzU6NTcgQU0maGFzaF92YWx1ZT1Pc0hpTFQ0TksyTFBxMFRNWms4dVZRPT0mdmFsaWRtaW51dGVzPTE2MA==
 #EXTINF:0,SBT
 #EXTGRP:EXTRAS
-https://ythls.armelin.one/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
+https://stream.embedflix.co/p2p/sbt/chunks.m3u8?nimblesessionid=3211021&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI0IDE6MzY6MzEgQU0maGFzaF92YWx1ZT1vMjkwR3NlbWJ2QTNKMStIMjZJMUhRPT0mdmFsaWRtaW51dGVzPTE2MA==
 #EXTINF:0,CNN
 #EXTGRP:EXTRAS
 https://cdn-3.nxplay.com.br/CNN_FAST/tracks-v2a1/mono.m3u8
@@ -175,10 +175,10 @@ https://abc.embedmax.site/bis/tracks-v1/index.fmp4.m3u8
 https://abc.embedmax.site/canalbrasil/tracks-v1/index.fmp4.m3u8
 #EXTINF:0,GLOBO NEWS
 #EXTGRP:EXTRAS
-https://abc.embedmax.site/globonews/tracks-v1/index.fmp4.m3u8
+https://new.embedflix.co/p2p/globonews/chunks.m3u8?nimblesessionid=11100720&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI0IDE6Mzg6MzcgQU0maGFzaF92YWx1ZT1wL3JSL1FVWjkzTWdYODVIYjBpTzJnPT0mdmFsaWRtaW51dGVzPTE2MA==
 #EXTINF:0,BAND NEWS
 #EXTGRP:EXTRAS
-https://abc.embedmax.site/bandnews/tracks-v1/index.fmp4.m3u8
+https://new.embedflix.co/p2p/bandnews/chunks.m3u8?nimblesessionid=11102824&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI0IDE6Mzk6NDIgQU0maGFzaF92YWx1ZT1xek9BNndJZTQ1QmRaUzFjdWZnak53PT0mdmFsaWRtaW51dGVzPTE2MA==
 #EXTINF:0,RECORD NEWS
 #EXTGRP:EXTRAS
 https://abc.embedmax.site/recordnews/tracks-v1/index.fmp4.m3u8
@@ -193,16 +193,16 @@ https://abc.embedmax.site/multishow/tracks-v1/index.fmp4.m3u8
 https://abc.embedmax.site/sbt/tracks-v1/index.fmp4.m3u8
 #EXTINF:0,TNT
 #EXTGRP:EXTRAS
-https://abc.embedmax.site/tnt/tracks-v1/index.fmp4.m3u8
+https://new.embedflix.co/p2p/tnt/chunks.m3u8?nimblesessionid=11104840&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI0IDE6NDA6NDQgQU0maGFzaF92YWx1ZT11aFRNU0JHYUJLcUthQ0pCOTN0SHBnPT0mdmFsaWRtaW51dGVzPTE2MA==
 #EXTINF:0,UNIVERSAL TV
 #EXTGRP:EXTRAS
 https://abc.embedmax.site/universaltv/tracks-v1/index.fmp4.m3u8
 #EXTINF:0,NATIONAL GEOGRAPHIC
 #EXTGRP:EXTRAS
-https://abc.embedmax.site/nationalgeographic/tracks-v1/index.fmp4.m3u8
+https://new.embedflix.co/p2p/nationg/chunks.m3u8?nimblesessionid=11106245&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI0IDE6NDE6MzYgQU0maGFzaF92YWx1ZT1lU01ocFRrWjdyRXc5N0JGR3JORWJBPT0mdmFsaWRtaW51dGVzPTE2MA==
 #EXTINF:0,ANIMAL PLANET
 #EXTGRP:EXTRAS
-https://abc.embedmax.site/animalplanet/tracks-v1/index.fmp4.m3u8
+https://new.embedflix.co/p2p/animalplanet/chunks.m3u8?nimblesessionid=11107983&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI0IDE6NDI6MzcgQU0maGFzaF92YWx1ZT1aL2JVWEs3aWZ2cHN5NTRiQ2RnNTBBPT0mdmFsaWRtaW51dGVzPTE2MA==
 #EXTINF:0,HISTORY
 #EXTGRP:EXTRAS
 https://abc.embedmax.site/history/tracks-v1/index.fmp4.m3u8
