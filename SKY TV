@@ -4,25 +4,25 @@
 https://bal01.vivartec.com.br:8088/hls/livechannel3.m3u8
 #EXTINF:0,FUTEBOL AO VIVO 6
 #EXTGRP:FUTEBOL DA HORA
-https://abc.embedmax.site/sportv1/tracks-v1a1/mono.m3u8
+https://new.embedflix.co/p2p/sportv/chunks.m3u8?nimblesessionid=11017109&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI0IDEyOjU4OjU2IEFNJmhhc2hfdmFsdWU9aFNjM2ZJVnBkL0laUWdnWXZaV1RZUT09JnZhbGlkbWludXRlcz0xNjA=
 #EXTINF:0,FUTEBOL AO VIVO 7
 #EXTGRP:FUTEBOL DA HORA
-https://abc.embedmax.site/ESPN1/tracks-v1a1/mono.m3u8
+https://new.embedflix.co/p2p/spn/chunks.m3u8?nimblesessionid=11034271&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI0IDE6MDY6NTEgQU0maGFzaF92YWx1ZT11V3llcmgxZDdFcVBFR3F6bnJnR1hBPT0mdmFsaWRtaW51dGVzPTE2MA==
 #EXTINF:0,FUTEBOL AO VIVO 8
 #EXTGRP:FUTEBOL DA HORA
 https://ythls.armelin.one/channel/UCIkAO7iHS6R9AtcABE9MdRQ.m3u8
 #EXTINF:0,JOGO AO VIVO 9
 #EXTGRP:FUTEBOL DA HORA
-https://abc.embedmax.site/Premiere1/tracks-v1a1/mono.m3u8
+https://stream.embedflix.co/p2p/prfc1/chunks.m3u8?nimblesessionid=3190028&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI0IDE6MDg6MTUgQU0maGFzaF92YWx1ZT12SUt2Y2pDMElZclhoVnozQzVaV2pBPT0mdmFsaWRtaW51dGVzPTE2MA==
 #EXTINF:0,JOGO AO VIVO 10
 #EXTGRP:FUTEBOL DA HORA
-https://abc.embedmax.site/premiere2/tracks-v1/index.fmp4.m3u8
+https://new.embedflix.co/p2p/premier2/chunks.m3u8?nimblesessionid=11039049&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI0IDE6MDk6MDIgQU0maGFzaF92YWx1ZT11Yyt2UENHck5ZYXNhODYxK21OTzZnPT0mdmFsaWRtaW51dGVzPTE2MA==
 #EXTINF:0,JOGO AO VIVO 11
 #EXTGRP:FUTEBOL DA HORA
-https://abc.embedmax.site/premiere3/tracks-v1a1/mono.m3u8
+https://new.embedflix.co/p2p/premier3/chunks.m3u8?nimblesessionid=11040618&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI0IDE6MDk6NDIgQU0maGFzaF92YWx1ZT1kWXpnbTdwYTFNbHgvV0pzZVhLYXRnPT0mdmFsaWRtaW51dGVzPTE2MA==
 #EXTINF:0,JOGO AO VIVO 12
 #EXTGRP:FUTEBOL DA HORA
-https://abc.embedmax.site/premiere4/tracks-v1/mono.m3u8
+https://new.embedflix.co/p2p/premier4/chunks.m3u8?nimblesessionid=11041913&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI0IDE6MTA6MTUgQU0maGFzaF92YWx1ZT15WkdqRnFyWEl4bGdmbEloVXNYcUZRPT0mdmFsaWRtaW51dGVzPTE2MA==
 #EXTINF:0, SPORT TV 2
 #EXTGRP:FUTEBOL DA HORA
 https://abc.embedmax.site/sportv2/tracks-v1a1/mono.m3u8
