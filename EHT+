@@ -1,22 +1,22 @@
 #EXTM3U
 #EXTINF:0,GLOBO PLAY RJ
 #EXTGRP:unsorted
-https://abc.embedmax.site/globoRJ/tracks-v1/index.fmp4.m3u8
+https://new.embedflix.co/p2p/globorj/chunks.m3u8?nimblesessionid=11069249&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI0IDE6MjI6NTEgQU0maGFzaF92YWx1ZT1Hd2p1Z0RZZjRaTlZKa3g2clJFRXR3PT0mdmFsaWRtaW51dGVzPTE2MA==
 #EXTINF:0,CINEMAX
 #EXTGRP:EXTRAS
 https://abc.embedmax.site/cinemax/tracks-v1/index.fmp4.m3u8
-#EXTINF:0,Globo Rio HD
+#EXTINF:0,Globo MG HD
 #EXTGRP:unsorted
-https://8mwx.short.gy/GLOBORJ/index.m3u8
+https://new.embedflix.co/p2p/globominas/chunks.m3u8?nimblesessionid=11071233&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI0IDE6MjM6NDggQU0maGFzaF92YWx1ZT1ORTUrTnJPVnd3YlRUdDdLNU03MER3PT0mdmFsaWRtaW51dGVzPTE2MA==
 #EXTINF:0,RECORD HD TOTAL
 #EXTGRP:unsorted
 https://abc.embedmax.site/recordSP/tracks-v1/index.fmp4.m3u8
 #EXTINF:0,BAND HD TOTAL
 #EXTGRP:unsorted
 https://abc.embedmax.site/band/tracks-v1/index.fmp4.m3u8
-#EXTINF:0,SBT RJ HD YOU TUBE
+#EXTINF:0,REDE TV
 #EXTGRP:unsorted
-https://ythls.armelin.one/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
+https://new.embedflix.co/p2p/redetv/chunks.m3u8?nimblesessionid=11072490&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI0IDE6MjQ6MjQgQU0maGFzaF92YWx1ZT1LSlViSjBCSzRPUzhDQWUreVptODNnPT0mdmFsaWRtaW51dGVzPTE2MA==
 #EXTINF:0,FM O DIA TV
 #EXTGRP:unsorted
 https://cdn.livespanel.com/live/fmodia/playlist.m3u8
@@ -103,13 +103,13 @@ https://streamserver.streamingdevideo.com.br/8096/8096/chunklist_w452639777.m3u8
 http://bccdn.xyz:80/8i38b2cx/3ygen4hl/321
 #EXTINF:0,BAND RJ HD
 #EXTGRP:CANAIS | BAND
-http://bccdn.xyz:80/8i38b2cx/3ygen4hl/307
+https://stream.embedflix.co/p2p/bandsp/chunks.m3u8?nimblesessionid=3205224&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI0IDE6MjY6MTIgQU0maGFzaF92YWx1ZT1Jb01GVVRnN3FpSS9mVkhuUmFadHBRPT0mdmFsaWRtaW51dGVzPTE2MA==
 #EXTINF:0,SBT RJ FHD
 #EXTGRP:CANAIS | SBT
 http://bccdn.xyz:80/lista202/2709010203/370
 #EXTINF:0,SBT RJ HD
 #EXTGRP:CANAIS | SBT
-http://bccdn.xyz:80/lista202/2709010203/367
+https://stream.embedflix.co/p2p/sbt/chunks.m3u8?nimblesessionid=3204747&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI0IDE6MjU6MTkgQU0maGFzaF92YWx1ZT10cEI0dEtqN1dtRmRWUkpTZEs4c1FnPT0mdmFsaWRtaW51dGVzPTE2MA==
 #EXTINF:0,SBT RJ SD
 #EXTGRP:CANAIS | SBT
 http://bccdn.xyz:80/lista202/2709010203/76680
@@ -122,9 +122,9 @@ http://nitrohd.xyz:80/621215653/814537435/1632392.ts
 #EXTINF:0,RECORD RJ
 #EXTGRP:GLOBO SUDESTE
 http://nitrohd.xyz:80/621215653/814537435/1632394.ts
-#EXTINF:0,Globo RJ SD²
+#EXTINF:0,Globo SP
 #EXTGRP:GLOBO SUDESTE
-http://nitrohd.xyz:80/621215653/814537435/1632396.ts
+https://stream.embedflix.co/p2p/globosp/chunks.m3u8?nimblesessionid=3205970&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI0IDE6Mjc6MzIgQU0maGFzaF92YWx1ZT1QYkd0cUFxTGxsRy9ncDlQdlhtbGhnPT0mdmFsaWRtaW51dGVzPTE2MA==
 #EXTINF:0,Record RJ
 #EXTGRP:RECORD
 http://nitrohd.xyz:80/621215653/814537435/631390.ts
@@ -133,7 +133,7 @@ http://nitrohd.xyz:80/621215653/814537435/631390.ts
 http://nitrohd.xyz:80/621215653/814537435/631388.ts
 #EXTINF:0,Record RJ FHD²
 #EXTGRP:RECORD
-http://nitrohd.xyz:80/621215653/814537435/1632688.ts
+https://stream.embedflix.co/p2p/recordsp/chunks.m3u8?nimblesessionid=3205574&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI0IDE6MjY6NDUgQU0maGFzaF92YWx1ZT1uNUwyT0hQYmJiaFZHeGZOV21aeDlRPT0mdmFsaWRtaW51dGVzPTE2MA==
 #EXTINF:0,Record RJ HD
 #EXTGRP:RECORD
 http://nitrohd.xyz:80/621215653/814537435/631389.ts
