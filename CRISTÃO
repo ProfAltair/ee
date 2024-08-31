@@ -1,4 +1,142 @@
 #EXTM3U
+#EXTINF:0,GLOBO PLAY RJ
+#EXTGRP:RIO DE JANEIRO
+http://redlink.tv:80/c1b448VIP/946751850/3685699.ts
+#EXTINF:0,TV ITAIPUAÇU
+#EXTGRP:RIO DE JANEIRO
+https://stmv5.samcast.com.br/jorgerobertorodriguescardoso1832/jorgerobertorodriguescardoso1832/chunklist_w1305072178.m3u8
+#EXTINF:0,Globo Rio HD
+#EXTGRP:RIO DE JANEIRO
+http://redlink.tv:80/c1b448VIP/946751850/3687182.ts
+#EXTINF:0,RECORD HD TOTAL
+#EXTGRP:RIO DE JANEIRO
+http://redlink.tv:80/c1b448VIP/946751850/3685912.ts
+#EXTINF:0,SBT HD YOU TUBE
+#EXTGRP:RIO DE JANEIRO
+https://aovivo.maissbt.com/index.m3u8
+#EXTINF:0,FM O DIA TV
+#EXTGRP:RIO DE JANEIRO
+https://cdn.livespanel.com/live/fmodia/playlist.m3u8
+#EXTINF:0,TV ESCRIBA
+#EXTGRP:RIO DE JANEIRO
+https://stmv3.voxtvhd.com.br/1213/1213/chunklist_w730585577.m3u8
+#EXTINF:0,TV MAX
+#EXTGRP:RIO DE JANEIRO
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
+#EXTINF:0,TV RÁDIO LITORAL
+#EXTGRP:RIO DE JANEIRO
+https://59f1cbe63db89.streamlock.net:1443/tvradiolitoral/_definst_/tvradiolitoral/chunklist_w1754675382.m3u8
+#EXTINF:0,TV PETRÓPOLIS
+#EXTGRP:RIO DE JANEIRO
+https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/chunklist_w849546667.m3u8
+#EXTINF:0,TV LAGOS
+#EXTGRP:RIO DE JANEIRO
+https://video01.kshost.com.br/tvlagos/tvlagos/chunklist_w407074833.m3u8
+#EXTINF:0,TV POP BRASIL
+#EXTGRP:RIO DE JANEIRO
+https://video05.logicahost.com.br/tvpopbrasil/tvpopbrasil/chunklist_w618154781.m3u8
+#EXTINF:0,TV CENTRAL DO BRASIL
+#EXTGRP:RIO DE JANEIRO
+https://stmv2.centralcast.com.br/central/central/chunklist_w1215934208.m3u8
+#EXTINF:0,TV ZOOM
+#EXTGRP:RIO DE JANEIRO
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/chunklist.m3u8
+#EXTINF:0,TV ALDEIA
+#EXTGRP:RIO DE JANEIRO
+https://stmv1.samcast.com.br/giovane7843/giovane7843/chunklist_w1451610769.m3u8
+#EXTINF:0,CABO FRIO TV
+#EXTGRP:RIO DE JANEIRO
+https://video05.logicahost.com.br/ararutv/ararutv/chunklist_w371289047.m3u8
+#EXTINF:0,TV ONDAS PLAY
+#EXTGRP:RIO DE JANEIRO
+https://stmv5.samcast.com.br/portalondasdemarica/portalondasdemarica/chunklist_w951741006.m3u8
+#EXTINF:0,TERÊ TV
+#EXTGRP:RIO DE JANEIRO
+https://video02.logicahost.com.br/canal11teretv/canal11teretv/chunklist_w460651151.m3u8
+#EXTINF:0,TV OITAVA
+#EXTGRP:RIO DE JANEIRO
+https://video05.logicahost.com.br/tvoitava/tvoitava/chunklist_w1370893612.m3u8
+#EXTINF:0,PLENA TV
+#EXTGRP:RIO DE JANEIRO
+https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/chunklist.m3u8
+#EXTINF:0,REDE TV +
+#EXTGRP:RIO DE JANEIRO
+https://5a0c3936c25c8.streamlock.net/8010/8010/chunklist_w680272775.m3u8
+#EXTINF:0,TV CIDADE
+#EXTGRP:RIO DE JANEIRO
+https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/chunklist_w1472366064.m3u8
+#EXTINF:0,TVC
+#EXTGRP:RIO DE JANEIRO
+https://video01.kshost.com.br:4443/inside2133/inside2133/chunklist_w1224956445.m3u8
+#EXTINF:0,TV MEGA BRASIL
+#EXTGRP:RIO DE JANEIRO
+https://video01.kshost.com.br:4443/sergio7305/sergio7305/chunklist_w821955464.m3u8
+#EXTINF:0,REDE CAXIAS
+#EXTGRP:RIO DE JANEIRO
+https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
+#EXTINF:0,TVC RIO
+#EXTGRP:RIO DE JANEIRO
+https://video05.logicahost.com.br/comunitariario/comunitariario/chunklist_w974922213.m3u8
+#EXTINF:0,TV OPÇÃO
+#EXTGRP:RIO DE JANEIRO
+https://stmv1.paineltv.net/wladimyr7277/wladimyr7277/chunklist_w1282184763.m3u8
+#EXTINF:0,TV MAX RIO
+#EXTGRP:RIO DE JANEIRO
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
+#EXTINF:0,TV ADORANDO JESUS
+#EXTGRP:RIO DE JANEIRO
+https://stmv1.srvif.com/adorando/adorando/chunklist_w1109266223.m3u8
+#EXTINF:0,TV AURORA
+#EXTGRP:RIO DE JANEIRO
+https://stream.skyspace.com.br:3466/stream/play.m3u8
+#EXTINF:0,D+ NEWS
+#EXTGRP:RIO DE JANEIRO
+https://virtues.es:1936/portalviu/portalviu/chunklist_w1441494006.m3u8
+#EXTINF:0,GIRO TV NEWS
+#EXTGRP:RIO DE JANEIRO
+https://streamserver.streamingdevideo.com.br/8096/8096/chunklist_w452639777.m3u8
+#EXTINF:0,Record RJ FHD
+#EXTGRP:RIO DE JANEIRO
+http://redlink.tv:80/c1b448VIP/946751850/3685911.ts
+#EXTINF:0,GLOBO HDTV
+#EXTGRP:EXTRAS
+http://redlink.tv:80/621215653/814537435/3699135
+#EXTINF:0,JOVEM PAN NEWS
+#EXTGRP:EXTRAS
+http://redlink.tv:80/c1b448VIP/946751850/3685789.ts
+#EXTINF:0,GLOBO SP
+#EXTGRP:EXTRAS
+http://redlink.tv:80/621215653/814537435/3685708
+#EXTINF:0,GLOBO MG
+#EXTGRP:EXTRAS
+http://redlink.tv:80/621215653/814537435/3685683
+#EXTINF:0,RECORD PLAYPLUS
+#EXTGRP:EXTRAS
+http://redlink.tv:80/621215653/814537435/3685912
+#EXTINF:0,SBT
+#EXTGRP:EXTRAS
+http://redlink.tv:80/c1b448VIP/946751850/3687248.ts
+#EXTINF:0,CNN
+#EXTGRP:EXTRAS
+http://redlink.tv:80/c1b448VIP/946751850/3685542.ts
+#EXTINF:0,VIVA
+#EXTGRP:EXTRAS
+http://redlink.tv:80/c1b448VIP/946751850/3698306.ts
+#EXTINF:0,CANAL BRASIL
+#EXTGRP:EXTRAS
+http://redlink.tv:80/621215653/814537435/3698162
+#EXTINF:0,GLOBO NEWS
+#EXTGRP:EXTRAS
+http://redlink.tv:80/c1b448VIP/946751850/3685689.ts
+#EXTINF:0,BAND NEWS
+#EXTGRP:EXTRAS
+http://redlink.tv:80/621215653/814537435/3685452
+#EXTINF:0,RECORD NEWS
+#EXTGRP:EXTRAS
+http://redlink.tv:80/621215653/814537435/3687011
+#EXTINF:0,SBT FHD
+#EXTGRP:EXTRAS
+http://redlink.tv:80/c1b448VIP/946751850/3687249.ts
 #EXTINF:0,JOGO 1
 #EXTGRP:ao vivo | FUTEBOL
 https://bal01.vivartec.com.br:8088/hls/livechannel1.m3u8
