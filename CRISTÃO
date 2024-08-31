@@ -1256,3 +1256,839 @@ https://video05.logicahost.com.br/uniquetvlive/uniquetvlive/playlist.m3u8
 https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/playlist.m3u8
 #EXTINF:-1 tvg-idioma="Português" tvg-logo="https://i.imgur.com/gNt3xcI.png" group-title="Brasil: variedades",Zoom
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
+
+#EXTINF:0,2000 A Escrava_Isaura (BR)
+#EXTGRP:Samsung TV
+https://cc-slllnk8iujdo8.akamaized.net/Samsung/A_Escrava_Isaura_BR/A_Escrava_Isaura.m3u8
+#EXTINF:0,2001 Os Dez Mandamentos (BR)
+#EXTGRP:Samsung TV
+https://cc-97z35d907q26w.akamaized.net/Samsung/Os_Dez_Mandamentos_BR/Os_Dez_Mandamentos.m3u8
+#EXTINF:0,2038 Record News (BR)
+#EXTGRP:Samsung TV
+https://rnw-rn-samsungtvplus.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:0,2038 Record News alt (BR)
+#EXTGRP:Samsung TV
+https://cc-dozswt8rxfksa.akamaized.net/rnw/rn/rnw_rn.m3u8
+#EXTINF:0,2040 TV Jovem Pan News (BR)
+#EXTGRP:Samsung TV
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lpqo0gcfdazd6/playlist.m3u8
+#EXTINF:0,2040 TV Jovem Pan News alt (BR)
+#EXTGRP:Samsung TV
+http://d9tard1jbwri9.cloudfront.net/playlist.m3u8
+#EXTINF:0,2042 CNN Brasil (BR)
+#EXTGRP:Samsung TV
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+#EXTINF:0,2049 EuroNews Português (BR)
+#EXTGRP:Samsung TV
+https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,2050 Breaking News By Leadstory (BR)
+#EXTGRP:Samsung TV
+https://cc-j1hzvn37tgian.akamaized.net/Leadstory/Leadstory_BR/Leadstory.m3u8
+#EXTINF:0,2056 Bloomberg TV (BR)
+#EXTGRP:Samsung TV
+https://bloomberg-bloomberg-3-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,2067 Cultura Fast (BR)
+#EXTGRP:Samsung TV
+https://cc-oeelrj1iysbeq.akamaized.net/TV_Cultura/TV_Cultura_BR/TV_Cultura.m3u8
+#EXTINF:0,2071 New Brasil (BR)
+#EXTGRP:Samsung TV
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7pakstinpyajo/playlist.m3u8
+#EXTINF:0,2074 Canal UOL (BR)
+#EXTGRP:Samsung TV
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-07et6wc1z29gv/index.m3u8
+#EXTINF:0,2074 Canal UOL alt (BR)
+#EXTGRP:Samsung TV
+https://d19fe0yjxkxylf.cloudfront.net/index.m3u8
+#EXTINF:0,2080 TV Aparecida (BR)
+#EXTGRP:Samsung TV
+https://cc-oeelrj1iysbeq.akamaized.net/TV_Aparecida/TV_Aparecida_BR/TV_Aparecida.m3u8
+#EXTINF:0,2283 Cazé TV (BR)
+#EXTGRP:Samsung TV
+https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:0,2087 Malhação Fast (BR)
+#EXTGRP:Samsung TV
+https://cc-b6t4lda8x3u3t.akamaized.net/Globo/Malhacao_Fast_BR/Malhacao_Fast.m3u8
+#EXTINF:0,2089 TV Zyn (BR)
+#EXTGRP:Samsung TV
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
+#EXTINF:0,2091 Novelisima em Português (BR)
+#EXTGRP:Samsung TV
+https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
+#EXTINF:0,2097 Pluto TV MasterChef (BR)
+#EXTGRP:Samsung TV
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cts4xd2rn8b9n/playlist.m3u8
+#EXTINF:0,2097 Pluto TV MasterChef alt (BR)
+#EXTGRP:Samsung TV
+https://d24vdd1b8d5s8r.cloudfront.net/playlist.m3u8
+#EXTINF:0,2100 Sony One Shark Tank Brasil (BR)
+#EXTGRP:Samsung TV
+https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,2110 O Encantador de Cães (BR)
+#EXTGRP:Samsung TV
+https://rvg-dg-br-samsung.otteravision.com/rvg/dg_br/dg_br_h265.m3u8
+#EXTINF:0,2117 Manual Do Mundo (BR)
+#EXTGRP:Samsung TV
+https://cc-e0wcb2lgejxkf.akamaized.net/Offgrid/Manual_do_Mundo_BR/Manual_do_Mundo.m3u8
+#EXTINF:0,2120 Canal L!ke (BR)
+#EXTGRP:Samsung TV
+https://cnl-cl-samsung.otteravision.com/cnl/cl_h265/cl_h265.m3u8
+#EXTINF:0,2134 cultne.TV (BR)
+#EXTGRP:Samsung TV
+https://cc-wn1j3f2wnu5lr.akamaized.net/manifest.m3u8
+#EXTINF:0,2137 Demand Africa (BR)
+#EXTGRP:Samsung TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungbr-demand-africa-por-samsungbrazil/playlist.m3u8
+#EXTINF:0,2158 Nosey Escândalos (BR)
+#EXTGRP:Samsung TV
+https://nosey-4-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,2160 Hollywire (substituto)
+#EXTGRP:Samsung TV
+https://di1slo8304ver.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bg9yxt784ebvh-ssai-prd/playlist.m3u8
+#EXTINF:0,2163 Fashion TV International (BR)
+#EXTGRP:Samsung TV
+https://fashiontv-fashiontv-5-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,2168 Receitas Fast (BR)
+#EXTGRP:Samsung TV
+https://cc-panvcqnzkgrdl.akamaized.net/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
+#EXTINF:0,2170 Tastemade (BR)
+#EXTGRP:Samsung TV
+https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:0,2172 Homeful (BR)
+#EXTGRP:Samsung TV
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9flatd4lam6vc/master.m3u8
+#EXTINF:0,2176 Zenlife by Stingray (BR)
+#EXTGRP:Samsung TV
+https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungbr/master.m3u8
+#EXTINF:0,2180 GoUSA TV (BR)
+#EXTGRP:Samsung TV
+https://brandusa-gousa-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,2195 Canal Empreender
+#EXTGRP:Samsung TV
+https://cc-t36qky98i4sus.akamaized.net/NewCo/Empreender_BR/playlist.m3u8
+#EXTINF:0,2195 Canal Empreender alt (BR)
+#EXTGRP:Samsung TV
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t36qky98i4sus/playlist.m3u8
+#EXTINF:0,2215 Love Nature 4K (substituto)
+#EXTGRP:Samsung TV
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+#EXTINF:0,2223 Wild Earth (BR)
+#EXTGRP:Samsung TV
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0573ljsgymaix/playlist.m3u8
+#EXTINF:0,2223 Wild Earth alt (BR)
+#EXTGRP:Samsung TV
+https://cc-0573ljsgymaix.akamaized.net/playlist.m3u8
+#EXTINF:0,2227 Stingray Naturescape (BR)
+#EXTGRP:Samsung TV
+https://lotus.stingray.com/manifest/naturescape-a003s-montreal/samsungbr/master.m3u8
+#EXTINF:0,2231 Weather Spy (BR)
+#EXTGRP:Samsung TV
+https://jukin-weatherspy-2-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,2235 D.P.A (BR)
+#EXTGRP:Samsung TV
+https://cc-vh52nvd84na11.akamaized.net/Globo/DPA_Fast_BR/DPA_Fast.m3u8
+#EXTINF:0,2238 TV Turma da Mônica (BR)
+#EXTGRP:Samsung TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,2240 3 Palavrinhas (BR)
+#EXTGRP:Samsung TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6207
+#EXTINF:0,2242 Baby Shark TV (BR)
+#EXTGRP:Samsung TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63da6bcd60bc8f0008a5d364/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=706&deviceId=5f121460b73ac6000719fbaf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:0,2244 Pocoyo (BR)
+#EXTGRP:Samsung TV
+https://ani-pocptbr-samsungtvplus-ptbr.otteravision.com/ani/pocptbr_h265/pocptbr_h265.m3u8
+#EXTINF:0,2246 Duck TV (BR)
+#EXTGRP:Samsung TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7617
+#EXTINF:0,2247 Car City Adventures (substituto)
+#EXTGRP:Samsung TV
+https://d2509zmfc5zmey.cloudfront.net/master.m3u8
+#EXTINF:0,2248 Toon Goggles (BR)
+#EXTGRP:Samsung TV
+https://tg-tg-br-samsung.otteravision.com/tg/tg_br_h265/tg_br_h265.m3u8
+#EXTINF:0,2253 Nickelodeon Bob Esponja Calça Quadrada (BR)
+#EXTGRP:Samsung TV
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=e1760207-0a78-8a50-619d-f898605668f9&advertisingId=e1760207-0a78-8a50-619d-f898605668f9&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,2257 Nick Clássico (BR)
+#EXTGRP:Samsung TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5f12151794c1800007a8ae63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:0,2258 Nick Junior Club (BR)
+#EXTGRP:Samsung TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=706&deviceId=5f121460b73ac6000719fbaf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:0,2284 Fifa Plus (BR)
+#EXTGRP:Samsung TV
+https://7dcc3ebb.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1icl9GSUZBUGx1c19ITFM/playlist.m3u8
+#EXTINF:0,2285 GeFast (BR)
+#EXTGRP:Samsung TV
+https://cc-huzqc47g60md7.akamaized.net/Globo/GE_Fast_BR/GE_Fast.m3u8
+#EXTINF:0,2295 Fuel TV (BR)
+#EXTGRP:Samsung TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8
+#EXTINF:0,2315 SFT Combat (BR)
+#EXTGRP:Samsung TV
+https://hrm-sftc-samsungtvplus-br.otteravision.com/hrm/sftc_h265/sftc_h265.m3u8%20
+#EXTINF:0,2319 Hard Knocks Fight Championship (BR)
+#EXTGRP:Samsung TV
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_hardknocks_002.m3u8
+#EXTINF:0,2327 MAV TV em Portugues (BR)
+#EXTGRP:Samsung TV
+https://cc-panvcqnzkgrdl.akamaized.net/Sports7/Sports7_BR/Sports7.m3u8
+#EXTINF:0,2327 Mav TV Brasil alt (BR)
+#EXTGRP:Samsung TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00378-maverickenterta-mavtv-smn-pt-samsung-rakuten/playlist.m3u8
+#EXTINF:0,2330 Motorvision.TV (BR)
+#EXTGRP:Samsung TV
+https://mvg-mv-pt.otteravision.com/mvg/mv_pt/mv_pt.m3u8
+#EXTINF:0,2330 Motorvision.TV alt (BR)
+#EXTGRP:Samsung TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
+#EXTINF:0,2332 People Are Awesome (BR)
+#EXTGRP:Samsung TV
+https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,2334 World Poker Tour em Portuguese (BR)
+#EXTGRP:Samsung TV
+https://cc-b6qwhugqif6k0.akamaized.net/WPT/World_Poker_Tour_BR/World_Poker_Tour.m3u8
+#EXTINF:0,2334 World Poker Tour Portuguese alt (BR)
+#EXTGRP:Samsung TV
+https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/466.m3u8
+#EXTINF:0,2334 World Poker Tour (BR) Global version
+#EXTGRP:Samsung TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6654
+#EXTINF:0,2335 Pluto TV Naruto (BR)
+#EXTGRP:Samsung TV
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=e1760207-0a78-8a50-619d-f898605668f9&advertisingId=e1760207-0a78-8a50-619d-f898605668f9&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,2338 Pluto TV Anime (BR)
+#EXTGRP:Samsung TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,2341 Sato + (BR)
+#EXTGRP:Samsung TV
+https://sto-sat-samsung.otteravision.com/sto/sat/sat.m3u8
+#EXTINF:0,2344 Ubisoft TV (BR)
+#EXTGRP:Samsung TV
+https://ubl-ut-samsung.otteravision.com/ubl/ut/ut.m3u8
+#EXTINF:0,2435 Stingray Qello Concerts (BR)
+#EXTGRP:Samsung TV
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplusbr/master.m3u8
+#EXTINF:0,2436 MTV Biggest Pop (BR)
+#EXTGRP:Samsung TV
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2fflivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=e1760207-0a78-8a50-619d-f898605668f9&advertisingId=e1760207-0a78-8a50-619d-f898605668f9&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0,2439 Trace Brazuca (BR)
+#EXTGRP:Samsung TV
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ccfvktkgxl5qg/playlist.m3u8
+#EXTINF:0,2445 Clubbing TV (BR) (Geo)
+#EXTGRP:Samsung TV
+https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:0,2450 Qwest TV (BR)
+#EXTGRP:Samsung TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwesttv-samsungbr/playlist.m3u8
+#EXTINF:0,2454 Stingray Classica (BR)
+#EXTGRP:Samsung TV
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_stingrayclassica_002.m3u8
+#EXTINF:0,2460 Nickelodeon iCarly (BR)
+#EXTGRP:Samsung TV
+https://jmp2.uk/PlutoTV/620ff46e0a576e0007dc2f89-alt.m3u8
+#EXTINF:0,2463 Tratamento de Choque (Anger Management) (BR)
+#EXTGRP:Samsung TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-tratamentodechoque-runtimelatam/playlist.m3u8
+#EXTINF:0,2465 The Pet Collective (BR)
+#EXTGRP:Samsung TV
+https://the-pet-collective-international-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,2475 FailArmy (BR)
+#EXTGRP:Samsung TV
+https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,2485 Just for Laughs Gags (BR)
+#EXTGRP:Samsung TV
+https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,2500 Always Funny Videos (BR)
+#EXTGRP:Samsung TV
+https://cc-adhkhug69u4vo.akamaized.net/playlist.m3u8
+#EXTINF:0,2549 Sony One Emoções (BR)
+#EXTGRP:Samsung TV
+https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,2549 Sony One Emoções alt (BR)
+#EXTGRP:Samsung TV
+https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
+#EXTINF:0,2555 FilmRise Séries Gratuitas (BR)
+#EXTGRP:Samsung TV
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_filmrisefreeseries_002.m3u8
+#EXTINF:0,2558 Smithsonian Channel Pluto TV (BR)
+#EXTGRP:Samsung TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d88ef000073f16b7/master.m3u8?deviceId=PSID&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:0,2560 Revry (BR)
+#EXTGRP:Samsung TV
+https://revry-brazil.akamaized.net/playlist.m3u8
+#EXTINF:0,2560 Revry alt (BR)
+#EXTGRP:Samsung TV
+https://dletvjdknba4f.cloudfront.net/playlist.m3u8
+#EXTINF:0,2640 Grjngo Brasil (BR)
+#EXTGRP:Samsung TV
+http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
+#EXTINF:0,2645 Runtime Ação (BR)
+#EXTGRP:Samsung TV
+https://run-rt-ra-samsung.otteravision.com/run/rt_ra_h265/rt_ra_h265.m3u8
+#EXTINF:0,2645 Runtime Ação alt (BR)
+#EXTGRP:Samsung TV
+https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_ra/rt_ra.m3u8
+#EXTINF:0,2646 Adrenalina Freezone (BR)
+#EXTGRP:Samsung TV
+https://cc-e2pb6h3gp19c3.akamaized.net/Sofa_Digital/Adrenalina_Freezone_BR/Adrenalina_Freezone.m3u8
+#EXTINF:0,2675 Dark Matter TV (BR)
+#EXTGRP:Samsung TV
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_darkmatter_002.m3u8
+#EXTINF:0,2695 Cindie Lite Portuguese (BR)
+#EXTGRP:Samsung TV
+https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
+#EXTINF:0,2706 MyTime Movie Network (BR)
+#EXTGRP:Samsung TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimemovie-samsungbr/playlist.m3u8
+#EXTINF:0,2706 MyTime Movie Network alt (BR)
+#EXTGRP:Samsung TV
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:0,2708 Spark TV (BR)
+#EXTGRP:Samsung TV
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sr15nxkp06uk9/playlist.m3u8
+#EXTINF:0,2728 Filmelier (BR)
+#EXTGRP:Samsung TV
+https://cc-ivjqrycrrc6j3.akamaized.net/Sofa_Digital/Filmelier_BR/Filmelier.m3u8
+#EXTINF:0,2730 Runtime TV e Filmes (BR)
+#EXTGRP:Samsung TV
+https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_br/rt_br.m3u8
+#EXTINF:0,2731 Sony One Classics (BR)
+#EXTGRP:Samsung TV
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,2733 Moviesphere (BR)
+#EXTGRP:Samsung TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
+
+#EXTINF:0,Paulo Zorello Kickboxing
+#EXTGRP:SOUL TV
+https://video01.soultv.com.br/paulozorello/paulozorello/chunklist.m3u8
+#EXTINF:0,O Guia de Mercado
+#EXTGRP:SOUL TV
+https://video01.soultv.com.br/tvmarketguide/tvmarketguide/chunklist.m3u8
+#EXTINF:0,Doda Equestre TV
+#EXTGRP:SOUL TV
+https://video01.soultv.com.br/doda/doda/chunklist.m3u8
+#EXTINF:0,Feliz 7 Jogar
+#EXTGRP:SOUL TV
+https://video01.soultv.com.br/feliz7play/feliz7play/chunklist.m3u8
+#EXTINF:0,TV Correio do Imbé
+#EXTGRP:SOUL TV
+https://srv1.saragosonet.com.br/play/hls/tvc/index.m3u8
+#EXTINF:0,TV Única
+#EXTGRP:SOUL TV
+https://stream.uniquetv.com.br/uniquetv/tracks-v1a1/mono.m3u8
+#EXTINF:0,1.011 Notícias
+#EXTGRP:SOUL TV
+https://011news.akamaized.net/011news/011news/chunklist.m3u8
+#EXTINF:0,TVR
+#EXTGRP:SOUL TV
+https://video01.soultv.com.br/tvr/tvr/chunklist.m3u8
+#EXTINF:0,sua senhorita
+#EXTGRP:SOUL TV
+https://video01.soultv.com.br/umiss/umiss/chunklist.m3u8
+#EXTINF:0,TV máx.
+#EXTGRP:SOUL TV
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist.m3u8
+#EXTINF:0,NSC
+#EXTGRP:SOUL TV
+https://cdn-2.nxplay.com.br/PLAYOUT_02_NSC/tracks-v2a1/mono.m3u8
+#EXTINF:0,Rede Premium
+#EXTGRP:SOUL TV
+https://5c483b9d1019c.streamlock.net/8066/8066/chunklist.m3u8
+#EXTINF:0,D+TV
+#EXTGRP:SOUL TV
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist.m3u8
+#EXTINF:0,Canal QTal
+#EXTGRP:SOUL TV
+https://video03.logicahost.com.br/qtalchannel01/qtalchannel01/chunklist.m3u8
+#EXTINF:0,Esportes de TV exclusivos
+#EXTGRP:SOUL TV
+https://stream.uniquetv.com.br/uniquetvsports/index.m3u8
+#EXTINF:0,TV Seg
+#EXTGRP:SOUL TV
+https://srv1.zcast.com.br/tvmon/tvmon/chunklist.m3u8
+#EXTINF:0,Rei da TV
+#EXTGRP:SOUL TV
+https://stmv1.srvstm.com/pedropaulomendes3413/pedropaulomendes3413/chunklist.m3u8
+#EXTINF:0,Amazon Sábado
+#EXTGRP:SOUL TV
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:0,TVSonata
+#EXTGRP:SOUL TV
+https://video01.kshost.com.br:4443/tiago2001/tiago2001/chunklist.m3u8
+#EXTINF:0,Rede Inteligente
+#EXTGRP:SOUL TV
+https://5ffab78b24f94.streamlock.net/smart/smart/chunklist.m3u8
+#EXTINF:0,TV Flórida
+#EXTGRP:SOUL TV
+https://srv1.zcast.com.br/tvflorida/tvflorida/chunklist.m3u8
+#EXTINF:0,TV Imperial
+#EXTGRP:SOUL TV
+https://acesso.ecast.site:3630/live/imperiallive.m3u8
+#EXTINF:0,Todas as TVs esportivas
+#EXTGRP:SOUL TV
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:0,Canal VTR
+#EXTGRP:SOUL TV
+https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
+#EXTINF:0,GLN TV
+#EXTGRP:SOUL TV
+https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist.m3u8
+#EXTINF:0,RS Notícias Esportes
+#EXTGRP:SOUL TV
+https://59f1cbe63db89.streamlock.net:1443/rsnewssports/_definst_/rsnewssports/chunklist.m3u8
+#EXTINF:0,RS Notícias Esportes 2
+#EXTGRP:SOUL TV
+https://59f1cbe63db89.streamlock.net:1443/rsnews/_definst_/rsnews/chunklist.m3u8
+#EXTINF:0,TV Astral
+#EXTGRP:SOUL TV
+https://isaocorp.cloudecast.com/astraltv/index.m3u8
+#EXTINF:0,TV Ondas de Maricá
+#EXTGRP:SOUL TV
+https://stmv5.samcast.com.br/portalondasdemarica/portalondasdemarica/chunklist.m3u8
+#EXTINF:0,RS Notícias Esportes 3
+#EXTGRP:SOUL TV
+https://59f1cbe63db89.streamlock.net:1443/rsnews03/_definst_/rsnews03/chunklist.m3u8
+#EXTINF:0,MKKTV
+#EXTGRP:SOUL TV
+https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/chunklist.m3u8
+#EXTINF:0,Zoom TV
+#EXTGRP:SOUL TV
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/chunklist.m3u8
+#EXTINF:0,TV América
+#EXTGRP:SOUL TV
+https://stmv7.samcast.com.br/natanael4054/natanael4054/chunklist.m3u8
+#EXTINF:0,Reconhecimento de TV
+#EXTGRP:SOUL TV
+https://acesso.ecast.site:3862/hybrid/play.m3u8
+#EXTINF:0,CNB TV americana
+#EXTGRP:SOUL TV
+https://5cf4a2c2512a2.streamlock.net/tvcnbamerican/tvcnbamerican/chunklist.m3u8
+#EXTINF:0,Amplitude TV Juína
+#EXTGRP:SOUL TV
+https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
+#EXTINF:0,Amplitude de TV Juara
+#EXTGRP:SOUL TV
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:0,Série Clássica
+#EXTGRP:SOUL TV
+https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist.m3u8
+#EXTINF:0,Estação Global BR
+#EXTGRP:SOUL TV
+https://alanza.iptv2022.com/TV_BR_GLOBAL/tracks-v1a1/mono.m3u8
+#EXTINF:0,Início do canal
+#EXTGRP:SOUL TV
+https://stmv1.srvif.com/canalstart/canalstart/chunklist.m3u8
+#EXTINF:0,Notícias do Euro
+#EXTGRP:SOUL TV
+https://stmv3.voxtvhd.com.br/tveuronews/tveuronews/chunklist.m3u8
+#EXTINF:0,Recordar Notícias
+#EXTGRP:SOUL TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5429
+#EXTINF:0,Reproduzir TV
+#EXTGRP:SOUL TV
+https://cdn-2.nxplay.com.br/PLAY_TV_NXPLAY/tracks-v1a1/mono.m3u8
+#EXTINF:0,EsflixTV
+#EXTGRP:SOUL TV
+https://flussonic-redetv.cloudecast.com/esflix/index.m3u8
+#EXTINF:0,ColetivaTV
+#EXTGRP:SOUL TV
+https://video02.logicahost.com.br/coletivatv/coletivatv/chunklist.m3u8
+#EXTINF:0,Canal Rural No Ar
+#EXTGRP:SOUL TV
+https://video05.logicahost.com.br/agronoar/agronoar/chunklist.m3u8
+#EXTINF:0,TV Ao Vivo SP
+#EXTGRP:SOUL TV
+https://live.mediastreaming.com.br/livetvhd/livetv.stream/chunks.m3u8
+#EXTINF:0,TV Central
+#EXTGRP:SOUL TV
+https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist.m3u8
+#EXTINF:0,MasperTV
+#EXTGRP:SOUL TV
+https://br5093.streamingdevideo.com.br/ujtxpjgkyn/ujtxpjgkyn/chunklist.m3u8
+#EXTINF:0,Onda TV Digital
+#EXTGRP:SOUL TV
+https://v4.tustreaming.cl/ondadigitaltv/tracks-v1a1/mono.m3u8
+#EXTINF:0,Canal Peru
+#EXTGRP:SOUL TV
+https://a.cdni.live/peruchanel/peruchanel/chunklist.m3u8
+#EXTINF:0,DM TV Infantil
+#EXTGRP:SOUL TV
+https://video03.logicahost.com.br/dmkidstv/dmkidstv/chunklist.m3u8
+#EXTINF:0,Amantes de animais de estimação na TV
+#EXTGRP:SOUL TV
+https://video04.logicahost.com.br/petloverstv/petloverstv/chunklist.m3u8
+#EXTINF:0,RS Notícias Esportes 4
+#EXTGRP:SOUL TV
+https://59f1cbe63db89.streamlock.net:1443/rsnews04/_definst_/rsnews04/chunklist.m3u8
+#EXTINF:0,RS Notícias Esportes 5
+#EXTGRP:SOUL TV
+https://59f1cbe63db89.streamlock.net:1443/danielteste/_definst_/danielteste/chunklist.m3u8
+#EXTINF:0,Inova360
+#EXTGRP:SOUL TV
+https://video01.soultv.com.br/inova360/inova360/chunklist.m3u8
+#EXTINF:0,Direto ao Ponto
+#EXTGRP:SOUL TV
+https://video01.soultv.com.br/diretoaoponto/diretoaoponto/chunklist.m3u8
+#EXTINF:0,Canal Marcão do Povo
+#EXTGRP:unsorted
+https://video01.soultv.com.br/marcaodopovo/marcaodopovo/chunklist.m3u8
+#EXTINF:0,Pop Bola
+#EXTGRP:SOUL TV
+https://video01.soultv.com.br/popbola/popbola/chunklist.m3u8
+#EXTINF:0,Universidade da Pessoa
+#EXTGRP:SOUL TV
+https://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/chunklist.m3u8
+#EXTINF:0,Soul TV
+#EXTGRP:SOUL TV
+https://video01.soultv.com.br/soultv/soultv/chunklist.m3u8
+#EXTINF:0,TV Grande Natal
+#EXTGRP:SOUL TV
+http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+#EXTINF:0,Darkflix
+#EXTGRP:SOUL TV
+https://video01.soultv.com.br/darkflix/darkflix/chunklist.m3u8
+#EXTINF:0,TV Metropolitana Rio
+#EXTGRP:SOUL TV
+https://stmv1.srvstm.com/luis5346/luis5346/chunklist.m3u8
+#EXTINF:0,ISTV
+#EXTGRP:SOUL TV
+https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist.m3u8
+#EXTINF:0,Life Media
+#EXTGRP:SOUL TV
+https://cdn2.connectbr.com.br/life/index.m3u8
+#EXTINF:0,TV Estilo
+#EXTGRP:SOUL TV
+https://cdn.live.br1.jmvstream.com/w/AVJ-12950/playlist/chunklist.m3u8
+#EXTINF:0,BRSUPERTV
+#EXTGRP:SOUL TV
+http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
+#EXTINF:0,Rede Brasil TV
+#EXTGRP:SOUL TV
+https://video07.logicahost.com.br/redebrasil/redebrasil/chunklist.m3u8
+#EXTINF:0,Sol Brasil
+#EXTGRP:SOUL TV
+https://video01.soultv.com.br/solbrasil/solbrasil/chunklist.m3u8
+#EXTINF:0,TVS PE
+#EXTGRP:SOUL TV
+https://video01.kshost.com.br:4443/antonio9510/antonio9510/chunklist.m3u8
+#EXTINF:0,Rede QDM
+#EXTGRP:SOUL TV
+https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/chunklist.m3u8
+#EXTINF:0,TVC Brasil
+#EXTGRP:SOUL TV
+https://a.cdni.live/tvcbrasil/tvcbrasil/chunklist.m3u8
+#EXTINF:0,TV Com Brasil
+#EXTGRP:SOUL TV
+https://br5093.streamingdevideo.com.br/abc/abc/chunklist.m3u8
+#EXTINF:0,WTJ Minas
+#EXTGRP:SOUL TV
+https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/chunklist-720p.m3u8
+#EXTINF:0,Blits TV
+#EXTGRP:SOUL TV
+https://video03.logicahost.com.br/blitstv01/blitstv01/chunklist.m3u8
+#EXTINF:0,Rede UTV Brasil
+#EXTGRP:SOUL TV
+https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/chunklist.m3u8
+#EXTINF:0,TV Planalto Norte
+#EXTGRP:SOUL TV
+https://video05.logicahost.com.br/tvplanalto/tvplanalto/chunklist.m3u8
+#EXTINF:0,TV Alternativa
+#EXTGRP:SOUL TV
+https://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist.m3u8
+#EXTINF:0,TV Gazeta
+#EXTGRP:SOUL TV
+https://video02.logicahost.com.br/tvc21/tvc21/chunklist.m3u8
+#EXTINF:0,TV Petrópolis
+#EXTGRP:SOUL TV
+https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/chunklist.m3u8
+#EXTINF:0,TV Carioca Net
+#EXTGRP:SOUL TV
+https://a.cdni.live/tvcarioca/tvcarioca/chunklist-720p.m3u8
+#EXTINF:0,TV A Folha
+#EXTGRP:SOUL TV
+https://video01.logicahost.com.br/tvafolha/tvafolha/chunklist.m3u8
+#EXTINF:0,TV Potengi
+#EXTGRP:SOUL TV
+https://stmv1.samcast.com.br/jeova3318/jeova3318/chunklist.m3u8
+#EXTINF:0,Rede UTV
+#EXTGRP:SOUL TV
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:0,TV CNB
+#EXTGRP:SOUL TV
+https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/chunklist.m3u8
+#EXTINF:0,Phoenix TV
+#EXTGRP:SOUL TV
+https://video01.soultv.com.br/phoenixtv/phoenixtv/chunklist.m3u8
+#EXTINF:0,TV Litoral
+#EXTGRP:SOUL TV
+https://srv1.saragosonet.com.br/hls/redelitoral/index.m3u8
+#EXTINF:0,Rede Minas
+#EXTGRP:SOUL TV
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist.m3u8
+#EXTINF:0,ABBA RTV
+#EXTGRP:SOUL TV
+https://video01.kshost.com.br:4443/adilson8953/adilson8953/chunklist.m3u8
+#EXTINF:0,Rede SPTV
+#EXTGRP:SOUL TV
+https://video01.logicahost.com.br/websptv/websptv/chunklist.m3u8
+#EXTINF:0,Nova TV Matopiba
+#EXTGRP:SOUL TV
+https://alanza.iptv2022.com/NOVA_TV_MATOPIBA/tracks-v1a1/mono.m3u8
+#EXTINF:0,Soul Cine Clube
+#EXTGRP:SOUL TV
+https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
+#EXTINF:0,Primer TV
+#EXTGRP:SOUL TV
+http://177.74.174.57:8080/hls/primertv.m3u8
+#EXTINF:0,TV Verdade
+#EXTGRP:SOUL TV
+https://cdn-2.nxplay.com.br/TV_VERDADE/tracks-v1a1/mono.m3u8
+#EXTINF:0,Sou TV
+#EXTGRP:SOUL TV
+https://video01.kshost.com.br/tiago4725/tiago4725/chunklist.m3u8
+#EXTINF:0,Adesso TV
+#EXTGRP:SOUL TV
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
+#EXTINF:0,TV Milagro Brasil
+#EXTGRP:SOUL TV
+http://201.87.136.36:8091/hls/tvmilagro.m3u8
+#EXTINF:0,TVideoNews
+#EXTGRP:SOUL TV
+https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
+#EXTINF:0,TV Descalvado
+#EXTGRP:SOUL TV
+https://tvdescalvado.assaradios.com.br/tvdescalvado/smil:tvdescalvado.smil/chunklist.m3u8
+#EXTINF:0,Rede Mundo de Televisão
+#EXTGRP:SOUL TV
+https://video04.logicahost.com.br/redemundotv/redemundotv/chunklist.m3u8
+#EXTINF:0,TV Mais ABC
+#EXTGRP:SOUL TV
+https://video01.soultv.com.br/tvmaisabc/tvmaisabc/playlist.m3u8
+#EXTINF:0,CNN Brasil
+#EXTGRP:SOUL TV
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+#EXTINF:0,4 Por 4
+#EXTGRP:SOUL TV
+https://video01.soultv.com.br/programa4por4/programa4por4/chunklist.m3u8
+#EXTINF:0,TV Folha do Campo
+#EXTGRP:SOUL TV
+https://video03.logicahost.com.br/tvsaobernardo/tvsaobernardo/chunklist.m3u8
+#EXTINF:0,RAE TV
+#EXTGRP:SOUL TV
+https://video01.logicahost.com.br/raetv/raetv/chunklist.m3u8
+#EXTINF:0,Roraima TV
+#EXTGRP:SOUL TV
+https://video01.soultv.com.br/roraimatv/roraimatv/chunklist.m3u8
+#EXTINF:0,TV A7
+#EXTGRP:SOUL TV
+https://srv3.zcast.com.br/wellington7720/wellington7720/chunklist.m3u8
+#EXTINF:0,WTV Brasil
+#EXTGRP:SOUL TV
+https://stmv7.samcast.com.br/wtvbrasil/wtvbrasil/chunklist.m3u8
+#EXTINF:0,TV Avivando Nações
+#EXTGRP:SOUL TV
+https://video01.kshost.com.br:4443/edinardo2448/edinardo2448/chunklist.m3u8
+#EXTINF:0,Blast Channel TV
+#EXTGRP:SOUL TV
+https://video01.logicahost.com.br/blast/blast/chunklist.m3u8
+#EXTINF:0,TV Educar
+#EXTGRP:SOUL TV
+https://cdn-2.nxplay.com.br/TV_EDUCAR/tracks-v2a1/mono.m3u8
+#EXTINF:0,AWTV
+#EXTGRP:SOUL TV
+https://acesso.ecast.site:3070/live/awtvlive.m3u8
+#EXTINF:0,TV Nova MT
+#EXTGRP:SOUL TV
+https://video05.logicahost.com.br/tvnovaweb1/tvnovaweb1/chunklist.m3u8
+#EXTINF:0,TV Conquista - Record TV
+#EXTGRP:SOUL TV
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
+#EXTINF:0,KPop TV Play
+#EXTGRP:SOUL TV
+https://250weu.bozztv.com/ssh101/ssh101/kpoptv/chunks.m3u8
+#EXTINF:0,TV Itapê
+#EXTGRP:SOUL TV
+https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
+#EXTINF:0,TV Erga Omnes
+#EXTGRP:SOUL TV
+https://video01.kshost.com.br:4443/erga9862/erga9862/chunklist.m3u8
+#EXTINF:0,TV Votorantim
+#EXTGRP:SOUL TV
+https://v8.ciclano.io:1443/tvvotorantim/_definst_/tvvotorantim/chunklist.m3u8
+#EXTINF:0,TV ABC Brasil
+#EXTGRP:SOUL TV
+https://stmv1.srvstm.com/abc7762/abc7762/chunklist.m3u8
+#EXTINF:0,Extremo Oriental TV
+#EXTGRP:SOUL TV
+https://video05.logicahost.com.br/extremotv/extremotv/chunklist.m3u8
+#EXTINF:0,CNB TV
+#EXTGRP:SOUL TV
+https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/chunklist.m3u8
+#EXTINF:0,TV Rio Preto
+#EXTGRP:SOUL TV
+https://video02.logicahost.com.br/tvriopreto/tvriopreto/chunklist.m3u8
+#EXTINF:0,TV Kids Mais
+#EXTGRP:SOUL TV
+https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist.m3u8
+#EXTINF:0,Rede SDP
+#EXTGRP:SOUL TV
+https://video01.kshost.com.br:4443/moobi3963/moobi3963/chunklist.m3u8
+#EXTINF:0,Rede Século 21
+#EXTGRP:SOUL TV
+https://cdn.live.br1.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/chunklist.m3u8
+#EXTINF:0,TV Portuguesa
+#EXTGRP:SOUL TV
+https://video02.logicahost.com.br/tvportuguesa/tvportuguesa/chunklist.m3u8
+#EXTINF:0,TV Evangelizar
+#EXTGRP:SOUL TV
+https://5f593df7851db.streamlock.net/evangelizar/tv/chunklist.m3u8
+#EXTINF:0,Veza TV
+#EXTGRP:SOUL TV
+https://vezatv.mediastreaming.com.br/vezatv/live.stream/chunks.m3u8
+#EXTINF:0,TV Sertão
+#EXTGRP:SOUL TV
+https://stmv7.samcast.com.br/tvsertao/tvsertao/chunklist.m3u8
+#EXTINF:0,TV Com Santos
+#EXTGRP:SOUL TV
+https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/chunklist.m3u8
+#EXTINF:0,Cinemonde
+#EXTGRP:SOUL TV
+https://video01.soultv.com.br/cinemonde/cinemonde/chunklist.m3u8
+#EXTINF:0,TV Mogiana
+#EXTGRP:SOUL TV
+https://cdn2.connectbr.com.br/Soultv/video.m3u8
+#EXTINF:0,TV Recôncavo
+#EXTGRP:SOUL TV
+https://video04.logicahost.com.br/tvreconcavo/tvreconcavo/chunklist.m3u8
+#EXTINF:0,TV Mais Brasil
+#EXTGRP:SOUL TV
+https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/chunklist.m3u8
+#EXTINF:0,PonTV
+#EXTGRP:SOUL TV
+https://video01.soultv.com.br/pontepreta/pontepreta/chunklist.m3u8
+#EXTINF:0,Sport Club Internacional
+#EXTGRP:SOUL TV
+https://video01.soultv.com.br/internacional/internacional/chunklist.m3u8
+#EXTINF:0,Bem Melhor
+#EXTGRP:SOUL TV
+https://video01.soultv.com.br/bemmelhor/bemmelhor/chunklist.m3u8
+#EXTINF:0,Viajando pelo Brasil
+#EXTGRP:SOUL TV
+https://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/chunklist.m3u8
+#EXTINF:0,TV Londres
+#EXTGRP:SOUL TV
+https://cdn.tvlondres.uk/8744_push_3653_001/05a4e5d3c1769a61f8350e4fc677a4a5.sdp/live/8744_push_3653_001Tvlondres/chunks.m3u8
+#EXTINF:0,Canal Andreia Grezzana
+#EXTGRP:SOUL TV
+https://video01.soultv.com.br/andreiagrezzana/andreiagrezzana/chunklist.m3u8
+#EXTINF:0,TVC Potiraguá
+#EXTGRP:SOUL TV
+https://stmv1.voxtvhd.com.br/canaltvc/canaltvc/chunklist.m3u8
+#EXTINF:0,TV 40 Graus
+#EXTGRP:SOUL TV
+https://acesso.ecast.site:3125/stream/play.m3u8
+#EXTINF:0,ULB TV
+#EXTGRP:SOUL TV
+https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist.m3u8
+#EXTINF:0,Bia Kicis
+#EXTGRP:SOUL TV
+https://video01.soultv.com.br/biakicis/biakicis/chunklist.m3u8
+#EXTINF:0,Lito Cavalcanti
+#EXTGRP:SOUL TV
+https://video01.soultv.com.br/litocavalcanti/litocavalcanti/chunklist.m3u8
+#EXTINF:0,Rede NGT
+#EXTGRP:SOUL TV
+https://isaocorp.cloudecast.com/ngt/index.fmp4.m3u8
+#EXTINF:0,Rede Meio Norte
+#EXTGRP:SOUL TV
+https://streaming.jornalmn.com.br/live/tvmn.m3u8
+#EXTINF:0,TV Jornal Meio Norte
+#EXTGRP:SOUL TV
+https://streaming.jornalmn.com.br/live/tvmn.m3u8
+#EXTINF:0,TV Cultura
+#EXTGRP:unsorted
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4559
+#EXTINF:0,TV Onix
+#EXTGRP:SOUL TV
+https://tv02.zas.media:1936/tvonix/tvonix/chunklist.m3u8
+#EXTINF:0,TV Litoral RN
+#EXTGRP:SOUL TV
+https://video01.logicahost.com.br/tvlitoralrn/tvlitoralrn/chunklist.m3u8
+#EXTINF:0,PIXTV
+#EXTGRP:SOUL TV
+https://mpix05.tmwpix.com:6516/pix/pixtv_hi.m3u8
+#EXTINF:0,Rede TV
+#EXTGRP:SOUL TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4555
+#EXTINF:0,TV Brasil Popular
+#EXTGRP:SOUL TV
+https://srv2.zcast.com.br/rsmusic/rsmusic/chunklist.m3u8
+#EXTINF:0,TV Agora Limeira
+#EXTGRP:SOUL TV
+https://video05.logicahost.com.br/eveontv/eveontv/chunklist.m3u8
+#EXTINF:0,SBN
+#EXTGRP:SOUL TV
+https://cdn-2.nxplay.com.br/SBN/tracks-v1a1/mono.m3u8
+#EXTINF:0,Vivax TV
+#EXTGRP:SOUL TV
+https://stmv2.samcast.com.br/marcus8647/marcus8647/chunklist.m3u8
+#EXTINF:0,TV Rabelo
+#EXTGRP:SOUL TV
+https://cdn.jmvstream.com/w/AVJ-13010/playlist/chunklist.m3u8
+#EXTINF:0,Tenda TV
+#EXTGRP:SOUL TV
+https://tv02.zas.media:1936/tendatv/tendatv/chunklist.m3u8
+#EXTINF:0,TV Gramado
+#EXTGRP:SOUL TV
+https://isaocorp.cloudecast.com/tvgramado/index.m3u8
+#EXTINF:0,TV Aurora
+#EXTGRP:SOUL TV
+https://stream.skyspace.com.br:3466/stream/play.m3u8
+#EXTINF:0,Geekdot
+#EXTGRP:SOUL TV
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:0,TV Diário do Sertão
+#EXTGRP:SOUL TV
+https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/chunklist.m3u8
+#EXTINF:0,TV Sulba
+#EXTGRP:SOUL TV
+https://video05.logicahost.com.br/tvsulba/tvsulba/chunklist.m3u8
+#EXTINF:0,TV Alagoinha
+#EXTGRP:SOUL TV
+https://stmv.jnbhost.com.br/tvalagoinha/tvalagoinha/chunklist.m3u8
+#EXTINF:0,Condo Fornecedor TV
+#EXTGRP:SOUL TV
+https://video05.logicahost.com.br/condofornecedor/condofornecedor/chunklist.m3u8
+#EXTINF:0,TV Nordestina
+#EXTGRP:SOUL TV
+https://5ad482a77183d.streamlock.net/estudiosabiliojosegmail.com/estudiosabiliojosegmail.com/chunklist.m3u8
+#EXTINF:0,TV Marcheti
+#EXTGRP:SOUL TV
+https://stmv1.samcast.com.br/junior4319/junior4319/chunklist.m3u8
+#EXTINF:0,Canal Rural
+#EXTGRP:SOUL TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3221
+#EXTINF:0,Hip Hop Vai Além
+#EXTGRP:SOUL TV
+https://srv5.zcast.com.br/carlosdavi8435/carlosdavi8435/chunklist.m3u8
+#EXTINF:0,Canal do Boi
+#EXTGRP:SOUL TV
+https://cdn-2.nxplay.com.br/CANAL_DO_BOI_TK/tracks-v1a1/mono.m3u8
+#EXTINF:0,TV Nova Nordeste
+#EXTGRP:SOUL TV
+https://live.comets.com.br/tvnovanordeste_222/index.m3u8
+#EXTINF:0,Nova TV Agrotour
+#EXTGRP:SOUL TV
+https://video01.kshost.com.br:4443/marcelo6682/marcelo6682/chunklist.m3u8
+#EXTINF:0,TV Pampa
+#EXTGRP:SOUL TV
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist.m3u8
+#EXTINF:0,BHTV
+#EXTGRP:SOUL TV
+https://vdo.grupolimalive.com:3762/live/bhtvlive.m3u8
+#EXTINF:0,Viva e Eduque
+#EXTGRP:SOUL TV
+https://video01.logicahost.com.br/vivaedeixeviver/vivaedeixeviver/chunklist.m3u8
