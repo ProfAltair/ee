@@ -23,12 +23,12 @@ https://new.embedflix.co/p2p/premier3/chunks.m3u8?nimblesessionid=11040618&wmsAu
 #EXTINF:0,JOGO AO VIVO 12
 #EXTGRP:FUTEBOL DA HORA
 https://new.embedflix.co/p2p/premier4/chunks.m3u8?nimblesessionid=11041913&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI0IDE6MTA6MTUgQU0maGFzaF92YWx1ZT15WkdqRnFyWEl4bGdmbEloVXNYcUZRPT0mdmFsaWRtaW51dGVzPTE2MA==
+#EXTINF:0, SPORT TV 1
+#EXTGRP:FUTEBOL DA HORA
+http://authbr15jul.halites.online:80/5932/index.m3u8
 #EXTINF:0, SPORT TV 2
 #EXTGRP:FUTEBOL DA HORA
-https://abc.embedmax.site/sportv2/tracks-v1a1/mono.m3u8
-#EXTINF:0, SPORT TV 3
-#EXTGRP:FUTEBOL DA HORA
-https://abc.embedmax.site/sportv3/tracks-v1a1/mono.m3u8
+http://authbr15jul.halites.online:80/5931/index.m3u8
 #EXTINF:0,FUTEBOL AO VIVO 2
 #EXTGRP:FUTEBOL DA HORA
 https://bal01.vivartec.com.br:8088/hls/livechannel2.m3u8
@@ -43,10 +43,10 @@ https://bal02.vivartec.com.br:8088/hls/livechannel5.m3u8
 https://bal02.vivartec.com.br:8088/hls/livechannel1.m3u8
 #EXTINF:0,FUTEBOL AO VIVO 13
 #EXTGRP:FUTEBOL DA HORA
-https://abc.embedmax.site/espn3/tracks-v1a1/mono.m3u8
+https://cr7v.short.gy/JOGO/testechamaWhats75991634025.m3u8
 #EXTINF:0,FUTEBOL AO VIVO 14
 #EXTGRP:FUTEBOL DA HORA
-https://abc.embedmax.site/espn4/tracks-v1a1/mono.m3u8
+https://cr7v.short.gy/JOGO2/testechamaWhats75991634025.m3u8
 #EXTINF:0,FUTEBOL AO VIVO 15
 #EXTGRP:FUTEBOL DA HORA
 https://abc.embedmax.site/espn5/tracks-v1a1/mono.m3u8
@@ -55,13 +55,13 @@ https://abc.embedmax.site/espn5/tracks-v1a1/mono.m3u8
 https://cdn-4.nxplay.com.br/NOSSO_FUTEBOL/tracks-v2a1/mono.m3u8
 #EXTINF:0,FUTEBOL AO VIVO 17
 #EXTGRP:FUTEBOL DA HORA
-https://abc.embedmax.site/paraMountMais1/tracks-v1/mono.m3u8
+https://cr7v.short.gy/JOGO3/testechamaWhats75991634025.m3u8
 #EXTINF:0,FUTEBOL AO VIVO 18
 #EXTGRP:FUTEBOL DA HORA
-https://abc.embedmax.site/paramountmais3/tracks-v1a1/mono.m3u8
+https://cr7v.short.gy/JOGO4/testechamaWhats75991634025.m3u8
 #EXTINF:0,FUTEBOL AO VIVO 19
 #EXTGRP:FUTEBOL DA HORA
-https://abc.embedmax.site/bandsports/tracks-v1a1/mono.m3u8
+https://cr7v.short.gy/JOGO5/testechamaWhats75991634025.m3u8
 #EXTINF:0,FUTEBOL AO VIVO 20
 #EXTGRP:FUTEBOL DA HORA
 https://cdn-4.nxplay.com.br/ESPN_EXTRA/tracks-v1a1/mono.m3u8
