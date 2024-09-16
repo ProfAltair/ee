@@ -1,4 +1,19 @@
 #EXTM3U
+#EXTINF: SIM TV
+#EXTGRP: CANAIS ESPIRITO SANTO
+https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w2083663774.m3u8
+#EXTINF: TV GUARAPARI
+#EXTGRP: CANAIS ESPIRITO SANTO
+https://video.wellhost.com.br:4434/tvguarapari/tvguarapari/chunklist_w919339209.m3u8
+#EXTINF: OLHA TV 
+#EXTGRP: CANAIS ESPIRITO SANTO
+https://ssh101-fl.bozztv.com/ssh101/olha2/tracks-v1a1/mono.m3u8
+#EXTINF: TV SERRA 
+#EXTGRP: CANAIS ESPIRITO SANTO
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-18312/playlist/chunklist.m3u8
+#EXTINF: REDE TV 
+#EXTGRP: CANAIS ESPIRITO SANTO
+https://redetves.cloudecast.com/redetves/tracks-v1/index.fmp4.m3u8
 #EXTINF: GLOBO",GLOBO TV RIO SUL FHD
 #EXTGRP: CANAIS RJ
 http://conexaoonline.top:80/64453139/28658163/27433.ts
