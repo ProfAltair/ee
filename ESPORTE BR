@@ -1,206 +1,343 @@
 #EXTM3U
-#EXTINF:0, ACÚSTIVO MPB
-#EXTGRP: MÚSICA ESPECIAL
-https://ia601203.us.archive.org/28/items/acustico-mpb-melhores-da-mpb-de-todos-os-tempos/Ac%C3%BAstico%20MPB%20-%20Melhores%20da%20MPB%20de%20Todos%20os%20Tempos.mp4
-#EXTINF:0,  MICHAEL JACKSON
-#EXTGRP: MÚSICA ESPECIAL
-https://ia600504.us.archive.org/10/items/michael-jackson-greatest-hits-da/Michael%20jackson%20greatest%20hits%20da.mp4?cnt=0
-#EXTINF:0,  ENCONTROS SAMBA
-#EXTGRP: MÚSICA ESPECIAL
-https://ia601604.us.archive.org/29/items/encontros-samba-emilio-santiago-alcione-jorge-aragao/Encontros%20%EF%BD%9C%EF%BD%9C%20SAMBA%20%EF%BD%9C%EF%BD%9C%20Em%C3%ADlio%20Santiago%20%EF%BD%9C%20Alcione%20%EF%BD%9CJorge%20Arag%C3%A3o.mp4
-#EXTINF:0,  TINA TURNER
-#EXTGRP: MÚSICA ESPECIAL
-https://ia600506.us.archive.org/21/items/t-i-n-a-t-u-r-n-e-r-greatest-hits-top-100-artists-to-listen-in-2022-2023/T%20i%20n%20a%20T%20u%20r%20n%20e%20r%20Greatest%20Hits%20~%20Top%20100%20Artists%20To%20Listen%20in%202022%20%26%202023.mp4?cnt=0
-#EXTINF:0, ANOS 70 & 80
-#EXTGRP: MÚSICA ESPECIAL
-https://ia801803.us.archive.org/31/items/retro-disco-funky-house-70-80s-michael-jackson-cheryl-lynn-luther-vandross-the-sylvers..._202308/Retro%20Disco-Funky%20House%2070%20%26%2080s%20%28Michael%20Jackson%2C%20Cheryl%20Lynn%2C%20Luther%20Vandross%2C%20The%20Sylvers...%29.mp4?cnt=0
-#EXTINF:0, AL JARREAU
-#EXTGRP: MÚSICA ESPECIAL
-https://ia802702.us.archive.org/33/items/al-jarreau-greatest-hist-full-album-2021/Al%20Jarreau%20Greatest%20Hist%20Full%20Album%202021.mp4?cnt=0
-#EXTINF:0, MELHOR DA MÚSICA DO BRASIL
-#EXTGRP: MÚSICA ESPECIAL
-https://ia601600.us.archive.org/16/items/brazil-bossa-nova-samba-musica-popular-brasileira/Brazil%20-%20Bossa%20Nova%2C%20Samba%2C%20M%C3%BAsica%20popular%20brasileira.mp4?cnt=0
-#EXTINF:0, MÚSICA DE LUXO
-#EXTGRP: MÚSICA ESPECIAL
-https://ia802902.us.archive.org/30/items/musica-de-lujo-musica-elegante-glamour-music-relajante/M%C3%BAsica%20de%20Lujo%2C%20Musica%20Elegante%2C%20Glamour%20Music%2C%20Relajante.mp4
-#EXTINF:0, ARETHA FRANKLIN
-#EXTGRP: MÚSICA ESPECIAL
-https://ia804707.us.archive.org/24/items/aretha-franklin-greatest-hits-official-full-album-aretha-franklin-best-songs-playlist_202309/Aretha%20Franklin%20-%20Greatest%20Hits%20%28Official%20Full%20Album%29%20%EF%BD%9C%20Aretha%20Franklin%20Best%20Songs%20Playlist.mp4?cnt=0
-#EXTINF:0, SÉRGIO MENDES
-#EXTGRP: MÚSICA ESPECIAL
-https://dn720307.ca.archive.org/0/items/sergio-mendes-brasil-66-greatest-hits-66/Sergio%20Mendes%20%26%20Brasil%20%2766%20Greatest%20hits%20%20%E6%83%B3%E3%81%84%E5%87%BA%E3%81%AE%E3%82%BB%E3%83%AB%E3%82%B8%E3%82%AA%E3%83%BB%E3%83%A1%E3%83%B3%E3%83%87%E3%82%B9%EF%BC%86%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB%2766.mp4
-#EXTINF:0, MUSIC BOX BR
-#EXTGRP: MÚSICA 2024
-https://cdn-1.nxplay.com.br/MUSIC_HD/tracks-v1a1/mono.m3u8
-#EXTINF:0, TVMIX BELÉM
-#EXTGRP: MÚSICA 2024
-https://tv02.zas.media:1936/mixbelem/mixbelem/chunklist_w1921849150.m3u8
-#EXTINF:0, BETELHOST SERTANEJO
-#EXTGRP: MÚSICA 2024
-https://srv3.zcast.com.br/betelhostbr/betelhostbr/chunklist_w1582171388.m3u8
-#EXTINF:0, QFM
-#EXTGRP: MÚSICA 2024
-https://qfm.geraistec.com.br/hlsq/index.m3u8
-#EXTINF:0, POSITIVA FM
-#EXTGRP: MÚSICA 2024
-https://video02.logicahost.com.br/positivafm/positivafm/chunklist_w232825881.m3u8
-#EXTINF:0, AGITO MAX
-#EXTGRP: MÚSICA 2024
-https://stmv2.samcast.com.br/agitomax/agitomax/chunklist_w18952744.m3u8
-#EXTINF:0, SPIRIT TV
-#EXTGRP: MÚSICA 2024
-https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v2a1/mono.m3u8
-#EXTINF:0, TV A7
-#EXTGRP: MÚSICA 2024
-https://stmv2.samcast.com
+#EXTINF:0,SEVENTV
+#EXTGRP:MÚSICA 2025
+https://video01.kshost.com.br:4443/aubrey3291/aubrey3291/chunklist_w2026933888.m3u8
+#EXTINF:0,TV CAFÉ
+#EXTGRP:MÚSICA 2025
+https://srv5.zcast.com.br/tvcafe/tvcafe/chunklist_w1028845948.m3u8
+#EXTINF:0,TV JAMPA JOVEM
+#EXTGRP:MÚSICA 2025
+https://srv1.zcast.com.br/anderson7754/anderson7754/chunklist_w1200472132.m3u8
+#EXTINF:0,TV PORTAL ATIVO
+#EXTGRP:MÚSICA 2025
+https://flussonic-tv.jupiter.com.br/portalativo/tracks-v1a1/mono.m3u8
+#EXTINF:0,TVA FOLHA
+#EXTGRP:MÚSICA 2025
+https://video01.logicahost.com.br/tvafolha/tvafolha/chunklist_w939714547.m3u8
+#EXTINF:0,TV MAX 90
+#EXTGRP:MÚSICA 2025
+https://cdn.jmvstream.com/w/AVJ-15538/playlist/chunklist.m3u8
+#EXTINF:0,TV A7
+#EXTGRP:MÚSICA 2025
 https://srv3.zcast.com.br/wellington7720/wellington7720/chunklist_w1269001024.m3u8
-#EXTINF:0, TU POP
-#EXTGRP: MÚSICA 2024
+#EXTINF:0,AGITO MAX
+#EXTGRP:MÚSICA 2025
+https://stmv2.samcast.com.br/agitomax/agitomax/chunklist_w1638581039.m3u8
+#EXTINF:0,SERTANEJO UNIVERSITÁRIO
+#EXTGRP:MÚSICA 2025
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1729222667/ei/q4MRZ9T4HsOV-LAPqcChWQ/ip/191.242.234.64/id/TDWY1BAd--A.1/itag/270/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-wx2gv8xqvgcg-bpbe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/900/manifest_duration/900/gcr/br/vprv/1/playlist_type/DVR/initcwndbps/1073750/met/1729201068,/mh/N9/mm/44/mn/sn-wx2gv8xqvgcg-bpbe/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/51300760,51312688/mt/1729200528/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AJfQdSswRQIgLgV5LpbQczkfoWkUnBDD-8iiuFEuZDbQAz9CQdS0aZ4CIQC_-w4ylSObxRNVR_ZzTg2caN2YdUP-Nlt_k-c3TOpezQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/ACJ0pHgwRAIgAi6xA5Fbtsseq-IqjxYKETuCX-FBxWkEwNu6vYoAZRQCIHfNFoabXiosJkhIcllp0pPEKKkCTEG9RCxuvwY1SFKA/playlist/index.m3u8
+#EXTINF:0,TV CENTRO SUL
+#EXTGRP:MÚSICA 2025
+https://5a0c3936c25c8.streamlock.net/tvcentrosultvstation/tvcentrosultvstation/chunklist_w1824617998.m3u8
+#EXTINF:0,TV CENTRAL DO BRASIL
+#EXTGRP:MÚSICA 2025
+https://stmv2.centralcast.com.br/central/central/chunklist_w996990685.m3u8
+#EXTINF:0,Q FM
+#EXTGRP:MÚSICA 2025
+https://qfm.geraistec.com.br/hlsq/index.m3u8
+#EXTINF:0,TV ESTÚDIO SERTANEJA
+#EXTGRP:MÚSICA 2025
+https://tv02.zas.media:1936/alvoradasertaneja/alvoradasertaneja/chunklist_w1922337685.m3u8
+#EXTINF:0,TV CLUBE UBERLÂNDIA
+#EXTGRP:MÚSICA 2025
+https://video02.logicahost.com.br/clubefmuberlandia/clubefmuberlandia/chunklist_w2067911584.m3u8
+#EXTINF:0,STIMGRAI
+#EXTGRP:MÚSICA 2025
+https://stream.ads.ottera.tv/cl/241017cs8odr3glec3d7la5chg/1920x1080_1790800_1_f.m3u8?i=475_3028
+#EXTINF:0,TOPTV
+#EXTGRP:MÚSICA 2025
+https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
+#EXTINF:0,RIO HITMIX
+#EXTGRP:MÚSICA 2024
+https://stmv2.voxtvhd.com.br/riohitmix/riohitmix/playlist.m3u8
+#EXTINF:0,HALLO MUSIC
+#EXTGRP:MÚSICA 2024
+https://cdn-2.nxplay.com.br/HALLOMUSIC/tracks-v1a1/mono.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+#EXTINF:0,TVMIX BELÉM
+#EXTGRP:MÚSICA 2024
+https://tv02.zas.media:1936/mixbelem/mixbelem/chunklist_w1921849150.m3u8
+#EXTINF:0,BETELHOST SERTANEJO
+#EXTGRP:MÚSICA 2024
+https://srv3.zcast.com.br/betelhostbr/betelhostbr/chunklist_w1582171388.m3u8
+#EXTINF:0,POSITIVA FM
+#EXTGRP:MÚSICA 2024
+https://video02.logicahost.com.br/positivafm/positivafm/playlist.m3u8
+#EXTINF:0,AGITO MAX
+#EXTGRP:MÚSICA 2024
+https://stmv2.samcast.com.br/agitomax/agitomax/chunklist_w18952744.m3u8
+#EXTINF:0,TU POP
+#EXTGRP:MÚSICA 2024
 https://stream.ads.ottera.tv/cl/240331co4ne7et3ovemmo1vjhg/1280x720_1400000_1_f.m3u8?i=475_1086
-#EXTINF:0, DANCE TV
-#EXTGRP: MÚSICA 2024
+#EXTINF:0,DANCE TV
+#EXTGRP:MÚSICA 2024
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
-#EXTINF:0, TU MÚSICA
-#EXTGRP: MÚSICA 2024
-https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8
-#EXTINF:0,FLASH
-#EXTGRP: MÚSICA 2024
-https://flash-freetv.amagi.tv/flash/master_4.m3u8
 #EXTINF:0,TECHNO WAREHOUSE
-#EXTGRP: MÚSICA 2024
+#EXTGRP:MÚSICA 2024
 https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
 #EXTINF:0,DEEP HOUSE
-#EXTGRP: MÚSICA 2024
+#EXTGRP:MÚSICA 2024
 https://m1b2.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8
 #EXTINF:0,DREAM TURK
-#EXTGRP: MÚSICA 2024
+#EXTGRP:MÚSICA 2024
 https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_2_550/playlist.m3u8?key=7763e4ac1e460d9913ada7b279c8af81&live=true&app=com.dreamturk
-#EXTINF:0,V2BEAT
-#EXTGRP: MÚSICA 2024
-https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8?nimblesessionid=95640542
-#EXTINF:0, INDISTRY
-#EXTGRP: MÚSICA 2024
-https://stream-us-east-1.getpublica.com/cl/240331co4n4o5hg25q2p1fdbq0/640x360_782476_5_f.m3u8?i=513_2535
-#EXTINF:0, TRACE URBAN
-#EXTGRP: MÚSICA 2024
-https://amg01076-lightningintern-traceurban-xiaomi-m78n3.amagi.tv/playlist/amg01076-lightningintern-traceurban-xiaomi/cb543d177a6c678a98d43d65d4ef47a4f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7451db80148b61299bce8c37683f03409a5e5afba358b1ebb4594cdd3ff5e54f55c07943ee9f43c88149a6898009cd5e8070f3149f9af6df8616d087f3db986d935c83e5911ce3e25ba18b3b94c89b73309003502c7c66c7d35d7ad35efc2a7053edebc3ff44f216dc8026801a44d3c001fde542e645a51fa6a167a7b8ba7c85547bddac8ed395c197c2b8d14f5d8f6ff4e2edd8335698f8117155c627b8706c50f58cff00c0348a36e083fc298e89837748603bd7c3a2e2b59f439f2485f4f59702724f76080dbc90c3f062f626c771a4c2126e090314edd262cd88dd5127710fa8b41e854355e980cbb4d6006d9e3b5b42be34901b247cdc38694be02fd2932823dc755dcb666bbb101ea876d19460b5abd2ee037b92dbc449f026af9602c0f90fac226d0b51fda2620f0b1c3de3ef600c22708c10b78484b2217b75869dfaf7ce5737102a57035cf985c944dbdf90674d6c823940477b1f109a01ac19fc085b0f23cc5e9eec3e7d8b022e3af5e558795f7f9ddcbe918db59b1ce067b2c29954014db5bdc357c3295a905803fb/185/1280x720_2657600/index.m3u8
-#EXTINF:0, NOW 80'S AO VIVO
-#EXTGRP: MÚSICA 2024
-#EXTINF:0, NOW 80'S AP VIVO
-#EXTGRP: MÚSICA 2024
+#EXTINF:0,NOW 80'S AP VIVO
+#EXTGRP:MÚSICA 2024
 https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
-#EXTINF:0, RÁDIO EU E VOCÊ
-#EXTGRP: MÚSICA 2024
-#EXTINF:0, RÁDIO EU E VOCÊ
-#EXTGRP: MÚSICA 2024
+#EXTINF:0,RÁDIO EU E VOCÊ
+#EXTGRP:MÚSICA 2024
 https://virtues.es:1936/radioeuevoce/radioeuevoce/chunklist_w2076218547.m3u8
-#EXTINF:0, SUPRA FM
-#EXTGRP: MÚSICA 2024
+#EXTINF:0,SUPRA FM
+#EXTGRP:MÚSICA 2024
 https://live.cdn.upx.com/00079/myStream.sdp/chunklist.m3u8
-#EXTINF:0, TV UNIÃO
-#EXTGRP: MÚSICA 2024
+#EXTINF:0,TV UNIÃO
+#EXTGRP:MÚSICA 2024
 https://live.uniaoplus.com/hls/8b43MluBjzR7M1Uk.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/zsV3aqE.png" group-title="ESTUDIO FM", IN TV
-https://59f1cbe63db89.streamlock.net:1443/interativafm/_definst_/interativafm/chunklist_w2030672488.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/StEijIO.png" group-title="ESTUDIO FM", LUPA 1 FM
-https://a.cdni.live/lupa1fm/lupa1fm/chunklist_w1262335719.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/vKOloMY.png" group-title="ESTUDIO FM", BLINK 102 FM
-https://video05.logicahost.com.br/blink105/blink105/chunklist_w1664250019.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/V3FRyRQ.png" group-title="ESTUDIO FM", MIX FM BELEM
-https://tv02.zas.media:1936/mixbelem/mixbelem/chunklist_w585975866.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/vpz8JCL.png" group-title="ESTUDIO FM", REDE CLUBE
-https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/7MNKEdQ.png" group-title="ESTUDIO FM", JK FM
-https://video02.logicahost.com.br/jkfm/jkfm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/bmZ8AIL.png" group-title="ESTUDIO FM", ATIVIDADE FM
-https://stmv1.transmissaodigital.com/obmor2250/obmor2250/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/6FnSLix.png" group-title="ESTUDIO FM", SUPRA FM
-https://live.cdn.upx.com/00079/myStream.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/P8cTovk.png" group-title="ESTUDIO FM", POSITIVA FM
-https://video02.logicahost.com.br/positivafm/positivafm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/WGgD7jL.png" group-title="ESTUDIO FM", CLUBE FM
-https://video02.logicahost.com.br/clubefmuberlandia/clubefmuberlandia/chunklist_w772490489.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Tfmu2cB.png" group-title="ESTUDIO FM", FM O DIA
-https://cdn.livespanel.com/live/fmodia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ELW1F8f.png" group-title="ESTUDIO FM", ATIVA FM
-https://a.cdni.live/ativa98/ativa98/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/bWfrZOS.png" group-title="ESTUDIO FM", 95 MAIS FM
-https://video01.logicahost.com.br/radio95fm/radio95fm/chunklist_w1563600198.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ieKLdwM.png" group-title="ESTUDIO FM", RÁDIO SUPER MARAJOARA
-https://tv02.zas.media:1936/supermarajoara/supermarajoara/chunklist_w1239847871.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/EhOYgFT.png" group-title="ESTUDIO FM", RÁDIO TUPI
-https://ythls-v2.onrender.com/channel/UC9u7p59wlSaAuBmPevKWo9A.m3u8?playlist=index
-#EXTINF:-1 tvg-logo="https://imgur.com/TH3t9OT.png" group-title="ESTUDIO FM", REDE ITATIAIA
-https://ythls-v2.onrender.com/channel/UC9T0ZAarQHL4cJGFzORVsFg.m3u8?playlist=index
-#EXTINF:-1 tvg-logo="https://imgur.com/baJrt3o.png" group-title="ESTUDIO FM", 98 AO VIVO
-https://ythls-v2.onrender.com/channel/UClF866E2u34LioEzDppZj9g.m3u8?playlist=index
-#EXTINF:-1 tvg-logo="https://imgur.com/Gv7yula.png" group-title="ESTUDIO FM", MASSA FM
-https://cdn-cdn-massafmsp.ciclano.io:1443/cdn-massafmsp/cdn-massafmsp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/i25DYst.png" group-title="ESTUDIO FM", RÁDIO DIÁRIO MACAPA
-https://video02.logicahost.com.br/tvdiario/tvdiario/chunklist_w1291941461.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/RDTA02g.png" group-title="ESTUDIO FM", RÁDIO REDENTOR
-https://virtues.es:1936/redentor/redentor/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/A7tzip6.png" group-title="ESTUDIO FM", RÁDIO DEUS E AMOR YOUTUBE
-https://ythls-v2.onrender.com/channel/UC5BPvgWTJbjWR5yRHLlf2qQ.m3u8?playlist=index
-#EXTINF:-1 tvg-logo="https://imgur.com/9oTO4m1.png" group-title="ESTUDIO FM", CATVE FM FOZ
-http://wowza4.catve.com.br:1935/radiocamera/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/bDd4XH6.png" group-title="ESTUDIO FM", RÁDIO MONTE FM
-https://montefm.brasilstream.com.br/hls/montefm/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/3wUBW9Z.png" group-title="ESTUDIO FM", 106 SERTANEJA
-https://live.cdn.upx.com/2384/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/su2e7IY.png" group-title="ESTUDIO FM",CLUBE FM RP
-https://live.cdn.upx.com/5e5c_5/myStream.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/BYHdDL5.png" group-title="ESTUDIO FM", RÁDIO CLUBE ARARENSE
-https://virtues.es:1936/clubeararense/clubeararense/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/XECm2wC.png" group-title="ESTUDIO FM", IND FM
-https://virtues.es:1936/indfm/indfm/chunklist_w1569348741.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/LOVDhdU.png" group-title="ESTUDIO FM", RÁDIO CULTURA FM
-https://culturahd.brasilstream.com.br/hls/culturahd/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/TBIeFz6.png" group-title="ESTUDIO FM", FM LIBERDADE
-https://fmliberdade.brasilstream.com.br/hls/fmliberdade/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/9GK2b9f.png" group-title="ESTUDIO FM", RÁDIO DIFUSORA FM
-https://difusoraamaovivo.brasilstream.com.br/hls/difusoraamaovivo/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/83RTSdx.png" group-title="ESTUDIO FM", RÁDIO DIFUSORA FM 98
-https://difusorafm.brasilstream.com.br/hls/difusorafm/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/fDiFBw4.png" group-title="ESTUDIO FM", RÁDIO NOVA ONDA FM
-https://5a57bda70564a.streamlock.net/novaondafm/novaondafm.sdp/chunklist_w925747159.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/hywBzmx.png" group-title="ESTUDIO FM", RÁDIO CIDADE LITORAL
-https://tv02.zas.media:1936/cidadelitoral/cidadelitoral/chunklist_w207047863.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/MYLH1cG.png" group-title="ESTUDIO FM", FM MUNDIAL
-https://virtues.es:1936/mundialfmpirassununga/mundialfmpirassununga/chunklist_w1563727305.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/jKMc3yI.png" group-title="ESTUDIO FM", RÁDIO TRANSJOVEM
-https://srv6.zcast.com.br/raimundofrancisco4701/raimundofrancisco4701/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/CbYZvDh.png" group-title="ESTUDIO FM", RÁDIO EU E VOCE
-https://virtues.es:1936/radioeuevoce/radioeuevoce/chunklist_w2076218547.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/qzajvDo.png" group-title="ESTUDIO FM", RÁDIO 102 AP FM
-https://stmv1.srvstm.com/rogerio2689/rogerio2689/chunklist_w1791525089.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/VkCbOET.png" group-title="ESTUDIO FM", RÁDIO PLANALTO FM
-https://cdn-planaltofm.ciclano.io:1443/planaltofm/planaltofm/chunklist_w2018644666.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/y1LwEho.png" group-title="ESTUDIO FM", RÁDIO PLANALTO NEWS
-https://cdn-rdplanalto.ciclano.io:1443/rdplanalto/rdplanalto/chunklist_w1840781305.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/qnWYMIU.png" group-title="ESTUDIO FM", RÁDIO TAROBA FM
-https://cdn.jmvstream.com/w/LVW-8799/LVW8799_UJQ7Y9nliA/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/HH4TUDQ.png" group-title="ESTUDIO FM", LIDER FM UBA
-https://lideruba.brasilstream.com.br/hls/lideruba/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/K0HSU7i.png" group-title="ESTUDIO FM", RÁDIO EDUCADORA
-https://stmv1.transmissaodigital.com/educadoralaranjeirassul/educadoralaranjeirassul/chunklist_w366377505.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/gqHry1a.png" group-title="ESTUDIO FM", RÁDIO NATUREZA FM
-https://tv02.zas.media:1936/natureza/natureza/chunklist_w143124316.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Z2cV80L.png" group-title="ESTUDIO FM", ESTUDIO A FM
-https://5a57bda70564a.streamlock.net/estudioatv/estudioatv.sdp/chunklist_w1422113754.m3u8
-#EXTINF:0, DELUXE MUSIC
-#EXTGRP: MÚSICA MUNDO
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/6608c4d11666f_13018905_2403310205_480p.m3u8
-#EXTINF:0, MAGIC TV
+#EXTINF:0,MUSIC BOX BR
+#EXTGRP: MÚSICA 2024
+https://cdn-1.nxplay.com.br/MUSIC_HD/tracks-v1a1/mono.m3u8
+#EXTINF:0,SPIRIT TV
+#EXTGRP: MÚSICA 2024
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v2a1/mono.m3u8
+#EXTINF:0,MAGIC TV
 #EXTGRP: MÚSICA MUNDO
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4_output_0.m3u8
-#EXTINF:0, THT MUSIC
+#EXTINF:0,THT MUSIC
 #EXTGRP: MÚSICA MUNDO
 https://edge04-alm.beetv.kz/bpk-token/2an@dnblyte2fmbpsqnmrvm1ccwqhrilyc4ed34ldfaa/btv/SWM/Tnt_music/Tnt_music_576p_2000kbps.m3u8
-#EXTINF:0,TECNO BREGA
-#EXTGRP:RITMO MUSICAL
-http://stm16.srvaudio.com.br:10106/stream?1608801166036
+#EXTINF:0,h_1330,al_c/d6fd8d_f388beaf30024344a175dcbc147 41686~mv2.png",🎶╭─➤ - Afrobeats.ᴴᴰ
+#EXTGRP:unsorted
+https://stream.ecable.tv/afrobeats/tracks-v1a1/index.m3u8
+#EXTINF:0,🎶➾ Fe música
+#EXTGRP:unsorted
+https://dmecgxuzr2ywk.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-FEVAMusic/693f968e-9019-417a-a940-d4723a933854/2.m3u8
+#EXTINF:0,🎶➾ DBM (Música Africana)
+#EXTGRP:unsorted
+https://edge21.vedge.infomaniak.com/livecast/smil:dbmtv.smil/chunklist_w978770520_b1000000.m3u8
+#EXTINF:0,🎶➾ Muzangala TV.ᴴᴰ
+#EXTGRP:unsorted
+https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1087878616.m3u8
+#EXTINF:0,🎶➾ AFROVIBES TV
+#EXTGRP:unsorted
+https://vse2-sa-all56.secdn.net/tvsw4-chorigin/play/prod-f71bb37841b54966890bdf772c79cbaa/chunklist_sess641139627.m3u8
+#EXTINF:0,🎶➾ Reproduzir TV (Música)
+#EXTGRP:unsorted
+http://connectiktv.ddns.net:5000/playtv/@playtv/mono.m3u8
+#EXTINF:0,🎶➾ Baraza Music TV
+#EXTGRP:unsorted
+https://ssh101.bozztv.com/ssh101/relaxing/playlist.m3u8
+#EXTINF:0,🎶➾ LA BOCINA LATINA
+#EXTGRP:unsorted
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-631932e2f6672ff675ee5ec0.m3u8
+#EXTINF:0,🎶➾ Portal Foxmix
+#EXTGRP:unsorted
+https://panel.tvstream.cl:1936/8040/8040/chunklist_w652873405.m3u8
+#EXTINF:0,🎶➾ SomosTopoPointTV
+#EXTGRP:unsorted
+https://cloudflare.streamgato.us:3901/live/somostopopointtvlive.m3u8
+#EXTINF:0,🎶➾ Flow Caribe.ᴴᴰ
+#EXTGRP:unsorted
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1083
+#EXTINF:0,🎶➾ Canela TV Music.ᴴᴰ
+#EXTGRP:unsorted
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5083
+#EXTINF:0,🎶➾ BOX PLAYLIST
+#EXTGRP:unsorted
+https://boxplaylist-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_62193b7126c4be132057fe73_boxplaylist-live/m.m3u8
+#EXTINF:0,🎶➾ BALLE BALLE 1. ᴴᴰ
+#EXTGRP:unsorted
+https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
+#EXTINF:0,🎶➾ BALLE BALLE 2. ᴴᴰ
+#EXTGRP:unsorted
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3398
+#EXTINF:0,🎶➾ Kpop TV Play.ᴴᴰ
+#EXTGRP:unsorted
+https://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8
+#EXTINF:0,🎶➾ The Kpop Youtube 1
+#EXTGRP:unsorted
+https://livestream.zazerconer.workers.dev/channel/UCoRXPcv8XK5fAplLbk9PTww.m3u8
+#EXTINF:0,🎶➾ The Kpop Youtube 2
+#EXTGRP:unsorted
+https://ythls.armelin.one/channel/UCoRXPcv8XK5fAplLbk9PTww.m3u8
+#EXTINF:0,🎶➾ Novo Kpop.ᴴᴰ
+#EXTGRP:unsorted
+https://newidco-newkid-1-br.lg.wurl.tv/3000.m3u8
+#EXTINF:0,🎶➾ Novo Kpop MX.ᴴᴰ
+#EXTGRP:unsorted
+https://newidco-newkid-1-mx.lg.wurl.tv/3000.m3u8 
+#EXTINF:0,🎶 - 🇧🇷 ➾ Principais TV.ᴴᴰ
+#EXTGRP:unsorted
+https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
+#EXTINF:0,🎶 - 🇧🇷 ➾ TV Avant
+#EXTGRP:unsorted
+https://video04.logicahost.com.br/tvavant/tvavant/chunklist_w977600341.m3u8
+#EXTINF:0,🎶 - 🇧🇷 ➾ TV A FOLHA
+#EXTGRP:unsorted
+https://video01.logicahost.com.br/tvafolha/tvafolha/playlist-720p.m3u8https://ia601206.us.archive.org/25/items/musicas-de-natal-em-portugues-2024/M%C3%BAsicas%20De%20Natal%20Em%20Portugu%C3%AAs%202024.mp4
+#EXTINF:0,IN TV
+#EXTGRP:unsorted
+https://59f1cbe63db89.streamlock.net:1443/interativafm/_definst_/interativafm/chunklist_w2030672488.m3u8
+#EXTINF:0,LUPA 1 FM
+#EXTGRP:unsorted
+https://a.cdni.live/lupa1fm/lupa1fm/chunklist_w1262335719.m3u8
+#EXTINF:0,BLINK 102 FM
+#EXTGRP:unsorted
+https://video05.logicahost.com.br/blink105/blink105/chunklist_w1664250019.m3u8
+#EXTINF:0,MIX FM BELEM
+#EXTGRP:unsorted
+https://tv02.zas.media:1936/mixbelem/mixbelem/chunklist_w585975866.m3u8
+#EXTINF:0,REDE CLUBE
+#EXTGRP:unsorted
+https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
+#EXTINF:0,JK FM
+#EXTGRP:unsorted
+https://video02.logicahost.com.br/jkfm/jkfm/playlist.m3u8
+#EXTINF:0,ATIVIDADE FM
+#EXTGRP:unsorted
+https://stmv1.transmissaodigital.com/obmor2250/obmor2250/playlist.m3u8
+#EXTINF:0,CLUBE FM
+#EXTGRP:unsorted
+https://video02.logicahost.com.br/clubefmuberlandia/clubefmuberlandia/chunklist_w772490489.m3u8
+#EXTINF:0,FM O DIA
+#EXTGRP:unsorted
+https://cdn.livespanel.com/live/fmodia/playlist.m3u8
+#EXTINF:0,ATIVA FM
+#EXTGRP:unsorted
+https://a.cdni.live/ativa98/ativa98/playlist.m3u8
+#EXTINF:0,95 MAIS FM
+#EXTGRP:unsorted
+https://video01.logicahost.com.br/radio95fm/radio95fm/chunklist_w1563600198.m3u8
+#EXTINF:0,RÁDIO SUPER MARAJOARA
+#EXTGRP:unsorted
+https://tv02.zas.media:1936/supermarajoara/supermarajoara/chunklist_w1239847871.m3u8
+#EXTINF:0,RÁDIO TUPI
+#EXTGRP:unsorted
+https://ythls-v2.onrender.com/channel/UC9u7p59wlSaAuBmPevKWo9A.m3u8?playlist=index
+#EXTINF:0,REDE ITATIAIA
+#EXTGRP:unsorted
+https://ythls-v2.onrender.com/channel/UC9T0ZAarQHL4cJGFzORVsFg.m3u8?playlist=index
+#EXTINF:0,98 AO VIVO
+#EXTGRP:unsorted
+https://ythls-v2.onrender.com/channel/UClF866E2u34LioEzDppZj9g.m3u8?playlist=index
+#EXTINF:0,MASSA FM
+#EXTGRP:unsorted
+https://cdn-cdn-massafmsp.ciclano.io:1443/cdn-massafmsp/cdn-massafmsp/playlist.m3u8
+#EXTINF:0,RÁDIO DIÁRIO MACAPA
+#EXTGRP:unsorted
+https://video02.logicahost.com.br/tvdiario/tvdiario/chunklist_w1291941461.m3u8
+#EXTINF:0,RÁDIO REDENTOR
+#EXTGRP:unsorted
+https://virtues.es:1936/redentor/redentor/playlist.m3u8
+#EXTINF:0,RÁDIO DEUS E AMOR YOUTUBE
+#EXTGRP:unsorted
+https://ythls-v2.onrender.com/channel/UC5BPvgWTJbjWR5yRHLlf2qQ.m3u8?playlist=index
+#EXTINF:0,CATVE FM FOZ
+#EXTGRP:unsorted
+http://wowza4.catve.com.br:1935/radiocamera/livestream/playlist.m3u8
+#EXTINF:0,RÁDIO MONTE FM
+#EXTGRP:unsorted
+https://montefm.brasilstream.com.br/hls/montefm/index.m3u8
+#EXTINF:0,106 SERTANEJA
+#EXTGRP:unsorted
+https://live.cdn.upx.com/2384/myStream.sdp/playlist.m3u8
+#EXTINF:0,CLUBE FM RP
+#EXTGRP:unsorted
+https://live.cdn.upx.com/5e5c_5/myStream.sdp/chunklist.m3u8
+#EXTINF:0,RÁDIO CLUBE ARARENSE
+#EXTGRP:unsorted
+https://virtues.es:1936/clubeararense/clubeararense/playlist.m3u8
+#EXTINF:0,IND FM
+#EXTGRP:unsorted
+https://virtues.es:1936/indfm/indfm/chunklist_w1569348741.m3u8
+#EXTINF:0,RÁDIO CULTURA FM
+#EXTGRP:unsorted
+https://culturahd.brasilstream.com.br/hls/culturahd/index.m3u8
+#EXTINF:0,FM LIBERDADE
+#EXTGRP:unsorted
+https://fmliberdade.brasilstream.com.br/hls/fmliberdade/index.m3u8
+#EXTINF:0,RÁDIO DIFUSORA FM
+#EXTGRP:unsorted
+https://difusoraamaovivo.brasilstream.com.br/hls/difusoraamaovivo/index.m3u8
+#EXTINF:0,RÁDIO DIFUSORA FM 98
+#EXTGRP:unsorted
+https://difusorafm.brasilstream.com.br/hls/difusorafm/index.m3u8
+#EXTINF:0,RÁDIO NOVA ONDA FM
+#EXTGRP:unsorted
+https://5a57bda70564a.streamlock.net/novaondafm/novaondafm.sdp/chunklist_w925747159.m3u8
+#EXTINF:0,RÁDIO CIDADE LITORAL
+#EXTGRP:unsorted
+https://tv02.zas.media:1936/cidadelitoral/cidadelitoral/chunklist_w207047863.m3u8
+#EXTINF:0,FM MUNDIAL
+#EXTGRP:unsorted
+https://virtues.es:1936/mundialfmpirassununga/mundialfmpirassununga/chunklist_w1563727305.m3u8
+#EXTINF:0,RÁDIO TRANSJOVEM
+#EXTGRP:unsorted
+https://srv6.zcast.com.br/raimundofrancisco4701/raimundofrancisco4701/playlist.m3u8
+#EXTINF:0,RÁDIO EU E VOCE
+#EXTGRP:unsorted
+https://virtues.es:1936/radioeuevoce/radioeuevoce/chunklist_w2076218547.m3u8
+#EXTINF:0,RÁDIO 102 AP FM
+#EXTGRP:unsorted
+https://stmv1.srvstm.com/rogerio2689/rogerio2689/chunklist_w1791525089.m3u8
+#EXTINF:0,RÁDIO PLANALTO FM
+#EXTGRP:unsorted
+https://cdn-planaltofm.ciclano.io:1443/planaltofm/planaltofm/chunklist_w2018644666.m3u8
+#EXTINF:0,RÁDIO PLANALTO NEWS
+#EXTGRP:unsorted
+https://cdn-rdplanalto.ciclano.io:1443/rdplanalto/rdplanalto/chunklist_w1840781305.m3u8
+#EXTINF:0,RÁDIO TAROBA FM
+#EXTGRP:unsorted
+https://cdn.jmvstream.com/w/LVW-8799/LVW8799_UJQ7Y9nliA/chunklist.m3u8
+#EXTINF:0,LIDER FM UBA
+#EXTGRP:unsorted
+https://lideruba.brasilstream.com.br/hls/lideruba/index.m3u8
+#EXTINF:0,RÁDIO EDUCADORA
+#EXTGRP:unsorted
+https://stmv1.transmissaodigital.com/educadoralaranjeirassul/educadoralaranjeirassul/chunklist_w366377505.m3u8
+#EXTINF:0,RÁDIO NATUREZA FM
+#EXTGRP:unsorted
+https://tv02.zas.media:1936/natureza/natureza/chunklist_w143124316.m3u8
+#EXTINF:0,ESTUDIO A FM
+#EXTGRP:unsorted
+https://5a57bda70564a.streamlock.net/estudioatv/estudioatv.sdp/chunklist_w1422113754.m3u8
+#EXTINF:0,ACÚSTIVO MPB
+#EXTGRP: MÚSICA ESPECIAL
+https://ia601203.us.archive.org/28/items/acustico-mpb-melhores-da-mpb-de-todos-os-tempos/Ac%C3%BAstico%20MPB%20-%20Melhores%20da%20MPB%20de%20Todos%20os%20Tempos.mp4
+#EXTINF:0,ENCONTROS SAMBA
+#EXTGRP: MÚSICA ESPECIAL
+https://ia601604.us.archive.org/29/items/encontros-samba-emilio-santiago-alcione-jorge-aragao/Encontros%20%EF%BD%9C%EF%BD%9C%20SAMBA%20%EF%BD%9C%EF%BD%9C%20Em%C3%ADlio%20Santiago%20%EF%BD%9C%20Alcione%20%EF%BD%9CJorge%20Arag%C3%A3o.mp4
+#EXTINF:0,TINA TURNER
+#EXTGRP: MÚSICA ESPECIAL
+https://ia600506.us.archive.org/21/items/t-i-n-a-t-u-r-n-e-r-greatest-hits-top-100-artists-to-listen-in-2022-2023/T%20i%20n%20a%20T%20u%20r%20n%20e%20r%20Greatest%20Hits%20~%20Top%20100%20Artists%20To%20Listen%20in%202022%20%26%202023.mp4?cnt=0
+#EXTINF:0,ANOS 70 & 80
+#EXTGRP: MÚSICA ESPECIAL
+https://ia801803.us.archive.org/31/items/retro-disco-funky-house-70-80s-michael-jackson-cheryl-lynn-luther-vandross-the-sylvers..._202308/Retro%20Disco-Funky%20House%2070%20%26%2080s%20%28Michael%20Jackson%2C%20Cheryl%20Lynn%2C%20Luther%20Vandross%2C%20The%20Sylvers...%29.mp4?cnt=0
+#EXTINF:0,AL JARREAU
+#EXTGRP: MÚSICA ESPECIAL
+https://ia802702.us.archive.org/33/items/al-jarreau-greatest-hist-full-album-2021/Al%20Jarreau%20Greatest%20Hist%20Full%20Album%202021.mp4?cnt=0
+#EXTINF:0,MELHOR DA MÚSICA DO BRASIL
+#EXTGRP: MÚSICA ESPECIAL
+https://ia601600.us.archive.org/16/items/brazil-bossa-nova-samba-musica-popular-brasileira/Brazil%20-%20Bossa%20Nova%2C%20Samba%2C%20M%C3%BAsica%20popular%20brasileira.mp4?cnt=0
+#EXTINF:0,MÚSICA DE LUXO
+#EXTGRP: MÚSICA ESPECIAL
+https://ia802902.us.archive.org/30/items/musica-de-lujo-musica-elegante-glamour-music-relajante/M%C3%BAsica%20de%20Lujo%2C%20Musica%20Elegante%2C%20Glamour%20Music%2C%20Relajante.mp4
+#EXTINF:0,ARETHA FRANKLIN
+#EXTGRP: MÚSICA ESPECIAL
+https://ia804707.us.archive.org/24/items/aretha-franklin-greatest-hits-official-full-album-aretha-franklin-best-songs-playlist_202309/Aretha%20Franklin%20-%20Greatest%20Hits%20%28Official%20Full%20Album%29%20%EF%BD%9C%20Aretha%20Franklin%20Best%20Songs%20Playlist.mp4?cnt=0
+#EXTINF:0,SÉRGIO MENDES
+#EXTGRP: MÚSICA ESPECIAL
+https://dn720307.ca.archive.org/0/items/sergio-mendes-brasil-66-greatest-hits-66/Sergio%20Mendes%20%26%20Brasil%20%2766%20Greatest%20hits%20%20%E6%83%B3%E3%81%84%E5%87%BA%E3%81%AE%E3%82%BB%E3%83%AB%E3%82%B8%E3%82%AA%E3%83%BB%E3%83%A1%E3%83%B3%E3%83%87%E3%82%B9%EF%BC%86%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB%2766.mp4
+#EXTINF:0,The Kpop Youtube 1
+#EXTGRP:KPOP
+https://livestream.zazerconer.workers.dev/channel/UCoRXPcv8XK5fAplLbk9PTww.m3u8
+#EXTINF:0,The Kpop Youtube 2
+#EXTGRP:KPOP
+https://ythls.armelin.one/channel/UCoRXPcv8XK5fAplLbk9PTww.m3u8
+#EXTINF:0,New Kpop.ᴴᴰ
+#EXTGRP:KPOP
+https://newidco-newkid-1-br.lg.wurl.tv/3000.m3u8
+#EXTINF:0,New Kpop MX.ᴴᴰ
+#EXTGRP:KPOP
+https://newidco-newkid-1-mx.lg.wurl.tv/3000.m3u8
 #EXTINF:0,RODEIO
 #EXTGRP:RITMO MUSICAL
 https://servidor28-4.brlogic.com:8544/live
@@ -213,24 +350,12 @@ http://stm18.xcast.com.br:7916/;
 #EXTINF:0,BREGA FUNK
 #EXTGRP:RITMO MUSICAL
 http://stm11.srvstm.com:8632/;
-#EXTINF:0,CATÓLICA
-#EXTGRP:RITMO MUSICAL
-https://s25.maxcast.com.br:8262/live?1608802945180
 #EXTINF:0,INSTRUMENTAL
 #EXTGRP:RITMO MUSICAL
 http://server02.ouvir.radio.br:8045/stream?1608804019044
-#EXTINF:0,ROBERTO CARLOS
-#EXTGRP:RITMO MUSICAL
-http://servidor15.brlogic.com:8058/live?1608801613909
 #EXTINF:0,MUSICA DE AMOR
 #EXTGRP:RITMO MUSICAL
 http://centova11.ciclanohost.com.br:9095/1;
-#EXTINF:0,VIBE
-#EXTGRP:RITMO MUSICAL
-http://45.136.151.3:8120/live?1608801765242
-#EXTINF:0,SERTANEJO HIT
-#EXTGRP:RITMO MUSICAL
-http://streaming.ntelecom.com.br:8508/;
 #EXTINF:0,Kids
 #EXTGRP:RITMO MUSICAL
 https://stream.zeno.fm/yuu82xwymwzuv?1608801932427
@@ -240,9 +365,6 @@ https://stream.zeno.fm/xe0sf9pfvbruv
 #EXTINF:0,Bossa Nova
 #EXTGRP:RITMO MUSICAL
 http://54.38.43.201:8009/stream-128kmp3-BossaNovaBrazil
-#EXTINF:0,Forro
-#EXTGRP:RITMO MUSICAL
-http://05.stmip.in:7288/1;
 #EXTINF:0,Pagode
 #EXTGRP:RITMO MUSICAL
 https://stream.zeno.fm/7sdtm8c8y5quv
@@ -264,9 +386,6 @@ https://stream.zeno.fm/3rdwqmk9y5quv
 #EXTINF:0,Anos 70
 #EXTGRP:RITMO MUSICAL
 http://199.233.234.34:25418/stream?1608802449419
-#EXTINF:0,Anos 80
-#EXTGRP:RITMO MUSICAL
-http://stm11.srvstm.com:7924/;
 #EXTINF:0,Anos 90
 #EXTGRP:RITMO MUSICAL
 https://stream.zeno.fm/6p61tgqh1xquv
@@ -276,21 +395,12 @@ https://stream.zeno.fm/brmyanbuk2zuv
 #EXTINF:0,Rap Nacional
 #EXTGRP:RITMO MUSICAL
 http://216.245.204.226:8028/live
-#EXTINF:0,Rock Brasil
-#EXTGRP:RITMO MUSICAL
-http://node-26.zeno.fm/h23mxsg3a0quv?rj-ttl=5&amp;
 #EXTINF:0,Eletronica
 #EXTGRP:RITMO MUSICAL
 http://suaradio1.dyndns.ws:13636/stream?_=953
-#EXTINF:0,Festa
-#EXTGRP:RITMO MUSICAL
-http://6d9a.webradio.upx.net.br:9070/stream
 #EXTINF:0,Gospel
 #EXTGRP:RITMO MUSICAL
 http://centova2.euroti.com.br:8131/stream?1608742932643
-#EXTINF:0,Hip Hop
-#EXTGRP:RITMO MUSICAL
-https://stream.geracaoradios.com:7014/stream?1608802734849
 #EXTINF:0,Jazz
 #EXTGRP:RITMO MUSICAL
 https://streaming.wkar.msu.edu/wkar-jazz
@@ -300,15 +410,9 @@ http://euroticast5.euroti.com.br:8070/;
 #EXTINF:0,Brega
 #EXTGRP:RITMO MUSICAL
 https://stream.zeno.fm/dxe2we5z3tzuv
-#EXTINF:0,Musica Classica
-#EXTGRP:RITMO MUSICAL
-https://streaming.live365.com/b37545_128mp3
 #EXTINF:0,New Rock
 #EXTGRP:RITMO MUSICAL
 http://powerhitz.powerhitz.com:6530/;
-#EXTINF:0,Reggae
-#EXTGRP:RITMO MUSICAL
-https://s16.maxcast.com.br:8028/live
 #EXTINF:0,Sertanejo Universitario
 #EXTGRP:RITMO MUSICAL
 https://stream.zeno.fm/f7qe0be3smzuv
@@ -321,531 +425,15 @@ https://stream.zeno.fm/qn1pyp1fceruv
 #EXTINF:0,Metal
 #EXTGRP:RITMO MUSICAL
 http://centova.euroti.com.br:8024/stream;
-#EXTINF:0,Trilhas Sonoras
-#EXTGRP:RITMO MUSICAL
-https://s25.maxcast.com.br:8262/live?1608802945180
-#EXTINF:0,PATATI PATATA 1
-#EXTGRP:INFANTIL
-https://ia801409.us.archive.org/35/items/dvdvoltaaomundo_202206/PATATI_PATATA_VOLTA_AO_MUNDO1.mp4
-#EXTINF:0,ELVIS PRESLEY
-#EXTGRP:GRANDES CANTORES
-https://ia802207.us.archive.org/3/items/elvis-in-concert-june-19-1977-omaha-ne/Elvis%20in_concert_june%2019%201977%20Omaha%2CNE.ia.mp4?cnt=0
-#EXTINF:0,MADONNA
-#EXTGRP:GRANDES CANTORES
-https://ia800106.us.archive.org/16/items/Madonna_Blond_Ambition_World_Tour_90/Madonna%20Blond%20Ambition%20World%20Tour%2090%20Live%201991-07-28.mp4
-#EXTINF:0,FRANK SINATRA LIZA MINNELLI SAMMY DAVIS JR
-#EXTGRP:GRANDES CANTORES
-https://ia801801.us.archive.org/30/items/frank-liza-and-sammy-the-ultimate-event-1989/Frank%2C%20Liza%20and%20Sammy%20-%20The%20Ultimate%20Event%21%20%281989%29.mp4?cnt=0
-#EXTINF:0,MARIAH CAREY
-#EXTGRP:GRANDES CANTORES
-https://ia801404.us.archive.org/9/items/mtv-special-remixes-mariah-carey-fan-made-2022-part.-1-by-novak/MTV%20SPECIAL%20REMIXES%20-%20Mariah%20Carey%20%28fan%20Made%29%20%282022%29%20Part.1%20by%20Nov%C3%A1k.mp4?cnt=0
-#EXTINF:0,MICHAEL JACKSON
-#EXTGRP:GRANDES CANTORES
-https://ia802907.us.archive.org/2/items/m6michaeljackson1rf27/Suite%20Clips%20MJ%20.ia.mp4
-#EXTINF:0,ROD STEWART
-#EXTGRP:GRANDES CANTORES
-https://ia903008.us.archive.org/1/items/RodStewart_201905/Title%2002.mp4?cnt=0
-#EXTINF:0,BRUCE SPRINGSTEEN
-#EXTGRP:GRANDES CANTORES
-https://ia801905.us.archive.org/22/items/springsteen-80s/Springsteen%2080s.mp4?cnt=0
-#EXTINF:0,DIANA ROSS
-#EXTGRP:GRANDES CANTORES
-https://ia802305.us.archive.org/23/items/diana-a-diana-ross-tv-special-april-1971/Diana%21%20A%20Diana%20Ross%20TV%20Special%20%28April%2C%201971%29.mp4?cnt=0
-#EXTINF:0,LEGIÃO URBANA
-#EXTGRP:GRANDES BANDAS BRASILEIRAS
-https://ia801509.us.archive.org/8/items/fita-3-d-show-legia-o-urbana-metropolitan-rio-1994/FITA%203D%20-%20SHOW%20LEGI%C3%83O%20URBANA%20-%20METROPOLITAN%20RIO%201994.mp4?cnt=0
-#EXTINF:0,NOVOS BAIANOS
-#EXTGRP:GRANDES BANDAS BRASILEIRAS
-https://ia802901.us.archive.org/4/items/novosbaianosfutebolclubesolanoribeiro1973/Novos%20Baianos%20Futebol%20Clube%20%28Solano%20Ribeiro%2C%201973%29.mp4?cnt=0
-#EXTINF:0,OS MUTANTES
-#EXTGRP:GRANDES BANDAS BRASILEIRAS
-https://ia904703.us.archive.org/0/items/mutantes-bootleg/Os%20Mutantes%20-%20Bootleg.ia.mp4?cnt=0
-#EXTINF:0,SEPULTURA
-#EXTGRP:GRANDES BANDAS BRASILEIRAS
-https://ia801902.us.archive.org/26/items/Sepultura_Alive-at-Rock-in-Rio_Cidade-do-Rock_Rio-de-Janeiro-2013/Sepultura_Alive-at-Rock-in-Rio_Cidade-do-Rock_Rio-de-Janeiro_2013.mp4?cnt=0
-#EXTINF:0,ANGRA
-#EXTGRP:GRANDES BANDAS BRASILEIRAS
-https://ia803203.us.archive.org/20/items/angra-angels-cry-20th-anniversary-tour-2013/ANGRA%20-%20Angels%20Cry%2020th%20Anniversary%20Tour%20%282013%29.mp4?cnt=0
-#EXTINF:0,CAPITAL INICIAL
-#EXTGRP:GRANDES BANDAS BRASILEIRAS
-https://ia904604.us.archive.org/23/items/capital-inicial-acustico-mtv/Capital%20Inicial%20-%20Acustico%20MTV.mp4?cnt=0
-#EXTINF:0,ENGENHEIROS DO HAWAII
-#EXTGRP:GRANDES BANDAS BRASILEIRAS
-https://ia804608.us.archive.org/5/items/acustico-mtv-engenheiros-do-hawaii/MTV%20Acustico%20Engenheiros%20do%20Hawaii.mp4?cnt=0
-#EXTINF:0,PINK FLOYD 1980
-#EXTGRP:GRANDES BANDAS MUNDIAIS
-https://ia902909.us.archive.org/15/items/PFLiveAtNassau/Pink%20Floyd%20Live%20At%20Nassau%20Feb27th1980.mp4?cnt=0
-#EXTINF:0,THE BEATLES
-#EXTGRP:GRANDES BANDAS MUNDIAIS
-https://ia803206.us.archive.org/24/items/04-the-beatles-anthology-abc-broadcast-version-1995/01%20The%20Beatles%20-%20A%20Hard%20Day%27s%20Night%20%5BSpecial%20Edition%5D.mp4?cnt=0
-#EXTINF:0,THE ROLLING STONES
-#EXTGRP:GRANDES BANDAS MUNDIAIS
-https://ia801505.us.archive.org/3/items/The_Rolling_Stones_Tape_5_We_Should_Have_Won_The_Contest_Revisited_Mr_Sucky/The_Rolling_Stones_Tape_5_We_Should_Have_Won_The_Contest_Revisited_Mr_Sucky.mp4?cnt=0
-#EXTINF:0,LED ZEPPELIN
-#EXTGRP:GRANDES BANDAS MUNDIAIS
-https://ia802808.us.archive.org/30/items/ledzeppelinliveindortmundgermanyjune17th1980_202001/Led%20Zeppelin%20-%20Live%20in%20Dortmund%2C%20Germany%20%28June%2017th%2C%201980%29.mp4?cnt=0
-#EXTINF:0,U2
-#EXTGRP:GRANDES BANDAS MUNDIAIS
-https://ia601705.us.archive.org/26/items/vhs-tape-1983-u2-live-at-red-rocks-under-a-blood-red-sky/VHS%20Tape%20-%201983%20-%C2%A0U2%20-%20Live%20at%20Red%20Rocks%20-%20Under%20a%20Blood%20Red%20Sky.ia.mp4?cnt=0
-#EXTINF:0,THE WHO
-#EXTGRP:GRANDES BANDAS MUNDIAIS
-https://ia802304.us.archive.org/9/items/the-who-tommy-live-special-guests/The%20Who%20%20-%20%20Tommy%20%28Live%20%26%20Special%20Guests%29.mp4
-#EXTINF:0,NIRVANA
-#EXTGRP:GRANDES BANDAS MUNDIAIS
-https://ia600808.us.archive.org/33/items/youtube-Sf16YAMpDgY/Nirvana_-_23_01_1993_Praca_da_Apoteose_RJ_BR_Legendado-Sf16YAMpDgY.mp4?cnt=0
-#EXTINF:0,THE DOORS
-#EXTGRP:GRANDES BANDAS MUNDIAIS
-https://ia802306.us.archive.org/9/items/the-doors-hollywood-bowl-1968-vhs/TheDoors_HollywoodBowl1968_%5B1987%5D.mp4?cnt=0
-#EXTINF:0,YES
-#EXTGRP:GRANDES BANDAS MUNDIAIS
-https://ia803203.us.archive.org/34/items/yes-greatest-video-hits/Yes%20-%20Greatest%20Video%20Hits.mp4?cnt=0
-#EXTINF:0,VAN HALEN
-#EXTGRP:GRANDES BANDAS MUNDIAIS
-https://ia801405.us.archive.org/9/items/Van_Halen_Sydney_Entertainment_Centre_Sydney_Australia_1998-04-20/Van_Halen_Sydney_Entertainment_Centre_Sydney_Australia_1998-04-20.mp4?cnt=0
-#EXTINF:0,DEEP PURPLE
-#EXTGRP:GRANDES BANDAS MUNDIAIS
-https://ia801802.us.archive.org/0/items/deep-purple-mk-3-space-truckin-original-iso_202101/DEEP%20PURPLE%20%28MK3%29%20%28Space%20Truckin%27%29%20Original%20ISO.mp4?cnt=0
-#EXTINF:0,AEROSMITH
-#EXTGRP:GRANDES BANDAS MUNDIAIS
-https://ia902309.us.archive.org/16/items/aerosmith-mtv-unplugged-complete-unaired-version-dvd-workprint/Aerosmith%20MTV%20Unplugged%20%28Complete%20unaired%20version%29%20DVD%20Workprint.mp4?cnt=0
-#EXTINF:0,IRON MAIDEN
-#EXTGRP:GRANDES BANDAS MUNDIAIS
-https://ia801503.us.archive.org/23/items/Iron_Maiden_Long_Beach_CA_1985-03-15/Iron_Maiden_Long_Beach_CA_1985-03-15.mp4?cnt=0
-#EXTINF:0,BLACK SABBATH
-#EXTGRP:GRANDES BANDAS MUNDIAIS
-https://ia801507.us.archive.org/1/items/Black_Sabbath_Sao_Paulo_Brazil_1994-08-27/Black_Sabbath_Sao_Paulo_Brazil_1994-08-27.mp4?cnt=0
-#EXTINF:0,METALLICA
-#EXTGRP:GRANDES BANDAS MUNDIAIS
-https://ia801405.us.archive.org/8/items/Metallica_Stuttgart_1997-08-23/Metallica_Stuttgart_1997-08-23.mp4?cnt=0
-#EXTINF:0,PESRL JAN
-#EXTGRP:GRANDES BANDAS MUNDIAIS
-https://ia902905.us.archive.org/25/items/pearljamearlyvideosandlive/Pearl%20Jam%20-%20Early%20Videos%20And%20Live.mp4?cnt=0
-#EXTINF:0,SCORPIONS
-#EXTGRP:GRANDES BANDAS MUNDIAIS
-https://ia803009.us.archive.org/30/items/scorpionsvideo.collection.2011.xvid.dvdripkaspr/Scorpions-Video.Collection.2011.XviD.DVDRip_kaspr.mp4?cnt=0
-#EXTINF:0,LINKIN PARK
-#EXTGRP:GRANDES BANDAS MUNDIAIS
-https://ia801607.us.archive.org/32/items/youtube-7Mxg4VkkRRI/Live_In_Texas_Full_-_Linkin_Park-7Mxg4VkkRRI.mp4?cnt=0
-#EXTINF:0,DIRE STRAITS
-#EXTGRP:GRANDES BANDAS MUNDIAIS
-https://ia804709.us.archive.org/31/items/mtv-6-2-84-dire-straits-concert-special-live-in-london/MTV%206%202%2084%20DIRE%20STRAITS%20CONCERT%20SPECIAL%20LIVE%20IN%20LONDON.ia.mp4?cnt=0
-#EXTINF:0,RAMONES
-#EXTGRP:GRANDES BANDAS MUNDIAIS
-https://ia904505.us.archive.org/8/items/20141231-the-ramones-ramones-live-at-the-rainbow-december-31-1977/20141231_The%20Ramones_Ramones%20-%20Live%20At%20The%20Rainbow%20-%20December%2031%2C%201977.mp4?cnt=0
-#EXTINF:0,COLDPLAY
-#EXTGRP:GRANDES BANDAS MUNDIAIS
-https://ia600607.us.archive.org/15/items/videojam687/VIDEOJAM687.mp4?cnt=0
-#EXTINF:0,RUSH
-#EXTGRP:GRANDES BANDAS MUNDIAIS
-https://ia801800.us.archive.org/9/items/vhs-tape-rush-fresno-ca-february-8th-1994/VHS%20Tape%20-%20Rush%20-%20Fresno%2C%20CA%20-%20February%208th%2C%201994.ia.mp4
-#EXTINF:0,MOTORHEAD
-#EXTGRP:GRANDES BANDAS MUNDIAIS
-https://ia802900.us.archive.org/18/items/TheVistaGroup-MotorheadLiveTheBirthdayParty/Motorhead%20Live%20-%20The%20Birthday%20Party%20%E2%80%A2%2060%20FPS%201985.ia.mp4?cnt=0
-#EXTINF:0,THE POLICE
-#EXTGRP:GRANDES BANDAS MUNDIAIS
-https://ia802900.us.archive.org/22/items/thepolicemusicvideocollection/The%20Police%20-%20Music%20Video%20Collection.mp4?cnt=0
-#EXTINF:0,OASIS
-#EXTGRP:GRANDES BANDAS MUNDIAIS
-https://ia902200.us.archive.org/13/items/oasis-mtv-live-unplugged-1996/Oasis%20MTV%20Live%20Unplugged%20%281996%29.mp4?cnt=0
-#EXTINF:0,BEACH BOYS
-#EXTGRP:GRANDES BANDAS MUNDIAIS
-https://ia802801.us.archive.org/8/items/Concerts_in_the_Park_-_Surf_s_Up_Beach_Boys_Tribute/Concerts_in_the_Park_-_Surf_s_Up_Beach_Boys_Tribute.mp4?cnt=0
-#EXTINF:0,THE CURE
-#EXTGRP:GRANDES BANDAS MUNDIAIS
-https://ia904604.us.archive.org/23/items/Cure_2012-06-11_video/2012-06-11%20Tushino%20Air%20Field%2C%20Moscow%2C%20Russia%20%5BVideo%5D%2FThe%20Cure%20-%20Maxidrom%202012%2C%20Tushino%20Airfield%2C%20Moscow%2C%20Russia%20%5B2012-06-11%2C%20AUD%5D.mp4?cnt=0
-#EXTINF:0,OLIVIA NEWRON JOHN
-#EXTGRP:GRANDES BANDAS MUNDIAIS
-https://ia802302.us.archive.org/5/items/olivia-newton-john-television-specials/Olivia%20Newton%20John%2FOlivia%20-%20Hollywood%20Nights%20%28Apr%201980%29.mp4
-#EXTINF:0,BON JOVI
-#EXTGRP:GRANDES BANDAS MUNDIAIS
-https://ia802503.us.archive.org/35/items/Bon_Jovi_Tokyo_1985-04-28_and_1984/Bon_Jovi_Tokyo_1985-04-28_and_1984.mp4?cnt=0
-#EXTINF:0,MARCELO D2
-#EXTGRP:SHOWS
-https://ia804709.us.archive.org/14/items/marcelo-d-2-acustico/Marcelo_D2_Acustico.mp4?cnt=0
-#EXTINF:0,CIDADE NEGRA
-#EXTGRP:SHOWS
-https://ia804702.us.archive.org/25/items/cidade-negra/Cidade%20Negra.mp4?cnt=0
-#EXTINF:0,CÁSSIA ELLER 2015
-#EXTGRP:SHOWS
-https://ia803104.us.archive.org/10/items/cassia-eller-2015-documentario/C%C3%A1ssia%20Eller%20%282015%29%20-%20Document%C3%A1rio.mp4?cnt=0
-#EXTINF:0,LUIZ GONZAGA
-#EXTGRP:SHOWS
-https://ia804604.us.archive.org/32/items/luiz-gonzaga/LUIZ_GONZAGA.mp4
-#EXTINF:0,GIAN GIOVANI
-#EXTGRP:SHOWS
-https://ia601509.us.archive.org/2/items/gian-giovani-uma-historia-de-sucesso-show-completo/Gian%20%20Giovani%20%20Uma%20Hist%C3%B3ria%20De%20Sucesso%20%20Show%20Completo.ia.mp4?cnt=0
-#EXTINF:0,JOÃO GILBERTO
-#EXTGRP:SHOWS
-https://ia902307.us.archive.org/31/items/editor_202109/Editor.ia.mp4?cnt=0
-#EXTINF:0,CLUBE DO SAMBA
-#EXTGRP:SHOWS
-https://ia803208.us.archive.org/25/items/mix-live-de-terca-2020-wsl-28-dlay-clube-do-samba-1080/MixLive%20de%20Ter%C3%A7a%202020%20%23WSL28%20DLay%20%5BClube%20do%20Samba%5D%201080.ia.mp4
-#EXTINF:0,BIQUINI CAVADÃO
-#EXTGRP:SHOWS
-https://ia801906.us.archive.org/13/items/biquini-cavadao-ao-vivo-dvd-480-p-1/Biquini%20Cavad%C3%A3o%20-%20Ao%20Vivo%20%28DVD%29%28480P%29_1.ia.mp4?cnt=0
-#EXTINF:0,LEGIÃO URBANA
-#EXTGRP:SHOWS
-https://ia803201.us.archive.org/1/items/legiao-urbana-ao-vivo-no-jockey-club-1990/Legi%C3%A3o%20Urbana%20ao%20vivo%20no%20Jockey%20Club%20%281990%29.ia.mp4?cnt=0
-#EXTINF:0,BTS
-#EXTGRP:SHOWS
-https://ia902500.us.archive.org/9/items/f0b3bad6-13eb-47de-b532-5b77d09384f4/TURNE%CC%82%20AME%20VOCE%CC%82%20MESMO%20EM%20NOVA%20IORQUE%20-%20SHOW%20%5BPT-BR%5D.ia.mp4?cnt=0
-#EXTINF:0,ACÚSTICO MTV TITÃS
-#EXTGRP:SHOWS
-https://ia803105.us.archive.org/0/items/acustico-MTV-titas-volume2/MTV%20Acustico%20Titas.mp4?cnt=0
-#EXTINF:0,SAMBÔ
-#EXTGRP:SHOWS
-https://ia802307.us.archive.org/16/items/ddp-sambo/DDP%20SAMBO%CC%82.mp4
-#EXTINF:0,ALOK 2016 ULTRA BRASIL
-#EXTGRP:SHOWS
-https://ia601708.us.archive.org/11/items/alok-live-ultra-music-festival-brasil-2016/ALOK%20Live%20%40%20Ultra%20Music%20Festival%20Brasil%20-%202016.mp4
-#EXTINF:0,FESTA SERTANEJA
-#EXTGRP:SHOWS
-https://ia802309.us.archive.org/18/items/festa-sertaneja-2/FESTA_SERTANEJA_2.mp4?cnt=0
-#EXTINF:0,WESLEY SAFADÃO 2016
-#EXTGRP:SHOWS
-https://ia800202.us.archive.org/27/items/WesleySafadaoAoVivoEmBrasilia/Wesley_Safad%C3%A3o_-_Ao_Vivo_em_Brasilia.mp4?cnt=0
-#EXTINF:0,VANESSA DA MATA
-#EXTGRP:SHOWS
-https://ia801906.us.archive.org/9/items/dvd-vanessa-da-mata-carnaval-do-recife-2017-show-completo-360-p-1/DVD%20Vanessa%20da%20Mata%20-%20Carnaval%20do%20Recife%202017%20%28Show%20Completo%29%28360P%29_1.mp4?cnt=0
-#EXTINF:0,PET SHOP BOYS
-#EXTGRP:SHOWS
-https://ia803201.us.archive.org/29/items/pet-shop-boys-in-the-80s-480-p-1/Pet%20Shop%20Boys%20in%20the%2080s%28480P%29_1.ia.mp4?cnt=0
-#EXTINF:0,BIQUINI CAVADÃO CIRCO VOADOR
-#EXTGRP:SHOWS
-https://ia903201.us.archive.org/20/items/biquini.-cavadao.-ao-vivo-2-circo-voador-completo-720x-480-hd-480-p-1/Biquini.Cavad%C3%A3o.Ao%20Vivo%202%20Circo%20Voador%20completo%20%28720x480%29%20HD%28480P%29_1.ia.mp4?cnt=0
-#EXTINF:0,LOLLAPALOOZA CHICAGO 2022 - J-HOPE
-#EXTGRP:SHOWS
-https://ia801404.us.archive.org/1/items/4e6d97b0-c19b-4b0f-bde4-44f1bc498706/LOLLAPALOOZA%20CHICAGO%202022%20-%20J-HOPE%20%5BRAW%5D.ia.mp4?cnt=0
-#EXTINF:0,Habstrakt  Lollapalooza Chicago 2022
-#EXTGRP:SHOWS
-https://ia801502.us.archive.org/32/items/lollapalooza-20220731-habstrakt-360p/Lollapalooza%2020220731%20%20Habstrakt%20360p.mp4?cnt=0
-#EXTINF:0,2017 I
-#EXTGRP:ROCK IN RIO
-https://ia601401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/maroon52017.mp4?cnt=0
-#EXTINF:0,AEROSMITH
-#EXTGRP:ROCK IN RIO
-https://ia801401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Aerosmith%20Rock%20in%20Rio%202017-%28480p%29.ia.mp4
-#EXTINF:0,2019 I
-#EXTGRP:ROCK IN RIO
-https://ia601401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Anthrax%20-%20Rock%20in%20Rio%202019%28360p%29%20%281%29.mp4
-#EXTINF:0,2019 II
-#EXTGRP:ROCK IN RIO
-https://ia801401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Bebe%20Rexha%20-%20Rock%20in%20Rio%202019%20HD%201080-%28480p%29.ia.mp4
-#EXTINF:0,2019 III
-#EXTGRP:ROCK IN RIO
-https://ia601401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Charlie%20Puth%20%20-%20Rock%20in%20Rio%202019%20%28Best%20Quality%29.mp4
-#EXTINF:0,2019 IV
-#EXTGRP:ROCK IN RIO
-https://ia801401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Ellie%20Goulding%20-%20Rock%20in%20Rio%202019%20%28Best%20Quality%29%28360p%29.mp4
-#EXTINF:0,FOO FIGHTERS
-#EXTGRP:ROCK IN RIO
-https://ia801401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Foo%20Fighters%20-%20Rock%20in%20Rio%202019-%28480p%29.ia.mp4
-#EXTINF:0,HER
-#EXTGRP:ROCK IN RIO
-https://ia801401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-H%20E%20R%20-%20Rock%20in%20Rio%202019%20%28Best%20Quality%29.mp4
-#EXTINF:0,2019 V
-#EXTGRP:ROCK IN RIO
-https://ia601401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Halloween%20-%20Rock%20in%20Rio%202019%20%28Best%20Quality%29%28360p%29.mp4
-#EXTINF:0,IMAGINE DRAGONS
-#EXTGRP:ROCK IN RIO
-https://ia601401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Imagine%20Dragons%20-%20Rock%20in%20Rio%202019%20%28Best%20Quality%29.mp4
-#EXTINF:0,IRON MAIDEN
-#EXTGRP:ROCK IN RIO
-https://ia601401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Iron%20Maiden%20Rock%20in%20Rio%202019-%28480p%29.ia.mp4
-#EXTINF:0,JESSIE J
-#EXTGRP:ROCK IN RIO
-https://ia601401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Jessie%20J%20-%20Rock%20in%20Rio%202019%20%28Best%20Quality%29%28360p%29.mp4
-#EXTINF:0,JUSTIN TIMBERLAKE
-#EXTGRP:ROCK IN RIO
-https://ia601401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Justin%20Timberlake%20-%20Rock%20in%20Rio%202017-%28480p%29.ia.mp4
-#EXTINF:0,KATY PERRY
-#EXTGRP:ROCK IN RIO
-https://ia601401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Katy%20Perry%20Live%20%20Rock%20in%20Rio%202015%20HD%20%20brasil.mp4
-#EXTINF:0,MRS CARTER WORLD TOUR BEYONCÉ
-#EXTGRP:ROCK IN RIO
-https://ia601401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Mrs.%20Carter%20World%20Tour%20-%20Beyonc%C3%A9%20Ao%20Vivo%20no%20Rock%20in%20Rio%20Brasil%20%282013%29.mp4
-#EXTINF:0,NICKELBACK
-#EXTGRP:ROCK IN RIO
-https://ia801401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Nickelback%20-%20Rock%20in%20Rio%202019%20%28Best%20Quality%29-%28480p%29.ia.mp4
-#EXTINF:0,PINK
-#EXTGRP:ROCK IN RIO
-https://ia801401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-P%21nk%20-%20Rock%20in%20Rio%202019%20%28Best%20Quality%29%28360p%29.mp4
-#EXTINF:0,PANIC!
-#EXTGRP:ROCK IN RIO
-https://ia801401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Panic%21%20At%20The%20Disco_Rock%20In%20Rio%202019-Full%20Performance%20In%204K-%28480p%29.ia.mp4
-#EXTINF:0,RED HOT CHILI PEPPERS
-#EXTGRP:ROCK IN RIO
-https://ia601401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Red%20Hot%20Chili%20Peppers%20-%20Rock%20in%20Rio%202019%20%28Best%20quality%29-%28480p%29.ia.mp4
-#EXTINF:0,RIHANNA
-#EXTGRP:ROCK IN RIO
-https://ia801401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Rihanna%20-%20Live_Ao%20Vivo%20at%20Rock%20in%20Rio%20Brazil%20%28Complete%20Show%29%20HD-%28480p%29.ia.mp4
-#EXTINF:0,RIHANNA
-#EXTGRP:ROCK IN RIO
-https://ia801401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Rihanna%20-%20Live_Ao%20Vivo%20at%20Rock%20in%20Rio%20Brazil%20%28Complete%20Show%29%20HD-%28480p%29.ia.mp4
-#EXTINF:0,SEAL
-#EXTGRP:ROCK IN RIO
-https://ia801401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Seal%20-%20Rock%20in%20Rio%202019%20%28Best%20Quality%29.mp4
-#EXTINF:0,SEPULTURA
-#EXTGRP:ROCK IN RIO
-https://ia801401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Sepultura%20-%20Rock%20in%20Rio%202019-%28480p%29.ia.mp4
-#EXTINF:0,SLIPKNOT
-#EXTGRP:ROCK IN RIO
-https://ia601401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Slipknot%20-%20Rock%20in%20Rio%202011%20HD%20%20%28Full%20Concert%29-%28480p%29.ia.mp4
-#EXTINF:0,SYSTEM OF A DOWN
-#EXTGRP:ROCK IN RIO
-https://ia601401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-System%20Of%20A%20Down%20-%20Rock%20In%20Rio%202015%20-%20Completo%20Full%20Show%20HD%20-%20Full%20concert-%28480p%29.ia.mp4
-#EXTINF:0,TENACIOUS D
-#EXTGRP:ROCK IN RIO
-https://ia801401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Tenacious%20D%20-%20Rock%20in%20Rio%202019%20%28Best%20Quality%29%28360p%29.mp4
-#EXTINF:0,THE BLACK EYED PEAS
-#EXTGRP:ROCK IN RIO
-https://ia601401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-The%20Black%20Eyed%20Peas%20-%20Rock%20in%20Rio%202019%20%28Best%20Quality%29-%28480p%29.ia.mp4
-#EXTINF:0,WEEZER
-#EXTGRP:ROCK IN RIO
-https://ia601401.us.archive.org/26/items/x-2mate.com-guns-n-roses-rock-in-rio-2017-480p/x2mate.com-Weezer%20-%20Rock%20in%20Rio%202019%20%28Best%20Quality%29%28360p%29.mp4
-#EXTINF:0,1994
-#EXTGRP:HOLLYWOOD ROCK
-https://ia803405.us.archive.org/21/items/hollywood-rock-1994/Hollywood%20Rock%201994.mp4?cnt=0
-#EXTINF:0,1988
-#EXTGRP:HOLLYWOOD ROCK
-https://ia903408.us.archive.org/22/items/hollywood-rock-1988/Hollywood%20Rock%201988.mp4?cnt=0
-#EXTINF:0,1992
-#EXTGRP:HOLLYWOOD ROCK
-https://ia903403.us.archive.org/26/items/hollywood-rock-1992/Hollywood%20Rock%201992.mp4?cnt=0
-#EXTINF:0,1993
-#EXTGRP:HOLLYWOOD ROCK
-https://ia903406.us.archive.org/18/items/hollywood-rock-1993/Hollywood%20Rock%201993.mp4?cnt=0
-#EXTINF:0,1996
-#EXTGRP:HOLLYWOOD ROCK
-https://ia904503.us.archive.org/24/items/hollywood-rock-1996/Hollywood%20Rock%201996.mp4?cnt=0
-#EXTINF:0,1995
-#EXTGRP:HOLLYWOOD ROCK
-https://ia803407.us.archive.org/32/items/hollywood-rock-1995/Hollywood%20Rock%201995.mp4?cnt=0
-#EXTINF:0,MPB AS MELHORES
-#EXTGRP:MÚSICAS VARIADAS
-https://ia601705.us.archive.org/27/items/mpb-as-melhores-mpb-antigas-acustico-e-classicos-mpb-relax-mpb-de-domingo-anos-80-e-90-720-p-hd-1/MPB%20As%20Melhores%20%E2%98%80%20MPB%20Antigas_%20Ac%C3%BAstico%20e%20Cl%C3%A1ssicos%20_%20MPB%20Relax%20_%20MPB%20de%20Domingo%20anos%2080%20e%2090%28720P_HD%29_1.mp4?cnt=0
-#EXTINF:0,SERTANEJO 3
-#EXTGRP:MÚSICAS VARIADAS
-https://ia601406.us.archive.org/33/items/universo-sertanejo-3/Universo%20Sertanejo3.ia.mp4?cnt=0
-#EXTINF:0,BEE GEES
-#EXTGRP:MÚSICAS VARIADAS
-https://ia601404.us.archive.org/29/items/coletanea-bee-gees/COLETANEA%20BEE%20GEES.mp4?cnt=0
-#EXTINF:0,TRACY CHAPMAN
-#EXTGRP:MÚSICAS VARIADAS
-https://ia804603.us.archive.org/0/items/tracy-chapman-greatest-hits-full-album-best-songs-of-tracy-chapman-tracy-chapman-playlist-2021/Tracy%20Chapman%20Greatest%20Hits%20Full%20Album%20-%20Best%20Songs%20Of%20Tracy%20Chapman%20-%20Tracy%20Chapman%20Playlist%202021.ia.mp4?cnt=0
-#EXTINF:0,SERTANEJO 4
-#EXTGRP:MÚSICAS VARIADAS
-https://ia801400.us.archive.org/9/items/universo-sertanejo-4/Universo%20Sertanejo%204.ia.mp4?cnt=0
-#EXTINF:0,SERTANEJO 2
-#EXTGRP:MÚSICAS VARIADAS
-https://ia801504.us.archive.org/8/items/universo-sertanejo-2/Universo%20Sertanejo2.ia.mp4?cnt=0
-#EXTINF:0,SERTANEJO 1
-#EXTGRP:MÚSICAS VARIADAS
-https://ia601508.us.archive.org/24/items/universo-sertanejo/Universo%20Sertanejo.ia.mp4?cnt=0
-#EXTINF:0,SERTANEJO ROMÂNTICO
-#EXTGRP:MÚSICAS VARIADAS
-https://ia802309.us.archive.org/13/items/sertanejoromantico/SERTANEJO%20ROMANTICO.ia.mp4?cnt=0
-#EXTINF:0,TOP SERTANEJO 2021
-#EXTGRP:MÚSICAS VARIADAS
-https://ia804504.us.archive.org/4/items/topsertanejo2021/TOP%20SERTANEJO%202021.ia.mp4?cnt=0
-#EXTINF:0,SERTANEJO 5
-#EXTGRP:MÚSICAS VARIADAS
-https://ia601507.us.archive.org/32/items/universo-sertanejo-5/Universo%20Sertanejo%205.ia.mp4?cnt=0
-#EXTINF:0,SOM BRASIL
-#EXTGRP:MÚSICAS VARIADAS
-https://ia801402.us.archive.org/22/items/som-brasil-vol-1/Som%20Brasil%20vol1.ia.mp4?cnt=0
-#EXTINF:0,BOSSA NOVA
-#EXTGRP:MÚSICAS VARIADAS
-https://ia802307.us.archive.org/13/items/bossa-in-rio/BOSSA_IN_RIO.mp4
-#EXTINF:0,ROCK NACIONAL
-#EXTGRP:MÚSICAS VARIADAS
-https://seed163.bitchute.com/lmV0qAJ1h1xW/5a7NstOiY9Ja.mp4
-#EXTINF:0,ROCK NACIONAL ANOS 80
-#EXTGRP:MÚSICAS VARIADAS
-https://seed125.bitchute.com/lmV0qAJ1h1xW/3CBY4zEfqjyi.mp4
-#EXTINF:0,ADRYANA RIBEIRO GRANDES SUCESSOS
-#EXTGRP:MÚSICAS VARIADAS
-https://ia801507.us.archive.org/18/items/adryana-ribeiro-grandes-sucessos/Adryana%20Ribeiro%20-%20Grandes%20Sucessos.ia.mp4?cnt=0
-#EXTINF:0,SET MIX PAGODE
-#EXTGRP:MÚSICAS VARIADAS
-https://ia902908.us.archive.org/5/items/setmixpagode2020vol.01juniorcaladomagistral/Set%20Mix%20Pagode%202020%20Vol.01%20-%20Junior%20Calado%20Magistral.mp4
-#EXTINF:0,MÚSICAS ELETRÔNICAS
-#EXTGRP:MÚSICAS VARIADAS
-https://ia801408.us.archive.org/17/items/musicas-eletronicas-parte-17_202209/Musicas%20Eletronicas%20Parte%2017.mp4?cnt=0
-#EXTINF:0,ROCK BRASIL
-#EXTGRP:MÚSICAS VARIADAS
-https://ia601807.us.archive.org/26/items/curso-completo-de-filosofia-para-o-enem-/Curso%20Completo%20de%20Filosofia%20para%20o%20Enem%20%28720p_30fps_H264-192kbit_AAC%29.mp4?cnt=0
-#EXTINF:0,MTV HITS
-#EXTGRP:MÚSICAS VARIADAS
-https://ia801407.us.archive.org/6/items/music-videos-MTVBrasil-MTVHits/DaneTV%20MTV%20BR%20Hits%201.mp4
-#EXTINF:0,NANINHA MTV
-#EXTGRP:MÚSICAS VARIADAS
-https://ia601500.us.archive.org/13/items/music-videos-MTVBrasil-Naninha/DaneTV%20MTV%20BR%20Naninha%201.mp4?cnt=0
-#EXTINF:0,ZEZÉ DI CAMARGO LUCIANO AS MELHORES ANTIGAS ( 1991-1999)
-#EXTGRP:MÚSICAS VARIADAS
-https://ia600201.us.archive.org/6/items/ZEZEDICAMARGOLUCIANOASMELHORESANTIGAS1991HA19994/Zeze%20di%20camargo%20so%20antigas.mp4?cnt=0
-#EXTINF:0,AS MELHORES LEGIÃO URBANA
-#EXTGRP:MÚSICAS VARIADAS
-https://ia803207.us.archive.org/30/items/legiao-urbana-as-melhores/Legi%C3%A3o%20Urbana%20-%20As%20Melhores.ia.mp4?cnt=0
-#EXTINF:0,DNA LOUNGE
-#EXTGRP:MÚSICAS VARIADAS
-https://ia803208.us.archive.org/1/items/DNALOUNGE-VIDEO-2018-08-25/2018-08-25.mp4?cnt=0
-#EXTINF:0,TOP CANÇÕES DE ROCK MUNDIAL
-#EXTGRP:MÚSICAS VARIADAS
-https://ia802808.us.archive.org/25/items/51MEJORESROCK/rockearaul.mp4?cnt=0
-#EXTINF:0,TOP CANÇÕES DE ROMÂNTICAS MUNDIAL
-#EXTGRP:MÚSICAS VARIADAS
-https://ia902808.us.archive.org/22/items/Top50BestRomanticsSongsInEnglishHD/Top%2050%20best%20romantics%20songs%20in%20English%20-%20HD.mp4?cnt=0
-#EXTINF:0,PARALAMAS DO SUCESSO
-#EXTGRP:MÚSICAS VARIADAS
-https://ia803202.us.archive.org/1/items/paralamas-do-sucesso-as-melhores-album-completo/PARALAMAS%20do%20SUCESSO%20-%20As%20Melhores%20-%20ALBUM%20COMPLETO.ia.mp4?cnt=0
-#EXTINF:0,JAZZ
-#EXTGRP:MÚSICAS VARIADAS
-https://ia801708.us.archive.org/29/items/manhattan-jazz-quartett-vocal-jazz-classics-720-p-hd-1/Manhattan%20Jazz%20Quartett%20-%20Vocal%20Jazz%20Classics%28720P_HD%29_1.ia.mp4?cnt=0
-#EXTINF:0,JOÃO GILBERTO
-#EXTGRP:MÚSICAS VARIADAS
-https://ia801706.us.archive.org/27/items/joao-gilberto-joao-gilberto-sings-famous-brazilian-songs-480-p-1/Jo%C3%A3o%20Gilberto%20-%20Joao%20Gilberto%20Sings%20Famous%20Brazilian%20Songs%28480P%29_1.ia.mp4?cnt=0
-#EXTINF:0,ANTENA LOVE
-#EXTGRP:MÚSICAS VARIADAS
-https://ia801908.us.archive.org/14/items/coleta-nea-ballads-love-songs-vol-1-cd-pre-mio-do-recadolove-720-p-hd-1/COLET%C3%82NEA%20BALLADS%20LOVE%20SONGS%20VOL%201%20%28%20CD%20PR%C3%8AMIO%20DO%20RECADOLOVE%29%28720P_HD%29_1.ia.mp4?cnt=0
-#EXTINF:0,ANTENA 1
-#EXTGRP:MÚSICAS VARIADAS
-https://ia801908.us.archive.org/4/items/antena-1-alpha-fm-sequencias-de-classe-pra-voce-vol.-20-720-p-hd-1/Antena%201%20_%20Alpha%20Fm%20Sequ%C3%AAncias%20de%20Classe%20pra%20voc%C3%AA%20Vol.20%28720P_HD%29_1.ia.mp4?cnt=0
-#EXTINF:0,ANOS 90 INTERNACIONAL
-#EXTGRP:MÚSICAS VARIADAS
-https://ia801805.us.archive.org/19/items/as-roma-nticas-inesqueci-veis-dos-anos-90-s-antenalove-720-p-hd/AS%20ROM%C3%82NTICAS%20INESQUEC%C3%8DVEIS%20DOS%20ANOS%2090_S%20_ANTENALOVE_%28720P_HD%29.ia.mp4?cnt=0
-#EXTINF:0,ALTERNATIVE ROCK
-#EXTGRP:MÚSICAS VARIADAS
-https://ia802902.us.archive.org/2/items/bestofalternativerocksongsaerosmithbonjoviu2gunsnirvansgreatest/Best%20Of%20Alternative%20Rock%20Songs%20-%20Aerosmith-Bon%20Jovi-U2-Gun%27s-Nirvans%20Greatest.mp4?cnt=0
-#EXTINF:0,TOP MÚSICA 2020
-#EXTGRP:MÚSICAS VARIADAS
-https://ia903202.us.archive.org/17/items/best-bossa-nova-jazz-full-album-bossa-nova-songs-2020-bossa-nova-relaxing-720-p-hd-1/Best%20Bossa%20Nova%20Jazz%20Full%20Album%20_%20Bossa%20Nova%20Songs%202020%20_%20Bossa%20Nova%20Relaxing%28720P_HD%29_1.ia.mp4?cnt=0
-#EXTINF:0,ROCK DE ESTRADA
-#EXTGRP:MÚSICAS VARIADAS
-https://ia902806.us.archive.org/7/items/baladasrockparaouvirnaestradaii/Baladas%20Rock%20para%20ouvir%20na%20estrada%20II.mp4?cnt=0
-#EXTINF:0,LEGIÃO URBANA 4 ESTAÇÕES
-#EXTGRP:MÚSICAS VARIADAS
-https://ia803206.us.archive.org/11/items/legiao-cd-completo./Legi%C3%A3o%20CD%20Completo..ia.mp4?cnt=0
-#EXTINF:0,ROCK INTERNACIONAL
-#EXTGRP:MÚSICAS VARIADAS
-https://ia801909.us.archive.org/11/items/scorpions-led-zeppelin-aerosmith-bon-jovi-u-2-slow-rock-ballads-collection-720-p-hd-1/Scorpions_%20LedZeppelin_%20Aerosmith_%20Bon%20Jovi_%20U2%20-%20Slow%20Rock%20Ballads%20Collection%28720P_HD%29_1.ia.mp4?cnt=0
-#EXTINF:0,BOSSA NOVA BRASIL
-#EXTGRP:MÚSICAS VARIADAS
-https://ia903204.us.archive.org/3/items/vintage-brazil-bossa-nova/Vintage%20Brazil%20Bossa-Nova.ia.mp4?cnt=0
-#EXTINF:0,DIRE STRAITS
-#EXTGRP:MÚSICAS VARIADAS
-https://ia903201.us.archive.org/10/items/dire-straits-greatest-hits-full-album-2018.-hd-720-p-hd-1/Dire%20Straits%20-%20Greatest%20Hits%20%28Full%20Album%29%202018.%20HD%28720P_HD%29_1.ia.mp4?cnt=0
-#EXTINF:0,FLASHBACK ANOS 80
-#EXTGRP:MÚSICAS VARIADAS
-https://ia801703.us.archive.org/13/items/flashback-anos-80-cd-completo-2002-2017-hq-720-p-hd-1/Flashback%20Anos%2080%20%20%20CD%20Completo%202002%202017%20%20HQ%28720P_HD%29_1.ia.mp4?cnt=0
-#EXTINF:0,ANOS 80 E 90
-#EXTGRP:MÚSICAS VARIADAS
-https://ia903204.us.archive.org/9/items/antena-1-anos-80-e-90-dj-eddie-blue-720-p-hd-1/Antena%201%20Anos%2080%20e%2090%20Dj%20Eddie%20Blue%20--%28720P_HD%29_1.ia.mp4?cnt=0
-#EXTINF:0,THE BEST OF ENYA
-#EXTGRP:MÚSICAS VARIADAS
-https://ia801800.us.archive.org/22/items/the-best-of-enya-non-stop-playlist-720-p-hd-1/The%20Best%20of%20ENYA%20_%20Non-Stop%20Playlist%28720P_HD%29_1.ia.mp4?cnt=0
-#EXTINF:0,RENATO RUSSO
-#EXTGRP:MÚSICAS VARIADAS
-https://ia803208.us.archive.org/23/items/renato-russo-renato-russo-as-melhores-melhores-musicas-de-renato-russo/Renato%20Russo%20Renato%20Russo%20As%20Melhores%20Melhores%20M%C3%BAsicas%20de%20Renato%20Russo.ia.mp4?cnt=0
-#EXTINF:0,ROCK WAVE
-#EXTGRP:MÚSICAS VARIADAS
-https://ia801803.us.archive.org/31/items/rock-wave-2-cd-completo-2002-2018-repack-hq/Rock%20Wave%202%20-%20CD%20Completo%20%282002-2018%29%20%5BREPACK%5D%20HQ.ia.mp4?cnt=0
-#EXTINF:0,U2
-#EXTGRP:MÚSICAS VARIADAS
-https://ia803202.us.archive.org/11/items/u-2-greatest-hits-full-album-the-best-of-u-2-u-2-love-songs-ever/U2%20Greatest%20Hits%20Full%20Album%20%E2%99%AC%20The%20Best%20of%20U2%20%E2%99%AC%20U2%20Love%20Songs%20Ever.ia.mp4?cnt=0
-#EXTINF:0,MADRUGADAS ANOS 80 E 90
-#EXTGRP:MÚSICAS VARIADAS
-https://ia801808.us.archive.org/5/items/manchete-fm-madrugadas-anos-80-e-90/MANCHETE%20FM%20%20%20MADRUGADAS%20ANOS%2080%20e%2090.ia.mp4?cnt=0
-#EXTINF:0,CLASSIC ROCK ANOS 60 70 80
-#EXTGRP:MÚSICAS VARIADAS
-https://ia601705.us.archive.org/16/items/classic-rock-greatest-hits-60s-70s-and-80s-classic-rock-songs-of-all-time/Classic%20Rock%20Greatest%20Hits%2060s%20%26%2070s%20and%2080s%20%20%20Classic%20Rock%20Songs%20Of%20All%20Time.ia.mp4?cnt=0
-#EXTINF:0,PINK FLOYD 2020
-#EXTGRP:MÚSICAS VARIADAS
-https://ia803202.us.archive.org/19/items/pink-floyd-greatest-hits-full-album-pink-floyd-playlist-2020-pink-floyd-live-720-p-hd-1/Pink%20Floyd%20Greatest%20Hits%20Full%20Album%20_%20Pink%20Floyd%20Playlist%202020_%20Pink%20Floyd%20Live%28720P_HD%29_1.ia.mp4?cnt=0
-#EXTINF:0,BOSSA NOVA 2020
-#EXTGRP:MÚSICAS VARIADAS
-https://ia801707.us.archive.org/3/items/bossa-nova-2020-the-best-bossa-nova-covers-of-popular-songs-2020-720-p-hd-1/Bossa%20Nova%202020%20_%20The%20Best%20Bossa%20Nova%20Covers%20Of%20Popular%20Songs%202020%28720P_HD%29_1.ia.mp4?cnt=0
-#EXTINF:0,OASIS ACOUSTIC COLLECTION
-#EXTGRP:MÚSICAS VARIADAS
-https://ia801707.us.archive.org/32/items/oasis-acoustic-collection-cd-2-480-p-1/Oasis%20-%20Acoustic%20Collection%20%5BCD%202%5D%28480P%29_1.ia.mp4?cnt=0
-#EXTINF:0,MPB AS MELHORES 2020
-#EXTGRP:MÚSICAS VARIADAS
-https://ia801803.us.archive.org/2/items/marisa-monte-rita-lee-ana-carolina-maria-rita-as-melhores-mpb-as-melhores-antigas-2020-13-720-p-hd-1/Marisa%20Monte_%20Rita%20Lee_%20Ana%20Carolina_%20Maria%20Rita%20As%20Melhores%20_%20MPB%20As%20Melhores%20Antigas%202020%20_13%28720P_HD%29_1.ia.mp4?cnt=0
-#EXTINF:0,A HA 1984
-#EXTGRP:MÚSICAS VARIADAS
-https://ia601706.us.archive.org/24/items/a-ha-the-singles-1984-2004-full-album-with-lyrics-on-all-19-songs-720-p-hd-1/A-Ha%20The%20Singles%201984%20-%202004%20Full%20Album%20with%20lyrics%20on%20all%2019%20songs%28720P_HD%29_1.ia.mp4?cnt=0
-#EXTINF:0,MARISA MONTE E ANA CAROLINA 2020
-#EXTGRP:MÚSICAS VARIADAS
-https://ia601703.us.archive.org/27/items/ana-carolina-marisa-monte-as-melhores-melhores-musicas-de-ana-carolina-marisa-monte-2020-720-p-hd-1/Ana%20Carolina%20_%20Marisa%20Monte%20As%20Melhores%20_%20Melhores%20M%C3%BAsicas%20de%20Ana%20Carolina%20_%20Marisa%20Monte%20%202020%28720P_HD%29_1.ia.mp4?cnt=0
-#EXTINF:0,MICHAEL JACKSON
-#EXTGRP:MÚSICAS VARIADAS
-https://ia801902.us.archive.org/32/items/michael-jackson-greatest-hits-playlist-720-p-hd-1/Michael%20Jackson%20Greatest%20Hits%20_%20Playlist%28720P_HD%29_1.ia.mp4?cnt=0
-#EXTINF:0,COLDPLAY 2018
-#EXTGRP:MÚSICAS VARIADAS
-https://ia902904.us.archive.org/4/items/coldplay-greatest-hits-the-best-of-coldplay-playlist-2018/Coldplay%20Greatest%20Hits%20--%20The%20Best%20Of%20Coldplay%20Playlist%202018.mp4?cnt=0
-#EXTINF:0,ROCK PARA SEMPRE
-#EXTGRP:MÚSICAS VARIADAS
-https://ia601805.us.archive.org/25/items/queen-deep-purple-led-zeppelin-genesis-eric-clapton/Queen-Deep%20Purple-Led%20Zeppelin-G%C3%A9nesis-Eric%20Clapton.ia.mp4?cnt=0
-#EXTINF:0,TEARS FOR FEARS 1983
-#EXTGRP:MÚSICAS VARIADAS
-https://ia601701.us.archive.org/8/items/tears-f-o-r-fears-the-hurting-1983-lp-album-720-p-hd-1/Tears%20f%20o%20r%20Fears%20%20-%20The%20Hurting%20-%201983%20_LP%20Album%28720P_HD%29_1.ia.mp4?cnt=0
-#EXTINF:0,ROD STEWART
-#EXTGRP:MÚSICAS VARIADAS
-https://ia801708.us.archive.org/33/items/rod-stewart-greatest-hits-full-album-best-song-of-rod-stewart-collection-2018/Rod%20stewart%20Greatest%20hits%20full%20album%20Best%20song%20of%20Rod%20stewart%20collection%202018.ia.mp4?cnt=0
-#EXTINF:0,CREEDENCE
-#EXTGRP:MÚSICAS VARIADAS
-https://ia801904.us.archive.org/5/items/25-sucessos-do-creedence/25%20SUCESSOS%20DO%20CREEDENCE.ia.mp4?cnt=0
-#EXTINF:0,SOUL MUSIC
-#EXTGRP:MÚSICAS VARIADAS
-https://ia903203.us.archive.org/3/items/greatest-soul-songs-best-soul-music-of-all-time-soul-songs-playlist-2020-720-p-hd-1/Greatest%20Soul%20Songs%20-%20Best%20Soul%20Music%20Of%20All%20Time%20-%20Soul%20Songs%20Playlist%202020%28720P_HD%29_1.ia.mp4?cnt=0
-#EXTINF:0,BAILÃO SERTANEJO 1
-#EXTGRP:MÚSICAS VARIADAS
-https://ia904501.us.archive.org/20/items/bailaosertanejo/bail%C3%A3osertanejo.ia.mp4?cnt=0
-#EXTINF:0,BAILÃO SERTANEJO 2
-#EXTGRP:MÚSICAS VARIADAS
-https://ia804501.us.archive.org/20/items/baila-o-sertanejo/BAIL%C3%83O%20SERTANEJO.ia.mp4?cnt=0
-#EXTINF:0,AGITO SERANEJO
-#EXTGRP:MÚSICAS VARIADAS
-https://ia601004.us.archive.org/8/items/agitosertanejo/agitosertanejo.ia.mp4?cnt=0
-#EXTINF:0,FLASHBACK ROMÂNTICAS 1
-#EXTGRP:MÚSICAS VARIADAS
-https://ia801406.us.archive.org/34/items/love-flasback-3/Love%20Flasback3.ia.mp4?cnt=0
-#EXTINF:0,FLASHBACK ROMÂNTICAS 2
-#EXTGRP:MÚSICAS VARIADAS
-https://ia601408.us.archive.org/32/items/love-flashback-4/Love%20Flashback4.ia.mp4?cnt=0
-#EXTINF:0,ELVIS COLLECTION
-#EXTGRP:MÚSICAS VARIADAS
-https://ia903001.us.archive.org/3/items/ElvisLoveCollection/Elvis%20-%20Love%20Collection.mp4?cnt=0
-#EXTINF:0,FLASHBACK ROMÂNTICAS 3
-#EXTGRP:MÚSICAS VARIADAS
-https://ia601405.us.archive.org/12/items/love-flashback-5/love%20Flashback5.ia.mp4?cnt=0
-#EXTINF:0,AS MELHORES SERTANEJA 2018
-#EXTGRP:MÚSICAS VARIADAS
-https://ia903101.us.archive.org/28/items/MsicasSertanejasMaisTocadas2018AsMelhoresLanamentos2018SeleoMaioDe2018/M%C3%BAsicas%20Sertanejas%20Mais%20Tocadas%202018%20-%20As%20Melhores%20Lan%C3%A7amentos%202018%20-%20Sele%C3%A7%C3%A3o%20Maio%20de%202018.mp4?cnt=0
 #EXTINF:0,TV CAFÉ
 #EXTGRP:WEBTV
 https://srv5.zcast.com.br/tvcafe/tvcafe/chunklist_w860748714.m3u8
-#EXTINF:0,UTV MUSIC
-#EXTGRP:WEBTV
-https://srv2.zcast.com.br/redetv2/redetv2/playlist.m3u8
 #EXTINF:0,FM O DIA TV
 #EXTGRP:WEBTV
-https://cdn.livespanel.com/bw-live/adt_fmodia/live/fmodia/chunks.m3u8
-#EXTINF:0,COLINA FM
-#EXTGRP:WEBTV
-https://srv1.zcast.com.br/paulohenrique7705/paulohenrique7705/chunklist_w338484513.m3u8
-#EXTINF:0,TERÊ FM
-#EXTGRP:WEBTV
-https://alanza.iptv2022.com/TEREFMTV/tracks-v1a1/mono.m3u8
+https://cdn.livespanel.com/live/fmodia/playlist.m3u8
 #EXTINF:0,TV 538
 #EXTGRP:WEBTV
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
-#EXTINF:0,MILTITVA
-#EXTGRP:WEBTV
-https://livefocamundo.com:8081/multitva/tracks-v1a1/mono.m3u8
-#EXTINF:0,JK FM 102.7
-#EXTGRP:WEBTV
-https://video02.logicahost.com.br/jkfm/jkfm/chunklist_w747445834.m3u8
 #EXTINF:0,MONTE FM 96.7
 #EXTGRP:WEBTV
 https://montefm.brasilstream.com.br/hls/montefm/index.m3u8
@@ -858,9 +446,6 @@ https://6mngseslsw.zoeweb.tv/z609-live/stream/chunklist.m3u8
 #EXTINF:0,RADIO CLUB 100,5 FM
 #EXTGRP:WEBTV
 https://live.cdn.upx.com/5e5c_5/myStream.sdp/chunklist.m3u8?d7659e67be3a2a737ab3db8943de5b45
-#EXTINF:0,TRIBUNA FM
-#EXTGRP:WEBTV
-https://serv2.videovox.pw/marcelo8576/marcelo8576/chunklist_w1676943023.m3u8
 #EXTINF:0,JM 95.5 FM
 #EXTGRP:WEBTV
 https://virtues.es:1936/radiojm/radiojm/chunklist_w753033537.m3u8
@@ -879,24 +464,12 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/977_ALTERN.mp3
 #EXTINF:0,977 MIX
 #EXTGRP:WEBTV
 https://playerservices.streamtheworld.com/api/livestream-redirect/977_MIX.mp3
-#EXTINF:0,TV NJ
-#EXTGRP:WEBTV
-https://stmv2.voxtvhd.com.br/webradiotvnj/webradiotvnj/chunklist_w1126671678.m3u8
-#EXTINF:0,FACE TV BRASIL
-#EXTGRP:WEBTV
-https://alanza.iptv2022.com/FACE_TV_BRASIL/tracks-v1a1/mono.m3u8
 #EXTINF:0,RÁDIO LITORAL
 #EXTGRP:WEBTV
 https://59f1cbe63db89.streamlock.net:1443/tvradiolitoral/_definst_/tvradiolitoral/chunklist_w1331605967.m3u8
 #EXTINF:0,NRJ HITS
 #EXTGRP:WEBTV
 https://tv.ngroup.be/live/ngrp:nrj_all/chunklist_w1569827825_b3268608.m3u8
-#EXTINF:0,WEB TV MUSIC
-#EXTGRP:WEBTV
-https://srv5.zcast.com.br/pedro3742/pedro3742/chunklist_w1947850789.m3u8
-#EXTINF:0,RÁDIO BEST MUSIC
-#EXTGRP:WEBTV
-https://stmv.streamingvip.click/television/television/chunklist_w942411401.m3u8
 #EXTINF:0,ALVORADA SERTANEJA
 #EXTGRP:WEBTV
 https://stmv1.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/chunklist_w1443828699.m3u8
@@ -909,9 +482,6 @@ https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/chunklis
 #EXTINF:0,GOSTEI POP
 #EXTGRP:WEBTV
 https://59f1cbe63db89.streamlock.net:1443/redegostei/_definst_/redegostei/chunklist_w675237342.m3u8
-#EXTINF:0,QFM
-#EXTGRP:WEBTV
-https://qfm.ddns.net/hlsq/index.m3u8
 #EXTINF:0,POWER HD
 #EXTGRP:WEBTV
 https://live2.tensila.com/1-1-1.power-tv/hls/live/mystream.m3u8
@@ -921,36 +491,18 @@ https://stmv2.centralcast.com.br/central/central/chunklist_w2055579852.m3u8
 #EXTINF:0,30A TV
 #EXTGRP:WEBTV
 https://30a-tv.com/feeds/720p/6.m3u8
-#EXTINF:0,RÁDIO TAORMINA
-#EXTGRP:WEBTV
-https://stream2.xdevel.com/video1s3-7/stream/chunks.m3u8?nimblesessionid=86401862
 #EXTINF:0,RTL 102.5
 #EXTGRP:WEBTV
 https://streamcdnc1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/chunklist_b732000.m3u8
 #EXTINF:0,NH FM 104.7
 #EXTGRP:WEBTV
 https://5a57bda70564a.streamlock.net/novosh/novosh.sdp/chunklist_w1246080652.m3u8
-#EXTINF:0,DELUXE MUSIC
-#EXTGRP:WEBTV
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/63437dd490d7e_13018905_2210100205_480p.m3u8
-#EXTINF:0,POWER TV
-#EXTGRP:WEBTV
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b2650000_sltur.m3u8?nimblesessionid=169037378
-#EXTINF:0,GO TV
-#EXTGRP:WEBTV
-https://593aed234297b.streamlock.net/gotvsjoerd/gotvsjoerd/chunklist_w1159950433.m3u8
-#EXTINF:0,ZAPPING TV
-#EXTGRP:WEBTV
-https://zmlive.zappingtv.com/zm-free/zm.smil/chunklist_live3_b941600_sles.m3u8
 #EXTINF:0,4 FUN TV
 #EXTGRP:WEBTV
 https://stream.4fun.tv:8888/hls/4f_med/index.m3u8
 #EXTINF:0,CITY TV
 #EXTGRP:WEBTV
 https://tv.city.bg/play/tshls/citytv/3.m3u8
-#EXTINF:0,MUSIC TOP
-#EXTGRP:WEBTV
-https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1103223421_b964000_sleng.m3u8
 #EXTINF:0,RU TV
 #EXTGRP:WEBTV
 https://hls-03-video.webcaramba.com/rutv/live_360/index.m3u8
@@ -972,51 +524,15 @@ http://antena1.newradio.it/stream?1519462006844
 #EXTINF:0,Atlântida FM
 #EXTGRP:WEBTV
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
-#EXTINF:0,Band FM
-#EXTGRP:WEBTV
-https://26513.live.streamtheworld.com/RADIOBANDEIRANTESAAC/HLS/36d37c5e-e3ad-4930-b08e-f670d5a29c0f/0/playlist.m3u8
-#EXTINF:0,Band Vale FM
-#EXTGRP:WEBTV
-http://evpp.mm.uol.com.br/band/bandvale/playlist.m3u8
-#EXTINF:0,BandNews FM
-#EXTGRP:WEBTV
-https://26603.live.streamtheworld.com/BANDNEWSFM_SPAAC/HLS/ce287b03-c2d6-4ae2-b0b3-13466f838a58/0/playlist.m3u8
-#EXTINF:0,BH FM
-#EXTGRP:WEBTV
-http://medias.sgr.globo.com/hls/aBHFM/aBHFM.m3u8
 #EXTINF:0,Canal Louvor
 #EXTGRP:WEBTV
 http://stm3.srvvox.com.br:7178/;
 #EXTINF:0,Canal Louvor Fortaleza
 #EXTGRP:WEBTV
 https://player.srvvox.com.br/proxy/7178
-#EXTINF:0,Canção Nova FM
-#EXTGRP:WEBTV
-https://rdfmchp-lh.akamaihd.net/i/rdfmchp_1_0@190586/master.m3u8
-#EXTINF:0,Canudos FM
-#EXTGRP:WEBTV
-https://streammaior.jmhost.com.br/radio/8020/stream
 #EXTINF:0,Capão FM
 #EXTGRP:WEBTV
 http://cast4.audiostream.com.br:8656/mp3
-#EXTINF:0,CBN
-#EXTGRP:WEBTV
-https://medias.sgr.globo.com/hls/aCBNSP/aCBNSP.m3u8
-#EXTINF:0,CBN (Estúdio Ao Vivo)
-#EXTGRP:WEBTV
-https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
-#EXTINF:0,CBN BH
-#EXTGRP:WEBTV
-http://medias.sgr.globo.com/hls/aCBNBH/aCBNBH.m3u8
-#EXTINF:0,CBN Brasília
-#EXTGRP:WEBTV
-https://medias.sgr.globo.com/hls/aCBNBSB/aCBNBSB.m3u8
-#EXTINF:0,CBN Rio
-#EXTGRP:WEBTV
-http://medias.sgr.globo.com/hls/aCBNRJ/aCBNRJ.m3u8
-#EXTINF:0,CBN Rio (Estúdio Ao Vivo)
-#EXTGRP:WEBTV
-https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 #EXTINF:0,Cidreira FM
 #EXTGRP:WEBTV
 http://cast4.audiostream.com.br:8657/mp3
@@ -1263,245 +779,18 @@ https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:0,iHeart 80s
 #EXTGRP:O MELHOR DOS HITS
 https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:0,TOP PAGODE 2023
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia601607.us.archive.org/33/items/save-tube.-app-top-pagode-2023-pagode-roma-ntico-2023-720p/SaveTube.App-TOP%20PAGODE%202023%20%E2%AD%90%20PAGODE%20ROM%C3%82NTICO%202023%20%E2%9D%A4%EF%B8%8F%28720p%29.mp4
-#EXTINF:0,ADRYANA RIBEIRO GRANDES SUCESSOS
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia601507.us.archive.org/18/items/adryana-ribeiro-grandes-sucessos/Adryana%20Ribeiro%20-%20Grandes%20Sucessos.ia.mp4
-#EXTINF:0,SOM BRASIL VOLUME 1
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia601402.us.archive.org/22/items/som-brasil-vol-1/Som%20Brasil%20vol1.ia.mp4
-#EXTINF:0,MÚSICA ROMÂNTICA 1
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia801406.us.archive.org/34/items/love-flasback-3/Love%20Flasback3.ia.mp4
-#EXTINF:0,MÚSICA ROMÂNTICA 2
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia601405.us.archive.org/12/items/love-flashback-5/love%20Flashback5.ia.mp4
-#EXTINF:0,MÚSICA ROMÂNTICA 3
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia801408.us.archive.org/32/items/love-flashback-4/Love%20Flashback4.ia.mp4
-#EXTINF:0,TRACY CHAPMAN
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia904603.us.archive.org/0/items/tracy-chapman-greatest-hits-full-album-best-songs-of-tracy-chapman-tracy-chapman-playlist-2021/Tracy%20Chapman%20Greatest%20Hits%20Full%20Album%20-%20Best%20Songs%20Of%20Tracy%20Chapman%20-%20Tracy%20Chapman%20Playlist%202021.ia.mp4
-#EXTINF:0,BIQUINI CAVADÃO
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia804708.us.archive.org/8/items/dvdbiquinicavadao20anosaovivo_202301/BIQUINI_CAVADAO.mp4
-#EXTINF:0,BRUNO E MARRONE
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia801602.us.archive.org/34/items/bruno-marrone-acustico-ao-vivo-2001_202302/Bruno%20%26%20Marrone%20Ac%C3%BAstico%20Ao%20Vivo%20%5B2001%5D.mp4
-#EXTINF:0,FÁBIO JR.
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia601600.us.archive.org/26/items/dvd-fabio-jr-ao-vivo-2003/DVDVOLUME.mp4
-#EXTINF:0,BANDA CALYPSO
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia802608.us.archive.org/27/items/dvdbandacalypsoemsaopaulo_202305/BANDA_CALYPSO.mp4?cnt=0
-#EXTINF:0,ROUPA NOVA
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia801606.us.archive.org/18/items/dvd-roupa-nova-30-anos/ROUPA_NOVA_30.mp4
-#EXTINF:0,AGITO SERTANEJO
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia801004.us.archive.org/8/items/agitosertanejo/agitosertanejo.ia.mp4
-#EXTINF:0,TOP SERTANEJO 2021
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia804504.us.archive.org/4/items/topsertanejo2021/TOP%20SERTANEJO%202021.ia.mp4
-#EXTINF:0,AS MELHORES ANTIGAS 2020
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia801803.us.archive.org/2/items/marisa-monte-rita-lee-ana-carolina-maria-rita-as-melhores-mpb-as-melhores-antigas-2020-13-720-p-hd-1/Marisa%20Monte_%20Rita%20Lee_%20Ana%20Carolina_%20Maria%20Rita%20As%20Melhores%20_%20MPB%20As%20Melhores%20Antigas%202020%20_13%28720P_HD%29_1.ia.mp4
-#EXTINF:0,MPB PLAYBACK
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia804706.us.archive.org/4/items/videoplayback_20230111_1831/videoplayback.mp4
-#EXTINF:0,DIRE STRAITS
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia903201.us.archive.org/10/items/dire-straits-greatest-hits-full-album-2018.-hd-720-p-hd-1/Dire%20Straits%20-%20Greatest%20Hits%20%28Full%20Album%29%202018.%20HD%28720P_HD%29_1.ia.mp4
-#EXTINF:0,BEE GEES
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia803200.us.archive.org/15/items/bee-gees-melhores-musicas-grandes-sucessos-best-songs-of-bee-gees-360p/BeeGees%20Melhores%20Musicas%20Grandes%20Sucessos%20Best%20Songs%20Of%20BeeGees%20360p.ia.mp4
-#EXTINF:0,JOÃO GILBERTO
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia801706.us.archive.org/27/items/joao-gilberto-joao-gilberto-sings-famous-brazilian-songs-480-p-1/Jo%C3%A3o%20Gilberto%20-%20Joao%20Gilberto%20Sings%20Famous%20Brazilian%20Songs%28480P%29_1.ia.mp4
-#EXTINF:0,LEGIÃO URBANA 4 ESTAÇÕES
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia903206.us.archive.org/11/items/legiao-cd-completo./Legi%C3%A3o%20CD%20Completo..ia.mp4
-#EXTINF:0,ROCK CLÁSSICO
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia802801.us.archive.org/35/items/acousticclassicrock60s70s80sclassicrockgreatesthitsplaylist/Acoustic%20Classic%20Rock%2060s%2070s%2080s%20-%20Classic%20Rock%20Greatest%20Hits%20Playlist.mp4
-#EXTINF:0,SCORPIONS
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia803200.us.archive.org/5/items/20200705_20200705_0304/%E0%B8%AA%E0%B8%81%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%9B%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%AA%E0%B9%8C%20%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%AE%E0%B8%B4%E0%B8%95.ia.mp4
-#EXTINF:0,CLASSIC ROCK ANOS 70 80 90
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia801805.us.archive.org/14/items/classic-rock-70-80-e-90_202101/Classic%20Rock%2070-80%20e%2090.mp4
-#EXTINF:0,ROMÂNTICAS INTERNACIONAL
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia801804.us.archive.org/23/items/romanticas-do-passado-internacionais-8/Rom%C3%A2nticas%20do%20Passado%20Internacionais%208%F0%9F%92%93.ia.mp4
-#EXTINF:0,SOUL MUSIC
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia801908.us.archive.org/13/items/soul-collection-best-of-soul-music-top-hit-soul-songs-2020-collection-720-p-hd-1/Soul%20Collection%20-%20Best%20of%20Soul%20Music%20-%20Top%20Hit%20Soul%20Songs%202020%20Collection%28720P_HD%29_1.ia.mp4
-#EXTINF:0,CREEDENCE
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia801904.us.archive.org/5/items/25-sucessos-do-creedence/25%20SUCESSOS%20DO%20CREEDENCE.ia.mp4
-#EXTINF:0,MARISA MONTE E ANA CAROLINA 2020
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia801703.us.archive.org/27/items/ana-carolina-marisa-monte-as-melhores-melhores-musicas-de-ana-carolina-marisa-monte-2020-720-p-hd-1/Ana%20Carolina%20_%20Marisa%20Monte%20As%20Melhores%20_%20Melhores%20M%C3%BAsicas%20de%20Ana%20Carolina%20_%20Marisa%20Monte%20%202020%28720P_HD%29_1.ia.mp4
-#EXTINF:0,CHARLIE BROWN JR E VANESSA DA MATA
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia803201.us.archive.org/9/items/charlie-brown-jr.-e-vanessa-da-mata-estudio-coca-cola-zero-completo-720-p-hd-1/Charlie%20Brown%20Jr.%20e%20Vanessa%20da%20Mata%20-%20Est%C3%BAdio%20Coca-Cola%20Zero%20Completo%28720P_HD%29_1.ia.mp4
-#EXTINF:0,COLDPLAY
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia902904.us.archive.org/4/items/coldplay-greatest-hits-the-best-of-coldplay-playlist-2018/Coldplay%20Greatest%20Hits%20--%20The%20Best%20Of%20Coldplay%20Playlist%202018.mp4
-#EXTINF:0,BLUES
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia601903.us.archive.org/14/items/blues-vol.-4-john-mayall-gary-moore-eric-clapton.../Blues%20Vol.4%20-John%20Mayall-%20Gary%20Moore-Eric%20Clapton....ia.mp4?cnt=0
-#EXTINF:0,OASIS ACOUSTIC COLLECTION
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia601707.us.archive.org/32/items/oasis-acoustic-collection-cd-2-480-p-1/Oasis%20-%20Acoustic%20Collection%20%5BCD%202%5D%28480P%29_1.ia.mp4
-#EXTINF:0,PINK FLOYD
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia803202.us.archive.org/19/items/pink-floyd-greatest-hits-full-album-pink-floyd-playlist-2020-pink-floyd-live-720-p-hd-1/Pink%20Floyd%20Greatest%20Hits%20Full%20Album%20_%20Pink%20Floyd%20Playlist%202020_%20Pink%20Floyd%20Live%28720P_HD%29_1.ia.mp4
-#EXTINF:0,U2
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia601806.us.archive.org/24/items/u-2-dire-straits-aerosmith-bon-jovi-eagles-scorpions-led-zeppelin-slow-rock-songs-collection/U2-Dire%20Straits-Aerosmith-Bon%20Jovi-Eagles-Scorpions-LedZeppelin%20-%20Slow%20Rock%20Songs%20Collection.ia.mp4?cnt=0
-#EXTINF:0,HIP HOP
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia601703.us.archive.org/7/items/lofi-hip-hop-to-relax-studying-chill-720-p-hd-1/Lofi%20Hip%20Hop%20to%20Relax_%20Studying%20_%20Chill%28720P_HD%29_1.ia.mp4
-#EXTINF:0,RENATO RUSSO
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia903208.us.archive.org/23/items/renato-russo-renato-russo-as-melhores-melhores-musicas-de-renato-russo/Renato%20Russo%20Renato%20Russo%20As%20Melhores%20Melhores%20M%C3%BAsicas%20de%20Renato%20Russo.ia.mp4?cnt=0
-#EXTINF:0,ROD STEWART
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia601708.us.archive.org/33/items/rod-stewart-greatest-hits-full-album-best-song-of-rod-stewart-collection-2018/Rod%20stewart%20Greatest%20hits%20full%20album%20Best%20song%20of%20Rod%20stewart%20collection%202018.ia.mp4?cnt=0
-#EXTINF:0,BOSSA NOVA
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia803202.us.archive.org/17/items/best-bossa-nova-jazz-full-album-bossa-nova-songs-2020-bossa-nova-relaxing-720-p-hd-1/Best%20Bossa%20Nova%20Jazz%20Full%20Album%20_%20Bossa%20Nova%20Songs%202020%20_%20Bossa%20Nova%20Relaxing%28720P_HD%29_1.ia.mp4?cnt=0
-#EXTINF:0,BOSSA IN RIO
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia802307.us.archive.org/13/items/bossa-in-rio/BOSSA_IN_RIO.mp4
-#EXTINF:0,SAMBÔ
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia802307.us.archive.org/16/items/ddp-sambo/DDP%20SAMBO%CC%82.mp4
-#EXTINF:0,TIM MAIA
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia601400.us.archive.org/4/items/tim-maia-45-sucessos-480-p/TimMaia%20%20-%20%2045%20Sucessos%28480P%29.ia.mp4
-#EXTINF:0,ANOS 80 VOL 2
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia902308.us.archive.org/26/items/80s-remember-vol-2/80%27s%20Remember%20vol2.ia.mp4?cnt=0
-#EXTINF:0,DANCE MUSIC
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia802305.us.archive.org/9/items/100musicdance/100%25musicdance.ia.mp4
-#EXTINF:0,ANOS 80 VOL 1
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia804602.us.archive.org/12/items/remember-anos-80-vol-1/Remember%20anos%2080%20vol1x.ia.mp4
-#EXTINF:0,TOP HITS ANOS 80-90 VOL 1
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia802500.us.archive.org/26/items/top-hits-anos-80-90-volume-1/Top%20Hits%20anos%2080%2C90%20Volume%201.ia.mp4
-#EXTINF:0,TOP HITS ANOS 80-90 VOL 2
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia601506.us.archive.org/35/items/top-hits-anos-80-90-volume-2/Top%20Hits%20anos%2080%2C90%20Volume%202.ia.mp4
-#EXTINF:0,TOP HITS ANOS 80-90 VOL 3
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia802504.us.archive.org/34/items/top-hits-anos-80-90-e-2000-volume-3/Top%20Hits%20anos%2080%20%2C%2090%20e%202000%20Volume%203.ia.mp4
-#EXTINF:0,ROCK BRASIL
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia804508.us.archive.org/35/items/rock-brasil_202106/RockBrasil.mp4
-#EXTINF:0,LUIZ GONZAGA
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia904604.us.archive.org/32/items/luiz-gonzaga/LUIZ_GONZAGA.mp4?cnt=0
-#EXTINF:0,A COISONA
-#EXTGRP:O MELHOR DA MÚSICA
-https://5cf4a2c2512a2.streamlock.net/acoisona/acoisona/chunklist_w2093196155.m3u8
-#EXTINF:0,FM O DIA TV
-#EXTGRP:O MELHOR DA MÚSICA
-https://cdn.livespanel.com/live/fmodia/playlist.m3u8
-#EXTINF:0,MELHOR DO SERTANEJO
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia600506.us.archive.org/27/items/os-melhores-dos-clipes-sertanejos-dvd-fan-made/DVDVOLUME.mp4
-#EXTINF:0,Acústico MPB
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia801203.us.archive.org/28/items/acustico-mpb-melhores-da-mpb-de-todos-os-tempos/Ac%C3%BAstico%20MPB%20-%20Melhores%20da%20MPB%20de%20Todos%20os%20Tempos.mp4?cnt=0
-#EXTINF:0,AS MELHORES DO FORRÓ 2023
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia600503.us.archive.org/31/items/as-melhores-do-forro-2023/AS%20MELHORES%20DO%20FORR%C3%93%202023.mp4
-#EXTINF:0,Seleção Forró Românticas
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia601201.us.archive.org/35/items/moleca-100-vergonha-as-melhores-musicas-selecao-forro-romanticas-das-antigas-pra-recordar/Moleca%20100%20Vergonha%20-%20As%20melhores%20M%C3%BAsicas%20-%20Sele%C3%A7%C3%A3o%20Forr%C3%B3%20Rom%C3%A2nticas%20das%20antigas%20pra%20recordar.mp4
-#EXTINF:0,CLASSICOS AXE BAHIA
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia804508.us.archive.org/16/items/classicosaxebahia/CLASSICOSAXEBAHIA.ia.mp4
-#EXTINF:0,AS MELHORES DE ROBERTO CARLOS
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia801608.us.archive.org/18/items/rc-as-melhores/rc%20as%20melhores.mp4
-#EXTINF:0,MÚSICAS DE NATAL
-#EXTGRP:O MELHOR DA MÚSICA
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d6fd8d_f388beaf30024344a175dcbc14741686~mv2.png/v1/fit/w_2500,h_1330,al_c/d6fd8d_f388beaf30024344a175dcbc147 41686~mv2.png",🎶╭─➤ - Afrobeats.ᴴᴰ
-https://stream.ecable.tv/afrobeats/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDSgVZh5YZ-s5CT1duiuJ6u4HX0hT2Nc3i_jbPTkhZ9ynkS-6O2rnQ9h5StZ79ytZqtIg&usqp=CAU" group-title="Black Music",🎶➾ Fe música
-https://dmecgxuzr2ywk.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-FEVAMusic/693f968e-9019-417a-a940-d4723a933854/2.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dbm-tv.fr/wp-content/uploads/2017/12/logo-dbm.png" group-title="Black Music",🎶➾ DBM (Música Africana)
-https://edge21.vedge.infomaniak.com/livecast/smil:dbmtv.smil/chunklist_w978770520_b1000000.m3u8
-
-#EXTINF:-1 tvg-logo="https://muzangala.tv/wp-content/uploads/2022/08/LOGO_MUZANGALA_TV_.png" group-title="Música",🎶➾ Muzangala TV.ᴴᴰ
-https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1087878616.m3u8
-
-#EXTINF:-1 tvg-logo="https://afrovibes.tv/wp-content/uploads/2020/10/AFROVIBES_UPGRADE_LOGO.png",🎶➾ AFROVIBES TV
-https://vse2-sa-all56.secdn.net/tvsw4-chorigin/play/prod-f71bb37841b54966890bdf772c79cbaa/chunklist_sess641139627.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/play-1.svg" group-title="Música",🎶➾ Reproduzir TV (Música)
-http://connectiktv.ddns.net:5000/playtv/@playtv/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gAKgCxYU1hHi4Q9_PGH7Ut3sFgXvQPVe85TNA4yy50HBRp8dApHNXfhUKdLK2W1B9YTx" group-title="Música",🎶➾ Baraza Music TV
-https://ssh101.bozztv.com/ssh101/relaxing/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/1fb210a8-0d8a-47b5-84da-f6457988f8cd/labocinalatina_logo_light_-_Jordan_Warkol.png" group-title="MÚSICA ",🎶➾ LA BOCINA LATINA
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-631932e2f6672ff675ee5ec0.m3u8
-
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000001280741-j0jvvu-t500x500.jpg" group-title="Música",🎶➾ Portal Foxmix
-https://panel.tvstream.cl:1936/8040/8040/chunklist_w652873405.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/FBZCTLGXtaWZ0RJmnKs-r8mDZEEcdgIOuLv-msvTghdP2OsDrvzueR-KBvWZYkcDPBtE" group-title="Música",🎶➾ SomosTopoPointTV
-https://cloudflare.streamgato.us:3901/live/somostopopointtvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/iLSHjhbOhBBk3uNvDKD44BI1pTs9jNwfIjgRkF9S2zsXMgcXExO_3QuFuXkWZezwp3o" group-title="Música",🎶➾ Flow Caribe.ᴴᴰ
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1083
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/iLSHjhbOhBBk3uNvDKD44BI1pTs9jNwfIjgRkF9S2zsXMgcXExO_3QuFuXkWZezwp3o" group-title="Música",🎶➾ Canela TV Music.ᴴᴰ
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5083
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41ZgPNe739L.png" group-title="Música",🎶➾ BOX PLAYLIST
-https://boxplaylist-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_62193b7126c4be132057fe73_boxplaylist-live/m.m3u8
-
-#EXTINF:-1 tvg-logo="https://balleballe.tv/wp-content/uploads/2019/08/intro-img-1.png" group-title="Música",🎶➾ BALLE BALLE 1. ᴴᴰ
-https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://balleballe.tv/wp-content/uploads/2019/08/intro-img-1.png" group-title="Música",🎶➾ BALLE BALLE 2. ᴴᴰ
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3398
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kpoptvplay.png" group-title="Música",🎶➾ Kpop TV Play.ᴴᴰ
-https://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/DNfPCtTBPrgZYJB8Af8riMIki3gaPKrMs5cHI4ALFs3zS5-DHZACQtOpJAbHnFX0jQ" group-title="Música ao vivo YT",🎶➾ The Kpop Youtube 1
-https://livestream.zazerconer.workers.dev/channel/UCoRXPcv8XK5fAplLbk9PTww.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/DNfPCtTBPrgZYJB8Af8riMIki3gaPKrMs5cHI4ALFs3zS5-DHZACQtOpJAbHnFX0jQ" group-title="Música ao vivo YT",🎶➾ The Kpop Youtube 2
-https://ythls.armelin.one/channel/UCoRXPcv8XK5fAplLbk9PTww.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/Show_Champion_Logo.png" group-title="⭐ Música Coreana",🎶➾ Novo Kpop.ᴴᴰ
-https://newidco-newkid-1-br.lg.wurl.tv/3000.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/Show_Champion_Logo.png" group-title="⭐ Música Coreana",🎶➾ Novo Kpop MX.ᴴᴰ
-https://newidco-newkid-1-mx.lg.wurl.tv/3000.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Top_TV_logo.svg" group-title="Música",🎶 - 🇧🇷 ➾ Principais TV.ᴴᴰ
-https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/11/avant-logo-1.png" group-title="Música ao vivo",🎶 - 🇧🇷 ➾ TV Avant
-https://video04.logicahost.com.br/tvavant/tvavant/chunklist_w977600341.m3u8
-
-#EXTINF: -1 tvg-logo="https://www.jornalafolha.com.br/wp-content/uploads/2020/11/logo-png-bordado.png" group-title="BRASIL LIVE MUSIC", 🎶 - 🇧🇷 ➾ TV A FOLHA
-https://video01.logicahost.com.br/tvafolha/tvafolha/playlist-720p.m3u8
-https://ia601206.us.archive.org/25/items/musicas-de-natal-em-portugues-2024/M%C3%BAsicas%20De%20Natal%20Em%20Portugu%C3%AAs%202024.mp4
-#EXTINF:0,QUEEN
-#EXTGRP:O MELHOR DA MÚSICA
-https://ia802705.us.archive.org/5/items/queen-wwry-ptbr-dvd/QUEEN.mp4
+#EXTINF:0,Betelhost Sertanejo
+#EXTGRP:NOVIDADE 2024
+https://srv3.zcast.com.br/betelhostbr/betelhostbr/chunklist_w811127074.m3u8
+#EXTINF:0,Blink 102 FM
+#EXTGRP:NOVIDADE 2024
+https://5ad482a77183d.streamlock.net/blinkblink.com.br/blinkblink.com.br/chunklist_w1150486168.m3u8
+#EXTINF:0,Tv Café Viola
+#EXTGRP:NOVIDADE 2024
+https://srv5.zcast.com.br/tvcafe/tvcafe/chunklist_w796161752.m3u8
+#EXTINF:0,AGITOMAX TV
+#EXTGRP:NOVIDADE 2024
+https://stmv2.samcast.com.br/agitomax/agitomax/chunklist_w567304587.m3u8
+#EXTINF:0,Rede Blitz
+#EXTGRP:NOVIDADE 2024
+https://video01.logicahost.com.br/redeblitz/redeblitz/chunklist_w2112161927.m3u8
