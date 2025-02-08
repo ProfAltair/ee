@@ -311,12 +311,63 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?ManoTV
 #EXTINF:0,TVZYN
 #EXTGRP:Canais | INFANTIL
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
-#EXTINF:0,GLOOB
-#EXTGRP:CANAIS FECHADOS
-https://abc.embedmax.site/gloob/tracks-v1a1/mono.m3u8
-#EXTINF:0,DISCOVERY KIDS
-#EXTGRP:CANAIS FECHADOS
-https://abc.embedmax.site/discoverykids/tracks-v1a1/mono.m3u8
-#EXTINF:0,NICK JR
-#EXTGRP:CANAIS FECHADOS
-https://abc.embedmax.site/nickjr/tracks-v1a1/mono.m3u8
+#EXTINF:0,BABY TV 4K
+#EXTGRP:INFANTIS
+http://srv.hostinggon39.xyz:2082/Tourobox1-T7bt2D7BWu/p2i5YyIneS/767
+#EXTINF:0,BABY TV HD
+#EXTGRP:INFANTIS
+http://srv.hostinggon39.xyz:2082/Tourobox1-T7bt2D7BWu/p2i5YyIneS/342
+#EXTINF:0,CARTOON NETWORK 4K
+#EXTGRP:INFANTIS
+http://srv.hostinggon39.xyz:2082/Tourobox1-T7bt2D7BWu/p2i5YyIneS/346
+#EXTINF:0,CARTOON NETWORK HD
+#EXTGRP:INFANTIS
+http://srv.hostinggon39.xyz:2082/Tourobox1-T7bt2D7BWu/p2i5YyIneS/347
+#EXTINF:0,CARTOONITO 4K
+#EXTGRP:INFANTIS
+http://srv.hostinggon39.xyz:2082/Tourobox1-T7bt2D7BWu/p2i5YyIneS/344
+#EXTINF:0,CARTOONITO HD
+#EXTGRP:INFANTIS
+http://srv.hostinggon39.xyz:2082/Tourobox1-T7bt2D7BWu/p2i5YyIneS/345
+#EXTINF:0,DISCOVERY KIDS 4K
+#EXTGRP:INFANTIS
+http://srv.hostinggon39.xyz:2082/Tourobox1-T7bt2D7BWu/p2i5YyIneS/348
+#EXTINF:0,DISCOVERY KIDS HD
+#EXTGRP:INFANTIS
+http://srv.hostinggon39.xyz:2082/Tourobox1-T7bt2D7BWu/p2i5YyIneS/349
+#EXTINF:0,DISNEY CHANNEL  4K
+#EXTGRP:INFANTIS
+http://srv.hostinggon39.xyz:2082/Tourobox1-T7bt2D7BWu/p2i5YyIneS/351
+#EXTINF:0,DISNEY CHANNEL HD
+#EXTGRP:INFANTIS
+http://srv.hostinggon39.xyz:2082/Tourobox1-T7bt2D7BWu/p2i5YyIneS/352
+#EXTINF:0,GLOOB 4K
+#EXTGRP:INFANTIS
+http://srv.hostinggon39.xyz:2082/Tourobox1-T7bt2D7BWu/p2i5YyIneS/357
+#EXTINF:0,GLOOB HD
+#EXTGRP:INFANTIS
+http://srv.hostinggon39.xyz:2082/Tourobox1-T7bt2D7BWu/p2i5YyIneS/358
+#EXTINF:0,GLOOBINHO 4K
+#EXTGRP:INFANTIS
+http://srv.hostinggon39.xyz:2082/Tourobox1-T7bt2D7BWu/p2i5YyIneS/359
+#EXTINF:0,GLOOBINHO HD
+#EXTGRP:INFANTIS
+http://srv.hostinggon39.xyz:2082/Tourobox1-T7bt2D7BWu/p2i5YyIneS/360
+#EXTINF:0,NICK JR 4K
+#EXTGRP:INFANTIS
+http://srv.hostinggon39.xyz:2082/Tourobox1-T7bt2D7BWu/p2i5YyIneS/363
+#EXTINF:0,NICK JR HD
+#EXTGRP:INFANTIS
+http://srv.hostinggon39.xyz:2082/Tourobox1-T7bt2D7BWu/p2i5YyIneS/364
+#EXTINF:0,NICKELODEON 4K
+#EXTGRP:INFANTIS
+http://srv.hostinggon39.xyz:2082/Tourobox1-T7bt2D7BWu/p2i5YyIneS/365
+#EXTINF:0,NICKELODEON HD
+#EXTGRP:INFANTIS
+http://srv.hostinggon39.xyz:2082/Tourobox1-T7bt2D7BWu/p2i5YyIneS/768
+#EXTINF:0,TV RA TIM BUM 4K
+#EXTGRP:INFANTIS
+http://srv.hostinggon39.xyz:2082/Tourobox1-T7bt2D7BWu/p2i5YyIneS/369
+#EXTINF:0,TV RA TIM BUM HD
+#EXTGRP:INFANTIS
+http://srv.hostinggon39.xyz:2082/Tourobox1-T7bt2D7BWu/p2i5YyIneS/557
