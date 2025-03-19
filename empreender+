@@ -1,121 +1,155 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere 1 HD" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere.png" group-title="Canais :: PREMIERE",Premiere 1 HD
-http://dns.maxptv.net:2052/lidiane10/336699/86
-#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere 1 HD²" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere.png" group-title="Canais :: PREMIERE",Premiere 1 HD²
-http://dns.maxptv.net:2052/lidiane10/336699/247
-#EXTINF:-1 tvg-id="Premiere 2 HD" tvg-name="Premiere 2 HD" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere2.png" group-title="Canais :: PREMIERE",Premiere 2 HD
-http://dns.maxptv.net:2052/lidiane10/336699/13216
-#EXTINF:-1 tvg-id="Premiere 2 HD" tvg-name="Premiere 2 HD²" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere2.png" group-title="Canais :: PREMIERE",Premiere 2 HD²
-http://dns.maxptv.net:2052/lidiane10/336699/1462
-#EXTINF:-1 tvg-id="Premiere 3 HD" tvg-name="Premiere 3 HD" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere3.png" group-title="Canais :: PREMIERE",Premiere 3 HD
-http://dns.maxptv.net:2052/lidiane10/336699/82
-#EXTINF:-1 tvg-id="Premiere 3 HD" tvg-name="Premiere 3 HD²" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere3.png" group-title="Canais :: PREMIERE",Premiere 3 HD²
-http://dns.maxptv.net:2052/lidiane10/336699/1463
-#EXTINF:-1 tvg-id="Premiere 4 HD" tvg-name="Premiere 4 HD" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere4.png" group-title="Canais :: PREMIERE",Premiere 4 HD
-http://dns.maxptv.net:2052/lidiane10/336699/80
-#EXTINF:-1 tvg-id="Premiere 4 HD" tvg-name="Premiere 4 HD²" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere4.png" group-title="Canais :: PREMIERE",Premiere 4 HD²
-http://dns.maxptv.net:2052/lidiane10/336699/1464
-#EXTINF:-1 tvg-id="Premiere 5 HD" tvg-name="Premiere 5 HD" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere5.png" group-title="Canais :: PREMIERE",Premiere 5 HD
-http://dns.maxptv.net:2052/lidiane10/336699/78
-#EXTINF:-1 tvg-id="Premiere 5 HD" tvg-name="Premiere 5 HD²" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere5.png" group-title="Canais :: PREMIERE",Premiere 5 HD²
-http://dns.maxptv.net:2052/lidiane10/336699/1465
-#EXTINF:-1 tvg-id="Premiere 6 HD" tvg-name="Premiere 6 HD" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere6.png" group-title="Canais :: PREMIERE",Premiere 6 HD
-http://dns.maxptv.net:2052/lidiane10/336699/76
-#EXTINF:-1 tvg-id="Premiere 7 HD" tvg-name="Premiere 7 HD²" tvg-logo="https://painelsbo.painel.life/logosiptv/premiere/premiere7.png" group-title="Canais :: PREMIERE",Premiere 7 HD²
-http://dns.maxptv.net:2052/lidiane10/336699/1467
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD H265" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE 2 FHD H265
-http://infraz.top:80/u8sp825b/dmyvdxn2/71.ts
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD H265²" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE 2 FHD H265²
-http://infraz.top:80/u8sp825b/dmyvdxn2/234440.ts
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD²" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE 2 FHD²
-http://infraz.top:80/u8sp825b/dmyvdxn2/234441.ts
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE 2 HD
-http://infraz.top:80/u8sp825b/dmyvdxn2/291.ts
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD²" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE 2 HD²
-http://infraz.top:80/u8sp825b/dmyvdxn2/234442.ts
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 SD" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE 2 SD
-http://infraz.top:80/u8sp825b/dmyvdxn2/2097.ts
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 SD²" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE 2 SD²
-http://infraz.top:80/u8sp825b/dmyvdxn2/234443.ts
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 FHD H265" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE 3 FHD H265
-http://infraz.top:80/u8sp825b/dmyvdxn2/72.ts
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 FHD H265²" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE 3 FHD H265²
-http://infraz.top:80/u8sp825b/dmyvdxn2/234444.ts
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 FHD²" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE 3 FHD²
-http://infraz.top:80/u8sp825b/dmyvdxn2/234445.ts
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE 3 HD
-http://infraz.top:80/u8sp825b/dmyvdxn2/292.ts
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 SD" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE 3 SD
-http://infraz.top:80/u8sp825b/dmyvdxn2/2098.ts
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 SD²" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE 3 SD²
-http://infraz.top:80/u8sp825b/dmyvdxn2/234446.ts
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 FHD H265" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE 4 FHD H265
-http://infraz.top:80/u8sp825b/dmyvdxn2/73.ts
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 FHD H265²" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE 4 FHD H265²
-http://infraz.top:80/u8sp825b/dmyvdxn2/234447.ts
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 FHD²" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE 4 FHD²
-http://infraz.top:80/u8sp825b/dmyvdxn2/234448.ts
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE 4 HD
-http://infraz.top:80/u8sp825b/dmyvdxn2/290.ts
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD²" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE 4 HD²
-http://infraz.top:80/u8sp825b/dmyvdxn2/234449.ts
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 SD" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE 4 SD
-http://infraz.top:80/u8sp825b/dmyvdxn2/251.ts
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 SD²" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE 4 SD²
-http://infraz.top:80/u8sp825b/dmyvdxn2/234450.ts
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 FHD H265" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE 5 FHD H265
-http://infraz.top:80/u8sp825b/dmyvdxn2/101.ts
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 FHD H265²" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE 5 FHD H265²
-http://infraz.top:80/u8sp825b/dmyvdxn2/234451.ts
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 FHD²" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE 5 FHD²
-http://infraz.top:80/u8sp825b/dmyvdxn2/234452.ts
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE 5 HD
-http://infraz.top:80/u8sp825b/dmyvdxn2/293.ts
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD²" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE 5 HD²
-http://infraz.top:80/u8sp825b/dmyvdxn2/234453.ts
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 SD" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE 5 SD
-http://infraz.top:80/u8sp825b/dmyvdxn2/2099.ts
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 SD²" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE 5 SD²
-http://infraz.top:80/u8sp825b/dmyvdxn2/234454.ts
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 FHD H265" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE 6 FHD H265
-http://infraz.top:80/u8sp825b/dmyvdxn2/102.ts
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 FHD H265²" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE 6 FHD H265²
-http://infraz.top:80/u8sp825b/dmyvdxn2/234455.ts
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 FHD²" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE 6 FHD²
-http://infraz.top:80/u8sp825b/dmyvdxn2/234456.ts
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HD" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE 6 HD
-http://infraz.top:80/u8sp825b/dmyvdxn2/294.ts
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HD²" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE 6 HD²
-http://infraz.top:80/u8sp825b/dmyvdxn2/234457.ts
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 SD" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE 6 SD
-http://infraz.top:80/u8sp825b/dmyvdxn2/2100.ts
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 SD²" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE 6 SD²
-http://infraz.top:80/u8sp825b/dmyvdxn2/234458.ts
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 FHD H265" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE 7 FHD H265
-http://infraz.top:80/u8sp825b/dmyvdxn2/115.ts
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 FHD H265²" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE 7 FHD H265²
-http://infraz.top:80/u8sp825b/dmyvdxn2/234459.ts
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 FHD²" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE 7 FHD²
-http://infraz.top:80/u8sp825b/dmyvdxn2/234460.ts
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 HD" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE 7 HD
-http://infraz.top:80/u8sp825b/dmyvdxn2/2101.ts
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 HD²" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE 7 HD²
-http://infraz.top:80/u8sp825b/dmyvdxn2/234461.ts
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 SD" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE 7 SD
-http://infraz.top:80/u8sp825b/dmyvdxn2/252.ts
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 SD²" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE 7 SD²
-http://infraz.top:80/u8sp825b/dmyvdxn2/234462.ts
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES FHD H265" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE CLUBES FHD H265
-http://infraz.top:80/u8sp825b/dmyvdxn2/70.ts
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES FHD H265²" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE CLUBES FHD H265²
-http://infraz.top:80/u8sp825b/dmyvdxn2/234463.ts
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES FHD²" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE CLUBES FHD²
-http://infraz.top:80/u8sp825b/dmyvdxn2/234464.ts
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE CLUBES HD
-http://infraz.top:80/u8sp825b/dmyvdxn2/289.ts
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES HD²" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE CLUBES HD²
-http://infraz.top:80/u8sp825b/dmyvdxn2/234466.ts
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES SD" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE CLUBES SD
-http://infraz.top:80/u8sp825b/dmyvdxn2/259.ts
-#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES SD²" tvg-logo="http://rochagalaxia.live/logos/logopremiere.png" group-title="CANAIS | REDE PREMIERE",PREMIERE CLUBES SD²
-http://infraz.top:80/u8sp825b/dmyvdxn2/234465.ts
+#EXTINF:-1 xui-id="250240" tvg-id="premiere.clubes.br" tvg-name="Premiere 1 Clubes 60FPS" tvg-logo="http://97j91.xyz/images/logos/d593312c282b4342f59b1c54b25c426b.png" group-title="♦️ Canais | Premiere",Premiere 1 Clubes 60FPS
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8LUuaVTkpxmkqBo5pberIkJ/ts
+#EXTINF:-1 xui-id="124948" tvg-id="premiere.clubes.br" tvg-name="Premiere 1 Clubes FHD" tvg-logo="https://logos.imperioapps.xyz/Premiere_Clubes.png" group-title="♦️ Canais | Premiere",Premiere 1 Clubes FHD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8LUG71-Z3UX3JrniY-SF9x6/ts
+#EXTINF:-1 xui-id="124949" tvg-id="premiere.clubes.br" tvg-name="Premiere 1 Clubes HD" tvg-logo="https://logos.imperioapps.xyz/Premiere_Clubes.png" group-title="♦️ Canais | Premiere",Premiere 1 Clubes HD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8IQgi-uKigBK5KGvlXmbyR_/ts
+#EXTINF:-1 xui-id="124950" tvg-id="premiere.clubes.br" tvg-name="﻿Premiere 1 Clubes SD" tvg-logo="https://logos.imperioapps.xyz/Premiere_Clubes.png" group-title="♦️ Canais | Premiere",﻿Premiere 1 Clubes SD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8JXXLbJwsOoVPhkUh5SGBpa/ts
+#EXTINF:-1 xui-id="124927" tvg-id="premiere.2.br" tvg-name="Premiere 2 FHD" tvg-logo="https://logos.imperioapps.xyz/PREMIERE.png" group-title="♦️ Canais | Premiere",Premiere 2 FHD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8J9n7vzFW2ZMwqmCRiIkgtq/ts
+#EXTINF:-1 xui-id="124928" tvg-id="premiere.2.br" tvg-name="Premiere 2 HD" tvg-logo="https://logos.imperioapps.xyz/PREMIERE.png" group-title="♦️ Canais | Premiere",Premiere 2 HD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8IEKmFIxcm-xhoa3ZoWlA9f/ts
+#EXTINF:-1 xui-id="124929" tvg-id="premiere.2.br" tvg-name="Premiere 2 SD" tvg-logo="https://logos.imperioapps.xyz/PREMIERE.png" group-title="♦️ Canais | Premiere",Premiere 2 SD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8I2CgD2mOSlV6KPFf8EGSnE/ts
+#EXTINF:-1 xui-id="124930" tvg-id="premiere.3.br" tvg-name="Premiere 3 FHD" tvg-logo="https://logos.imperioapps.xyz/PREMIERE.png" group-title="♦️ Canais | Premiere",Premiere 3 FHD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8IFT2EIPsJx1czsQFdeVeRl/ts
+#EXTINF:-1 xui-id="124931" tvg-id="premiere.3.br" tvg-name="Premiere 3 HD" tvg-logo="https://logos.imperioapps.xyz/PREMIERE.png" group-title="♦️ Canais | Premiere",Premiere 3 HD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8LNxIrjwyc1GoiP0bXqR01L/ts
+#EXTINF:-1 xui-id="124932" tvg-id="premiere.3.br" tvg-name="Premiere 3 SD" tvg-logo="https://logos.imperioapps.xyz/PREMIERE.png" group-title="♦️ Canais | Premiere",Premiere 3 SD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8IuiLtwkv0ckju_6zG0HG_4/ts
+#EXTINF:-1 xui-id="124933" tvg-id="premiere.4.br" tvg-name="Premiere 4 FHD" tvg-logo="https://logos.imperioapps.xyz/PREMIERE.png" group-title="♦️ Canais | Premiere",Premiere 4 FHD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8J_KCGryqTBQYN41PR7oyrg/ts
+#EXTINF:-1 xui-id="124934" tvg-id="premiere.4.br" tvg-name="Premiere 4 HD" tvg-logo="https://logos.imperioapps.xyz/PREMIERE.png" group-title="♦️ Canais | Premiere",Premiere 4 HD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8IS7enyrSyA4A2sWLIhAb5H/ts
+#EXTINF:-1 xui-id="124935" tvg-id="premiere.4.br" tvg-name="Premiere 4 SD" tvg-logo="https://logos.imperioapps.xyz/PREMIERE.png" group-title="♦️ Canais | Premiere",Premiere 4 SD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8LdI2vSd46vfXlur075VxVE/ts
+#EXTINF:-1 xui-id="124937" tvg-id="premiere.5.br" tvg-name="Premiere 5 FHD" tvg-logo="https://logos.imperioapps.xyz/PREMIERE.png" group-title="♦️ Canais | Premiere",Premiere 5 FHD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8Ikkni1_2xaKMitEahD-qJE/ts
+#EXTINF:-1 xui-id="124938" tvg-id="premiere.5.br" tvg-name="Premiere 5 HD" tvg-logo="https://logos.imperioapps.xyz/PREMIERE.png" group-title="♦️ Canais | Premiere",Premiere 5 HD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8I8JxGhFAJfhKJQOVPtoQxy/ts
+#EXTINF:-1 xui-id="124939" tvg-id="premiere.5.br" tvg-name="Premiere 5 SD" tvg-logo="https://logos.imperioapps.xyz/PREMIERE.png" group-title="♦️ Canais | Premiere",Premiere 5 SD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8LSL4rSS-YbBuFxp6AgK6mO/ts
+#EXTINF:-1 xui-id="124940" tvg-id="premiere.6.br" tvg-name="Premiere 6 FHD" tvg-logo="https://logos.imperioapps.xyz/PREMIERE.png" group-title="♦️ Canais | Premiere",Premiere 6 FHD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8IFA_WdeXNGSNLzsoW_0Lye/ts
+#EXTINF:-1 xui-id="124941" tvg-id="premiere.6.br" tvg-name="Premiere 6 HD" tvg-logo="https://logos.imperioapps.xyz/PREMIERE.png" group-title="♦️ Canais | Premiere",Premiere 6 HD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8KL08Vgz5yp70RpNSmEf2E-/ts
+#EXTINF:-1 xui-id="124942" tvg-id="premiere.6.br" tvg-name="Premiere 6 SD" tvg-logo="https://logos.imperioapps.xyz/PREMIERE.png" group-title="♦️ Canais | Premiere",Premiere 6 SD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8KIMaWhP_DmyhwkmnwmgfLi/ts
+#EXTINF:-1 xui-id="124943" tvg-id="premiere.7.br" tvg-name="Premiere 7 FHD" tvg-logo="https://logos.imperioapps.xyz/PREMIERE.png" group-title="♦️ Canais | Premiere",Premiere 7 FHD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8LXhX4vAqMmzxDF69JM_SI6/ts
+#EXTINF:-1 xui-id="124944" tvg-id="premiere.7.br" tvg-name="Premiere 7 HD" tvg-logo="https://logos.imperioapps.xyz/PREMIERE.png" group-title="♦️ Canais | Premiere",Premiere 7 HD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8KLdqUB2ch1ZWeAG2SIwUrV/ts
+#EXTINF:-1 xui-id="124945" tvg-id="premiere.7.br" tvg-name="Premiere 7 SD" tvg-logo="https://logos.imperioapps.xyz/PREMIERE.png" group-title="♦️ Canais | Premiere",Premiere 7 SD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8JExCy1Bi0a1RixN3xsziMY/ts
+#EXTINF:-1 xui-id="150856" tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes 4K" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgA6LSXXzyvcfS3qj04QNt6dBMlJWKNsHRvK0-V0-wIFY93yByC7yd5_3qF3BZ85RYz1HUaJQHBmY5s9QFSvzOG4Eua_W4WVyLgLniml9Ug1IDPYRXYK1svuk_EyZMserEh-97OidJTF8Vg5AsidRigqhHXeja35o2rcSyQV6pMsG0_7fT3T9FwYWZ9" group-title="♦️Canais | 4K",Premiere Clubes 4K
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8Jp2HpDBsCZ2Ynz011Sh6pl/ts
+#EXTINF:-1 xui-id="124951" tvg-id="" tvg-name="Premiere Mosaico|Multi-Telas" tvg-logo="https://logos.imperioapps.xyz/PREMIERE.png" group-title="♦️ Canais | Premiere",Premiere Mosaico|Multi-Telas
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8I7WPRappLbatf_dh6yuVUM/ts
+#EXTINF:-1 xui-id="123641" tvg-id="sportv.br" tvg-name="SporTV 1 FHD" tvg-logo="https://logos.imperioapps.xyz/SPORTV.png" group-title="♦️Canais | SporTV",SporTV 1 FHD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8L67qi527YcbC9U6h4F4_tV/ts
+#EXTINF:-1 xui-id="123643" tvg-id="sportv.br" tvg-name="SporTV 1 HD" tvg-logo="https://logos.imperioapps.xyz/SPORTV.png" group-title="♦️Canais | SporTV",SporTV 1 HD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8Ig8vpkivlDSCvUf5CGiP-g/ts
+#EXTINF:-1 xui-id="123645" tvg-id="sportv.br" tvg-name="SporTV 1 SD" tvg-logo="https://logos.imperioapps.xyz/SPORTV.png" group-title="♦️Canais | SporTV",SporTV 1 SD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8LGCxWT5MRoCXkbAdVoTsMo/ts
+#EXTINF:-1 xui-id="150861" tvg-id="sportv2.br" tvg-name="SporTV 2 4K" tvg-logo="https://logos.imperioapps.xyz/SPORTV2_4K.png" group-title="♦️Canais | 4K",SporTV 2 4K
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8K4zyv7f-awhWKoj9qmWhiB/ts
+#EXTINF:-1 xui-id="123628" tvg-id="sportv2.br" tvg-name="SporTV 2 FHD" tvg-logo="https://logos.imperioapps.xyz/SPORTV2.png" group-title="♦️Canais | SporTV",SporTV 2 FHD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8KGJFuiG4hhoskNvvOrfoU3/ts
+#EXTINF:-1 xui-id="123630" tvg-id="sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="https://logos.imperioapps.xyz/SPORTV2.png" group-title="♦️Canais | SporTV",SporTV 2 HD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8KRF0_6hfOsgxRnICLw-TQR/ts
+#EXTINF:-1 xui-id="123633" tvg-id="sportv2.br" tvg-name="Sportv 2 SD" tvg-logo="https://logos.imperioapps.xyz/SPORTV2.png" group-title="♦️Canais | SporTV",Sportv 2 SD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8JIbeYHFpVrP2E8IcUhEy-_/ts
+#EXTINF:-1 xui-id="150862" tvg-id="sportv3.br" tvg-name="SporTV 3 4K" tvg-logo="https://logos.imperioapps.xyz/SPORTV.png" group-title="♦️Canais | 4K",SporTV 3 4K
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8JbyKBzLFLLJcAk7cz6iRB8/ts
+#EXTINF:-1 xui-id="123634" tvg-id="sportv3.br" tvg-name="SporTV 3 FHD" tvg-logo="https://logos.imperioapps.xyz/SPORTV3.png" group-title="♦️Canais | SporTV",SporTV 3 FHD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8IzBu0mulD9O6wnf7ko3jFL/ts
+#EXTINF:-1 xui-id="123636" tvg-id="sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="https://logos.imperioapps.xyz/SPORTV3.png" group-title="♦️Canais | SporTV",SporTV 3 HD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8JNinCZ1t7VcYRbfRlBVUsZ/ts
+#EXTINF:-1 xui-id="123638" tvg-id="sportv3.br" tvg-name="SporTV 3 SD" tvg-logo="https://logos.imperioapps.xyz/SPORTV3.png" group-title="♦️Canais | SporTV",SporTV 3 SD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8L0ZwfvGqCO22RMCqpZShzV/ts
+#EXTINF:-1 xui-id="150864" tvg-id="sportv.br" tvg-name="SporTV 4K" tvg-logo="https://logos.imperioapps.xyz/SPORTV_4K.png" group-title="♦️Canais | 4K",SporTV 4K
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8LITxFfxDfVTnjBmMsOfsSC/ts
+#EXTINF:-1 xui-id="108858" tvg-id="espn.brasil.br" tvg-name="ESPN 1 FHD" tvg-logo="http://logos.imperioapps.xyz/ESPN.png" group-title="♦️Canais | ESPN",ESPN 1 FHD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8IXgaTvcPvfeFwZ74AervP3/ts
+#EXTINF:-1 xui-id="108860" tvg-id="espn.brasil.br" tvg-name="ESPN 1 HD" tvg-logo="http://logos.imperioapps.xyz/ESPN.png" group-title="♦️Canais | ESPN",ESPN 1 HD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8IwoWP8yhfIGCryTM0HZ8Vm/ts
+#EXTINF:-1 xui-id="108862" tvg-id="espn.brasil.br" tvg-name="ESPN 1 SD" tvg-logo="http://logos.imperioapps.xyz/ESPN.png" group-title="♦️Canais | ESPN",ESPN 1 SD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8IjF4nuQOGAn5Gelv5OeWHo/ts
+#EXTINF:-1 xui-id="108838" tvg-id="ESPN2.br" tvg-name="ESPN 2 FHD" tvg-logo="https://logos.imperioapps.xyz/ESPN_2.png" group-title="♦️Canais | ESPN",ESPN 2 FHD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8LBfVFoFJEB7Np7XxGdrFin/ts
+#EXTINF:-1 xui-id="108839" tvg-id="espn.br" tvg-name="ESPN 2 HD" tvg-logo="https://logos.imperioapps.xyz/ESPN_2.png" group-title="♦️Canais | ESPN",ESPN 2 HD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8LsnZ_CUtLQwOmz6cPyre0G/ts
+#EXTINF:-1 xui-id="108840" tvg-id="espn.brasil.br" tvg-name="ESPN 2 SD" tvg-logo="https://logos.imperioapps.xyz/ESPN_2.png" group-title="♦️Canais | ESPN",ESPN 2 SD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8KEGvauOuu_ejCIZrF5iQOU/ts
+#EXTINF:-1 xui-id="108841" tvg-id="ESPN2.br" tvg-name="ESPN 3 FHD" tvg-logo="https://logos.imperioapps.xyz/ESPN_3.png" group-title="♦️Canais | ESPN",ESPN 3 FHD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8KJMwmkCTlJcwSZZQtWPscu/ts
+#EXTINF:-1 xui-id="108842" tvg-id="ESPN2.br" tvg-name="ESPN 3 HD" tvg-logo="https://logos.imperioapps.xyz/ESPN_3.png" group-title="♦️Canais | ESPN",ESPN 3 HD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8IPtjYXRgqeuWcB0a1A_SxC/ts
+#EXTINF:-1 xui-id="108843" tvg-id="ESPN2.br" tvg-name="ESPN 3 SD" tvg-logo="https://logos.imperioapps.xyz/ESPN_3.png" group-title="♦️Canais | ESPN",ESPN 3 SD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8J9CMkT6L16cNdswZZXl4HD/ts
+#EXTINF:-1 xui-id="150831" tvg-id="fox.sports.br" tvg-name="ESPN 4 4K" tvg-logo="http://xillia.xyz:80/images/b002f353f3e9ccabf870a764fcc7beac.png" group-title="♦️Canais | 4K",ESPN 4 4K
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8IrmMUb-_OkK35aMzpLM8Wf/ts
+#EXTINF:-1 xui-id="108848" tvg-id="fox.sports.br" tvg-name="ESPN 4 FHD" tvg-logo="https://logos.imperioapps.xyz/ESPN_4.png" group-title="♦️Canais | ESPN",ESPN 4 FHD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8JHkhFi5bdS6yu538Vg3rAj/ts
+#EXTINF:-1 xui-id="108849" tvg-id="fox.sports.br" tvg-name="ESPN 4 HD" tvg-logo="https://logos.imperioapps.xyz/ESPN_4.png" group-title="♦️Canais | ESPN",ESPN 4 HD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8KiIuJYDhKMbcHrGEe80FIb/ts
+#EXTINF:-1 xui-id="108850" tvg-id="fox.sports.br" tvg-name="ESPN 4 SD" tvg-logo="https://logos.imperioapps.xyz/ESPN_4.png" group-title="♦️Canais | ESPN",ESPN 4 SD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8IVeiXra7hLPNSILjeh44_K/ts
+#EXTINF:-1 xui-id="150832" tvg-id="espn.br" tvg-name="ESPN 4K" tvg-logo="https://logos.imperioapps.xyz/ESPN.png" group-title="♦️Canais | 4K",ESPN 4K
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8KKqPAUlseTYwp98YCW6qp3/ts
+#EXTINF:-1 xui-id="108851" tvg-id="fox.sports.2.br" tvg-name="ESPN 5 FHD" tvg-logo="http://xillia.xyz:80/images/6876eaa88b7247a2f7c14369e3431cda.png" group-title="♦️Canais | ESPN",ESPN 5 FHD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8IBXJ3M3dkU8t6eoWIAnZSd/ts
+#EXTINF:-1 xui-id="108852" tvg-id="fox.sports.2.br" tvg-name="ESPN 5 HD" tvg-logo="http://xillia.xyz:80/images/6876eaa88b7247a2f7c14369e3431cda.png" group-title="♦️Canais | ESPN",ESPN 5 HD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8KQKkW4n9KjyL-BR2tI2Du2/ts
+#EXTINF:-1 xui-id="108853" tvg-id="fox.sports.2.br" tvg-name="ESPN 5 SD" tvg-logo="http://xillia.xyz:80/images/6876eaa88b7247a2f7c14369e3431cda.png" group-title="♦️Canais | ESPN",ESPN 5 SD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8J2v0VrMublPJ4nQu3sAlZh/ts
+#EXTINF:-1 xui-id="108854" tvg-id="espn.extra.br" tvg-name="ESPN 6 FHD" tvg-logo="http://xillia.xyz:80/images/dff1812fbac52c478e591a78334a0fca.png" group-title="♦️Canais | ESPN",ESPN 6 FHD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8LnvHHSsrAadh98t--MqhHr/ts
+#EXTINF:-1 xui-id="108856" tvg-id="espn.extra.br" tvg-name="ESPN 6 HD" tvg-logo="http://xillia.xyz:80/images/dff1812fbac52c478e591a78334a0fca.png" group-title="♦️Canais | ESPN",ESPN 6 HD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8IKqaTi4wjB0AO0OnjilCFG/ts
+#EXTINF:-1 xui-id="108857" tvg-id="espn.extra.br" tvg-name="ESPN 6 SD" tvg-logo="http://xillia.xyz:80/images/dff1812fbac52c478e591a78334a0fca.png" group-title="♦️Canais | ESPN",ESPN 6 SD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8L_3vFJH8UqGvx2kFvgEWTU/ts
+#EXTINF:-1 xui-id="252412" tvg-id="" tvg-name="Cazé TV 01²" tvg-logo="https://logos.imperioapps.xyz/CAZE_TV.png" group-title="♦️Canais | Esportes",Cazé TV 01²
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8I8eJw0-htmDw0cgu6fcuK7/ts
+#EXTINF:-1 xui-id="252413" tvg-id="" tvg-name="Cazé TV 02²" tvg-logo="https://logos.imperioapps.xyz/CAZE_TV.png" group-title="♦️Canais | Esportes",Cazé TV 02²
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8K0UrRT4rrG7hqHASP4t7AD/ts
+#EXTINF:-1 xui-id="252414" tvg-id="" tvg-name="Cazé TV 03²" tvg-logo="https://logos.imperioapps.xyz/CAZE_TV.png" group-title="♦️Canais | Esportes",Cazé TV 03²
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8LekQ3yLmXf2_Ms2eh54U4X/ts
+#EXTINF:-1 xui-id="252415" tvg-id="" tvg-name="Cazé TV 04" tvg-logo="https://logos.imperioapps.xyz/CAZE_TV.png" group-title="♦️Canais | Esportes",Cazé TV 04
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8IGZ0VlUszdUXivpUrHcoWy/ts
+#EXTINF:-1 xui-id="252416" tvg-id="" tvg-name="Cazé TV 05" tvg-logo="https://logos.imperioapps.xyz/CAZE_TV.png" group-title="♦️Canais | Esportes",Cazé TV 05
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8IAMVFmUJfvSRnOlIRTdEmi/ts
+#EXTINF:-1 xui-id="252417" tvg-id="" tvg-name="Cazé TV 06" tvg-logo="https://logos.imperioapps.xyz/CAZE_TV.png" group-title="♦️Canais | Esportes",Cazé TV 06
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8KMfsvTuOdjAnes3_srLAxV/ts
+#EXTINF:-1 xui-id="252773" tvg-id="" tvg-name="Canal GOAT 01²" tvg-logo="https://logos.imperioapps.xyz/GOAT.png" group-title="♦️Canais | Esportes",Canal GOAT 01²
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8IXEt9WSlHProsKP0GsVnoI/ts
+#EXTINF:-1 xui-id="252774" tvg-id="" tvg-name="Canal GOAT 02²" tvg-logo="https://logos.imperioapps.xyz/GOAT.png" group-title="♦️Canais | Esportes",Canal GOAT 02²
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8IhrZ2-ZFKqZg8cjDVUTjzY/ts
+#EXTINF:-1 xui-id="252775" tvg-id="" tvg-name="Canal GOAT 03²" tvg-logo="https://logos.imperioapps.xyz/GOAT.png" group-title="♦️Canais | Esportes",Canal GOAT 03²
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8ILvfFh249HgBc_Qdq2qYJF/ts
+#EXTINF:-1 xui-id="122768" tvg-id="" tvg-name="Nosso Futebol 01" tvg-logo="https://logos.imperioapps.xyz/NOSSO_FUTEBOL.png" group-title="♦️Canais | Nosso futebol",Nosso Futebol 01
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8LZ7c9liEaVZCoYlv2kXtmR/ts
+#EXTINF:-1 xui-id="235006" tvg-id="" tvg-name="Nosso Futebol 01²" tvg-logo="https://logos.imperioapps.xyz/NOSSO_FUTEBOL.png" group-title="♦️Canais | Nosso futebol",Nosso Futebol 01²
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8IZwdXmdCKyqizCfzyIFTAX/ts
+#EXTINF:-1 xui-id="122769" tvg-id="" tvg-name="Nosso Futebol 02" tvg-logo="https://logos.imperioapps.xyz/NOSSO_FUTEBOL.png" group-title="♦️Canais | Nosso futebol",Nosso Futebol 02
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8KhZRhbi8LO47j1j4nZ_wY3/ts
+#EXTINF:-1 xui-id="235007" tvg-id="" tvg-name="Nosso Futebol 02²" tvg-logo="https://logos.imperioapps.xyz/NOSSO_FUTEBOL.png" group-title="♦️Canais | Nosso futebol",Nosso Futebol 02²
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8KH89ujthRSRCKgnA2G8vIj/ts
+#EXTINF:-1 xui-id="122770" tvg-id="" tvg-name="Nosso Futebol 03" tvg-logo="https://logos.imperioapps.xyz/NOSSO_FUTEBOL.png" group-title="♦️Canais | Nosso futebol",Nosso Futebol 03
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8Is6zwfAWMU1k4joa6FPjrW/ts
+#EXTINF:-1 xui-id="235008" tvg-id="" tvg-name="Nosso Futebol 03²" tvg-logo="https://logos.imperioapps.xyz/NOSSO_FUTEBOL.png" group-title="♦️Canais | Nosso futebol",Nosso Futebol 03²
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8KKMpN1fE083Fjmig-zadfB/ts
+#EXTINF:-1 xui-id="122771" tvg-id="" tvg-name="Nosso Futebol 04" tvg-logo="https://logos.imperioapps.xyz/NOSSO_FUTEBOL.png" group-title="♦️Canais | Nosso futebol",Nosso Futebol 04
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8KNo6uU3FLKH6KIrSJ2AQru/ts
+#EXTINF:-1 xui-id="250615" tvg-id="" tvg-name="Nosso Futebol 04²" tvg-logo="https://logos.imperioapps.xyz/NOSSO_FUTEBOL.png" group-title="♦️Canais | Nosso futebol",Nosso Futebol 04²
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8JRB7s7QpCSdlsfQUzFlivM/ts
+#EXTINF:-1 xui-id="152865" tvg-id="a.e.br" tvg-name="Nsports FHD" tvg-logo="http://xillia.xyz:80/images/ed35712d262f0a727938c71fd1e97244.png" group-title="♦️Canais | Esportes",Nsports FHD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8J_vmphUATX5xCB3rY7yC43/ts
+#EXTINF:-1 xui-id="152866" tvg-id="a.e.br" tvg-name="Nsports HD" tvg-logo="http://xillia.xyz:80/images/ed35712d262f0a727938c71fd1e97244.png" group-title="♦️Canais | Esportes",Nsports HD
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8ICnX-WoWDqsCvWvTj3J52m/ts
+#EXTINF:-1 xui-id="250245" tvg-id="" tvg-name="Netflix Eventos" tvg-logo="https://logodownload.org/wp-content/uploads/2014/10/netflix-logo-5.png" group-title="♦️Canais | Esportes",Netflix Eventos
+http://xillia.xyz:80/play/t6NwMw-My5_jxxBNACPoBcPUf6sf3eSd_jdAVT3mi8I4t-xblpUQjOj6y5cE0oB5/ts
+
+
