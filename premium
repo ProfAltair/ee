@@ -1,3 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="Canais | ABERTO",TV Cultura YouTube
+#EXTINF:0,LIÇÃO DE VIDA
+#EXTGRP:PROJETO DO PROFESSOR
 https://cdn1.suno.ai/a9a1b78f-f4a0-40d8-a584-6297f1165e84.webm
+#EXTINF:0,RENASCER PARA A VIDA
+#EXTGRP:PROJETO DO PROFESSOR
+https://cdn1.suno.ai/07891c7b-1599-4873-9dfd-c26abc67799e.webm
+#EXTINF:0,ESPERANÇA
+#EXTGRP:PROJETO DO PROFESSOR
+https://cdn1.suno.ai/ae49703e-ab98-46f8-9d42-b6a5bed0d9e9.webm
+#EXTINF:0,TODO TEMPO
+#EXTGRP:PROJETO DO PROFESSOR
+https://cdn1.suno.ai/3cff3029-54a8-42ab-9acc-a02999c251a1.webm
+#EXTINF:0,SUPERANDO DESAFIOS
+#EXTGRP:PROJETO DO PROFESSOR
+https://cdn1.suno.ai/7dfba044-fcba-491f-9fa1-6d5889569dd7.webm
+#EXTINF:0,MATEMÁTICA DO AMOR
+#EXTGRP:PROJETO DO PROFESSOR
+https://cdn1.suno.ai/802b3e10-9b35-469f-b4ab-a7f844f55e33.webm
+#EXTINF:0,SEM LIMITAÇÃO
+#EXTGRP:PROJETO DO PROFESSOR
+https://cdn1.suno.ai/7d337767-1f91-43f9-8ada-3ea261daf4a7.webm
+#EXTINF:0,MEU POETA ROMÂNTICO
+#EXTGRP:PROJETO DO PROFESSOR
+https://cdn1.suno.ai/0297e8b1-ac6d-4814-9a3e-b0d2b694dd28.webm
+#EXTINF:0,MINHA INSPIRAÇÃO
+#EXTGRP:PROJETO DO PROFESSOR
+https://cdn1.suno.ai/a16b6d5c-c39b-4566-92a4-ecd6b27d0659.webm
+
