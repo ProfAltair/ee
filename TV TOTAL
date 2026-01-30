@@ -1,4 +1,5 @@
-#EXTM3U#EXTINF:-1 tvg-id="" tvg-name="Gazeta 4K" tvg-logo="https://bemvindo.acasadatiaemae.top/Originals/0012.png" group-title="Canais | 4K",Gazeta 4K
+#EXTM3U#
+EXTINF:-1 tvg-id="" tvg-name="Gazeta 4K" tvg-logo="https://bemvindo.acasadatiaemae.top/Originals/0012.png" group-title="Canais | 4K",Gazeta 4K
 http://ativador.app:80/12345678/12345678/1083361
 #EXTINF:-1 tvg-id="" tvg-name="George O Curioso" tvg-logo="https://bemvindo.acasadatiaemae.top/008%20Canais%2024h%20Desenhos/0084.png" group-title=" Canais | 24h Desenhos",George O Curioso
 http://ativador.app:80/12345678/12345678/1193822
