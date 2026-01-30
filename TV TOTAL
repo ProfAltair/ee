@@ -1,4 +1,858 @@
-#EXTM3U
+#EXTM3U#EXTINF:-1 tvg-id="" tvg-name="Gazeta 4K" tvg-logo="https://bemvindo.acasadatiaemae.top/Originals/0012.png" group-title="Canais | 4K",Gazeta 4K
+http://ativador.app:80/12345678/12345678/1083361
+#EXTINF:-1 tvg-id="" tvg-name="George O Curioso" tvg-logo="https://bemvindo.acasadatiaemae.top/008%20Canais%2024h%20Desenhos/0084.png" group-title=" Canais | 24h Desenhos",George O Curioso
+http://ativador.app:80/12345678/12345678/1193822
+#EXTINF:-1 tvg-id="" tvg-name="Ginger 2000" tvg-logo="https://bemvindo.acasadatiaemae.top/008%20Canais%2024h%20Desenhos/0085.png" group-title=" Canais | 24h Desenhos",Ginger 2000
+http://ativador.app:80/12345678/12345678/1193823
+#EXTINF:-1 tvg-id="" tvg-name="Globo 4K" tvg-logo="https://bemvindo.acasadatiaemae.top/002-%20Globo/0014.png" group-title="Canais | 4K",Globo 4K
+http://ativador.app:80/12345678/12345678/1083362
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News 4K" tvg-logo="https://bemvindo.acasadatiaemae.top/Originals/0034.png" group-title="Canais | 4K",Globo News 4K
+http://ativador.app:80/12345678/12345678/1083363
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News FHD" tvg-logo="https://icons24h.info/logo/Canais/S02E101.png" group-title="Canais | Notícias",Globo News FHD
+http://ativador.app:80/12345678/12345678/239742
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News HD" tvg-logo="https://icons24h.info/logo/Canais/S02E101.png" group-title="Canais | Notícias",Globo News HD
+http://ativador.app:80/12345678/12345678/239743
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News SD" tvg-logo="https://icons24h.info/logo/Canais/S02E101.png" group-title="Canais | Notícias",Globo News SD
+http://ativador.app:80/12345678/12345678/239744
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob HD" tvg-logo="https://bemvindo.acasadatiaemae.top/009%20Canais%20infantil/0158.png" group-title="Canais | Infantil",Gloob HD
+http://ativador.app:80/12345678/12345678/239464
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob SD" tvg-logo="https://bemvindo.acasadatiaemae.top/009%20Canais%20infantil/0158.png" group-title="Canais | Infantil",Gloob SD
+http://ativador.app:80/12345678/12345678/239463
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT 4K" tvg-logo="https://bemvindo.acasadatiaemae.top/0018%20Canal%20variedades/0337.png" group-title="Canais | 4K",GNT 4K
+http://ativador.app:80/12345678/12345678/1083364
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT FHD" tvg-logo="https://bemvindo.acasadatiaemae.top/0018%20Canal%20variedades/0337.png" group-title="Canais | Variedades",GNT FHD
+http://ativador.app:80/12345678/12345678/240271
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="https://bemvindo.acasadatiaemae.top/0018%20Canal%20variedades/0337.png" group-title="Canais | Variedades",GNT HD
+http://ativador.app:80/12345678/12345678/240272
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT SD" tvg-logo="https://bemvindo.acasadatiaemae.top/0018%20Canal%20variedades/0337.png" group-title="Canais | Variedades",GNT SD
+http://ativador.app:80/12345678/12345678/240273
+#EXTINF:-1 tvg-id="" tvg-name="Golfe - Jogo 01" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0353.png" group-title="Canais | Esporte PPV",Golfe - Jogo 01
+http://ativador.app:80/12345678/12345678/1435109
+#EXTINF:-1 tvg-id="" tvg-name="Golfe - Jogo 02" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0353.png" group-title="Canais | Esporte PPV",Golfe - Jogo 02
+http://ativador.app:80/12345678/12345678/1435110
+#EXTINF:-1 tvg-id="" tvg-name="Golfe - Jogo 03" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0353.png" group-title="Canais | Esporte PPV",Golfe - Jogo 03
+http://ativador.app:80/12345678/12345678/1435111
+#EXTINF:-1 tvg-id="" tvg-name="Golfe - Jogo 04" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0353.png" group-title="Canais | Esporte PPV",Golfe - Jogo 04
+http://ativador.app:80/12345678/12345678/1435112
+#EXTINF:-1 tvg-id="" tvg-name="Gospel - Deus é Amor - 100.5 FM" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/0694bf7bc8f2490c6944e994a5d31232.jpg" group-title="Rádios | 24 horas",Gospel - Deus é Amor - 100.5 FM
+http://ativador.app:80/12345678/12345678/1443258
+#EXTINF:-1 tvg-id="" tvg-name="Gospel - Deus é Amor 1210 AM Curitiba" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/d79b756489283b09b31851618933e4d3.jpg" group-title="Rádios | 24 horas",Gospel - Deus é Amor 1210 AM Curitiba
+http://ativador.app:80/12345678/12345678/1443259
+#EXTINF:-1 tvg-id="" tvg-name="Gospel - Feliz FM 92.9 FM São Paulo" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/82385ea5b2d07982aaac58868d3509ab.webp" group-title="Rádios | 24 horas",Gospel - Feliz FM 92.9 FM São Paulo
+http://ativador.app:80/12345678/12345678/1443260
+#EXTINF:-1 tvg-id="" tvg-name="Gospel - Fonte FM" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/408476c468939b5d9f0cafd026e4e350.jpg" group-title="Rádios | 24 horas",Gospel - Fonte FM
+http://ativador.app:80/12345678/12345678/1443261
+#EXTINF:-1 tvg-id="" tvg-name="Gospel - Fonte FM 92.3 FM Goiânia" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/408476c468939b5d9f0cafd026e4e350.jpg" group-title="Rádios | 24 horas",Gospel - Fonte FM 92.3 FM Goiânia
+http://ativador.app:80/12345678/12345678/1443262
+#EXTINF:-1 tvg-id="" tvg-name="Gospel - Gospel - 89.3 FM" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/a600f156016e608bebdd5b3ce3467a95.jpg" group-title="Rádios | 24 horas",Gospel - Gospel - 89.3 FM
+http://ativador.app:80/12345678/12345678/1443263
+#EXTINF:-1 tvg-id="" tvg-name="Gospel - Gospel 89.3 FM Curitiba" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/a600f156016e608bebdd5b3ce3467a95.jpg" group-title="Rádios | 24 horas",Gospel - Gospel 89.3 FM Curitiba
+http://ativador.app:80/12345678/12345678/1443264
+#EXTINF:-1 tvg-id="" tvg-name="Gospel - Gospel Life" tvg-logo="https://img.radios.com.br/radio/lg/radio49251_1552934266.jpg" group-title="Rádios | 24 horas",Gospel - Gospel Life
+http://ativador.app:80/12345678/12345678/1443265
+#EXTINF:-1 tvg-id="" tvg-name="Gospel - Gospel Rock Juiz de Fora" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/bd5eeb78f4926e0c54b98b936176876d.jpg" group-title="Rádios | 24 horas",Gospel - Gospel Rock Juiz de Fora
+http://ativador.app:80/12345678/12345678/1443266
+#EXTINF:-1 tvg-id="" tvg-name="Gospel - IPJC" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/a976f7e9eff66d64e700e846f2fe3520.jpg" group-title="Rádios | 24 horas",Gospel - IPJC
+http://ativador.app:80/12345678/12345678/1443267
+#EXTINF:-1 tvg-id="" tvg-name="Gospel - Melodia - 97.5 FM" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/fb67338cd91a846ee5ea4495fcb5c4a4.png" group-title="Rádios | 24 horas",Gospel - Melodia - 97.5 FM
+http://ativador.app:80/12345678/12345678/1443268
+#EXTINF:-1 tvg-id="" tvg-name="Gospel - Melodia 97.5 FM Rio de Janeiro" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/fb67338cd91a846ee5ea4495fcb5c4a4.png" group-title="Rádios | 24 horas",Gospel - Melodia 97.5 FM Rio de Janeiro
+http://ativador.app:80/12345678/12345678/1443269
+#EXTINF:-1 tvg-id="" tvg-name="Gospel - Mundial - 1180 AM" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/2231906e5d421f57f370fd90ca48bf75.png" group-title="Rádios | 24 horas",Gospel - Mundial - 1180 AM
+http://ativador.app:80/12345678/12345678/1443270
+#EXTINF:-1 tvg-id="" tvg-name="Gospel - Paz e Vida São Paulo" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/1a6e93872dc180c8d0acf47f54de19ac.jpg" group-title="Rádios | 24 horas",Gospel - Paz e Vida São Paulo
+http://ativador.app:80/12345678/12345678/1443271
+#EXTINF:-1 tvg-id="" tvg-name="Gospel - Pleno em Cristo 88.7" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/dd400c8db34f1d595772209f40cfba30.jpg" group-title="Rádios | 24 horas",Gospel - Pleno em Cristo 88.7
+http://ativador.app:80/12345678/12345678/1443272
+#EXTINF:-1 tvg-id="" tvg-name="Gospel - Rádio 93 FM" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/672e832b763ffedfbe1fa0346006953c.jpg" group-title="Rádios | 24 horas",Gospel - Rádio 93 FM
+http://ativador.app:80/12345678/12345678/1443273
+#EXTINF:-1 tvg-id="" tvg-name="Gospel - Santificação no Senhor São Paulo" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/745a9b1bd224d10461600a3b5b23a81c.jpg" group-title="Rádios | 24 horas",Gospel - Santificação no Senhor São Paulo
+http://ativador.app:80/12345678/12345678/1443274
+#EXTINF:-1 tvg-id="" tvg-name="Gospel - Vida FM 96.5 FM São Paulo" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/f5e55b14b4136d45581eb1e31c570dec.webp" group-title="Rádios | 24 horas",Gospel - Vida FM 96.5 FM São Paulo
+http://ativador.app:80/12345678/12345678/1443275
+#EXTINF:-1 tvg-id="" tvg-name="Gospel - Web Worship God" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/0843d5b1d40b3b4bbefea49f5fad468b.png" group-title="Rádios | 24 horas",Gospel - Web Worship God
+http://ativador.app:80/12345678/12345678/1443276
+#EXTINF:-1 tvg-id="" tvg-name="Grande Hotel (2011)" tvg-logo="http://65.109.170.100/logo/Series/S07E079.jpg" group-title=" Canais | 24h Filmes e Séries",Grande Hotel (2011)
+http://ativador.app:80/12345678/12345678/1274871
+#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 FHD" tvg-logo="https://bemvindo.acasadatiaemae.top/004-%20canais%20documentarios/0016.png" group-title="Canais | Documentários",H2 FHD
+http://ativador.app:80/12345678/12345678/239607
+#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 HD" tvg-logo="https://bemvindo.acasadatiaemae.top/004-%20canais%20documentarios/0016.png" group-title="Canais | Documentários",H2 HD
+http://ativador.app:80/12345678/12345678/239611
+#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 SD" tvg-logo="https://bemvindo.acasadatiaemae.top/004-%20canais%20documentarios/0016.png" group-title="Canais | Documentários",H2 SD
+http://ativador.app:80/12345678/12345678/239612
+#EXTINF:-1 tvg-id="" tvg-name="Hannibal (2013)" tvg-logo="http://65.109.170.100/logo/Series/S07E044.jpg" group-title=" Canais | 24h Filmes e Séries",Hannibal (2013)
+http://ativador.app:80/12345678/12345678/1274872
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO  FHD" tvg-logo="https://bemvindo.acasadatiaemae.top/005%20HBO/0029.png" group-title="Canais | HBO",HBO  FHD
+http://ativador.app:80/12345678/12345678/239632
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO  HD" tvg-logo="https://bemvindo.acasadatiaemae.top/005%20HBO/0029.png" group-title="Canais | HBO",HBO  HD
+http://ativador.app:80/12345678/12345678/239633
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO  SD" tvg-logo="https://bemvindo.acasadatiaemae.top/005%20HBO/0029.png" group-title="Canais | HBO",HBO  SD
+http://ativador.app:80/12345678/12345678/239640
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="https://bemvindo.acasadatiaemae.top/005%20HBO/0146.png" group-title="Canais | HBO",HBO 2 FHD
+http://ativador.app:80/12345678/12345678/239626
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://bemvindo.acasadatiaemae.top/005%20HBO/0146.png" group-title="Canais | HBO",HBO 2 HD
+http://ativador.app:80/12345678/12345678/239627
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO 2 SD" tvg-logo="https://bemvindo.acasadatiaemae.top/005%20HBO/0146.png" group-title="Canais | HBO",HBO 2 SD
+http://ativador.app:80/12345678/12345678/239628
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO 4K" tvg-logo="https://bemvindo.acasadatiaemae.top/005%20HBO/0029.png" group-title="Canais | 4K",HBO 4K
+http://ativador.app:80/12345678/12345678/1083365
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family FHD" tvg-logo="https://bemvindo.acasadatiaemae.top/005%20HBO/0147.png" group-title="Canais | HBO",HBO Family FHD
+http://ativador.app:80/12345678/12345678/239629
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family HD" tvg-logo="https://bemvindo.acasadatiaemae.top/005%20HBO/0147.png" group-title="Canais | HBO",HBO Family HD
+http://ativador.app:80/12345678/12345678/239630
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family SD" tvg-logo="https://bemvindo.acasadatiaemae.top/005%20HBO/0147.png" group-title="Canais | HBO",HBO Family SD
+http://ativador.app:80/12345678/12345678/239631
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 01" tvg-logo="https://icons24h.info/logo/Canais/S02E135.png" group-title=" Canais | 24h Filmes e Séries",HBO MAX 01
+http://ativador.app:80/12345678/12345678/1193758
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 01" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0348.png" group-title="Canais | Esporte PPV",HBO MAX 01
+http://ativador.app:80/12345678/12345678/1083714
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 02" tvg-logo="https://icons24h.info/logo/Canais/S02E135.png" group-title=" Canais | 24h Filmes e Séries",HBO MAX 02
+http://ativador.app:80/12345678/12345678/1193759
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 02" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0348.png" group-title="Canais | Esporte PPV",HBO MAX 02
+http://ativador.app:80/12345678/12345678/1083715
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 03" tvg-logo="https://icons24h.info/logo/Canais/S02E135.png" group-title=" Canais | 24h Filmes e Séries",HBO MAX 03
+http://ativador.app:80/12345678/12345678/1193760
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 03" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0348.png" group-title="Canais | Esporte PPV",HBO MAX 03
+http://ativador.app:80/12345678/12345678/1083716
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 04" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0348.png" group-title="Canais | Esporte PPV",HBO MAX 04
+http://ativador.app:80/12345678/12345678/1083717
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 04 Familia" tvg-logo="https://icons24h.info/logo/Canais/S02E135.png" group-title=" Canais | 24h Filmes e Séries",HBO MAX 04 Familia
+http://ativador.app:80/12345678/12345678/1193761
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 05" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0348.png" group-title="Canais | Esporte PPV",HBO MAX 05
+http://ativador.app:80/12345678/12345678/1083718
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 06" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0348.png" group-title="Canais | Esporte PPV",HBO Max 06
+http://ativador.app:80/12345678/12345678/1275064
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 07" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0348.png" group-title="Canais | Esporte PPV",HBO Max 07
+http://ativador.app:80/12345678/12345678/1435113
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 08" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0348.png" group-title="Canais | Esporte PPV",HBO Max 08
+http://ativador.app:80/12345678/12345678/1435114
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 09" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0348.png" group-title="Canais | Esporte PPV",HBO Max 09
+http://ativador.app:80/12345678/12345678/1457222
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 10 HD" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0348.png" group-title="Canais | Esporte PPV",HBO Max 10 HD
+http://ativador.app:80/12345678/12345678/1457223
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 11 HD" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0348.png" group-title="Canais | Esporte PPV",HBO Max 11 HD
+http://ativador.app:80/12345678/12345678/1457224
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 12 HD" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0348.png" group-title="Canais | Esporte PPV",HBO Max 12 HD
+http://ativador.app:80/12345678/12345678/1457225
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 13 HD" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0348.png" group-title="Canais | Esporte PPV",HBO Max 13 HD
+http://ativador.app:80/12345678/12345678/1457226
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 14 HD" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0348.png" group-title="Canais | Esporte PPV",HBO Max 14 HD
+http://ativador.app:80/12345678/12345678/1457227
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 15 HD" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0348.png" group-title="Canais | Esporte PPV",HBO Max 15 HD
+http://ativador.app:80/12345678/12345678/1457228
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 16 HD" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0348.png" group-title="Canais | Esporte PPV",HBO Max 16 HD
+http://ativador.app:80/12345678/12345678/1457229
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 17 HD" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0348.png" group-title="Canais | Esporte PPV",HBO Max 17 HD
+http://ativador.app:80/12345678/12345678/1457230
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 18 HD" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0348.png" group-title="Canais | Esporte PPV",HBO Max 18 HD
+http://ativador.app:80/12345678/12345678/1457231
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max Mosaico Jogos HD" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0348.png" group-title="Canais | Esporte PPV",HBO Max Mosaico Jogos HD
+http://ativador.app:80/12345678/12345678/1457232
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi FHD" tvg-logo="https://bemvindo.acasadatiaemae.top/005%20HBO/0148.png" group-title="Canais | HBO",HBO Mundi FHD
+http://ativador.app:80/12345678/12345678/239634
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi HD" tvg-logo="https://bemvindo.acasadatiaemae.top/005%20HBO/0148.png" group-title="Canais | HBO",HBO Mundi HD
+http://ativador.app:80/12345678/12345678/239635
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi SD" tvg-logo="https://bemvindo.acasadatiaemae.top/005%20HBO/0148.png" group-title="Canais | HBO",HBO Mundi SD
+http://ativador.app:80/12345678/12345678/239636
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop FHD" tvg-logo="https://bemvindo.acasadatiaemae.top/005%20HBO/0149.png" group-title="Canais | HBO",HBO Pop FHD
+http://ativador.app:80/12345678/12345678/239637
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop HD" tvg-logo="https://bemvindo.acasadatiaemae.top/005%20HBO/0149.png" group-title="Canais | HBO",HBO Pop HD
+http://ativador.app:80/12345678/12345678/239638
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop SD" tvg-logo="https://bemvindo.acasadatiaemae.top/005%20HBO/0149.png" group-title="Canais | HBO",HBO Pop SD
+http://ativador.app:80/12345678/12345678/239639
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature FHD" tvg-logo="https://bemvindo.acasadatiaemae.top/005%20HBO/0144.png" group-title="Canais | HBO",HBO Signature FHD
+http://ativador.app:80/12345678/12345678/239641
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature HD" tvg-logo="https://bemvindo.acasadatiaemae.top/005%20HBO/0144.png" group-title="Canais | HBO",HBO Signature HD
+http://ativador.app:80/12345678/12345678/239642
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature SD" tvg-logo="https://bemvindo.acasadatiaemae.top/005%20HBO/0144.png" group-title="Canais | HBO",HBO Signature SD
+http://ativador.app:80/12345678/12345678/239643
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme FHD" tvg-logo="https://bemvindo.acasadatiaemae.top/005%20HBO/0145.png" group-title="Canais | HBO",HBO Xtreme FHD
+http://ativador.app:80/12345678/12345678/239644
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme HD" tvg-logo="https://bemvindo.acasadatiaemae.top/005%20HBO/0145.png" group-title="Canais | HBO",HBO Xtreme HD
+http://ativador.app:80/12345678/12345678/239645
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme SD" tvg-logo="https://bemvindo.acasadatiaemae.top/005%20HBO/0145.png" group-title="Canais | HBO",HBO Xtreme SD
+http://ativador.app:80/12345678/12345678/239646
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO+ FHD" tvg-logo="https://icons24h.info/logo/Canais/S02E111.png" group-title="Canais | HBO",HBO+ FHD
+http://ativador.app:80/12345678/12345678/239647
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO+ HD" tvg-logo="https://icons24h.info/logo/Canais/S02E111.png" group-title="Canais | HBO",HBO+ HD
+http://ativador.app:80/12345678/12345678/239648
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO+ SD" tvg-logo="https://icons24h.info/logo/Canais/S02E111.png" group-title="Canais | HBO",HBO+ SD
+http://ativador.app:80/12345678/12345678/239649
+#EXTINF:-1 tvg-id="" tvg-name="He-Man 24hs" tvg-logo="https://bemvindo.acasadatiaemae.top/008%20Canais%2024h%20Desenhos/0086.png" group-title=" Canais | 24h Desenhos",He-Man 24hs
+http://ativador.app:80/12345678/12345678/1083411
+#EXTINF:-1 tvg-id="" tvg-name="HeMan e Os Defensores do Universo 1983" tvg-logo="https://bemvindo.acasadatiaemae.top/008%20Canais%2024h%20Desenhos/0086.png" group-title=" Canais | 24h Desenhos",HeMan e Os Defensores do Universo 1983
+http://ativador.app:80/12345678/12345678/1193824
+#EXTINF:-1 tvg-id="fashiontv.br" tvg-name="Fashion TV HD" tvg-logo="https://bemvindo.acasadatiaemae.top/0018%20Canal%20variedades/0339.png" group-title="Canais | Variedades",Fashion TV HD
+http://ativador.app:80/12345678/12345678/240266
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead 2015" tvg-logo="https://icons24h.info/logo/Series/S07E014.png" group-title=" Canais | 24h Filmes e Séries",Fear the Walking Dead 2015
+http://ativador.app:80/12345678/12345678/1193769
+#EXTINF:-1 tvg-id="film-arts" tvg-name="FILM & ART FHD" tvg-logo="https://bemvindo.acasadatiaemae.top/0015%20Canais%20filmes%20e%20series/0234.png" group-title="Canais | Filmes e Séries",FILM & ART FHD
+http://ativador.app:80/12345678/12345678/239482
+#EXTINF:-1 tvg-id="film-arts" tvg-name="FILM & ART HD" tvg-logo="https://bemvindo.acasadatiaemae.top/0015%20Canais%20filmes%20e%20series/0234.png" group-title="Canais | Filmes e Séries",FILM & ART HD
+http://ativador.app:80/12345678/12345678/239483
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV FHD" tvg-logo="https://bemvindo.acasadatiaemae.top/004-%20canais%20documentarios/0028.png" group-title="Canais | Documentários",Fish TV FHD
+http://ativador.app:80/12345678/12345678/239604
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV HD" tvg-logo="https://bemvindo.acasadatiaemae.top/004-%20canais%20documentarios/0028.png" group-title="Canais | Documentários",Fish TV HD
+http://ativador.app:80/12345678/12345678/239605
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV SD" tvg-logo="https://bemvindo.acasadatiaemae.top/004-%20canais%20documentarios/0028.png" group-title="Canais | Documentários",Fish TV SD
+http://ativador.app:80/12345678/12345678/239606
+#EXTINF:-1 tvg-id="" tvg-name="FLA TV HD" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0347.png" group-title="Canais | Esporte PPV",FLA TV HD
+http://ativador.app:80/12345678/12345678/1496288
+#EXTINF:-1 tvg-id="" tvg-name="Flash (2014)" tvg-logo="http://65.109.170.100/logo/Series/S07E060.jpeg" group-title=" Canais | 24h Filmes e Séries",Flash (2014)
+http://ativador.app:80/12345678/12345678/1274888
+#EXTINF:-1 tvg-id="" tvg-name="FLASH BACK 80 e 90" tvg-logo="https://icons24h.info/logo/Musicas/S05E066.png" group-title="Músicas | 24 HORAS",FLASH BACK 80 e 90
+http://ativador.app:80/12345678/12345678/1274984
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network FHD" tvg-logo="https://bemvindo.acasadatiaemae.top/0018%20Canal%20variedades/0338.png" group-title="Canais | Variedades",Food Network FHD
+http://ativador.app:80/12345678/12345678/240267
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network HD" tvg-logo="https://bemvindo.acasadatiaemae.top/0018%20Canal%20variedades/0338.png" group-title="Canais | Variedades",Food Network HD
+http://ativador.app:80/12345678/12345678/240268
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network SD" tvg-logo="https://bemvindo.acasadatiaemae.top/0018%20Canal%20variedades/0338.png" group-title="Canais | Variedades",Food Network SD
+http://ativador.app:80/12345678/12345678/240269
+#EXTINF:-1 tvg-id="" tvg-name="FORMULA 1 TV" tvg-logo="https://i.imgur.com/wW2FygV.png" group-title="Canais | Esporte PPV",FORMULA 1 TV
+http://ativador.app:80/12345678/12345678/1083712
+http://ativador.app:80/12345678/12345678/1487817
+#EXTINF:-1 tvg-id="" tvg-name="FUNK ANTIGAS" tvg-logo="https://icons24h.info/logo/Musicas/S05E016.png" group-title="Músicas | 24 HORAS",FUNK ANTIGAS
+http://ativador.app:80/12345678/12345678/1274986
+#EXTINF:-1 tvg-id="" tvg-name="FUNK CLASSICOS" tvg-logo="https://icons24h.info/logo/Musicas/S05E010.jpg" group-title="Músicas | 24 HORAS",FUNK CLASSICOS
+http://ativador.app:80/12345678/12345678/1274987
+#EXTINF:-1 tvg-id="" tvg-name="FUNK FURACAO 2000" tvg-logo="https://icons24h.info/logo/Musicas/S05E011.jpg" group-title="Músicas | 24 HORAS",FUNK FURACAO 2000
+http://ativador.app:80/12345678/12345678/1274988
+#EXTINF:-1 tvg-id="" tvg-name="FUNK PEGA A VISAO" tvg-logo="https://icons24h.info/logo/Musicas/S05E018.jpg" group-title="Músicas | 24 HORAS",FUNK PEGA A VISAO
+http://ativador.app:80/12345678/12345678/1274989
+#EXTINF:-1 tvg-id="" tvg-name="FURACÃO LIVE" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0387.png" group-title="Canais | Esporte PPV",FURACÃO LIVE
+http://ativador.app:80/12345678/12345678/1083713
+#EXTINF:-1 tvg-id="" tvg-name="Futebol Americano - Jogo 01" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0373.png" group-title="Canais | Esporte PPV",Futebol Americano - Jogo 01
+http://ativador.app:80/12345678/12345678/1435105
+#EXTINF:-1 tvg-id="" tvg-name="Futebol Americano - Jogo 02" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0373.png" group-title="Canais | Esporte PPV",Futebol Americano - Jogo 02
+http://ativador.app:80/12345678/12345678/1435106
+#EXTINF:-1 tvg-id="" tvg-name="Futebol Americano - Jogo 03" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0373.png" group-title="Canais | Esporte PPV",Futebol Americano - Jogo 03
+http://ativador.app:80/12345678/12345678/1435107
+#EXTINF:-1 tvg-id="" tvg-name="Futebol Americano - Jogo 04" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0373.png" group-title="Canais | Esporte PPV",Futebol Americano - Jogo 04
+http://ativador.app:80/12345678/12345678/1435108
+#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA HD" tvg-logo="https://bemvindo.acasadatiaemae.top/001%20-%20Canal%20aberto/0005.png" group-title="Canais | Abertos",FUTURA HD
+http://ativador.app:80/12345678/12345678/239552
+#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA SD" tvg-logo="https://bemvindo.acasadatiaemae.top/001%20-%20Canal%20aberto/0005.png" group-title="Canais | Abertos",FUTURA SD
+http://ativador.app:80/12345678/12345678/239553
+#EXTINF:-1 tvg-id="" tvg-name="Futurama (1999)" tvg-logo="https://bemvindo.acasadatiaemae.top/008%20Canais%2024h%20Desenhos/0042.png" group-title=" Canais | 24h Desenhos",Futurama (1999)
+http://ativador.app:80/12345678/12345678/1274844
+#EXTINF:-1 tvg-id="" tvg-name="Fórmula 1 -  1984" tvg-logo="https://bemvindo.acasadatiaemae.top/0011%20programas%20de%20TV/0202.png" group-title=" Canais | 24h Programas TV",Fórmula 1 -  1984
+http://ativador.app:80/12345678/12345678/1193618
+#EXTINF:-1 tvg-id="" tvg-name="Fórmula 1 - 1985" tvg-logo="https://bemvindo.acasadatiaemae.top/0011%20programas%20de%20TV/0202.png" group-title=" Canais | 24h Programas TV",Fórmula 1 - 1985
+http://ativador.app:80/12345678/12345678/1193619
+#EXTINF:-1 tvg-id="" tvg-name="Fórmula 1 - 1986" tvg-logo="https://bemvindo.acasadatiaemae.top/0011%20programas%20de%20TV/0202.png" group-title=" Canais | 24h Programas TV",Fórmula 1 - 1986
+http://ativador.app:80/12345678/12345678/1193620
+#EXTINF:-1 tvg-id="" tvg-name="Fórmula 1 - 1987" tvg-logo="https://bemvindo.acasadatiaemae.top/0011%20programas%20de%20TV/0202.png" group-title=" Canais | 24h Programas TV",Fórmula 1 - 1987
+http://ativador.app:80/12345678/12345678/1193621
+#EXTINF:-1 tvg-id="" tvg-name="Fórmula 1 - 1988" tvg-logo="https://bemvindo.acasadatiaemae.top/0011%20programas%20de%20TV/0202.png" group-title=" Canais | 24h Programas TV",Fórmula 1 - 1988
+http://ativador.app:80/12345678/12345678/1193622
+#EXTINF:-1 tvg-id="" tvg-name="Fórmula 1 - 1989" tvg-logo="https://bemvindo.acasadatiaemae.top/0011%20programas%20de%20TV/0202.png" group-title=" Canais | 24h Programas TV",Fórmula 1 - 1989
+http://ativador.app:80/12345678/12345678/1193623
+#EXTINF:-1 tvg-id="" tvg-name="Fórmula 1 - 1990" tvg-logo="https://bemvindo.acasadatiaemae.top/0011%20programas%20de%20TV/0202.png" group-title=" Canais | 24h Programas TV",Fórmula 1 - 1990
+http://ativador.app:80/12345678/12345678/1193624
+#EXTINF:-1 tvg-id="" tvg-name="Fórmula 1 - 1991" tvg-logo="https://bemvindo.acasadatiaemae.top/0011%20programas%20de%20TV/0202.png" group-title=" Canais | 24h Programas TV",Fórmula 1 - 1991
+http://ativador.app:80/12345678/12345678/1193625
+#EXTINF:-1 tvg-id="" tvg-name="Fórmula 1 - 1992" tvg-logo="https://bemvindo.acasadatiaemae.top/0011%20programas%20de%20TV/0202.png" group-title=" Canais | 24h Programas TV",Fórmula 1 - 1992
+http://ativador.app:80/12345678/12345678/1193626
+#EXTINF:-1 tvg-id="" tvg-name="Fórmula 1 - 1993" tvg-logo="https://bemvindo.acasadatiaemae.top/0011%20programas%20de%20TV/0202.png" group-title=" Canais | 24h Programas TV",Fórmula 1 - 1993
+http://ativador.app:80/12345678/12345678/1193627
+#EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha" tvg-logo="https://bemvindo.acasadatiaemae.top/008%20Canais%2024h%20Desenhos/0083.png" group-title=" Canais | 24h Desenhos",Galinha Pintadinha
+http://ativador.app:80/12345678/12345678/1274845
+#EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha Mini 2017" tvg-logo="https://bemvindo.acasadatiaemae.top/008%20Canais%2024h%20Desenhos/0083.png" group-title=" Canais | 24h Desenhos",Galinha Pintadinha Mini 2017
+http://ativador.app:80/12345678/12345678/1193821
+#EXTINF:-1 tvg-id="" tvg-name="Game of Thrones 2011" tvg-logo="https://icons24h.info/logo/Series/S07E015.png" group-title=" Canais | 24h Filmes e Séries",Game of Thrones 2011
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 FHD" tvg-logo="https://icons24h.info/logo/Canais/S02E095.png" group-title="Canais | ESPN",ESPN 2 FHD
+http://ativador.app:80/12345678/12345678/239693
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD" tvg-logo="https://icons24h.info/logo/Canais/S02E095.png" group-title="Canais | ESPN",ESPN 2 HD
+http://ativador.app:80/12345678/12345678/239694
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 SD" tvg-logo="https://icons24h.info/logo/Canais/S02E095.png" group-title="Canais | ESPN",ESPN 2 SD
+http://ativador.app:80/12345678/12345678/239695
+#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 FHD" tvg-logo="https://icons24h.info/logo/Canais/S02E095.png" group-title="Canais | ESPN",ESPN 3 FHD
+http://ativador.app:80/12345678/12345678/239696
+#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 HD" tvg-logo="https://icons24h.info/logo/Canais/S02E095.png" group-title="Canais | ESPN",ESPN 3 HD
+http://ativador.app:80/12345678/12345678/239697
+#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 SD" tvg-logo="https://icons24h.info/logo/Canais/S02E095.png" group-title="Canais | ESPN",ESPN 3 SD
+http://ativador.app:80/12345678/12345678/239698
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 4K" tvg-logo="https://icons24h.info/logo/Canais/S02E095.png" group-title="Canais | 4K",ESPN 4 4K
+http://ativador.app:80/12345678/12345678/1083359
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 FHD" tvg-logo="http://painel.livetv2021.online:8080/images/55dc663f561a8c15d925baf3077f01b1.png" group-title="Canais | ESPN",ESPN 4 FHD
+http://ativador.app:80/12345678/12345678/1552257
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD" tvg-logo="" group-title="Canais | ESPN",ESPN 4 HD
+http://ativador.app:80/12345678/12345678/1552258
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 SD" tvg-logo="http://painel.livetv2021.online:8080/images/e6af1871b302e403ff7ba08870726c16.png" group-title="Canais | ESPN",ESPN 4 SD
+http://ativador.app:80/12345678/12345678/1552259
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4K" tvg-logo="https://icons24h.info/logo/Canais/S02E095.png" group-title="Canais | 4K",ESPN 4K
+http://ativador.app:80/12345678/12345678/1083360
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="ESPN 5 FHD" tvg-logo="https://icons24h.info/logo/Canais/S02E095.png" group-title="Canais | ESPN",ESPN 5 FHD
+http://ativador.app:80/12345678/12345678/239674
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="ESPN 5 HD" tvg-logo="https://icons24h.info/logo/Canais/S02E095.png" group-title="Canais | ESPN",ESPN 5 HD
+http://ativador.app:80/12345678/12345678/239675
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="ESPN 5 SD" tvg-logo="https://icons24h.info/logo/Canais/S02E095.png" group-title="Canais | ESPN",ESPN 5 SD
+http://ativador.app:80/12345678/12345678/239676
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 6 FHD" tvg-logo="https://icons24h.info/logo/Canais/S02E095.png" group-title="Canais | ESPN",ESPN 6 FHD
+http://ativador.app:80/12345678/12345678/1323134
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 6 HD" tvg-logo="http://cdn.fontedecanais.live/portal/misc/logos/240/769.png" group-title="Canais | ESPN",ESPN 6 HD
+http://ativador.app:80/12345678/12345678/1323135
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 6 SD" tvg-logo="http://cdn.fontedecanais.live/portal/misc/logos/240/770.png" group-title="Canais | ESPN",ESPN 6 SD
+http://ativador.app:80/12345678/12345678/1323136
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN EXTRA FHD" tvg-logo="https://icons24h.info/logo/Canais/S02E072.png" group-title="Canais | ESPN",ESPN EXTRA FHD
+http://ativador.app:80/12345678/12345678/239702
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN EXTRA HD" tvg-logo="https://icons24h.info/logo/Canais/S02E072.png" group-title="Canais | ESPN",ESPN EXTRA HD
+http://ativador.app:80/12345678/12345678/239703
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN EXTRA SD" tvg-logo="https://icons24h.info/logo/Canais/S02E072.png" group-title="Canais | ESPN",ESPN EXTRA SD
+http://ativador.app:80/12345678/12345678/239704
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN FHD" tvg-logo="https://icons24h.info/logo/Canais/S02E095.png" group-title="Canais | ESPN",ESPN FHD
+http://ativador.app:80/12345678/12345678/239705
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="https://icons24h.info/logo/Canais/S02E095.png" group-title="Canais | ESPN",ESPN HD
+http://ativador.app:80/12345678/12345678/239706
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN SD" tvg-logo="https://icons24h.info/logo/Canais/S02E095.png" group-title="Canais | ESPN",ESPN SD
+http://ativador.app:80/12345678/12345678/239707
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ STAR+ 1" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0364.png" group-title="Canais | Esporte PPV",DISNEY+ STAR+ 1
+http://ativador.app:80/12345678/12345678/1083740
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ STAR+ 2" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0364.png" group-title="Canais | Esporte PPV",DISNEY+ STAR+ 2
+http://ativador.app:80/12345678/12345678/1083741
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ STAR+ 3" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0364.png" group-title="Canais | Esporte PPV",DISNEY+ STAR+ 3
+http://ativador.app:80/12345678/12345678/1083742
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ STAR+ 4" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0364.png" group-title="Canais | Esporte PPV",DISNEY+ STAR+ 4
+http://ativador.app:80/12345678/12345678/1083743
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ STAR+ 5" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0364.png" group-title="Canais | Esporte PPV",DISNEY+ STAR+ 5
+http://ativador.app:80/12345678/12345678/1083744
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ STAR+ 6" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0364.png" group-title="Canais | Esporte PPV",DISNEY+ STAR+ 6
+http://ativador.app:80/12345678/12345678/1083745
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ STAR+ 7" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0364.png" group-title="Canais | Esporte PPV",DISNEY+ STAR+ 7
+http://ativador.app:80/12345678/12345678/1083746
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="Cultura HD" tvg-logo="https://bemvindo.acasadatiaemae.top/001%20-%20Canal%20aberto/0004.png" group-title="Canais | Abertos",Cultura HD
+http://ativador.app:80/12345678/12345678/239551
+#EXTINF:-1 tvg-id="curta.br" tvg-name="Curta! FHD" tvg-logo="https://bemvindo.acasadatiaemae.top/0018%20Canal%20variedades/0342.png" group-title="Canais | Variedades",Curta! FHD
+http://ativador.app:80/12345678/12345678/240258
+#EXTINF:-1 tvg-id="curta.br" tvg-name="Curta! HD" tvg-logo="https://bemvindo.acasadatiaemae.top/0018%20Canal%20variedades/0342.png" group-title="Canais | Variedades",Curta! HD
+http://ativador.app:80/12345678/12345678/240259
+#EXTINF:-1 tvg-id="" tvg-name="DANCE TRANCE TECHNO" tvg-logo="https://icons24h.info/logo/Musicas/S05E008.jpg" group-title="Músicas | 24 HORAS",DANCE TRANCE TECHNO
+http://ativador.app:80/12345678/12345678/1274981
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0391.png" group-title="Canais | Esporte PPV",DAZN 1
+http://ativador.app:80/12345678/12345678/1083680
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0390.png" group-title="Canais | Esporte PPV",DAZN 2
+http://ativador.app:80/12345678/12345678/1083681
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0389.png" group-title="Canais | Esporte PPV",DAZN 3
+http://ativador.app:80/12345678/12345678/1083682
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4" tvg-logo="https://icons24h.info/logo/Canais/S02E051.jpg" group-title="Canais | Esporte PPV",DAZN 4
+http://ativador.app:80/12345678/12345678/1083683
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 5" tvg-logo="https://icons24h.info/logo/Canais/S02E051.jpg" group-title="Canais | Esporte PPV",DAZN 5
+http://ativador.app:80/12345678/12345678/1275062
+#EXTINF:-1 tvg-id="" tvg-name="Desenhos Disney 24HS" tvg-logo="https://bemvindo.acasadatiaemae.top/008%20Canais%2024h%20Desenhos/0076.png" group-title=" Canais | 24h Desenhos",Desenhos Disney 24HS
+http://ativador.app:80/12345678/12345678/1083405
+#EXTINF:-1 tvg-id="" tvg-name="Detetives do Predio Azul (2012)" tvg-logo="https://bemvindo.acasadatiaemae.top/008%20Canais%2024h%20Desenhos/0077.png" group-title=" Canais | 24h Desenhos",Detetives do Predio Azul (2012)
+http://ativador.app:80/12345678/12345678/1193817
+#EXTINF:-1 tvg-id="" tvg-name="Diarios de um Vampiro 2009" tvg-logo="https://bemvindo.acasadatiaemae.top/0023%2024h%20Filmes%20e%20S%C3%A9ries/Diarios%20de%20um%20Vampiro%202009.png" group-title=" Canais | 24h Filmes e Séries",Diarios de um Vampiro 2009
+http://ativador.app:80/12345678/12345678/1193768
+#EXTINF:-1 tvg-id="" tvg-name="Digimon (1999)" tvg-logo="https://bemvindo.acasadatiaemae.top/008%20Canais%2024h%20Desenhos/0078.png" group-title=" Canais | 24h Desenhos",Digimon (1999)
+http://ativador.app:80/12345678/12345678/1335577
+#EXTINF:-1 tvg-id="" tvg-name="Digimon Adventure (2020)" tvg-logo="https://bemvindo.acasadatiaemae.top/008%20Canais%2024h%20Desenhos/0078.png" group-title=" Canais | 24h Desenhos",Digimon Adventure (2020)
+http://ativador.app:80/12345678/12345678/1335578
+#EXTINF:-1 tvg-id="" tvg-name="DISCOGRAFIA CHARLIE BROWN JR" tvg-logo="https://icons24h.info/logo/Musicas/S05E054.jpg" group-title="Músicas | 24 HORAS",DISCOGRAFIA CHARLIE BROWN JR
+http://ativador.app:80/12345678/12345678/1275033
+#EXTINF:-1 tvg-id="" tvg-name="DISCOGRAFIA EXALTASAMBA" tvg-logo="https://icons24h.info/logo/Musicas/S05E055.png" group-title="Músicas | 24 HORAS",DISCOGRAFIA EXALTASAMBA
+http://ativador.app:80/12345678/12345678/1275034
+#EXTINF:-1 tvg-id="" tvg-name="DISCOGRAFIA JORGE E MATEUS" tvg-logo="https://icons24h.info/logo/Musicas/S05E056.jpg" group-title="Músicas | 24 HORAS",DISCOGRAFIA JORGE E MATEUS
+http://ativador.app:80/12345678/12345678/1275035
+#EXTINF:-1 tvg-id="" tvg-name="DISCOGRAFIA LEGIAO URBANA" tvg-logo="https://icons24h.info/logo/Musicas/S05E057.jpg" group-title="Músicas | 24 HORAS",DISCOGRAFIA LEGIAO URBANA
+http://ativador.app:80/12345678/12345678/1275036
+#EXTINF:-1 tvg-id="" tvg-name="DISCOGRAFIA LINK PARK" tvg-logo="https://icons24h.info/logo/Musicas/S05E058.jpg" group-title="Músicas | 24 HORAS",DISCOGRAFIA LINK PARK
+http://ativador.app:80/12345678/12345678/1275037
+#EXTINF:-1 tvg-id="" tvg-name="DISCOGRAFIA MARIANA E MARAISA" tvg-logo="https://icons24h.info/logo/Musicas/S05E059.jpg" group-title="Músicas | 24 HORAS",DISCOGRAFIA MARIANA E MARAISA
+http://ativador.app:80/12345678/12345678/1275038
+#EXTINF:-1 tvg-id="" tvg-name="DISCOGRAFIA MARILIA MENDONCA" tvg-logo="https://icons24h.info/logo/Musicas/S05E060.jpg" group-title="Músicas | 24 HORAS",DISCOGRAFIA MARILIA MENDONCA
+http://ativador.app:80/12345678/12345678/1275039
+#EXTINF:-1 tvg-id="" tvg-name="DISCOGRAFIA METALICA" tvg-logo="https://icons24h.info/logo/Musicas/S05E061.jpg" group-title="Músicas | 24 HORAS",DISCOGRAFIA METALICA
+http://ativador.app:80/12345678/12345678/1275040
+#EXTINF:-1 tvg-id="" tvg-name="DISCOGRAFIA MICHAEL JACKSON" tvg-logo="https://icons24h.info/logo/Musicas/S05E062.jpg" group-title="Músicas | 24 HORAS",DISCOGRAFIA MICHAEL JACKSON
+http://ativador.app:80/12345678/12345678/1275041
+#EXTINF:-1 tvg-id="" tvg-name="DISCOGRAFIA NIRVANA" tvg-logo="https://icons24h.info/logo/Musicas/S05E063.png" group-title="Músicas | 24 HORAS",DISCOGRAFIA NIRVANA
+http://ativador.app:80/12345678/12345678/1275042
+#EXTINF:-1 tvg-id="" tvg-name="DISCOGRAFIA ROBERTO CARLOS" tvg-logo="https://icons24h.info/logo/Musicas/S05E064.jpg" group-title="Músicas | 24 HORAS",DISCOGRAFIA ROBERTO CARLOS
+http://ativador.app:80/12345678/12345678/1275043
+#EXTINF:-1 tvg-id="" tvg-name="DISCOGRAFIA ZECA PAGODINHO" tvg-logo="https://icons24h.info/logo/Musicas/S05E065.jpg" group-title="Músicas | 24 HORAS",DISCOGRAFIA ZECA PAGODINHO
+http://ativador.app:80/12345678/12345678/1275044
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel 4K" tvg-logo="https://bemvindo.acasadatiaemae.top/004-%20canais%20documentarios/0022.png" group-title="Canais | 4K",Discovery Channel 4K
+http://ativador.app:80/12345678/12345678/1083356
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel FHD" tvg-logo="https://bemvindo.acasadatiaemae.top/004-%20canais%20documentarios/0022.png" group-title="Canais | Documentários",Discovery Channel FHD
+http://ativador.app:80/12345678/12345678/239586
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel HD" tvg-logo="https://bemvindo.acasadatiaemae.top/004-%20canais%20documentarios/0022.png" group-title="Canais | Documentários",Discovery Channel HD
+http://ativador.app:80/12345678/12345678/239587
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel SD" tvg-logo="https://bemvindo.acasadatiaemae.top/004-%20canais%20documentarios/0022.png" group-title="Canais | Documentários",Discovery Channel SD
+http://ativador.app:80/12345678/12345678/239588
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery H&H 4K" tvg-logo="https://bemvindo.acasadatiaemae.top/004-%20canais%20documentarios/0023.png" group-title="Canais | 4K",Discovery H&H 4K
+http://ativador.app:80/12345678/12345678/1083357
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery H&H FHD" tvg-logo="https://bemvindo.acasadatiaemae.top/004-%20canais%20documentarios/0023.png" group-title="Canais | Documentários",Discovery H&H FHD
+http://ativador.app:80/12345678/12345678/239589
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery H&H HD" tvg-logo="https://bemvindo.acasadatiaemae.top/004-%20canais%20documentarios/0023.png" group-title="Canais | Documentários",Discovery H&H HD
+http://ativador.app:80/12345678/12345678/239590
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery H&H SD" tvg-logo="https://bemvindo.acasadatiaemae.top/004-%20canais%20documentarios/0023.png" group-title="Canais | Documentários",Discovery H&H SD
+http://ativador.app:80/12345678/12345678/239591
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids HD" tvg-logo="https://bemvindo.acasadatiaemae.top/009%20Canais%20infantil/0164.png" group-title="Canais | Infantil",Discovery Kids HD
+http://ativador.app:80/12345678/12345678/239460
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids SD" tvg-logo="https://bemvindo.acasadatiaemae.top/009%20Canais%20infantil/0164.png" group-title="Canais | Infantil",Discovery Kids SD
+http://ativador.app:80/12345678/12345678/239459
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY PLUS 90 DIAS PARA CASAR" tvg-logo="https://bemvindo.acasadatiaemae.top/0011%20programas%20de%20TV/0204.png" group-title=" Canais | 24h Programas TV",DISCOVERY PLUS 90 DIAS PARA CASAR
+http://ativador.app:80/12345678/12345678/1193597
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY PLUS AEROPORTO AREA RESTRITA" tvg-logo="https://bemvindo.acasadatiaemae.top/0011%20programas%20de%20TV/0184.png" group-title=" Canais | 24h Programas TV",DISCOVERY PLUS AEROPORTO AREA RESTRITA
+http://ativador.app:80/12345678/12345678/1193598
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY PLUS AMOR NA SELVA" tvg-logo="https://bemvindo.acasadatiaemae.top/0011%20programas%20de%20TV/0185.png" group-title=" Canais | 24h Programas TV",DISCOVERY PLUS AMOR NA SELVA
+http://ativador.app:80/12345678/12345678/1193599
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY PLUS AS PIORES PRISOES DO MUNDO" tvg-logo="https://bemvindo.acasadatiaemae.top/0011%20programas%20de%20TV/0186.png" group-title=" Canais | 24h Programas TV",DISCOVERY PLUS AS PIORES PRISOES DO MUNDO
+http://ativador.app:80/12345678/12345678/1193600
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY PLUS CACADORES DE TEMPESTADES" tvg-logo="https://bemvindo.acasadatiaemae.top/0011%20programas%20de%20TV/0187.png" group-title=" Canais | 24h Programas TV",DISCOVERY PLUS CACADORES DE TEMPESTADES
+http://ativador.app:80/12345678/12345678/1193601
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY PLUS CARROS IRADOS" tvg-logo="https://bemvindo.acasadatiaemae.top/0011%20programas%20de%20TV/0188.png" group-title=" Canais | 24h Programas TV",DISCOVERY PLUS CARROS IRADOS
+http://ativador.app:80/12345678/12345678/1193602
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY PLUS CHAOS IN COURT" tvg-logo="https://bemvindo.acasadatiaemae.top/0011%20programas%20de%20TV/0189.png" group-title=" Canais | 24h Programas TV",DISCOVERY PLUS CHAOS IN COURT
+http://ativador.app:80/12345678/12345678/1193603
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY PLUS CRIMES QUE ABALARAM O MUNDO" tvg-logo="https://bemvindo.acasadatiaemae.top/0011%20programas%20de%20TV/0190.png" group-title=" Canais | 24h Programas TV",DISCOVERY PLUS CRIMES QUE ABALARAM O MUNDO
+http://ativador.app:80/12345678/12345678/1193604
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY PLUS DUPLA DO BARULHO" tvg-logo="https://bemvindo.acasadatiaemae.top/0011%20programas%20de%20TV/0191.png" group-title=" Canais | 24h Programas TV",DISCOVERY PLUS DUPLA DO BARULHO
+http://ativador.app:80/12345678/12345678/1193605
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY PLUS FEBRE DO OURO CORREDEIRAS DO ALASCA" tvg-logo="https://bemvindo.acasadatiaemae.top/0011%20programas%20de%20TV/0192.png" group-title=" Canais | 24h Programas TV",DISCOVERY PLUS FEBRE DO OURO CORREDEIRAS DO ALASCA
+http://ativador.app:80/12345678/12345678/1193606
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY PLUS IRMAOS A OBRA" tvg-logo="https://bemvindo.acasadatiaemae.top/0011%20programas%20de%20TV/0193.png" group-title=" Canais | 24h Programas TV",DISCOVERY PLUS IRMAOS A OBRA
+http://ativador.app:80/12345678/12345678/1193607
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY PLUS O CRIME QUASE PERFEITO" tvg-logo="https://bemvindo.acasadatiaemae.top/0011%20programas%20de%20TV/0194.png" group-title=" Canais | 24h Programas TV",DISCOVERY PLUS O CRIME QUASE PERFEITO
+http://ativador.app:80/12345678/12345678/1193608
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY PLUS OPERACAO FRONTEIRA AMERICA DO SUL" tvg-logo="https://bemvindo.acasadatiaemae.top/0011%20programas%20de%20TV/0195.png" group-title=" Canais | 24h Programas TV",DISCOVERY PLUS OPERACAO FRONTEIRA AMERICA DO SUL
+http://ativador.app:80/12345678/12345678/1193609
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY PLUS PESCA MORTAL" tvg-logo="https://bemvindo.acasadatiaemae.top/0011%20programas%20de%20TV/0196.png" group-title=" Canais | 24h Programas TV",DISCOVERY PLUS PESCA MORTAL
+http://ativador.app:80/12345678/12345678/1193610
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY PLUS PIT BULLS CONDENADOS" tvg-logo="https://bemvindo.acasadatiaemae.top/0011%20programas%20de%20TV/0197.png" group-title=" Canais | 24h Programas TV",DISCOVERY PLUS PIT BULLS CONDENADOS
+http://ativador.app:80/12345678/12345678/1193611
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY PLUS REFORMA EM FAMILIA COM KAREN E MINA" tvg-logo="https://bemvindo.acasadatiaemae.top/0011%20programas%20de%20TV/0198.png" group-title=" Canais | 24h Programas TV",DISCOVERY PLUS REFORMA EM FAMILIA COM KAREN E MINA
+http://ativador.app:80/12345678/12345678/1193612
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY PLUS RUMO AO DESCONHECIDO ESPECIAL DE VOLTA PARA O FUTURO" tvg-logo="https://bemvindo.acasadatiaemae.top/0011%20programas%20de%20TV/0199.png" group-title=" Canais | 24h Programas TV",DISCOVERY PLUS RUMO AO DESCONHECIDO ESPECIAL DE VOLTA PARA O FUTURO
+http://ativador.app:80/12345678/12345678/1193613
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY PLUS VIVENDO COM O INIMIGO" tvg-logo="https://bemvindo.acasadatiaemae.top/0011%20programas%20de%20TV/0200.png" group-title=" Canais | 24h Programas TV",DISCOVERY PLUS VIVENDO COM O INIMIGO
+http://ativador.app:80/12345678/12345678/1193614
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science FHD" tvg-logo="https://bemvindo.acasadatiaemae.top/004-%20canais%20documentarios/0024.png" group-title="Canais | Documentários",Discovery Science FHD
+http://ativador.app:80/12345678/12345678/239592
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science HD" tvg-logo="https://bemvindo.acasadatiaemae.top/004-%20canais%20documentarios/0024.png" group-title="Canais | Documentários",Discovery Science HD
+http://ativador.app:80/12345678/12345678/239593
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science SD" tvg-logo="https://bemvindo.acasadatiaemae.top/004-%20canais%20documentarios/0024.png" group-title="Canais | Documentários",Discovery Science SD
+http://ativador.app:80/12345678/12345678/239594
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theather FHD" tvg-logo="https://bemvindo.acasadatiaemae.top/004-%20canais%20documentarios/0025.png" group-title="Canais | Documentários",Discovery Theather FHD
+http://ativador.app:80/12345678/12345678/239595
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theather HD" tvg-logo="https://bemvindo.acasadatiaemae.top/004-%20canais%20documentarios/0025.png" group-title="Canais | Documentários",Discovery Theather HD
+http://ativador.app:80/12345678/12345678/239596
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theather SD" tvg-logo="https://bemvindo.acasadatiaemae.top/004-%20canais%20documentarios/0025.png" group-title="Canais | Documentários",Discovery Theather SD
+http://ativador.app:80/12345678/12345678/239597
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo 4K" tvg-logo="https://bemvindo.acasadatiaemae.top/004-%20canais%20documentarios/0026.png" group-title="Canais | 4K",Discovery Turbo 4K
+http://ativador.app:80/12345678/12345678/1083358
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo FHD" tvg-logo="https://bemvindo.acasadatiaemae.top/004-%20canais%20documentarios/0026.png" group-title="Canais | Documentários",Discovery Turbo FHD
+http://ativador.app:80/12345678/12345678/239598
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo HD" tvg-logo="https://bemvindo.acasadatiaemae.top/004-%20canais%20documentarios/0026.png" group-title="Canais | Documentários",Discovery Turbo HD
+http://ativador.app:80/12345678/12345678/239599
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo SD" tvg-logo="https://bemvindo.acasadatiaemae.top/004-%20canais%20documentarios/0026.png" group-title="Canais | Documentários",Discovery Turbo SD
+http://ativador.app:80/12345678/12345678/239600
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World FHD" tvg-logo="https://bemvindo.acasadatiaemae.top/004-%20canais%20documentarios/0027.png" group-title="Canais | Documentários",Discovery World FHD
+http://ativador.app:80/12345678/12345678/239601
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World HD" tvg-logo="https://bemvindo.acasadatiaemae.top/004-%20canais%20documentarios/0027.png" group-title="Canais | Documentários",Discovery World HD
+http://ativador.app:80/12345678/12345678/239602
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World SD" tvg-logo="https://bemvindo.acasadatiaemae.top/004-%20canais%20documentarios/0027.png" group-title="Canais | Documentários",Discovery World SD
+http://ativador.app:80/12345678/12345678/239603
+#EXTINF:-1 tvg-id="" tvg-name="101 Dalmatas (1997)" tvg-logo="https://bemvindo.acasadatiaemae.top/008%20Canais%2024h%20Desenhos/0049.png" group-title=" Canais | 24h Desenhos",101 Dalmatas (1997)
+http://ativador.app:80/12345678/12345678/1274836
+#EXTINF:-1 tvg-id="" tvg-name="220 Volts (2011)" tvg-logo="https://icons24h.info/logo/Series/S07E004.jpg" group-title=" Canais | 24h Programas TV",220 Volts (2011)
+http://ativador.app:80/12345678/12345678/1193628
+#EXTINF:-1 tvg-id="" tvg-name="220 Volts (2011)" tvg-logo="http://65.109.170.100/logo/Series/S07E004.jpg" group-title=" Canais | 24h Filmes e Séries",220 Volts (2011)
+http://ativador.app:80/12345678/12345678/1274861
+#EXTINF:-1 tvg-id="" tvg-name="24h Peppa Pig" tvg-logo="https://bemvindo.acasadatiaemae.top/008%20Canais%2024h%20Desenhos/0050.png" group-title=" Canais | 24h Desenhos",24h Peppa Pig
+http://ativador.app:80/12345678/12345678/1083386
+#EXTINF:-1 tvg-id="" tvg-name="3 Palavrinhas" tvg-logo="https://bemvindo.acasadatiaemae.top/008%20Canais%2024h%20Desenhos/0051.png" group-title=" Canais | 24h Desenhos",3 Palavrinhas
+http://ativador.app:80/12345678/12345678/1274837
+#EXTINF:-1 tvg-id="" tvg-name="44 Gatos 2018" tvg-logo="https://icons24h.info/logo/Desenhos/S03E024.png" group-title=" Canais | 24h Desenhos",44 Gatos 2018
+http://ativador.app:80/12345678/12345678/1193790
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 (2018)" tvg-logo="https://bemvindo.acasadatiaemae.top/0023%2024h%20Filmes%20e%20S%C3%A9ries/9-1-1%20(2018).png" group-title=" Canais | 24h Filmes e Séries",9-1-1 (2018)
+http://ativador.app:80/12345678/12345678/1274853
+#EXTINF:-1 tvg-id="" tvg-name="9-1-1 Lone Star (2020)" tvg-logo="https://bemvindo.acasadatiaemae.top/0023%2024h%20Filmes%20e%20S%C3%A9ries/9-1-1%20Lone%20Star%20(2020).png" group-title=" Canais | 24h Filmes e Séries",9-1-1 Lone Star (2020)
+http://ativador.app:80/12345678/12345678/1274854
+#EXTINF:-1 tvg-id="" tvg-name="90" tvg-logo="https://icons24h.info/logo/Musicas/S05E050.jpg" group-title="Músicas | 24 HORAS",90
+http://ativador.app:80/12345678/12345678/1274974
+#EXTINF:-1 tvg-id="" tvg-name="90" tvg-logo="https://icons24h.info/logo/Musicas/S05E050.jpg" group-title="Músicas | 24 HORAS",90
+http://ativador.app:80/12345678/12345678/1275045
+#EXTINF:-1 tvg-id="" tvg-name="90 e 2000" tvg-logo="https://icons24h.info/logo/Musicas/S05E066.png" group-title="Músicas | 24 HORAS",90 e 2000
+http://ativador.app:80/12345678/12345678/1274969
+#EXTINF:-1 tvg-id="" tvg-name="90 e 2000" tvg-logo="https://icons24h.info/logo/Musicas/S05E066.png" group-title="Músicas | 24 HORAS",90 e 2000
+http://ativador.app:80/12345678/12345678/1274985
+#EXTINF:-1 tvg-id="" tvg-name="a Aventureira (2000)" tvg-logo="http://65.109.170.100/logo/Desenhos/S03E117.jpg" group-title=" Canais | 24h Desenhos",a Aventureira (2000)
+http://ativador.app:80/12345678/12345678/1274838
+#EXTINF:-1 tvg-id="" tvg-name="A Casa da Raven (2017)" tvg-logo="https://bemvindo.acasadatiaemae.top/0023%2024h%20Filmes%20e%20S%C3%A9ries/A%20Casa%20da%20Raven%20(2017).png" group-title=" Canais | 24h Filmes e Séries",A Casa da Raven (2017)
+http://ativador.app:80/12345678/12345678/1274863
+#EXTINF:-1 tvg-id="" tvg-name="A Casa do Mickey Mouse (2006)" tvg-logo="https://bemvindo.acasadatiaemae.top/008/0052.png" group-title=" Canais | 24h Desenhos",A Casa do Mickey Mouse (2006)
+http://ativador.app:80/12345678/12345678/1274839
+#EXTINF:-1 tvg-id="" tvg-name="A Corrida Maluca (2017)" tvg-logo="https://bemvindo.acasadatiaemae.top/008/0053.png" group-title=" Canais | 24h Desenhos",A Corrida Maluca (2017)
+http://ativador.app:80/12345678/12345678/1215984
+#EXTINF:-1 tvg-id="" tvg-name="A Familia Addams 1992" tvg-logo="https://bemvindo.acasadatiaemae.top/008/0054.png" group-title=" Canais | 24h Desenhos",A Familia Addams 1992
+http://ativador.app:80/12345678/12345678/1193791
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Familia (2001)" tvg-logo="https://bemvindo.acasadatiaemae.top/0011%20programas%20de%20TV/0180.png" group-title=" Canais | 24h Programas TV",A Grande Familia (2001)
+http://ativador.app:80/12345678/12345678/1193629
+#EXTINF:-1 tvg-id="" tvg-name="A Pequena Sereia 1992" tvg-logo="https://bemvindo.acasadatiaemae.top/008/0055.png" group-title=" Canais | 24h Desenhos",A Pequena Sereia 1992
+http://ativador.app:80/12345678/12345678/1193792
+#EXTINF:-1 tvg-id="" tvg-name="A Vaca e o Frango 1997" tvg-logo="https://bemvindo.acasadatiaemae.top/008/0056.png" group-title=" Canais | 24h Desenhos",A Vaca e o Frango 1997
+http://ativador.app:80/12345678/12345678/1193793
+#EXTINF:-1 tvg-id="" tvg-name="A Vida e Aventuras de Juniper Lee 2005" tvg-logo="https://bemvindo.acasadatiaemae.top/008/0057.png" group-title=" Canais | 24h Desenhos",A Vida e Aventuras de Juniper Lee 2005
+http://ativador.app:80/12345678/12345678/1193794
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E FHD" tvg-logo="https://bemvindo.acasadatiaemae.top/0015%20Canais%20filmes%20e%20series/0239.png" group-title="Canais | Filmes e Séries",A&E FHD
+http://ativador.app:80/12345678/12345678/239470
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD" tvg-logo="https://bemvindo.acasadatiaemae.top/0015%20Canais%20filmes%20e%20series/0239.png" group-title="Canais | Filmes e Séries",A&E HD
+http://ativador.app:80/12345678/12345678/239471
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E SD" tvg-logo="https://bemvindo.acasadatiaemae.top/0015%20Canais%20filmes%20e%20series/0239.png" group-title="Canais | Filmes e Séries",A&E SD
+http://ativador.app:80/12345678/12345678/239472
+#EXTINF:-1 tvg-id="" tvg-name="Adolescência da geração 90 e 2000" tvg-logo="https://icons24h.info/logo/Musicas/S05E052.png" group-title="Músicas | 24 HORAS",Adolescência da geração 90 e 2000
+http://ativador.app:80/12345678/12345678/1274973
+#EXTINF:-1 tvg-id="" tvg-name="AgroBrasil TV" tvg-logo="https://bemvindo.acasadatiaemae.top/0018%20Canal%20variedades/0327.png" group-title="Canais | Variedades",AgroBrasil TV
+http://ativador.app:80/12345678/12345678/240219
+#EXTINF:-1 tvg-id="" tvg-name="Aladdin" tvg-logo="https://bemvindo.acasadatiaemae.top/008/0058.png" group-title=" Canais | 24h Desenhos",Aladdin
+http://ativador.app:80/12345678/12345678/1193795
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME JOGO 1" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0365.png" group-title="Canais | Esporte PPV",AMAZON PRIME JOGO 1
+http://ativador.app:80/12345678/12345678/1083657
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME JOGO 2" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0365.png" group-title="Canais | Esporte PPV",AMAZON PRIME JOGO 2
+http://ativador.app:80/12345678/12345678/1083658
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME JOGO 3" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0365.png" group-title="Canais | Esporte PPV",AMAZON PRIME JOGO 3
+http://ativador.app:80/12345678/12345678/1083659
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME JOGO 4" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0365.png" group-title="Canais | Esporte PPV",AMAZON PRIME JOGO 4
+http://ativador.app:80/12345678/12345678/1083660
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD" tvg-logo="https://bemvindo.acasadatiaemae.top/0015%20Canais%20filmes%20e%20series/0238.png" group-title="Canais | Filmes e Séries",AMC FHD
+http://ativador.app:80/12345678/12345678/239473
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="https://bemvindo.acasadatiaemae.top/0015%20Canais%20filmes%20e%20series/0238.png" group-title="Canais | Filmes e Séries",AMC HD
+http://ativador.app:80/12345678/12345678/239474
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD" tvg-logo="https://bemvindo.acasadatiaemae.top/0015%20Canais%20filmes%20e%20series/0238.png" group-title="Canais | Filmes e Séries",AMC SD
+http://ativador.app:80/12345678/12345678/239475
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet 4K" tvg-logo="https://bemvindo.acasadatiaemae.top/004-%20canais%20documentarios/0021.png" group-title="Canais | 4K",Animal Planet 4K
+http://ativador.app:80/12345678/12345678/1083349
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet FHD" tvg-logo="https://bemvindo.acasadatiaemae.top/004-%20canais%20documentarios/0021.png" group-title="Canais | Documentários",Animal Planet FHD
+http://ativador.app:80/12345678/12345678/239583
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="https://bemvindo.acasadatiaemae.top/004-%20canais%20documentarios/0021.png" group-title="Canais | Documentários",Animal Planet HD
+http://ativador.app:80/12345678/12345678/239584
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet SD" tvg-logo="https://bemvindo.acasadatiaemae.top/004-%20canais%20documentarios/0021.png" group-title="Canais | Documentários",Animal Planet SD
+http://ativador.app:80/12345678/12345678/239585
+#EXTINF:-1 tvg-id="" tvg-name="Anos 50/60 - Brega Hits" tvg-logo="https://bemvindo.acasadatiaemae.top/0016%20Radios/0286.png" group-title="Rádios | 24 horas",Anos 50/60 - Brega Hits
+http://ativador.app:80/12345678/12345678/1443237
+#EXTINF:-1 tvg-id="" tvg-name="Anos 50/60 - Brilhantina" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/e1b6bf9b09054814a923529ba6f0e4c2.png" group-title="Rádios | 24 horas",Anos 50/60 - Brilhantina
+http://ativador.app:80/12345678/12345678/1443238
+#EXTINF:-1 tvg-id="" tvg-name="Anos 50/60 - Calhambeque" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/282e3b1702754bcf94391d32e220e195.png" group-title="Rádios | 24 horas",Anos 50/60 - Calhambeque
+http://ativador.app:80/12345678/12345678/1443239
+#EXTINF:-1 tvg-id="" tvg-name="Anos 50/60 - De Rosto Colado" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/28c9e1592f7fd32922aa6ec55b84e7a8.jpg" group-title="Rádios | 24 horas",Anos 50/60 - De Rosto Colado
+http://ativador.app:80/12345678/12345678/1443240
+#EXTINF:-1 tvg-id="" tvg-name="Anos 50/60 - Jovem Guarda" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/bb784200cc21c1467a2cc2543a920914.jpg" group-title="Rádios | 24 horas",Anos 50/60 - Jovem Guarda
+http://ativador.app:80/12345678/12345678/1443241
+#EXTINF:-1 tvg-id="" tvg-name="Anos 50/60 - Mix Jovem Guarda" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/d84106748cb515720761264c7ca6db6a.png" group-title="Rádios | 24 horas",Anos 50/60 - Mix Jovem Guarda
+http://ativador.app:80/12345678/12345678/1443243
+#EXTINF:-1 tvg-id="" tvg-name="Anos 50/60 - Portal Roots Reggae" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/d57283389c71dddd762ebd6d0fdf938d.jpg" group-title="Rádios | 24 horas",Anos 50/60 - Portal Roots Reggae
+http://ativador.app:80/12345678/12345678/1443244
+#EXTINF:-1 tvg-id="" tvg-name="Anos 50/60 - Rádio Real AMW" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/6bef853c3e02782a1e4349290ef7059e.jpg" group-title="Rádios | 24 horas",Anos 50/60 - Rádio Real AMW
+http://ativador.app:80/12345678/12345678/1443245
+#EXTINF:-1 tvg-id="" tvg-name="Anos 50/60 - Transmundial Florianópolis" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/8360a62090e0c8698747ccd64f164e9b.png" group-title="Rádios | 24 horas",Anos 50/60 - Transmundial Florianópolis
+http://ativador.app:80/12345678/12345678/1443246
+#EXTINF:-1 tvg-id="" tvg-name="Anos 70 - A Nave do Tempo" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/683248c786169f0b87cce84cbcb2b462.jpg" group-title="Rádios | 24 horas",Anos 70 - A Nave do Tempo
+http://ativador.app:80/12345678/12345678/1443247
+#EXTINF:-1 tvg-id="" tvg-name="Anos 70 - Amigos do Flashback" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/806583b67d61b2fc6e1b3e4bfb931e49.jpg" group-title="Rádios | 24 horas",Anos 70 - Amigos do Flashback
+http://ativador.app:80/12345678/12345678/1443248
+#EXTINF:-1 tvg-id="" tvg-name="Anos 70 - Classic Hits" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/fcff282e1014c6e00d1196bb28ef384e.jpg" group-title="Rádios | 24 horas",Anos 70 - Classic Hits
+http://ativador.app:80/12345678/12345678/1443249
+#EXTINF:-1 tvg-id="" tvg-name="Anos 70 - Clube das Antigas" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/00eebd194baf07085d42e3b7564311fd.png" group-title="Rádios | 24 horas",Anos 70 - Clube das Antigas
+http://ativador.app:80/12345678/12345678/1443250
+#EXTINF:-1 tvg-id="" tvg-name="Anos 70 - Emoções Araraquara" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/b86ce1bb955f6ee85052e00a182f4de9.jpg" group-title="Rádios | 24 horas",Anos 70 - Emoções Araraquara
+http://ativador.app:80/12345678/12345678/1443251
+#EXTINF:-1 tvg-id="" tvg-name="Anos 70 - Mundi Rio Petrópolis" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/6654e2c22652a603c9f9db83b7ea2f4d.jpg" group-title="Rádios | 24 horas",Anos 70 - Mundi Rio Petrópolis
+http://ativador.app:80/12345678/12345678/1443252
+#EXTINF:-1 tvg-id="" tvg-name="Anos 70 - Máquina Do Tempo Santo Anastácio" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/4a50c55099c807ce4caced84cf5a0063.webp" group-title="Rádios | 24 horas",Anos 70 - Máquina Do Tempo Santo Anastácio
+http://ativador.app:80/12345678/12345678/1443253
+#EXTINF:-1 tvg-id="" tvg-name="Anos 70 - Na Era do Vinil" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/657768ea6c6dda2b216caf4322b54f57.png" group-title="Rádios | 24 horas",Anos 70 - Na Era do Vinil
+http://ativador.app:80/12345678/12345678/1443254
+#EXTINF:-1 tvg-id="" tvg-name="Anos 70 - NOSSA SAUDADE" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/0b108c3532d9c87bc5d0b4d94cc90d99.png" group-title="Rádios | 24 horas",Anos 70 - NOSSA SAUDADE
+http://ativador.app:80/12345678/12345678/1443255
+#EXTINF:-1 tvg-id="" tvg-name="Anos 70 - Studio Do Amor" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/cf14742fcc974164706ac5cd6354714e.jpg" group-title="Rádios | 24 horas",Anos 70 - Studio Do Amor
+http://ativador.app:80/12345678/12345678/1443256
+#EXTINF:-1 tvg-id="" tvg-name="Anos 70 - Túnel do Tempo Bom Sucesso" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/34199b668ce2c8aef16872b3399829e9.webp" group-title="Rádios | 24 horas",Anos 70 - Túnel do Tempo Bom Sucesso
+http://ativador.app:80/12345678/12345678/1443257
+#EXTINF:-1 tvg-id="" tvg-name="Anos Incríveis (1988)" tvg-logo="https://bemvindo.acasadatiaemae.top/0023%2024h%20Filmes%20e%20S%C3%A9ries/Anos%20Incr%C3%ADveis%20(1988).png" group-title=" Canais | 24h Filmes e Séries",Anos Incríveis (1988)
+http://ativador.app:80/12345678/12345678/1274860
+#EXTINF:-1 tvg-id="" tvg-name="Apenas Um Show 2010" tvg-logo="https://bemvindo.acasadatiaemae.top/008/0059.png" group-title=" Canais | 24h Desenhos",Apenas Um Show 2010
+http://ativador.app:80/12345678/12345678/1193796
+#EXTINF:-1 tvg-id="" tvg-name="Apple TV - LIVE" tvg-logo="https://iili.io/JGsJ1HP.png" group-title="Canais | Esporte PPV",Apple TV - LIVE
+http://ativador.app:80/12345678/12345678/1275046
+#EXTINF:-1 tvg-id="" tvg-name="Apple TV - LIVE 2" tvg-logo="https://iili.io/JGsJ1HP.png" group-title="Canais | Esporte PPV",Apple TV - LIVE 2
+http://ativador.app:80/12345678/12345678/1275047
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo Morto (2003)" tvg-logo="https://bemvindo.acasadatiaemae.top/0023%2024h%20Filmes%20e%20S%C3%A9ries/Arquivo%20Morto%20(2003).png" group-title=" Canais | 24h Filmes e Séries",Arquivo Morto (2003)
+http://ativador.app:80/12345678/12345678/1274864
+#EXTINF:-1 tvg-id="" tvg-name="ARRASTA PE" tvg-logo="https://icons24h.info/logo/Musicas/S05E009.png" group-title="Músicas | 24 HORAS",ARRASTA PE
+http://ativador.app:80/12345678/12345678/1274970
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1 FHD" tvg-logo="https://bemvindo.acasadatiaemae.top/0018%20Canal%20variedades/0346.png" group-title="Canais | Variedades",Arte 1 FHD
+http://ativador.app:80/12345678/12345678/240221
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1 HD" tvg-logo="https://bemvindo.acasadatiaemae.top/0018%20Canal%20variedades/0346.png" group-title="Canais | Variedades",Arte 1 HD
+http://ativador.app:80/12345678/12345678/240222
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1 SD" tvg-logo="https://bemvindo.acasadatiaemae.top/0018%20Canal%20variedades/0346.png" group-title="Canais | Variedades",Arte 1 SD
+http://ativador.app:80/12345678/12345678/240223
+#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Jackie Chan 2000" tvg-logo="https://bemvindo.acasadatiaemae.top/008/0060.png" group-title=" Canais | 24h Desenhos",As Aventuras de Jackie Chan 2000
+http://ativador.app:80/12345678/12345678/1193797
+#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Silvestre Tweety 1995" tvg-logo="https://bemvindo.acasadatiaemae.top/008/0061.png" group-title=" Canais | 24h Desenhos",As Aventuras de Silvestre Tweety 1995
+http://ativador.app:80/12345678/12345678/1193798
+#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Tintin 1991" tvg-logo="https://bemvindo.acasadatiaemae.top/008/0062.png" group-title=" Canais | 24h Desenhos",As Aventuras de Tintin 1991
+http://ativador.app:80/12345678/12345678/1193799
+#EXTINF:-1 tvg-id="" tvg-name="As mais tocadas 2000" tvg-logo="https://icons24h.info/logo/Musicas/S05E067.jpg" group-title="Músicas | 24 HORAS",As mais tocadas 2000
+http://ativador.app:80/12345678/12345678/1274975
+#EXTINF:-1 tvg-id="" tvg-name="As Meninas Super Poderosas" tvg-logo="https://bemvindo.acasadatiaemae.top/008/0035.png" group-title=" Canais | 24h Desenhos",As Meninas Super Poderosas
+http://ativador.app:80/12345678/12345678/1193800
+#EXTINF:-1 tvg-id="" tvg-name="As Meninas Superpoderosas 24HS" tvg-logo="https://bemvindo.acasadatiaemae.top/008/0035.png" group-title=" Canais | 24h Desenhos",As Meninas Superpoderosas 24HS
+http://ativador.app:80/12345678/12345678/1083391
+#EXTINF:-1 tvg-id="" tvg-name="As Tartarugas Ninjas 2012" tvg-logo="https://bemvindo.acasadatiaemae.top/008/0064.png" group-title=" Canais | 24h Desenhos",As Tartarugas Ninjas 2012
+http://ativador.app:80/12345678/12345678/1193801
+#EXTINF:-1 tvg-id="" tvg-name="As Visoes da Raven (2003)" tvg-logo="https://bemvindo.acasadatiaemae.top/0023%2024h%20Filmes%20e%20S%C3%A9ries/As%20Visoes%20da%20Raven%20(2003).png" group-title=" Canais | 24h Filmes e Séries",As Visoes da Raven (2003)
+http://ativador.app:80/12345678/12345678/1274887
+#EXTINF:-1 tvg-id="" tvg-name="Atualizações de Filmes" tvg-logo="https://i.postimg.cc/s2MtWbdV/FILMES.png" group-title="Portal do Cliente",Atualizações de Filmes
+http://ativador.app:80/12345678/12345678/1275223
+#EXTINF:-1 tvg-id="" tvg-name="Atualizações de Séries" tvg-logo="https://i.postimg.cc/9F1bHQM3/S-RIES.png" group-title="Portal do Cliente",Atualizações de Séries
+http://ativador.app:80/12345678/12345678/1275222
+#EXTINF:-1 tvg-id="" tvg-name="Avatar A Lenda de Aang 2005" tvg-logo="https://bemvindo.acasadatiaemae.top/008/0065.png" group-title=" Canais | 24h Desenhos",Avatar A Lenda de Aang 2005
+http://ativador.app:80/12345678/12345678/1193802
+#EXTINF:-1 tvg-id="" tvg-name="AXE 90S" tvg-logo="https://icons24h.info/logo/Musicas/S05E004.png" group-title="Músicas | 24 HORAS",AXE 90S
+http://ativador.app:80/12345678/12345678/1274971
+#EXTINF:-1 tvg-id="" tvg-name="AXE DAS ANTIGAS" tvg-logo="https://icons24h.info/logo/Musicas/S05E010.png" group-title="Músicas | 24 HORAS",AXE DAS ANTIGAS
+http://ativador.app:80/12345678/12345678/1274972
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN 4K" tvg-logo="https://bemvindo.acasadatiaemae.top/0015%20Canais%20filmes%20e%20series/0236.png" group-title="Canais | 4K",AXN 4K
+http://ativador.app:80/12345678/12345678/1083350
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD" tvg-logo="https://bemvindo.acasadatiaemae.top/0015%20Canais%20filmes%20e%20series/0236.png" group-title="Canais | Filmes e Séries",AXN FHD
+http://ativador.app:80/12345678/12345678/239476
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="https://bemvindo.acasadatiaemae.top/0015%20Canais%20filmes%20e%20series/0236.png" group-title="Canais | Filmes e Séries",AXN HD
+http://ativador.app:80/12345678/12345678/239477
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD" tvg-logo="https://bemvindo.acasadatiaemae.top/0015%20Canais%20filmes%20e%20series/0236.png" group-title="Canais | Filmes e Séries",AXN SD
+http://ativador.app:80/12345678/12345678/239478
+#EXTINF:-1 tvg-id="" tvg-name="Baby Looney Tunes" tvg-logo="https://bemvindo.acasadatiaemae.top/008/0066.png" group-title=" Canais | 24h Desenhos",Baby Looney Tunes
+http://ativador.app:80/12345678/12345678/1193803
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band" tvg-logo="https://bemvindo.acasadatiaemae.top/001%20-%20Canal%20aberto/0003.png" group-title="Canais | Abertos",Band
+http://ativador.app:80/12345678/12345678/1083542
+#EXTINF:-1 tvg-id="" tvg-name="Band 4K" tvg-logo="https://bemvindo.acasadatiaemae.top/001%20-%20Canal%20aberto/0003.png" group-title="Canais | 4K",Band 4K
+http://ativador.app:80/12345678/12345678/1083351
+#EXTINF:-1 tvg-id="bandbahia.br" tvg-name="BAND BAHIA" tvg-logo="https://bemvindo.acasadatiaemae.top/001%20-%20Canal%20aberto/0003.png" group-title="Canais | Abertos",BAND BAHIA
+http://ativador.app:80/12345678/12345678/1083543
+#EXTINF:-1 tvg-id="bandbahia.br" tvg-name="Band Bahia HD" tvg-logo="https://bemvindo.acasadatiaemae.top/001%20-%20Canal%20aberto/0003.png" group-title="Canais | Abertos",Band Bahia HD
+http://ativador.app:80/12345678/12345678/1083544
+#EXTINF:-1 tvg-id="bandbahia.br" tvg-name="Band Bahia SD" tvg-logo="https://bemvindo.acasadatiaemae.top/001%20-%20Canal%20aberto/0003.png" group-title="Canais | Abertos",Band Bahia SD
+http://ativador.app:80/12345678/12345678/1083545
+#EXTINF:-1 tvg-id="bandbrasília.br" tvg-name="BAND BRASILIA" tvg-logo="https://bemvindo.acasadatiaemae.top/001%20-%20Canal%20aberto/0003.png" group-title="Canais | Abertos",BAND BRASILIA
+http://ativador.app:80/12345678/12345678/1083546
+#EXTINF:-1 tvg-id="Band Campinas.br" tvg-name="BAND CAMPINAS" tvg-logo="https://bemvindo.acasadatiaemae.top/001%20-%20Canal%20aberto/0003.png" group-title="Canais | Abertos",BAND CAMPINAS
+http://ativador.app:80/12345678/12345678/1083547
+#EXTINF:-1 tvg-id="Band Campinas HD.br" tvg-name="BAND CAMPINAS FHD" tvg-logo="https://bemvindo.acasadatiaemae.top/001%20-%20Canal%20aberto/0003.png" group-title="Canais | Abertos",BAND CAMPINAS FHD
+http://ativador.app:80/12345678/12345678/1083548
+#EXTINF:-1 tvg-id="Band Campinas.br" tvg-name="BAND CAMPINAS HD" tvg-logo="https://bemvindo.acasadatiaemae.top/001%20-%20Canal%20aberto/0003.png" group-title="Canais | Abertos",BAND CAMPINAS HD
+http://ativador.app:80/12345678/12345678/1083549
+#EXTINF:-1 tvg-id="bandtvgoiânia.br" tvg-name="BAND GOIANIA" tvg-logo="https://bemvindo.acasadatiaemae.top/001%20-%20Canal%20aberto/0003.png" group-title="Canais | Abertos",BAND GOIANIA
+http://ativador.app:80/12345678/12345678/1083551
+#EXTINF:-1 tvg-id="bandminas.br" tvg-name="BAND MG" tvg-logo="https://bemvindo.acasadatiaemae.top/001%20-%20Canal%20aberto/0003.png" group-title="Canais | Abertos",BAND MG
+http://ativador.app:80/12345678/12345678/1083552
+#EXTINF:-1 tvg-id="" tvg-name="BAND MG FHD" tvg-logo="https://bemvindo.acasadatiaemae.top/001%20-%20Canal%20aberto/0003.png" group-title="Canais | Abertos",BAND MG FHD
+http://ativador.app:80/12345678/12345678/1083553
+#EXTINF:-1 tvg-id="" tvg-name="BAND MG HD" tvg-logo="https://bemvindo.acasadatiaemae.top/001%20-%20Canal%20aberto/0003.png" group-title="Canais | Abertos",BAND MG HD
+http://ativador.app:80/12345678/12345678/1083554
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BAND NEWS FHD" tvg-logo="https://bemvindo.acasadatiaemae.top/007%20canais%20noticias/0031.png" group-title="Canais | Notícias",BAND NEWS FHD
+http://ativador.app:80/12345678/12345678/239729
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News HD" tvg-logo="https://bemvindo.acasadatiaemae.top/007%20canais%20noticias/0031.png" group-title="Canais | Notícias",Band News HD
+http://ativador.app:80/12345678/12345678/239730
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News SD" tvg-logo="https://bemvindo.acasadatiaemae.top/007%20canais%20noticias/0031.png" group-title="Canais | Notícias",Band News SD
+http://ativador.app:80/12345678/12345678/239731
+#EXTINF:-1 tvg-id="" tvg-name="Band PB HD" tvg-logo="https://bemvindo.acasadatiaemae.top/001%20-%20Canal%20aberto/0003.png" group-title="Canais | Abertos",Band PB HD
+http://ativador.app:80/12345678/12345678/1433340
+#EXTINF:-1 tvg-id="" tvg-name="BAND RJ" tvg-logo="https://bemvindo.acasadatiaemae.top/001%20-%20Canal%20aberto/0003.png" group-title="Canais | Abertos",BAND RJ
+http://ativador.app:80/12345678/12345678/1083556
+#EXTINF:-1 tvg-id="" tvg-name="BAND RJ HD" tvg-logo="https://bemvindo.acasadatiaemae.top/001%20-%20Canal%20aberto/0003.png" group-title="Canais | Abertos",BAND RJ HD
+http://ativador.app:80/12345678/12345678/1083557
+#EXTINF:-1 tvg-id="" tvg-name="BAND RS" tvg-logo="https://bemvindo.acasadatiaemae.top/001%20-%20Canal%20aberto/0003.png" group-title="Canais | Abertos",BAND RS
+http://ativador.app:80/12345678/12345678/1083558
+#EXTINF:-1 tvg-id="" tvg-name="BAND SP" tvg-logo="https://bemvindo.acasadatiaemae.top/001%20-%20Canal%20aberto/0003.png" group-title="Canais | Abertos",BAND SP
+http://ativador.app:80/12345678/12345678/1083559
+#EXTINF:-1 tvg-id="" tvg-name="Band SP FHD" tvg-logo="https://bemvindo.acasadatiaemae.top/001%20-%20Canal%20aberto/0003.png" group-title="Canais | Abertos",Band SP FHD
+http://ativador.app:80/12345678/12345678/1083560
+#EXTINF:-1 tvg-id="" tvg-name="BAND SP FHD" tvg-logo="https://bemvindo.acasadatiaemae.top/001%20-%20Canal%20aberto/0003.png" group-title="Canais | Abertos",BAND SP FHD
+http://ativador.app:80/12345678/12345678/1083561
+#EXTINF:-1 tvg-id="" tvg-name="Band SP HD" tvg-logo="https://bemvindo.acasadatiaemae.top/001%20-%20Canal%20aberto/0003.png" group-title="Canais | Abertos",Band SP HD
+http://ativador.app:80/12345678/12345678/1083562
+#EXTINF:-1 tvg-id="" tvg-name="BAND SP HD" tvg-logo="https://bemvindo.acasadatiaemae.top/001%20-%20Canal%20aberto/0003.png" group-title="Canais | Abertos",BAND SP HD
+http://ativador.app:80/12345678/12345678/1083563
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports FHD" tvg-logo="https://icons24h.info/logo/Canais/S02E063.png" group-title="Canais | Esporte",Band Sports FHD
+http://ativador.app:80/12345678/12345678/239668
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports HD" tvg-logo="https://icons24h.info/logo/Canais/S02E063.png" group-title="Canais | Esporte",Band Sports HD
+http://ativador.app:80/12345678/12345678/239669
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports SD" tvg-logo="https://icons24h.info/logo/Canais/S02E063.png" group-title="Canais | Esporte",Band Sports SD
+http://ativador.app:80/12345678/12345678/239670
+#EXTINF:-1 tvg-id="" tvg-name="Band Taroba Curitiba HD" tvg-logo="https://bemvindo.acasadatiaemae.top/001%20-%20Canal%20aberto/0003.png" group-title="Canais | Abertos",Band Taroba Curitiba HD
+http://ativador.app:80/12345678/12345678/1433341
+#EXTINF:-1 tvg-id="" tvg-name="Band Taroba Curitiba SD" tvg-logo="https://bemvindo.acasadatiaemae.top/001%20-%20Canal%20aberto/0003.png" group-title="Canais | Abertos",Band Taroba Curitiba SD
+http://ativador.app:80/12345678/12345678/1433342
+#EXTINF:-1 tvg-id="" tvg-name="BandNews 90.7 FM / GO" tvg-logo="https://img.radios.com.br/radio/lg/radio116924_1579261311.jpg" group-title="Rádios | 24 horas",BandNews 90.7 FM / GO
+http://ativador.app:80/12345678/12345678/1447104
+#EXTINF:-1 tvg-id="" tvg-name="Barbie Dreamhouse Adventures 2018" tvg-logo="https://bemvindo.acasadatiaemae.top/0023%2024h%20Filmes%20e%20S%C3%A9ries/Barbie%20Dreamhouse%20Adventures%202018.png" group-title=" Canais | 24h Filmes e Séries",Barbie Dreamhouse Adventures 2018
+http://ativador.app:80/12345678/12345678/1193765
+#EXTINF:-1 tvg-id="" tvg-name="Batman A Serie Animada 1992" tvg-logo="https://bemvindo.acasadatiaemae.top/008/0067.png" group-title=" Canais | 24h Desenhos",Batman A Serie Animada 1992
+http://ativador.app:80/12345678/12345678/1193804
+#EXTINF:-1 tvg-id="" tvg-name="Batman do Futuro 1999" tvg-logo="https://bemvindo.acasadatiaemae.top/008/0067.png" group-title=" Canais | 24h Desenhos",Batman do Futuro 1999
+http://ativador.app:80/12345678/12345678/1193805
+#EXTINF:-1 tvg-id="" tvg-name="Batman Os Bravos e Destemidos 2008" tvg-logo="https://bemvindo.acasadatiaemae.top/008/0067.png" group-title=" Canais | 24h Desenhos",Batman Os Bravos e Destemidos 2008
+http://ativador.app:80/12345678/12345678/1193806
+#EXTINF:-1 tvg-id="" tvg-name="Ben 10 2005" tvg-logo="https://bemvindo.acasadatiaemae.top/008/0068.png" group-title=" Canais | 24h Desenhos",Ben 10 2005
+http://ativador.app:80/12345678/12345678/1193807
+#EXTINF:-1 tvg-id="" tvg-name="BEN 10 24HS" tvg-logo="https://bemvindo.acasadatiaemae.top/008/0068.png" group-title=" Canais | 24h Desenhos",BEN 10 24HS
+http://ativador.app:80/12345678/12345678/1083395
+#EXTINF:-1 tvg-id="" tvg-name="Ben 10 Forca Alienigena 2008" tvg-logo="https://bemvindo.acasadatiaemae.top/008/0068.png" group-title=" Canais | 24h Desenhos",Ben 10 Forca Alienigena 2008
+http://ativador.app:80/12345678/12345678/1193808
+#EXTINF:-1 tvg-id="" tvg-name="Ben 10 Omniverse 2012" tvg-logo="https://bemvindo.acasadatiaemae.top/008/0068.png" group-title=" Canais | 24h Desenhos",Ben 10 Omniverse 2012
+http://ativador.app:80/12345678/12345678/1193809
+#EXTINF:-1 tvg-id="" tvg-name="Ben 10 Supremacia Alienigena 2010" tvg-logo="https://bemvindo.acasadatiaemae.top/008/0068.png" group-title=" Canais | 24h Desenhos",Ben 10 Supremacia Alienigena 2010
+http://ativador.app:80/12345678/12345678/1193810
+#EXTINF:-1 tvg-id="" tvg-name="Big Bang A Teoria 2007" tvg-logo="https://bemvindo.acasadatiaemae.top/0023%2024h%20Filmes%20e%20S%C3%A9ries/Big%20Bang%20A%20Teoria%202007.png" group-title=" Canais | 24h Filmes e Séries",Big Bang A Teoria 2007
+http://ativador.app:80/12345678/12345678/1193766
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS FHD" tvg-logo="https://bemvindo.acasadatiaemae.top/0018%20Canal%20variedades/0345.png" group-title="Canais | Variedades",BIS FHD
+http://ativador.app:80/12345678/12345678/240225
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD" tvg-logo="https://bemvindo.acasadatiaemae.top/0018%20Canal%20variedades/0345.png" group-title="Canais | Variedades",BIS HD
+http://ativador.app:80/12345678/12345678/240226
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS SD" tvg-logo="https://bemvindo.acasadatiaemae.top/0018%20Canal%20variedades/0345.png" group-title="Canais | Variedades",BIS SD
+http://ativador.app:80/12345678/12345678/240227
+#EXTINF:-1 tvg-id="" tvg-name="BLACK 2000 A 2009" tvg-logo="https://icons24h.info/logo/Musicas/S05E007.jpg" group-title="Músicas | 24 HORAS",BLACK 2000 A 2009
+http://ativador.app:80/12345678/12345678/1274976
+#EXTINF:-1 tvg-id="" tvg-name="BLACK TOTAL" tvg-logo="https://icons24h.info/logo/Musicas/S05E007.jpg" group-title="Músicas | 24 HORAS",BLACK TOTAL
+http://ativador.app:80/12345678/12345678/1274977
+#EXTINF:-1 tvg-id="" tvg-name="BLACK TOTAL HIP HOP" tvg-logo="https://icons24h.info/logo/Musicas/S05E006.jpg" group-title="Músicas | 24 HORAS",BLACK TOTAL HIP HOP
+http://ativador.app:80/12345678/12345678/1274978
+#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA 24HS" tvg-logo="https://bemvindo.acasadatiaemae.top/008/0069.png" group-title=" Canais | 24h Desenhos",BOB ESPONJA 24HS
+http://ativador.app:80/12345678/12345678/1083397
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada 1999" tvg-logo="https://bemvindo.acasadatiaemae.top/008/0069.png" group-title=" Canais | 24h Desenhos",Bob Esponja Calca Quadrada 1999
+http://ativador.app:80/12345678/12345678/1193811
+#EXTINF:-1 tvg-id="" tvg-name="Boxe - Evento 01" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0374.png" group-title="Canais | Esporte PPV",Boxe - Evento 01
+http://ativador.app:80/12345678/12345678/1435097
+#EXTINF:-1 tvg-id="" tvg-name="Boxe - Evento 02" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0374.png" group-title="Canais | Esporte PPV",Boxe - Evento 02
+http://ativador.app:80/12345678/12345678/1435098
+#EXTINF:-1 tvg-id="" tvg-name="Boxe - Evento 03" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0374.png" group-title="Canais | Esporte PPV",Boxe - Evento 03
+http://ativador.app:80/12345678/12345678/1435099
+#EXTINF:-1 tvg-id="" tvg-name="Boxe - Evento 04" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0374.png" group-title="Canais | Esporte PPV",Boxe - Evento 04
+http://ativador.app:80/12345678/12345678/1435100
+#EXTINF:-1 tvg-id="" tvg-name="BR • Canal Goat 1 HD" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0349.png" group-title="Canais | Esporte PPV",BR • Canal Goat 1 HD
+http://ativador.app:80/12345678/12345678/1221287
+#EXTINF:-1 tvg-id="" tvg-name="BR • Canal Goat 2 HD" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0349.png" group-title="Canais | Esporte PPV",BR • Canal Goat 2 HD
+http://ativador.app:80/12345678/12345678/1221288
+#EXTINF:-1 tvg-id="" tvg-name="Brasil 90 e 2000" tvg-logo="https://icons24h.info/logo/Musicas/S05E052.png" group-title="Músicas | 24 HORAS",Brasil 90 e 2000
+http://ativador.app:80/12345678/12345678/1274979
+#EXTINF:-1 tvg-id="" tvg-name="Brasil Hits  Anos 90 e 2000" tvg-logo="https://icons24h.info/logo/Musicas/S05E052.png" group-title="Músicas | 24 HORAS",Brasil Hits  Anos 90 e 2000
+http://ativador.app:80/12345678/12345678/1274980
+#EXTINF:-1 tvg-id="" tvg-name="Brasil Visto de Cima (2014)" tvg-logo="https://icons24h.info/logo/Series/S07E006.jpg" group-title=" Canais | 24h Programas TV",Brasil Visto de Cima (2014)
+http://ativador.app:80/12345678/12345678/1193630
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad: A Química do Mal (2008)" tvg-logo="https://bemvindo.acasadatiaemae.top/0023%2024h%20Filmes%20e%20S%C3%A9ries/Breaking%20Bad%20A%20Qu%C3%ADmica%20do%20Mal%20(2008).png" group-title=" Canais | 24h Filmes e Séries",Breaking Bad: A Química do Mal (2008)
+http://ativador.app:80/12345678/12345678/1336369
+#EXTINF:-1 tvg-id="" tvg-name="Buffy - A Ca‡a-Vampiros (1997)" tvg-logo="https://bemvindo.acasadatiaemae.top/0023%2024h%20Filmes%20e%20S%C3%A9ries/Buffy%20-%20A%20Ca%E2%80%A1a-Vampiros%20(1997).png" group-title=" Canais | 24h Filmes e Séries",Buffy - A Ca‡a-Vampiros (1997)
+http://ativador.app:80/12345678/12345678/1274865
+#EXTINF:-1 tvg-id="" tvg-name="Scooby-Doo, Cadê Você? (1969)" tvg-logo="" group-title=" Canais | 24h Desenhos",Scooby-Doo, Cadê Você? (1969)
+http://ativador.app:80/12345678/12345678/1274840
+#EXTINF:-1 tvg-id="" tvg-name="Scooby-Doo, Cadê Você? (1969)" tvg-logo="https://icons24h.info/logo/Desenhos/S03E133.jpg" group-title=" Canais | 24h Desenhos",Scooby-Doo, Cadê Você? (1969)
+http://ativador.app:80/12345678/12345678/1274835
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL FHD" tvg-logo="https://bemvindo.acasadatiaemae.top/0018%20Canal%20variedades/0325.png" group-title="Canais | Variedades",CANAL BRASIL FHD
+http://ativador.app:80/12345678/12345678/240242
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://bemvindo.acasadatiaemae.top/0018%20Canal%20variedades/0325.png" group-title="Canais | Variedades",CANAL BRASIL HD
+http://ativador.app:80/12345678/12345678/240243
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI" tvg-logo="https://bemvindo.acasadatiaemae.top/0018%20Canal%20variedades/0344.png" group-title="Canais | Variedades",CANAL DO BOI
+http://ativador.app:80/12345678/12345678/240244
+#EXTINF:-1 tvg-id="" tvg-name="Canal GOAT 3 HD" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0349.png" group-title="Canais | Esporte PPV",Canal GOAT 3 HD
+http://ativador.app:80/12345678/12345678/1454073
+#EXTINF:-1 tvg-id="" tvg-name="Canal GOAT 4 HD" tvg-logo="https://bemvindo.acasadatiaemae.top/0019%20Canal%20esporte%20PPV/0349.png" group-title="Canais | Esporte PPV",Canal GOAT 4 HD
+http://ativador.app:80/12345678/12345678/1454079
+#EXTINF:-1 tvg-id="" tvg-name="CANAL RURAL" tvg-logo="https://bemvindo.acasadatiaemae.top/0018%20Canal%20variedades/0343.png" group-title="Canais | Variedades",CANAL RURAL
+http://ativador.app:80/12345678/12345678/240245
+#EXTINF:-1 tvg-id="cancaonova.br" tvg-name="Canção Nova HD" tvg-logo="https://bemvindo.acasadatiaemae.top/0012%20Canais%20religioso/0212.png" group-title="Canais | Religioso",Canção Nova HD
+http://ativador.app:80/12345678/12345678/758767
+#EXTINF:-1 tvg-id="cancaonova.br" tvg-name="Canção Nova SD" tvg-logo="https://bemvindo.acasadatiaemae.top/0012%20Canais%20religioso/0212.png" group-title="Canais | Religioso",Canção Nova SD
+http://ativador.app:80/12345678/12345678/758766
+#EXTINF:-1 tvg-id="" tvg-name="Capitao Caverna e as Panterinhas (1977)" tvg-logo="https://bemvindo.acasadatiaemae.top/008/0070.png" group-title=" Canais | 24h Desenhos",Capitao Caverna e as Panterinhas (1977)
+http://ativador.app:80/12345678/12345678/1274841
+#EXTINF:-1 tvg-id="" tvg-name="Capitao Planeta 1990" tvg-logo="https://bemvindo.acasadatiaemae.top/008/0071.png" group-title=" Canais | 24h Desenhos",Capitao Planeta 1990
+http://ativador.app:80/12345678/12345678/1193812
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network 4K" tvg-logo="https://bemvindo.acasadatiaemae.top/009%20Canais%20infantil/0162.png" group-title="Canais | 4K",Cartoon Network 4K
+http://ativador.app:80/12345678/12345678/1083352
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="https://bemvindo.acasadatiaemae.top/009%20Canais%20infantil/0162.png" group-title="Canais | Infantil",Cartoon Network HD
+http://ativador.app:80/12345678/12345678/239458
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network SD" tvg-logo="https://bemvindo.acasadatiaemae.top/009%20Canais%20infantil/0162.png" group-title="Canais | Infantil",Cartoon Network SD
+http://ativador.app:80/12345678/12345678/239457
+#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoonito HD" tvg-logo="https://bemvindo.acasadatiaemae.top/009%20Canais%20infantil/0163.png" group-title="Canais | Infantil",Cartoonito HD
+http://ativador.app:80/12345678/12345678/239456
+#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoonito SD" tvg-logo="https://bemvindo.acasadatiaemae.top/009%20Canais%20infantil/0163.png" group-title="Canais | Infantil",Cartoonito SD
+http://ativador.app:80/12345678/12345678/239455
+#EXTINF:-1 tvg-id="" tvg-name="Caverna do Dragao 1983" tvg-logo="https://bemvindo.acasadatiaemae.top/008/0037.png" group-title=" Canais | 24h Desenhos",Caverna do Dragao 1983
+http://ativador.app:80/12345678/12345678/1193813
+#EXTINF:-1 tvg-id="" tvg-name="Caverna do Dragão 24HS" tvg-logo="https://bemvindo.acasadatiaemae.top/008/0037.png" group-title=" Canais | 24h Desenhos",Caverna do Dragão 24HS
+http://ativador.app:80/12345678/12345678/1083399
+#EXTINF:-1 tvg-id="" tvg-name="CBN Sâo Paulo" tvg-logo="https://bemvindo.acasadatiaemae.top/007%20canais%20noticias/0032.png" group-title="Canais | Notícias",CBN Sâo Paulo
+http://ativador.app:80/12345678/12345678/239733
+#EXTINF:-1 tvg-id="" tvg-name="CENTRAL KIDS 24HRS" tvg-logo="https://bemvindo.acasadatiaemae.top/008/0072.png" group-title=" Canais | 24h Desenhos",CENTRAL KIDS 24HRS
+http://ativador.app:80/12345678/12345678/1083400
+#EXTINF:-1 tvg-id="" tvg-name="Chapolin Colorado (1973)" tvg-logo="https://bemvindo.acasadatiaemae.top/0011%20programas%20de%20TV/0181.png" group-title=" Canais | 24h Programas TV",Chapolin Colorado (1973)
+http://ativador.app:80/12345678/12345678/1335583
+#EXTINF:-1 tvg-id="" tvg-name="Chaves (1973)" tvg-logo="https://bemvindo.acasadatiaemae.top/0011%20programas%20de%20TV/0182.png" group-title=" Canais | 24h Programas TV",Chaves (1973)
+http://ativador.app:80/12345678/12345678/1274891
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES DESENHO 24HS" tvg-logo="https://bemvindo.acasadatiaemae.top/008/0073.png" group-title=" Canais | 24h Desenhos",CHAVES DESENHO 24HS
+http://ativador.app:80/12345678/12345678/1083402
+#EXTINF:-1 tvg-id="" tvg-name="Chaves Em Desenho Animado 2006" tvg-logo="https://bemvindo.acasadatiaemae.top/008/0073.png" group-title=" Canais | 24h Desenhos",Chaves Em Desenho Animado 2006
+http://ativador.app:80/12345678/12345678/1193814
+#EXTINF:-1 tvg-id="" tvg-name="Chernobyl 2019" tvg-logo="https://bemvindo.acasadatiaemae.top/0023%2024h%20Filmes%20e%20S%C3%A9ries/Chernobyl%202019.png" group-title=" Canais | 24h Filmes e Séries",Chernobyl 2019
+http://ativador.app:80/12345678/12345678/1193767
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire Herois Contra o Fogo (2012)" tvg-logo="https://bemvindo.acasadatiaemae.top/0023%2024h%20Filmes%20e%20S%C3%A9ries/Chicago%20Fire%20Herois%20Contra%20o%20Fogo%20(2012).png" group-title=" Canais | 24h Filmes e Séries",Chicago Fire Herois Contra o Fogo (2012)
+http://ativador.app:80/12345678/12345678/1274857
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med Atendimento de Emergencia (2015)" tvg-logo="https://bemvindo.acasadatiaemae.top/0023%2024h%20Filmes%20e%20S%C3%A9ries/Chicago%20Med%20Atendimento%20de%20Emergencia%20(2015).png" group-title=" Canais | 24h Filmes e Séries",Chicago Med Atendimento de Emergencia (2015)
+http://ativador.app:80/12345678/12345678/1274858
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. Distrito 21 (2014)" tvg-logo="https://bemvindo.acasadatiaemae.top/0023%2024h%20Filmes%20e%20S%C3%A9ries/Chicago%20P.D.%20Distrito%2021%20(2014).png" group-title=" Canais | 24h Filmes e Séries",Chicago P.D. Distrito 21 (2014)
+http://ativador.app:80/12345678/12345678/1274859
+#EXTINF:-1 tvg-id="" tvg-name="Chiquititas (2013)" tvg-logo="https://bemvindo.acasadatiaemae.top/0023%2024h%20Filmes%20e%20S%C3%A9ries/Chiquititas%20(2013).png" group-title=" Canais | 24h Filmes e Séries",Chiquititas (2013)
+http://ativador.app:80/12345678/12345678/1336375
+#EXTINF:-1 tvg-id="" tvg-name="Chocolate com Pimenta (2003)" tvg-logo="https://bemvindo.acasadatiaemae.top/0023%2024h%20Filmes%20e%20S%C3%A9ries/Chocolate%20com%20Pimenta%20(2003).png" group-title=" Canais | 24h Filmes e Séries",Chocolate com Pimenta (2003)
+http://ativador.app:80/12345678/12345678/1336376
+#EXTINF:-1 tvg-id="" tvg-name="CINE ANOS 2022 (01)" tvg-logo="https://bemvindo.acasadatiaemae.top/0023%2024h%20Filmes%20e%20S%C3%A9ries/CINE%20ANOS%202022.png" group-title=" Canais | 24h Filmes e Séries",CINE ANOS 2022 (01)
+http://ativador.app:80/12345678/12345678/1274882
+#EXTINF:-1 tvg-id="" tvg-name="CINE ANOS 2022 (02)" tvg-logo="https://bemvindo.acasadatiaemae.top/0023%2024h%20Filmes%20e%20S%C3%A9ries/CINE%20ANOS%202022.png" group-title=" Canais | 24h Filmes e Séries",CINE ANOS 2022 (02)
+http://ativador.app:80/12345678/12345678/1274883
+#EXTINF:-1 tvg-id="" tvg-name="CINE ANOS 2023 (01)" tvg-logo="https://bemvindo.acasadatiaemae.top/0023%2024h%20Filmes%20e%20S%C3%A9ries/CINE%20ANOS%202023.png" group-title=" Canais | 24h Filmes e Séries",CINE ANOS 2023 (01)
+http://ativador.app:80/12345678/12345678/1274885
+#EXTINF:-1 tvg-id="" tvg-name="CINE ANOS 2023 (02)" tvg-logo="https://bemvindo.acasadatiaemae.top/0023%2024h%20Filmes%20e%20S%C3%A9ries/CINE%20ANOS%202023.png" group-title=" Canais | 24h Filmes e Séries",CINE ANOS 2023 (02)
+http://ativador.app:80/12345678/12345678/1274886
+#EXTINF:-1 tvg-id="" tvg-name="CINE ANOS 2023 (03)" tvg-logo="https://bemvindo.acasadatiaemae.top/0023%2024h%20Filmes%20e%20S%C3%A9ries/CINE%20ANOS%202023.png" group-title=" Canais | 24h Filmes e Séries",CINE ANOS 2023 (03)
+http://ativador.app:80/12345678/12345678/1274884
+#EXTINF:-1 tvg-id="" tvg-name="CINE ANOS 2024 (01)" tvg-logo="https://bemvindo.acasadatiaemae.top/0023%2024h%20Filmes%20e%20S%C3%A9ries/CINE%20ANOS%202024.png" group-title=" Canais | 24h Filmes e Séries",CINE ANOS 2024 (01)
+http://ativador.app:80/12345678/12345678/1335581
+#EXTINF:-1 tvg-id="" tvg-name="CINE KIDS 24HRS" tvg-logo="" group-title=" Canais | 24h Desenhos",CINE KIDS 24HRS
+http://ativador.app:80/12345678/12345678/1083403
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax FHD" tvg-logo="https://bemvindo.acasadatiaemae.top/0015%20Canais%20filmes%20e%20series/0235.png" group-title="Canais | Filmes e Séries",Cinemax FHD
+http://ativador.app:80/12345678/12345678/239479
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD" tvg-logo="https://bemvindo.acasadatiaemae.top/0015%20Canais%20filmes%20e%20series/0235.png" group-title="Canais | Filmes e Séries",Cinemax HD
+http://ativador.app:80/12345678/12345678/239480
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax SD" tvg-logo="https://bemvindo.acasadatiaemae.top/0015%20Canais%20filmes%20e%20series/0235.png" group-title="Canais | Filmes e Séries",Cinemax SD
+http://ativador.app:80/12345678/12345678/239481
+#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil 4K" tvg-logo="https://bemvindo.acasadatiaemae.top/007%20canais%20noticias/0033.png" group-title="Canais | 4K",CNN Brasil 4K
+http://ativador.app:80/12345678/12345678/1083353
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN Brasil FHD" tvg-logo="https://bemvindo.acasadatiaemae.top/007%20canais%20noticias/0033.png" group-title="Canais | Notícias",CNN Brasil FHD
+http://ativador.app:80/12345678/12345678/239734
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN Brasil HD" tvg-logo="https://bemvindo.acasadatiaemae.top/007%20canais%20noticias/0033.png" group-title="Canais | Notícias",CNN Brasil HD
+http://ativador.app:80/12345678/12345678/239735
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN Brasil SD" tvg-logo="https://bemvindo.acasadatiaemae.top/007%20canais%20noticias/0033.png" group-title="Canais | Notícias",CNN Brasil SD
+http://ativador.app:80/12345678/12345678/239736
+#EXTINF:-1 tvg-id="" tvg-name="Comando Dolbuck 1983" tvg-logo="https://icons24h.info/logo/Desenhos/S03E054.png" group-title=" Canais | 24h Desenhos",Comando Dolbuck 1983
+http://ativador.app:80/12345678/12345678/1193815
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate 4K" tvg-logo="https://icons24h.info/logo/Canais/S02E063.png" group-title="Canais | 4K",Combate 4K
+http://ativador.app:80/12345678/12345678/1083354
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate FHD" tvg-logo="https://icons24h.info/logo/Canais/S02E063.png" group-title="Canais | Esporte",Combate FHD
+http://ativador.app:80/12345678/12345678/239671
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD" tvg-logo="https://icons24h.info/logo/Canais/S02E063.png" group-title="Canais | Esporte",Combate HD
+http://ativador.app:80/12345678/12345678/239672
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate SD" tvg-logo="https://icons24h.info/logo/Canais/S02E063.png" group-title="Canais | Esporte",Combate SD
+http://ativador.app:80/12345678/12345678/239673
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central 4K" tvg-logo="https://bemvindo.acasadatiaemae.top/0018%20Canal%20variedades/0324.png" group-title="Canais | 4K",Comedy Central 4K
+http://ativador.app:80/12345678/12345678/1083355
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central FHD" tvg-logo="https://bemvindo.acasadatiaemae.top/0018%20Canal%20variedades/0324.png" group-title="Canais | Variedades",Comedy Central FHD
+http://ativador.app:80/12345678/12345678/240255
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central HD" tvg-logo="https://bemvindo.acasadatiaemae.top/0018%20Canal%20variedades/0324.png" group-title="Canais | Variedades",Comedy Central HD
+http://ativador.app:80/12345678/12345678/240256
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central SD" tvg-logo="https://bemvindo.acasadatiaemae.top/0018%20Canal%20variedades/0324.png" group-title="Canais | Variedades",Comedy Central SD
+http://ativador.app:80/12345678/12345678/240257
+
 #EXTINF:0,CLOUDING
 #EXTGRP:NOVOS CANAIS
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1109689646.m3u8
