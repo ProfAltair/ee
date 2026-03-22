@@ -18,11 +18,9 @@ http://sinalmycn.com:80/632035/632035/17040
 #EXTINF:-1 tvg-id="397" tvg-name="SBT SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sbt.png" group-title="Canais | Abertos",SBT SD
 http://sinalmycn.com:80/632035/632035/17041
 #EXTINF:-1 tvg-id="" tvg-name="Band Rio FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png" group-title="Canais | Band",Band Rio FHD
-http://sinalmycn.com:80/632035/632035/28015
+http://ativador.app:80/12345678/12345678/1083556
 #EXTINF:-1 tvg-id="" tvg-name="Band Rio HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png" group-title="Canais | Band",Band Rio HD
-http://sinalmycn.com:80/632035/632035/28016
-#EXTINF:-1 tvg-id="" tvg-name="Band Rio SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png" group-title="Canais | Band",Band Rio SD
-http://sinalmycn.com:80/632035/632035/28017
+http://ativador.app:80/12345678/12345678/1083557
 #EXTINF:-1 tvg-id="59" tvg-name="Rede Gospel" tvg-logo="http://www.fontedecanais.tv/logos/canais/redegospel.png" group-title="Canais | Religiosos",Rede Gospel
 http://sinalmycn.com:80/632035/632035/26003
 #EXTINF:-1 tvg-id="" tvg-name="Novo Tempo" tvg-logo="http://www.fontedecanais.tv/logos/canais/novotempo.png" group-title="Canais | Religiosos",Novo Tempo
