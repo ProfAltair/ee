@@ -47,38 +47,6 @@ http://limed.cc:80/KfTTMQ/UBNX3V/90418.m3u8
 #EXTINF:0,GNT [FHD]
 #EXTGRP:CANAIS | VARIEDADES
 http://limed.cc:80/KfTTMQ/UBNX3V/90084.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rio FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Globo Rio FHD
-http://sinalmycn.com:80/632035/632035/18021
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rio HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Globo Rio HD
-http://sinalmycn.com:80/632035/632035/18022
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rio SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Globo",Globo Rio SD
-http://sinalmycn.com:80/632035/632035/18023
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Rio FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Rio FHD
-http://sinalmycn.com:80/632035/632035/27051
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Rio HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Rio HD
-http://sinalmycn.com:80/632035/632035/27052
-#EXTINF:-1 tvg-id="" tvg-name="Record TV Rio SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Record TV",Record TV Rio SD
-http://sinalmycn.com:80/632035/632035/27053
-#EXTINF:-1 tvg-id="397" tvg-name="SBT FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sbt.png" group-title="Canais | Abertos",SBT FHD
-http://sinalmycn.com:80/632035/632035/17039
-#EXTINF:-1 tvg-id="397" tvg-name="SBT HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sbt.png" group-title="Canais | Abertos",SBT HD
-http://sinalmycn.com:80/632035/632035/17040
-#EXTINF:-1 tvg-id="397" tvg-name="SBT SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sbt.png" group-title="Canais | Abertos",SBT SD
-http://sinalmycn.com:80/632035/632035/17041
-#EXTINF:-1 tvg-id="" tvg-name="Band Rio FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png" group-title="Canais | Band",Band Rio FHD
-http://ativador.app:80/12345678/12345678/1083556
-#EXTINF:-1 tvg-id="" tvg-name="Band Rio HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png" group-title="Canais | Band",Band Rio HD
-http://ativador.app:80/12345678/12345678/1083557
-#EXTINF:-1 tvg-id="59" tvg-name="Rede Gospel" tvg-logo="http://www.fontedecanais.tv/logos/canais/redegospel.png" group-title="Canais | Religiosos",Rede Gospel
-http://sinalmycn.com:80/632035/632035/26003
-#EXTINF:-1 tvg-id="" tvg-name="Novo Tempo" tvg-logo="http://www.fontedecanais.tv/logos/canais/novotempo.png" group-title="Canais | Religiosos",Novo Tempo
-http://sinalmycn.com:80/632035/632035/26001
-#EXTINF:-1 tvg-id="97" tvg-name="GNT FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/gnt.png" group-title="Canais | Variedades",GNT FHD
-http://sinalmycn.com:80/632035/632035/12027
-#EXTINF:-1 tvg-id="97" tvg-name="GNT HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/gnt.png" group-title="Canais | Variedades",GNT HD
-http://sinalmycn.com:80/632035/632035/12028
-#EXTINF:-1 tvg-id="97" tvg-name="GNT SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/gnt.png" group-title="Canais | Variedades",GNT SD
-http://sinalmycn.com:80/632035/632035/12029
 #EXTINF:0,PREMIERE CLUBES [FHD]
 #EXTGRP:CANAIS | PREMIERE
 http://limed.cc:80/KfTTMQ/UBNX3V/90236.m3u8
@@ -100,62 +68,21 @@ http://limed.cc:80/KfTTMQ/UBNX3V/90228.m3u8
 #EXTINF:0,PREMIERE 7 [FHD]
 #EXTGRP:CANAIS | PREMIERE
 http://limed.cc:80/KfTTMQ/UBNX3V/90232.m3u8
-#EXTINF:-1 tvg-id="107" tvg-name="﻿Premiere 1 FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="Canais | Premiere",﻿Premiere 1 FHD
-http://sinalmycn.com:80/632035/632035/20000
-#EXTINF:-1 tvg-id="107" tvg-name="Premiere 1 HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 1 HD
-http://sinalmycn.com:80/632035/632035/20001
-#EXTINF:-1 tvg-id="107" tvg-name="Premiere 1 SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 1 SD
-http://sinalmycn.com:80/632035/632035/20002
-#EXTINF:-1 tvg-id="108" tvg-name="Premiere 2 FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 FHD
-http://sinalmycn.com:80/632035/632035/20003
-#EXTINF:-1 tvg-id="108" tvg-name="Premiere 2 HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 HD
-http://sinalmycn.com:80/632035/632035/20004
-#EXTINF:-1 tvg-id="108" tvg-name="Premiere 2 SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 SD
-http://sinalmycn.com:80/632035/632035/20005
-#EXTINF:-1 tvg-id="109" tvg-name="Premiere 3 FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 FHD
-http://sinalmycn.com:80/632035/632035/20006
-#EXTINF:-1 tvg-id="109" tvg-name="Premiere 3 HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 HD
-http://sinalmycn.com:80/632035/632035/20007
-#EXTINF:-1 tvg-id="109" tvg-name="Premiere 3 SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 SD
-http://sinalmycn.com:80/632035/632035/20008
-#EXTINF:-1 tvg-id="110" tvg-name="Premiere 4 FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 FHD
-http://sinalmycn.com:80/632035/632035/20009
-#EXTINF:-1 tvg-id="110" tvg-name="Premiere 4 HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 HD
-http://sinalmycn.com:80/632035/632035/20010
-#EXTINF:-1 tvg-id="110" tvg-name="Premiere 4 SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 SD
-http://sinalmycn.com:80/632035/632035/20011
-#EXTINF:-1 tvg-id="111" tvg-name="Premiere 5 FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 FHD
-http://sinalmycn.com:80/632035/632035/20012
-#EXTINF:-1 tvg-id="111" tvg-name="Premiere 5 HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 HD
-http://sinalmycn.com:80/632035/632035/20013
-#EXTINF:-1 tvg-id="111" tvg-name="Premiere 5 SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 SD
-http://sinalmycn.com:80/632035/632035/20014
-#EXTINF:-1 tvg-id="112" tvg-name="Premiere 6 FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 FHD
-http://sinalmycn.com:80/632035/632035/20015
-#EXTINF:-1 tvg-id="112" tvg-name="Premiere 6 HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 HD
-http://sinalmycn.com:80/632035/632035/20016
-#EXTINF:-1 tvg-id="112" tvg-name="Premiere 6 SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 SD
-http://sinalmycn.com:80/632035/632035/20017
-#EXTINF:-1 tvg-id="113" tvg-name="Premiere 7 FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 FHD
-http://sinalmycn.com:80/632035/632035/20018
-#EXTINF:-1 tvg-id="113" tvg-name="Premiere 7 HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 HD
-http://sinalmycn.com:80/632035/632035/20019
-#EXTINF:-1 tvg-id="113" tvg-name="Premiere 7 SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 SD
-http://sinalmycn.com:80/632035/632035/20020
-#EXTINF:-1 tvg-id="351" tvg-name="Premiere 8 FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 8 FHD
-http://sinalmycn.com:80/632035/632035/20021
-#EXTINF:-1 tvg-id="351" tvg-name="Premiere 8 HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 8 HD
-http://sinalmycn.com:80/632035/632035/20022
-#EXTINF:-1 tvg-id="351" tvg-name="Premiere 8 SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 8 SD
-http://sinalmycn.com:80/632035/632035/20023
-#EXTINF:-1 tvg-id="30" tvg-name="SporTV FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV FHD
-http://sinalmycn.com:80/632035/632035/21000
-#EXTINF:-1 tvg-id="30" tvg-name="SporTV HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV HD
-http://sinalmycn.com:80/632035/632035/21001
-#EXTINF:-1 tvg-id="30" tvg-name="SporTV SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV SD
-
 #EXTINF:0,PREMIERE 8 [M]
 #EXTGRP:CANAIS | PREMIERE
 http://limed.cc:80/KfTTMQ/UBNX3V/120085.m3u8
+#EXTINF:0,SPORTV [4K]
+#EXTGRP:CANAIS | UHD 4K
+http://limed.cc:80/KfTTMQ/UBNX3V/95669.m3u8
+#EXTINF:0,SPORTV [FHD]
+#EXTGRP:CANAIS | ESPORTES
+http://limed.cc:80/KfTTMQ/UBNX3V/90328.m3u8
+#EXTINF:0,SPORTV 2 [FHD]
+#EXTGRP:CANAIS | ESPORTES
+http://limed.cc:80/KfTTMQ/UBNX3V/90320.m3u8
+#EXTINF:0,SPORTV 3 [FHD]
+#EXTGRP:CANAIS | ESPORTES
+http://limed.cc:80/KfTTMQ/UBNX3V/90324.m3u8
+
 
 
