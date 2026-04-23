@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:0, REDE TV!
+#EXTGRP:CANAIS EXTRAS
+https://stm.sinalmycn.com/17037/tracks-v1a1/mono.ts.m3u8?token=-VZNvLhmZqWNI3
 #EXTINF:0,ID
 #EXTGRP:CANAIS EXTRAS
 https://stm.sinalmycn.com/23031/tracks-v1a1/mono.ts.m3u8?token=-VZNvLhmZqWNI3
