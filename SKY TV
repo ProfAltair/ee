@@ -1,4 +1,92 @@
 #EXTM3U
+#EXTINF:0,ID
+#EXTGRP:CANAIS EXTRAS
+https://stm.sinalmycn.com/23031/tracks-v1a1/mono.ts.m3u8?token=-VZNvLhmZqWNI3
+#EXTINF:0,ESPN
+#EXTGRP:CANAIS EXTRAS
+https://stm.sinalmycn.com/22000/tracks-v1a1/mono.ts.m3u8?token=-VZNvLhmZqWNI3
+#EXTINF:0,GE TV
+#EXTGRP:CANAIS EXTRAS
+https://stm.sinalmycn.com/19010/tracks-v1a1/mono.ts.m3u8?token=-VZNvLhmZqWNI3
+#EXTINF:0,UNIVERSAL TV
+#EXTGRP:CANAIS EXTRAS
+https://stm.sinalmycn.com/13046/tracks-v1a1/mono.ts.m3u8?token=-VZNvLhmZqWNI3
+#EXTINF:0,MEGAPIX
+#EXTGRP:CANAIS EXTRAS
+https://stm.sinalmycn.com/13016/tracks-v1a1/mono.ts.m3u8?token=-VZNvLhmZqWNI3
+#EXTINF:0,SPACE
+#EXTGRP:CANAIS EXTRAS
+https://stm.sinalmycn.com/13028/tracks-v1a1/mono.ts.m3u8?token=-VZNvLhmZqWNI3
+#EXTINF:0,TNT
+#EXTGRP:CANAIS EXTRAS
+https://stm.sinalmycn.com/13040/tracks-v1a1/mono.ts.m3u8?token=-VZNvLhmZqWNI3
+#EXTINF:0,HBO
+#EXTGRP:CANAIS EXTRAS
+https://stm.sinalmycn.com/14001/tracks-v1a1/mono.ts.m3u8?token=-VZNvLhmZqWNI3
+#EXTINF:0,CARTOON NETWORK
+#EXTGRP:CANAIS EXTRAS
+https://stm.sinalmycn.com/24004/tracks-v1a1/mono.ts.m3u8?token=-VZNvLhmZqWNI3
+#EXTINF:0,DKIDS
+#EXTGRP:CANAIS EXTRAS
+https://stm.sinalmycn.com/24010/tracks-v1a1/mono.ts.m3u8?token=-VZNvLhmZqWNI3
+#EXTINF:0,BAND NEWS
+#EXTGRP:CANAIS EXTRAS
+https://stm.sinalmycn.com/25001/tracks-v1a1/mono.ts.m3u8?token=-VZNvLhmZqWNI3
+#EXTINF:0,CNN
+#EXTGRP:CANAIS EXTRAS
+https://stm.sinalmycn.com/25004/tracks-v1a1/mono.ts.m3u8?token=-VZNvLhmZqWNI3
+#EXTINF:0,GLOBO NEWS
+#EXTGRP:CANAIS EXTRAS
+https://stm.sinalmycn.com/25007/tracks-v1a1/mono.ts.m3u8?token=-VZNvLhmZqWNI3
+#EXTINF:0,RECORD NEWS
+#EXTGRP:CANAIS EXTRAS
+https://stm.sinalmycn.com/25013/tracks-v1a1/mono.ts.m3u8?token=-VZNvLhmZqWNI3
+#EXTINF:0,SPORTV
+#EXTGRP:CANAIS EXTRAS
+https://stm.sinalmycn.com/21001/tracks-v1a1/mono.ts.m3u8?token=-VZNvLhmZqWNI3
+#EXTINF:0,PREMIERE 1
+#EXTGRP:CANAIS EXTRAS
+https://stm.sinalmycn.com/20001/tracks-v1a1/mono.ts.m3u8?token=-VZNvLhmZqWNI3
+#EXTINF:0,PREMIERE 2
+#EXTGRP:CANAIS EXTRAS
+https://stm.sinalmycn.com/20004/tracks-v1a1/mono.ts.m3u8?token=-VZNvLhmZqWNI3
+#EXTINF:0,PREMIERE 3
+#EXTGRP:CANAIS EXTRAS
+https://stm.sinalmycn.com/20007/tracks-v1a1/mono.ts.m3u8?token=-VZNvLhmZqWNI3
+#EXTINF:0,REDE GOSPEL
+#EXTGRP:CANAIS EXTRAS
+https://stm.sinalmycn.com/26003/tracks-v1a1/mono.ts.m3u8?token=-VZNvLhmZqWNI3
+#EXTINF:0,NOVO TEMPO
+#EXTGRP:CANAIS EXTRAS
+https://stm.sinalmycn.com/26001/tracks-v1a1/mono.ts.m3u8?token=-VZNvLhmZqWNI3
+#EXTINF:0,GNT
+#EXTGRP:CANAIS EXTRAS
+https://stm.sinalmycn.com/12028/tracks-v1a1/mono.ts.m3u8?token=-VZNvLhmZqWNI3
+#EXTINF:0,TELECINE PIPOCA
+#EXTGRP:CANAIS EXTRAS
+https://stm.sinalmycn.com/15010/tracks-v1a1/mono.ts.m3u8?token=-VZNvLhmZqWNI3
+#EXTINF:0,TELECINE PREMIUM
+#EXTGRP:CANAIS EXTRAS
+https://stm.sinalmycn.com/15013/tracks-v1a1/mono.ts.m3u8?token=-VZNvLhmZqWNI3
+#EXTINF:0,SBT
+#EXTGRP:CANAIS EXTRAS
+https://stm.sinalmycn.com/17040/tracks-v1a1/mono.ts.m3u8?token=-VZNvLhmZqWNI3
+#EXTINF:0,GLOBO
+#EXTGRP:CANAIS EXTRAS
+https://stm.sinalmycn.com/18022/tracks-v1a1/mono.ts.m3u8?token=-VZNvLhmZqWNI3
+#EXTINF:0,RECORD
+#EXTGRP:CANAIS EXTRAS
+https://stm.sinalmycn.com/27052/tracks-v1a1/mono.ts.m3u8?token=-VZNvLhmZqWNI3
+#EXTINF:0,GLOBOPLAY NOVELAS
+#EXTGRP:CANAIS EXTRAS
+https://stm.sinalmycn.com/12061/tracks-v1a1/mono.ts.m3u8?token=-VZNvLhmZqWNI3
+#EXTINF:0,AXN
+#EXTGRP:CANAIS EXTRAS
+https://stm.sinalmycn.com/13004/tracks-v1a1/mono.ts.m3u8?token=-VZNvLhmZqWNI3
+#EXTINF:0,TNT SERIES
+#EXTGRP:CANAIS EXTRAS
+https://stm.sinalmycn.com/13043/tracks-v1a1/mono.ts.m3u8?token=-VZNvLhmZqWNI3
+
 #EXTINF:0,GLOBO BRASILIA [FHD]
 #EXTGRP:CANAIS | GLOBO
 http://limed.cc:80/KfTTMQ/UBNX3V/95439.m3u8
