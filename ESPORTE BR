@@ -1,796 +1,376 @@
 #EXTM3U
-#EXTINF:0,SEVENTV
-#EXTGRP:MÚSICA 2025
-https://video01.kshost.com.br:4443/aubrey3291/aubrey3291/chunklist_w2026933888.m3u8
-#EXTINF:0,TV CAFÉ
-#EXTGRP:MÚSICA 2025
-https://srv5.zcast.com.br/tvcafe/tvcafe/chunklist_w1028845948.m3u8
-#EXTINF:0,TV JAMPA JOVEM
-#EXTGRP:MÚSICA 2025
-https://srv1.zcast.com.br/anderson7754/anderson7754/chunklist_w1200472132.m3u8
-#EXTINF:0,TV PORTAL ATIVO
-#EXTGRP:MÚSICA 2025
-https://flussonic-tv.jupiter.com.br/portalativo/tracks-v1a1/mono.m3u8
-#EXTINF:0,TVA FOLHA
-#EXTGRP:MÚSICA 2025
-https://video01.logicahost.com.br/tvafolha/tvafolha/chunklist_w939714547.m3u8
-#EXTINF:0,TV MAX 90
-#EXTGRP:MÚSICA 2025
-https://cdn.jmvstream.com/w/AVJ-15538/playlist/chunklist.m3u8
-#EXTINF:0,TV A7
-#EXTGRP:MÚSICA 2025
-https://srv3.zcast.com.br/wellington7720/wellington7720/chunklist_w1269001024.m3u8
-#EXTINF:0,AGITO MAX
-#EXTGRP:MÚSICA 2025
-https://stmv2.samcast.com.br/agitomax/agitomax/chunklist_w1638581039.m3u8
-#EXTINF:0,SERTANEJO UNIVERSITÁRIO
-#EXTGRP:MÚSICA 2025
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1729222667/ei/q4MRZ9T4HsOV-LAPqcChWQ/ip/191.242.234.64/id/TDWY1BAd--A.1/itag/270/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-wx2gv8xqvgcg-bpbe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/900/manifest_duration/900/gcr/br/vprv/1/playlist_type/DVR/initcwndbps/1073750/met/1729201068,/mh/N9/mm/44/mn/sn-wx2gv8xqvgcg-bpbe/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/51300760,51312688/mt/1729200528/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AJfQdSswRQIgLgV5LpbQczkfoWkUnBDD-8iiuFEuZDbQAz9CQdS0aZ4CIQC_-w4ylSObxRNVR_ZzTg2caN2YdUP-Nlt_k-c3TOpezQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/ACJ0pHgwRAIgAi6xA5Fbtsseq-IqjxYKETuCX-FBxWkEwNu6vYoAZRQCIHfNFoabXiosJkhIcllp0pPEKKkCTEG9RCxuvwY1SFKA/playlist/index.m3u8
-#EXTINF:0,TV CENTRO SUL
-#EXTGRP:MÚSICA 2025
-https://5a0c3936c25c8.streamlock.net/tvcentrosultvstation/tvcentrosultvstation/chunklist_w1824617998.m3u8
-#EXTINF:0,TV CENTRAL DO BRASIL
-#EXTGRP:MÚSICA 2025
-https://stmv2.centralcast.com.br/central/central/chunklist_w996990685.m3u8
-#EXTINF:0,Q FM
-#EXTGRP:MÚSICA 2025
-https://qfm.geraistec.com.br/hlsq/index.m3u8
-#EXTINF:0,TV ESTÚDIO SERTANEJA
-#EXTGRP:MÚSICA 2025
-https://tv02.zas.media:1936/alvoradasertaneja/alvoradasertaneja/chunklist_w1922337685.m3u8
-#EXTINF:0,TV CLUBE UBERLÂNDIA
-#EXTGRP:MÚSICA 2025
-https://video02.logicahost.com.br/clubefmuberlandia/clubefmuberlandia/chunklist_w2067911584.m3u8
-#EXTINF:0,STIMGRAI
-#EXTGRP:MÚSICA 2025
-https://stream.ads.ottera.tv/cl/241017cs8odr3glec3d7la5chg/1920x1080_1790800_1_f.m3u8?i=475_3028
-#EXTINF:0,TOPTV
-#EXTGRP:MÚSICA 2025
-https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
-#EXTINF:0,RIO HITMIX
-#EXTGRP:MÚSICA 2024
-https://stmv2.voxtvhd.com.br/riohitmix/riohitmix/playlist.m3u8
-#EXTINF:0,HALLO MUSIC
-#EXTGRP:MÚSICA 2024
-https://cdn-2.nxplay.com.br/HALLOMUSIC/tracks-v1a1/mono.m3u8?token=cdntv_62qwd7eSv1Ihnlni
-#EXTINF:0,TVMIX BELÉM
-#EXTGRP:MÚSICA 2024
-https://tv02.zas.media:1936/mixbelem/mixbelem/chunklist_w1921849150.m3u8
-#EXTINF:0,BETELHOST SERTANEJO
-#EXTGRP:MÚSICA 2024
-https://srv3.zcast.com.br/betelhostbr/betelhostbr/chunklist_w1582171388.m3u8
-#EXTINF:0,POSITIVA FM
-#EXTGRP:MÚSICA 2024
-https://video02.logicahost.com.br/positivafm/positivafm/playlist.m3u8
-#EXTINF:0,AGITO MAX
-#EXTGRP:MÚSICA 2024
-https://stmv2.samcast.com.br/agitomax/agitomax/chunklist_w18952744.m3u8
-#EXTINF:0,TU POP
-#EXTGRP:MÚSICA 2024
-https://stream.ads.ottera.tv/cl/240331co4ne7et3ovemmo1vjhg/1280x720_1400000_1_f.m3u8?i=475_1086
-#EXTINF:0,DANCE TV
-#EXTGRP:MÚSICA 2024
-https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
-#EXTINF:0,TECHNO WAREHOUSE
-#EXTGRP:MÚSICA 2024
-https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
-#EXTINF:0,DEEP HOUSE
-#EXTGRP:MÚSICA 2024
-https://m1b2.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8
-#EXTINF:0,DREAM TURK
-#EXTGRP:MÚSICA 2024
-https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_2_550/playlist.m3u8?key=7763e4ac1e460d9913ada7b279c8af81&live=true&app=com.dreamturk
-#EXTINF:0,NOW 80'S AP VIVO
-#EXTGRP:MÚSICA 2024
-https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
-#EXTINF:0,RÁDIO EU E VOCÊ
-#EXTGRP:MÚSICA 2024
-https://virtues.es:1936/radioeuevoce/radioeuevoce/chunklist_w2076218547.m3u8
-#EXTINF:0,SUPRA FM
-#EXTGRP:MÚSICA 2024
-https://live.cdn.upx.com/00079/myStream.sdp/chunklist.m3u8
-#EXTINF:0,TV UNIÃO
-#EXTGRP:MÚSICA 2024
-https://live.uniaoplus.com/hls/8b43MluBjzR7M1Uk.m3u8
-#EXTINF:0,MUSIC BOX BR
-#EXTGRP: MÚSICA 2024
-https://cdn-1.nxplay.com.br/MUSIC_HD/tracks-v1a1/mono.m3u8
-#EXTINF:0,SPIRIT TV
-#EXTGRP: MÚSICA 2024
-https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v2a1/mono.m3u8
-#EXTINF:0,MAGIC TV
-#EXTGRP: MÚSICA MUNDO
-https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4_output_0.m3u8
-#EXTINF:0,THT MUSIC
-#EXTGRP: MÚSICA MUNDO
-https://edge04-alm.beetv.kz/bpk-token/2an@dnblyte2fmbpsqnmrvm1ccwqhrilyc4ed34ldfaa/btv/SWM/Tnt_music/Tnt_music_576p_2000kbps.m3u8
-#EXTINF:0,h_1330,al_c/d6fd8d_f388beaf30024344a175dcbc147 41686~mv2.png",🎶╭─➤ - Afrobeats.ᴴᴰ
-#EXTGRP:unsorted
-https://stream.ecable.tv/afrobeats/tracks-v1a1/index.m3u8
-#EXTINF:0,🎶➾ Fe música
-#EXTGRP:unsorted
-https://dmecgxuzr2ywk.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-FEVAMusic/693f968e-9019-417a-a940-d4723a933854/2.m3u8
-#EXTINF:0,🎶➾ DBM (Música Africana)
-#EXTGRP:unsorted
-https://edge21.vedge.infomaniak.com/livecast/smil:dbmtv.smil/chunklist_w978770520_b1000000.m3u8
-#EXTINF:0,🎶➾ Muzangala TV.ᴴᴰ
-#EXTGRP:unsorted
-https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1087878616.m3u8
-#EXTINF:0,🎶➾ AFROVIBES TV
-#EXTGRP:unsorted
-https://vse2-sa-all56.secdn.net/tvsw4-chorigin/play/prod-f71bb37841b54966890bdf772c79cbaa/chunklist_sess641139627.m3u8
-#EXTINF:0,🎶➾ Reproduzir TV (Música)
-#EXTGRP:unsorted
-http://connectiktv.ddns.net:5000/playtv/@playtv/mono.m3u8
-#EXTINF:0,🎶➾ Baraza Music TV
-#EXTGRP:unsorted
-https://ssh101.bozztv.com/ssh101/relaxing/playlist.m3u8
-#EXTINF:0,🎶➾ LA BOCINA LATINA
-#EXTGRP:unsorted
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-631932e2f6672ff675ee5ec0.m3u8
-#EXTINF:0,🎶➾ Portal Foxmix
-#EXTGRP:unsorted
-https://panel.tvstream.cl:1936/8040/8040/chunklist_w652873405.m3u8
-#EXTINF:0,🎶➾ SomosTopoPointTV
-#EXTGRP:unsorted
-https://cloudflare.streamgato.us:3901/live/somostopopointtvlive.m3u8
-#EXTINF:0,🎶➾ Flow Caribe.ᴴᴰ
-#EXTGRP:unsorted
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1083
-#EXTINF:0,🎶➾ Canela TV Music.ᴴᴰ
-#EXTGRP:unsorted
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5083
-#EXTINF:0,🎶➾ BOX PLAYLIST
-#EXTGRP:unsorted
-https://boxplaylist-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_62193b7126c4be132057fe73_boxplaylist-live/m.m3u8
-#EXTINF:0,🎶➾ BALLE BALLE 1. ᴴᴰ
-#EXTGRP:unsorted
-https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
-#EXTINF:0,🎶➾ BALLE BALLE 2. ᴴᴰ
-#EXTGRP:unsorted
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3398
-#EXTINF:0,🎶➾ Kpop TV Play.ᴴᴰ
-#EXTGRP:unsorted
-https://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8
-#EXTINF:0,🎶➾ The Kpop Youtube 1
-#EXTGRP:unsorted
-https://livestream.zazerconer.workers.dev/channel/UCoRXPcv8XK5fAplLbk9PTww.m3u8
-#EXTINF:0,🎶➾ The Kpop Youtube 2
-#EXTGRP:unsorted
-https://ythls.armelin.one/channel/UCoRXPcv8XK5fAplLbk9PTww.m3u8
-#EXTINF:0,🎶➾ Novo Kpop.ᴴᴰ
-#EXTGRP:unsorted
-https://newidco-newkid-1-br.lg.wurl.tv/3000.m3u8
-#EXTINF:0,🎶➾ Novo Kpop MX.ᴴᴰ
-#EXTGRP:unsorted
-https://newidco-newkid-1-mx.lg.wurl.tv/3000.m3u8 
-#EXTINF:0,🎶 - 🇧🇷 ➾ Principais TV.ᴴᴰ
-#EXTGRP:unsorted
-https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
-#EXTINF:0,🎶 - 🇧🇷 ➾ TV Avant
-#EXTGRP:unsorted
-https://video04.logicahost.com.br/tvavant/tvavant/chunklist_w977600341.m3u8
-#EXTINF:0,🎶 - 🇧🇷 ➾ TV A FOLHA
-#EXTGRP:unsorted
-https://video01.logicahost.com.br/tvafolha/tvafolha/playlist-720p.m3u8https://ia601206.us.archive.org/25/items/musicas-de-natal-em-portugues-2024/M%C3%BAsicas%20De%20Natal%20Em%20Portugu%C3%AAs%202024.mp4
-#EXTINF:0,IN TV
-#EXTGRP:unsorted
-https://59f1cbe63db89.streamlock.net:1443/interativafm/_definst_/interativafm/chunklist_w2030672488.m3u8
-#EXTINF:0,LUPA 1 FM
-#EXTGRP:unsorted
-https://a.cdni.live/lupa1fm/lupa1fm/chunklist_w1262335719.m3u8
-#EXTINF:0,BLINK 102 FM
-#EXTGRP:unsorted
-https://video05.logicahost.com.br/blink105/blink105/chunklist_w1664250019.m3u8
-#EXTINF:0,MIX FM BELEM
-#EXTGRP:unsorted
-https://tv02.zas.media:1936/mixbelem/mixbelem/chunklist_w585975866.m3u8
-#EXTINF:0,REDE CLUBE
-#EXTGRP:unsorted
-https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
-#EXTINF:0,JK FM
-#EXTGRP:unsorted
-https://video02.logicahost.com.br/jkfm/jkfm/playlist.m3u8
-#EXTINF:0,ATIVIDADE FM
-#EXTGRP:unsorted
-https://stmv1.transmissaodigital.com/obmor2250/obmor2250/playlist.m3u8
-#EXTINF:0,CLUBE FM
-#EXTGRP:unsorted
-https://video02.logicahost.com.br/clubefmuberlandia/clubefmuberlandia/chunklist_w772490489.m3u8
-#EXTINF:0,FM O DIA
-#EXTGRP:unsorted
-https://cdn.livespanel.com/live/fmodia/playlist.m3u8
-#EXTINF:0,ATIVA FM
-#EXTGRP:unsorted
-https://a.cdni.live/ativa98/ativa98/playlist.m3u8
-#EXTINF:0,95 MAIS FM
-#EXTGRP:unsorted
-https://video01.logicahost.com.br/radio95fm/radio95fm/chunklist_w1563600198.m3u8
-#EXTINF:0,RÁDIO SUPER MARAJOARA
-#EXTGRP:unsorted
-https://tv02.zas.media:1936/supermarajoara/supermarajoara/chunklist_w1239847871.m3u8
-#EXTINF:0,RÁDIO TUPI
-#EXTGRP:unsorted
-https://ythls-v2.onrender.com/channel/UC9u7p59wlSaAuBmPevKWo9A.m3u8?playlist=index
-#EXTINF:0,REDE ITATIAIA
-#EXTGRP:unsorted
-https://ythls-v2.onrender.com/channel/UC9T0ZAarQHL4cJGFzORVsFg.m3u8?playlist=index
-#EXTINF:0,98 AO VIVO
-#EXTGRP:unsorted
-https://ythls-v2.onrender.com/channel/UClF866E2u34LioEzDppZj9g.m3u8?playlist=index
-#EXTINF:0,MASSA FM
-#EXTGRP:unsorted
-https://cdn-cdn-massafmsp.ciclano.io:1443/cdn-massafmsp/cdn-massafmsp/playlist.m3u8
-#EXTINF:0,RÁDIO DIÁRIO MACAPA
-#EXTGRP:unsorted
-https://video02.logicahost.com.br/tvdiario/tvdiario/chunklist_w1291941461.m3u8
-#EXTINF:0,RÁDIO REDENTOR
-#EXTGRP:unsorted
-https://virtues.es:1936/redentor/redentor/playlist.m3u8
-#EXTINF:0,RÁDIO DEUS E AMOR YOUTUBE
-#EXTGRP:unsorted
-https://ythls-v2.onrender.com/channel/UC5BPvgWTJbjWR5yRHLlf2qQ.m3u8?playlist=index
-#EXTINF:0,CATVE FM FOZ
-#EXTGRP:unsorted
-http://wowza4.catve.com.br:1935/radiocamera/livestream/playlist.m3u8
-#EXTINF:0,RÁDIO MONTE FM
-#EXTGRP:unsorted
-https://montefm.brasilstream.com.br/hls/montefm/index.m3u8
-#EXTINF:0,106 SERTANEJA
-#EXTGRP:unsorted
-https://live.cdn.upx.com/2384/myStream.sdp/playlist.m3u8
-#EXTINF:0,CLUBE FM RP
-#EXTGRP:unsorted
-https://live.cdn.upx.com/5e5c_5/myStream.sdp/chunklist.m3u8
-#EXTINF:0,RÁDIO CLUBE ARARENSE
-#EXTGRP:unsorted
-https://virtues.es:1936/clubeararense/clubeararense/playlist.m3u8
-#EXTINF:0,IND FM
-#EXTGRP:unsorted
-https://virtues.es:1936/indfm/indfm/chunklist_w1569348741.m3u8
-#EXTINF:0,RÁDIO CULTURA FM
-#EXTGRP:unsorted
-https://culturahd.brasilstream.com.br/hls/culturahd/index.m3u8
-#EXTINF:0,FM LIBERDADE
-#EXTGRP:unsorted
-https://fmliberdade.brasilstream.com.br/hls/fmliberdade/index.m3u8
-#EXTINF:0,RÁDIO DIFUSORA FM
-#EXTGRP:unsorted
-https://difusoraamaovivo.brasilstream.com.br/hls/difusoraamaovivo/index.m3u8
-#EXTINF:0,RÁDIO DIFUSORA FM 98
-#EXTGRP:unsorted
-https://difusorafm.brasilstream.com.br/hls/difusorafm/index.m3u8
-#EXTINF:0,RÁDIO NOVA ONDA FM
-#EXTGRP:unsorted
-https://5a57bda70564a.streamlock.net/novaondafm/novaondafm.sdp/chunklist_w925747159.m3u8
-#EXTINF:0,RÁDIO CIDADE LITORAL
-#EXTGRP:unsorted
-https://tv02.zas.media:1936/cidadelitoral/cidadelitoral/chunklist_w207047863.m3u8
-#EXTINF:0,FM MUNDIAL
-#EXTGRP:unsorted
-https://virtues.es:1936/mundialfmpirassununga/mundialfmpirassununga/chunklist_w1563727305.m3u8
-#EXTINF:0,RÁDIO TRANSJOVEM
-#EXTGRP:unsorted
-https://srv6.zcast.com.br/raimundofrancisco4701/raimundofrancisco4701/playlist.m3u8
-#EXTINF:0,RÁDIO EU E VOCE
-#EXTGRP:unsorted
-https://virtues.es:1936/radioeuevoce/radioeuevoce/chunklist_w2076218547.m3u8
-#EXTINF:0,RÁDIO 102 AP FM
-#EXTGRP:unsorted
-https://stmv1.srvstm.com/rogerio2689/rogerio2689/chunklist_w1791525089.m3u8
-#EXTINF:0,RÁDIO PLANALTO FM
-#EXTGRP:unsorted
-https://cdn-planaltofm.ciclano.io:1443/planaltofm/planaltofm/chunklist_w2018644666.m3u8
-#EXTINF:0,RÁDIO PLANALTO NEWS
-#EXTGRP:unsorted
-https://cdn-rdplanalto.ciclano.io:1443/rdplanalto/rdplanalto/chunklist_w1840781305.m3u8
-#EXTINF:0,RÁDIO TAROBA FM
-#EXTGRP:unsorted
-https://cdn.jmvstream.com/w/LVW-8799/LVW8799_UJQ7Y9nliA/chunklist.m3u8
-#EXTINF:0,LIDER FM UBA
-#EXTGRP:unsorted
-https://lideruba.brasilstream.com.br/hls/lideruba/index.m3u8
-#EXTINF:0,RÁDIO EDUCADORA
-#EXTGRP:unsorted
-https://stmv1.transmissaodigital.com/educadoralaranjeirassul/educadoralaranjeirassul/chunklist_w366377505.m3u8
-#EXTINF:0,RÁDIO NATUREZA FM
-#EXTGRP:unsorted
-https://tv02.zas.media:1936/natureza/natureza/chunklist_w143124316.m3u8
-#EXTINF:0,ESTUDIO A FM
-#EXTGRP:unsorted
-https://5a57bda70564a.streamlock.net/estudioatv/estudioatv.sdp/chunklist_w1422113754.m3u8
-#EXTINF:0,ACÚSTIVO MPB
-#EXTGRP: MÚSICA ESPECIAL
-https://ia601203.us.archive.org/28/items/acustico-mpb-melhores-da-mpb-de-todos-os-tempos/Ac%C3%BAstico%20MPB%20-%20Melhores%20da%20MPB%20de%20Todos%20os%20Tempos.mp4
-#EXTINF:0,ENCONTROS SAMBA
-#EXTGRP: MÚSICA ESPECIAL
-https://ia601604.us.archive.org/29/items/encontros-samba-emilio-santiago-alcione-jorge-aragao/Encontros%20%EF%BD%9C%EF%BD%9C%20SAMBA%20%EF%BD%9C%EF%BD%9C%20Em%C3%ADlio%20Santiago%20%EF%BD%9C%20Alcione%20%EF%BD%9CJorge%20Arag%C3%A3o.mp4
-#EXTINF:0,TINA TURNER
-#EXTGRP: MÚSICA ESPECIAL
-https://ia600506.us.archive.org/21/items/t-i-n-a-t-u-r-n-e-r-greatest-hits-top-100-artists-to-listen-in-2022-2023/T%20i%20n%20a%20T%20u%20r%20n%20e%20r%20Greatest%20Hits%20~%20Top%20100%20Artists%20To%20Listen%20in%202022%20%26%202023.mp4?cnt=0
-#EXTINF:0,ANOS 70 & 80
-#EXTGRP: MÚSICA ESPECIAL
-https://ia801803.us.archive.org/31/items/retro-disco-funky-house-70-80s-michael-jackson-cheryl-lynn-luther-vandross-the-sylvers..._202308/Retro%20Disco-Funky%20House%2070%20%26%2080s%20%28Michael%20Jackson%2C%20Cheryl%20Lynn%2C%20Luther%20Vandross%2C%20The%20Sylvers...%29.mp4?cnt=0
-#EXTINF:0,AL JARREAU
-#EXTGRP: MÚSICA ESPECIAL
-https://ia802702.us.archive.org/33/items/al-jarreau-greatest-hist-full-album-2021/Al%20Jarreau%20Greatest%20Hist%20Full%20Album%202021.mp4?cnt=0
-#EXTINF:0,MELHOR DA MÚSICA DO BRASIL
-#EXTGRP: MÚSICA ESPECIAL
-https://ia601600.us.archive.org/16/items/brazil-bossa-nova-samba-musica-popular-brasileira/Brazil%20-%20Bossa%20Nova%2C%20Samba%2C%20M%C3%BAsica%20popular%20brasileira.mp4?cnt=0
-#EXTINF:0,MÚSICA DE LUXO
-#EXTGRP: MÚSICA ESPECIAL
-https://ia802902.us.archive.org/30/items/musica-de-lujo-musica-elegante-glamour-music-relajante/M%C3%BAsica%20de%20Lujo%2C%20Musica%20Elegante%2C%20Glamour%20Music%2C%20Relajante.mp4
-#EXTINF:0,ARETHA FRANKLIN
-#EXTGRP: MÚSICA ESPECIAL
-https://ia804707.us.archive.org/24/items/aretha-franklin-greatest-hits-official-full-album-aretha-franklin-best-songs-playlist_202309/Aretha%20Franklin%20-%20Greatest%20Hits%20%28Official%20Full%20Album%29%20%EF%BD%9C%20Aretha%20Franklin%20Best%20Songs%20Playlist.mp4?cnt=0
-#EXTINF:0,SÉRGIO MENDES
-#EXTGRP: MÚSICA ESPECIAL
-https://dn720307.ca.archive.org/0/items/sergio-mendes-brasil-66-greatest-hits-66/Sergio%20Mendes%20%26%20Brasil%20%2766%20Greatest%20hits%20%20%E6%83%B3%E3%81%84%E5%87%BA%E3%81%AE%E3%82%BB%E3%83%AB%E3%82%B8%E3%82%AA%E3%83%BB%E3%83%A1%E3%83%B3%E3%83%87%E3%82%B9%EF%BC%86%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB%2766.mp4
-#EXTINF:0,The Kpop Youtube 1
-#EXTGRP:KPOP
-https://livestream.zazerconer.workers.dev/channel/UCoRXPcv8XK5fAplLbk9PTww.m3u8
-#EXTINF:0,The Kpop Youtube 2
-#EXTGRP:KPOP
-https://ythls.armelin.one/channel/UCoRXPcv8XK5fAplLbk9PTww.m3u8
-#EXTINF:0,New Kpop.ᴴᴰ
-#EXTGRP:KPOP
-https://newidco-newkid-1-br.lg.wurl.tv/3000.m3u8
-#EXTINF:0,New Kpop MX.ᴴᴰ
-#EXTGRP:KPOP
-https://newidco-newkid-1-mx.lg.wurl.tv/3000.m3u8
-#EXTINF:0,RODEIO
-#EXTGRP:RITMO MUSICAL
-https://servidor28-4.brlogic.com:8544/live
-#EXTINF:0,TECHNO
-#EXTGRP:RITMO MUSICAL
-http://hts01.kshost.com.br:9752/stream?1608801361987
-#EXTINF:0,ANOS 60
-#EXTGRP:RITMO MUSICAL
-http://stm18.xcast.com.br:7916/;
-#EXTINF:0,BREGA FUNK
-#EXTGRP:RITMO MUSICAL
-http://stm11.srvstm.com:8632/;
-#EXTINF:0,INSTRUMENTAL
-#EXTGRP:RITMO MUSICAL
-http://server02.ouvir.radio.br:8045/stream?1608804019044
-#EXTINF:0,MUSICA DE AMOR
-#EXTGRP:RITMO MUSICAL
-http://centova11.ciclanohost.com.br:9095/1;
-#EXTINF:0,Kids
-#EXTGRP:RITMO MUSICAL
-https://stream.zeno.fm/yuu82xwymwzuv?1608801932427
-#EXTINF:0,MPB
-#EXTGRP:RITMO MUSICAL
-https://stream.zeno.fm/xe0sf9pfvbruv
-#EXTINF:0,Bossa Nova
-#EXTGRP:RITMO MUSICAL
-http://54.38.43.201:8009/stream-128kmp3-BossaNovaBrazil
-#EXTINF:0,Pagode
-#EXTGRP:RITMO MUSICAL
-https://stream.zeno.fm/7sdtm8c8y5quv
-#EXTINF:0,Anos 2000
-#EXTGRP:RITMO MUSICAL
-http://6d9a.webradio.upx.net.br:9940/stream
-#EXTINF:0,Sertanejo
-#EXTGRP:RITMO MUSICAL
-http://centova.radioempresabrasil.com.br:8314/stream
-#EXTINF:0,Funk
-#EXTGRP:RITMO MUSICAL
-https://stream.zeno.fm/sxqqgnqpn3quv?1608802171267
-#EXTINF:0,Lounge
-#EXTGRP:RITMO MUSICAL
-https://vm.motionfm.com/motionthree_aacp
-#EXTINF:0,Pop Rock
-#EXTGRP:RITMO MUSICAL
-https://stream.zeno.fm/3rdwqmk9y5quv
-#EXTINF:0,Anos 70
-#EXTGRP:RITMO MUSICAL
-http://199.233.234.34:25418/stream?1608802449419
-#EXTINF:0,Anos 90
-#EXTGRP:RITMO MUSICAL
-https://stream.zeno.fm/6p61tgqh1xquv
-#EXTINF:0,Romanticas
-#EXTGRP:RITMO MUSICAL
-https://stream.zeno.fm/brmyanbuk2zuv
-#EXTINF:0,Rap Nacional
-#EXTGRP:RITMO MUSICAL
-http://216.245.204.226:8028/live
-#EXTINF:0,Eletronica
-#EXTGRP:RITMO MUSICAL
-http://suaradio1.dyndns.ws:13636/stream?_=953
-#EXTINF:0,Gospel
-#EXTGRP:RITMO MUSICAL
-http://centova2.euroti.com.br:8131/stream?1608742932643
-#EXTINF:0,Jazz
-#EXTGRP:RITMO MUSICAL
-https://streaming.wkar.msu.edu/wkar-jazz
-#EXTINF:0,Axe
-#EXTGRP:RITMO MUSICAL
-http://euroticast5.euroti.com.br:8070/;
-#EXTINF:0,Brega
-#EXTGRP:RITMO MUSICAL
-https://stream.zeno.fm/dxe2we5z3tzuv
-#EXTINF:0,New Rock
-#EXTGRP:RITMO MUSICAL
-http://powerhitz.powerhitz.com:6530/;
-#EXTINF:0,Sertanejo Universitario
-#EXTGRP:RITMO MUSICAL
-https://stream.zeno.fm/f7qe0be3smzuv
-#EXTINF:0,Samba de Raiz
-#EXTGRP:RITMO MUSICAL
-https://stream.zeno.fm/08pzyh88azzuv
-#EXTINF:0,Pop Hits
-#EXTGRP:RITMO MUSICAL
-https://stream.zeno.fm/qn1pyp1fceruv
-#EXTINF:0,Metal
-#EXTGRP:RITMO MUSICAL
-http://centova.euroti.com.br:8024/stream;
-#EXTINF:0,TV CAFÉ
-#EXTGRP:WEBTV
-https://srv5.zcast.com.br/tvcafe/tvcafe/chunklist_w860748714.m3u8
-#EXTINF:0,FM O DIA TV
-#EXTGRP:WEBTV
-https://cdn.livespanel.com/live/fmodia/playlist.m3u8
-#EXTINF:0,TV 538
-#EXTGRP:WEBTV
-https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
-#EXTINF:0,MONTE FM 96.7
-#EXTGRP:WEBTV
-https://montefm.brasilstream.com.br/hls/montefm/index.m3u8
-#EXTINF:0,INTERATIVA FM  94.9
-#EXTGRP:WEBTV
-https://59f1cbe63db89.streamlock.net:1443/interativafm/_definst_/interativafm/chunklist_w742921662.m3u8
-#EXTINF:0,NOSSA 87.7 FM
-#EXTGRP:WEBTV
-https://6mngseslsw.zoeweb.tv/z609-live/stream/chunklist.m3u8
-#EXTINF:0,RADIO CLUB 100,5 FM
-#EXTGRP:WEBTV
-https://live.cdn.upx.com/5e5c_5/myStream.sdp/chunklist.m3u8?d7659e67be3a2a737ab3db8943de5b45
-#EXTINF:0,JM 95.5 FM
-#EXTGRP:WEBTV
-https://virtues.es:1936/radiojm/radiojm/chunklist_w753033537.m3u8
-#EXTINF:0,Q MUSIC
-#EXTGRP:WEBTV
-https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL_720p.m3u8
-#EXTINF:0,977 JAMZ(HIP HOP)
-#EXTGRP:WEBTV
-https://playerservices.streamtheworld.com/api/livestream-redirect/977_JAMZ.mp3
-#EXTINF:0,977 HITS
-#EXTGRP:WEBTV
-https://playerservices.streamtheworld.com/api/livestream-redirect/977_HITS.mp3
-#EXTINF:0,977 ALTERNATIVE
-#EXTGRP:WEBTV
-https://playerservices.streamtheworld.com/api/livestream-redirect/977_ALTERN.mp3
-#EXTINF:0,977 MIX
-#EXTGRP:WEBTV
-https://playerservices.streamtheworld.com/api/livestream-redirect/977_MIX.mp3
-#EXTINF:0,RÁDIO LITORAL
-#EXTGRP:WEBTV
-https://59f1cbe63db89.streamlock.net:1443/tvradiolitoral/_definst_/tvradiolitoral/chunklist_w1331605967.m3u8
-#EXTINF:0,NRJ HITS
-#EXTGRP:WEBTV
-https://tv.ngroup.be/live/ngrp:nrj_all/chunklist_w1569827825_b3268608.m3u8
-#EXTINF:0,ALVORADA SERTANEJA
-#EXTGRP:WEBTV
-https://stmv1.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/chunklist_w1443828699.m3u8
-#EXTINF:0,MUSIC CHOICE
-#EXTGRP:WEBTV
-https://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/ROTFL121/O0U9MTY2NTQ0NDU1MDtBPTE7Sz0wO1A9MDExMTA7Uz1hMWM5ZmNkZDhlZDUzYjg2YzFjMmNlYmViNGFjY2U5M2M1MzU5MDE1/chunklist.m3u8
-#EXTINF:0,OCKO GOLD
-#EXTGRP:WEBTV
-https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/chunklist_b2628000.m3u8
-#EXTINF:0,GOSTEI POP
-#EXTGRP:WEBTV
-https://59f1cbe63db89.streamlock.net:1443/redegostei/_definst_/redegostei/chunklist_w675237342.m3u8
-#EXTINF:0,POWER HD
-#EXTGRP:WEBTV
-https://live2.tensila.com/1-1-1.power-tv/hls/live/mystream.m3u8
-#EXTINF:0,CENTRAL BR
-#EXTGRP:WEBTV
-https://stmv2.centralcast.com.br/central/central/chunklist_w2055579852.m3u8
-#EXTINF:0,30A TV
-#EXTGRP:WEBTV
-https://30a-tv.com/feeds/720p/6.m3u8
-#EXTINF:0,RTL 102.5
-#EXTGRP:WEBTV
-https://streamcdnc1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/chunklist_b732000.m3u8
-#EXTINF:0,NH FM 104.7
-#EXTGRP:WEBTV
-https://5a57bda70564a.streamlock.net/novosh/novosh.sdp/chunklist_w1246080652.m3u8
-#EXTINF:0,4 FUN TV
-#EXTGRP:WEBTV
-https://stream.4fun.tv:8888/hls/4f_med/index.m3u8
-#EXTINF:0,CITY TV
-#EXTGRP:WEBTV
-https://tv.city.bg/play/tshls/citytv/3.m3u8
-#EXTINF:0,RU TV
-#EXTGRP:WEBTV
-https://hls-03-video.webcaramba.com/rutv/live_360/index.m3u8
-#EXTINF:0,98 FM BH
-#EXTGRP:WEBTV
-https://9554.brasilstream.com.br/stream
-#EXTINF:0,106 FM Sertaneja
-#EXTGRP:WEBTV
-https://sc4s.cdn.upx.com:8067/stream
-#EXTINF:0,106 FM Sertaneja (Estúdio Ao Vivo)
-#EXTGRP:WEBTV
-https://live.cdn.upx.com/2384/myStream.sdp/playlist.m3u8
-#EXTINF:0,99.5 FM Goiânia
-#EXTGRP:WEBTV
-https://ssl.zoeweb.net/proxy/serradourada?mp=/stream
-#EXTINF:0,Antena 1
-#EXTGRP:WEBTV
-http://antena1.newradio.it/stream?1519462006844
-#EXTINF:0,Atlântida FM
-#EXTGRP:WEBTV
-http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
-#EXTINF:0,Canal Louvor
-#EXTGRP:WEBTV
-http://stm3.srvvox.com.br:7178/;
-#EXTINF:0,Canal Louvor Fortaleza
-#EXTGRP:WEBTV
-https://player.srvvox.com.br/proxy/7178
-#EXTINF:0,Capão FM
-#EXTGRP:WEBTV
-http://cast4.audiostream.com.br:8656/mp3
-#EXTINF:0,Cidreira FM
-#EXTGRP:WEBTV
-http://cast4.audiostream.com.br:8657/mp3
-#EXTINF:0,Classic Pan
-#EXTGRP:WEBTV
-http://ingest1sc.cdn.upx.com:8032/stream
-#EXTINF:0,Clube FM Bagé
-#EXTGRP:WEBTV
-https://player.painelvox.com/player-ssl/6766/;
-#EXTINF:0,Cultura Brasil
-#EXTGRP:WEBTV
-http://tvcultura.com.br/_radio/streaming.php?radio=am
-#EXTINF:0,Cultura FM
-#EXTGRP:WEBTV
-https://radiocultura.jmvstream.com/stream
-#EXTINF:0,Difusora de São João Nepomuceno
-#EXTGRP:WEBTV
-https://live.paineldj.com.br/proxy/difaac?mp=/stream
-#EXTINF:0,Esperança FM Boa Viagem
-#EXTGRP:WEBTV
-http://51.222.56.196:6230/stream
-#EXTINF:0,FM 96 Muriaé
-#EXTGRP:WEBTV
-http://wz1.dnip.com.br/fm96muriae/fm96muriae.stream/playlist.m3u8
-#EXTINF:0,FM Express
-#EXTGRP:WEBTV
-http://cast4.audiostream.com.br:8648/mp3
-#EXTINF:0,FM O Dia
-#EXTGRP:WEBTV
-http://streaming.livespanel.com:20000/live
-#EXTINF:0,FM Premium
-#EXTGRP:WEBTV
-http://cast4.audiostream.com.br:8663/mp3
-#EXTINF:0,FM Tramandaí
-#EXTGRP:WEBTV
-http://cast4.audiostream.com.br:8658/mp3
-#EXTINF:0,Gaúcha
-#EXTGRP:WEBTV
-https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/playlist.m3u8
-#EXTINF:0,Gazeta Online
-#EXTGRP:WEBTV
-https://shout25.crossradio.com.br:18006/1
-#EXTINF:0,Imbé FM
-#EXTGRP:WEBTV
-http://cast4.audiostream.com.br:8660/mp3
-#EXTINF:0,Interativa FM
-#EXTGRP:WEBTV
-http://suaradio1.dyndns.ws:13551/stream
-#EXTINF:0,Itapema FM
-#EXTGRP:WEBTV
-https://47809y.ha.azioncdn.net/primary/ita_fln.sdp/playlist.m3u8
-#EXTINF:0,Jovem Pan News
-#EXTGRP:WEBTV
-https://26643.live.streamtheworld.com/JP_SP_AMAAC.aac
-#EXTINF:0,Jovem Pan FM
-#EXTGRP:WEBTV
-https://24253.live.streamtheworld.com/JP_SP_FMAAC.aac
-#EXTINF:0,Kairós FM Morada Nova
-#EXTGRP:WEBTV
-http://stm16.xcast.com.br:9042/stream
-#EXTINF:0,Mais FM Ibicuitinga
-#EXTGRP:WEBTV
-http://stream.zeno.fm/cdbfeym4b48uv
-#EXTINF:0,Manchete FM
-#EXTGRP:WEBTV
-https://webradio.amsolution.com.br/radio/8220/manchete
-#EXTINF:0,Mega Ribeirão Preto
-#EXTGRP:WEBTV
-http://pontofixo-megasistema.webnow.com.br/mega.aac
-#EXTINF:0,Metropolitana FM SP
-#EXTGRP:WEBTV
-http://74.63.237.85:8598/live
-#EXTINF:0,Mix FM
-#EXTGRP:WEBTV
-https://20823.live.streamtheworld.com/MIXFM_SAOPAULOAAC.aac
-#EXTINF:0,Nativa FM
-#EXTGRP:WEBTV
-https://26493.live.streamtheworld.com/NATIVA_SPAAC/HLS/ca618559-d598-4eed-b1c5-a83160ca1b4c/0/playlist.m3u8
-#EXTINF:0,Nossa Rádio SP
-#EXTGRP:WEBTV
-https://servidor24.brlogic.com:8524/live
-#EXTINF:0,Nova FM Ascurra
-#EXTGRP:WEBTV
-https://stm01.virtualcast.com.br:8264/live
-#EXTINF:0,NovaBrasil FM
-#EXTGRP:WEBTV
-https://20823.live.streamtheworld.com/NOVABRASIL_SPAAC.aac
-#EXTINF:0,Princesa AM
-#EXTGRP:WEBTV
-http://cast4.audiostream.com.br:8016/mp3
-#EXTINF:0,RBC FM
-#EXTGRP:WEBTV
-http://paineldj.com.br:8046/live
-#EXTINF:0,Rede Brasileira de Rádios
-#EXTGRP:WEBTV
-https://webradio.amsolution.com.br/radio/8380/live
-#EXTINF:0,Sucesso FM Goiânia
-#EXTGRP:WEBTV
-http://cast61.sitehosting.com.br:8446/live
-#EXTINF:0,Sucesso FM Jaraguá
-#EXTGRP:WEBTV
-http://cast61.sitehosting.com.br:8487/live?1573825310257
-#EXTINF:0,Sucesso FM Jataí
-#EXTGRP:WEBTV
-https://ice.fabricahost.com.br/redesucessojatai915
-#EXTINF:0,Super Rádio Tupi
-#EXTGRP:WEBTV
-https://8923.brasilstream.com.br/stream
-#EXTINF:0,Super Rede Boa Vontade
-#EXTGRP:WEBTV
-https://9000.brasilstream.com.br/stream
-#EXTINF:0,Top FM
-#EXTGRP:WEBTV
-http://cloud1.cdnseguro.com:8320/;
-#EXTINF:0,Torres FM
-#EXTGRP:WEBTV
-http://cast4.audiostream.com.br:8661/mp3
-#EXTINF:0,Transamérica São Paulo
-#EXTGRP:WEBTV
-https://26513.live.streamtheworld.com/RT_SPAAC.aac
-#EXTINF:0,Trianon
-#EXTGRP:WEBTV
-http://afiliadamix2.crossradio.com.br:9008/;
-#EXTINF:0,Xangri-lá FM
-#EXTGRP:WEBTV
-http://cast4.audiostream.com.br:8659/mp3
-#EXTINF:0,Rádio 104
-#EXTGRP:WEBTV
-http://cast4.audiostream.com.br:8651/mp3
-#EXTINF:0,Rádio Alegria
-#EXTGRP:WEBTV
-http://stream.ouveai.com.br:8061/;
-#EXTINF:0,Rádio Bandeirantes
-#EXTGRP:WEBTV
-https://18693.live.streamtheworld.com/RADIOBANDEIRANTESAAC/HLS/4b382b5c-665d-4040-8f3e-c846f0ec4f42/0/playlist.m3u8
-#EXTINF:0,Rádio Bandeirantes Goiânia
-#EXTGRP:WEBTV
-http://suaradio2.dyndns.ws:13633/stream
-#EXTINF:0,Rádio BSD
-#EXTGRP:WEBTV
-https://webradio.amsolution.com.br/radio/8040/aac
-#EXTINF:0,Rádio Caiçara
-#EXTGRP:WEBTV
-http://cast4.audiostream.com.br:8654/mp3
-#EXTINF:0,Rádio Campo Maior
-#EXTGRP:WEBTV
-https://streammaior.jmhost.com.br/radio/8010/stream
-#EXTINF:0,Rádio Canção Nova
-#EXTGRP:WEBTV
-https://rdamchp1-lh.akamaihd.net/i/rdamchp_1_0@193678/master.m3u8
-#EXTINF:0,Rádio Cidade Leopoldina
-#EXTGRP:WEBTV
-http://streaming21.hstbr.net:8220/live
-#EXTINF:0,Rádio Conexão Gospel
-#EXTGRP:WEBTV
-https://node-09.zeno.fm/3rqh6euz5hhvv
-#EXTINF:0,Rádio Continental
-#EXTGRP:WEBTV
-http://cast4.audiostream.com.br:8650/mp3
-#EXTINF:0,Rádio Criativa
-#EXTGRP:WEBTV
-https://ssl.xcast.com.br:9650/mountpoint
-#EXTINF:0,Rádio Disney
-#EXTGRP:WEBTV
-https://22973.live.streamtheworld.com/DISNEY_BRA_SP.mp3
-#EXTINF:0,Rádio Eldorado
-#EXTGRP:WEBTV
-http://cast4.audiostream.com.br:8652/mp3
-#EXTINF:0,Rádio Farroupilha
-#EXTGRP:WEBTV
-https://1592747t.ha.azioncdn.net/primary/far_poa.sdp/playlist.m3u8
-#EXTINF:0,Rádio Feliz
-#EXTGRP:WEBTV
-https://cloud1.cdnseguro.com:5520/;
-#EXTINF:0,Rádio Lopes
-#EXTGRP:WEBTV
-http://stm18.xcast.com.br:8174/;
-#EXTINF:0,Rádio Globo
-#EXTGRP:WEBTV
-https://medias.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8
-#EXTINF:0,Rádio Grenal
-#EXTGRP:WEBTV
-http://cast4.audiostream.com.br:8649/mp3
-#EXTINF:0,Rádio Guaíba
-#EXTGRP:WEBTV
-http://cast4.audiostream.com.br:8007/site
-#EXTINF:0,Rádio Itatiaia
-#EXTGRP:WEBTV
-https://8903.brasilstream.com.br/stream
-#EXTINF:0,Rádio Jornal
-#EXTGRP:WEBTV
-https://evpp.mm.uol.com.br/ne10/ne10-radiojornal-recife-audio-web.sdp/playlist.m3u8
-#EXTINF:0,Rádio Jornal (Estúdio Ao Vivo)
-#EXTGRP:WEBTV
-https://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/playlist.m3u8
-#EXTINF:0,Rádio Liberdade FM
-#EXTGRP:WEBTV
-http://cast4.audiostream.com.br:8655/mp3
-#EXTINF:0,Rádio Mania FM
-#EXTGRP:WEBTV
-http://shout35.crossradio.com.br:8086/1/;
-#EXTINF:0,Rádio Novo Tempo
-#EXTGRP:WEBTV
-http://stream.novotempo.com:1935/radio/smil:rntPortoAlegreRS.smil/playlist.m3u8
-#EXTINF:0,Rádio Ômega FM
-#EXTGRP:WEBTV
-https://webradio.amsolution.com.br/radio/8000/aac
-#EXTINF:0,Rádio Pampa
-#EXTGRP:WEBTV
-http://cast4.audiostream.com.br:8653/mp3
-#EXTINF:0,Rádio Sagres
-#EXTGRP:WEBTV
-https://c1.audiostream.com.br:20029/stream
-#EXTINF:0,Rádio Super Notícia
-#EXTGRP:WEBTV
-https://9134.brasilstream.com.br/stream
-#EXTINF:0,Web Rádio Melodia Limoeiro
-#EXTGRP:WEBTV
-http://stm9.xcast.com.br:9970/stream######################################
-#EXTINF:0,MPB TV
-#EXTGRP:EXTRA
-https://stmv1.srvif.com/mpbtv/mpbtv/chunklist_w1539268331.m3u8
-#EXTINF:0,TV CAFÉ( SERTANEJO)
-#EXTGRP:EXTRA
-https://srv5.zcast.com.br/tvcafe/tvcafe/chunklist_w223482404.m3u8
-#EXTINF:0,KARAOKÊ
-#EXTGRP:EXTRA
-https://stream.ads.ottera.tv/cl/231226cm5kl2ob1vkkqhk3das0/1280x720_1400000_1_f.m3u8?i=475_469
-#EXTINF:0,iHeart Latino Hits
-#EXTGRP:O MELHOR DOS HITS
-https://iheart-iheartlatinohits-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:0,iHeart Alt Radio
-#EXTGRP:O MELHOR DOS HITS
-https://iheart-iheartaltradio-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:0,iHeart Hit Nation
-#EXTGRP:O MELHOR DOS HITS
-https://iheart-ihearthitnation-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:0,iHeart Country
-#EXTGRP:O MELHOR DOS HITS
-https://iheart-iheartcountry-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:0,iHeart 90s
-#EXTGRP:O MELHOR DOS HITS
-https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:0,iHeart 80s
-#EXTGRP:O MELHOR DOS HITS
-https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:0,Betelhost Sertanejo
-#EXTGRP:NOVIDADE 2024
-https://srv3.zcast.com.br/betelhostbr/betelhostbr/chunklist_w811127074.m3u8
-#EXTINF:0,Blink 102 FM
-#EXTGRP:NOVIDADE 2024
-https://5ad482a77183d.streamlock.net/blinkblink.com.br/blinkblink.com.br/chunklist_w1150486168.m3u8
-#EXTINF:0,Tv Café Viola
-#EXTGRP:NOVIDADE 2024
-https://srv5.zcast.com.br/tvcafe/tvcafe/chunklist_w796161752.m3u8
-#EXTINF:0,AGITOMAX TV
-#EXTGRP:NOVIDADE 2024
-https://stmv2.samcast.com.br/agitomax/agitomax/chunklist_w567304587.m3u8
-#EXTINF:0,Rede Blitz
-#EXTGRP:NOVIDADE 2024
-https://video01.logicahost.com.br/redeblitz/redeblitz/chunklist_w2112161927.m3u8
+#EXTINF:0,Premiere 2 4K
+#EXTGRP:Canais | Premiere
+http://lgbtplus.top:80/022270/ZU4CxM/103482.ts
+#EXTINF:0,Premiere 2 FHD
+#EXTGRP:Canais | Premiere
+http://lgbtplus.top:80/022270/ZU4CxM/72237.ts
+#EXTINF:0,Premiere 2 FHD [H265]
+#EXTGRP:Canais | Premiere
+http://lgbtplus.top:80/022270/ZU4CxM/72238.ts
+#EXTINF:0,Premiere 2 HD
+#EXTGRP:Canais | Premiere
+http://lgbtplus.top:80/022270/ZU4CxM/72239.ts
+#EXTINF:0,Premiere 2 SD
+#EXTGRP:Canais | Premiere
+http://lgbtplus.top:80/022270/ZU4CxM/72240.ts
+#EXTINF:0,Premiere 3 4K
+#EXTGRP:Canais | Premiere
+http://lgbtplus.top:80/022270/ZU4CxM/103481.ts
+#EXTINF:0,Premiere 3 FHD
+#EXTGRP:Canais | Premiere
+http://lgbtplus.top:80/022270/ZU4CxM/72241.ts
+#EXTINF:0,Premiere 3 FHD [H265]
+#EXTGRP:Canais | Premiere
+http://lgbtplus.top:80/022270/ZU4CxM/72242.ts
+#EXTINF:0,Premiere 3 HD
+#EXTGRP:Canais | Premiere
+http://lgbtplus.top:80/022270/ZU4CxM/72243.ts
+#EXTINF:0,Premiere 3 SD
+#EXTGRP:Canais | Premiere
+http://lgbtplus.top:80/022270/ZU4CxM/72244.ts
+#EXTINF:0,Premiere 4 4K
+#EXTGRP:Canais | Premiere
+http://lgbtplus.top:80/022270/ZU4CxM/103480.ts
+#EXTINF:0,Premiere 4 FHD
+#EXTGRP:Canais | Premiere
+http://lgbtplus.top:80/022270/ZU4CxM/72245.ts
+#EXTINF:0,Premiere 4 FHD [H265]
+#EXTGRP:Canais | Premiere
+http://lgbtplus.top:80/022270/ZU4CxM/72246.ts
+#EXTINF:0,Premiere 4 HD
+#EXTGRP:Canais | Premiere
+http://lgbtplus.top:80/022270/ZU4CxM/72247.ts
+#EXTINF:0,Premiere 4 SD
+#EXTGRP:Canais | Premiere
+http://lgbtplus.top:80/022270/ZU4CxM/72248.ts
+#EXTINF:0,Premiere 5 4K
+#EXTGRP:Canais | Premiere
+http://lgbtplus.top:80/022270/ZU4CxM/103479.ts
+#EXTINF:0,Premiere 5 FHD
+#EXTGRP:Canais | Premiere
+http://lgbtplus.top:80/022270/ZU4CxM/72249.ts
+#EXTINF:0,Premiere 5 FHD [H265]
+#EXTGRP:Canais | Premiere
+http://lgbtplus.top:80/022270/ZU4CxM/72250.ts
+#EXTINF:0,Premiere 5 HD
+#EXTGRP:Canais | Premiere
+http://lgbtplus.top:80/022270/ZU4CxM/72251.ts
+#EXTINF:0,Premiere 5 SD
+#EXTGRP:Canais | Premiere
+http://lgbtplus.top:80/022270/ZU4CxM/72252.ts
+#EXTINF:0,Premiere 6 4K
+#EXTGRP:Canais | Premiere
+http://lgbtplus.top:80/022270/ZU4CxM/103478.ts
+#EXTINF:0,Premiere 6 FHD
+#EXTGRP:Canais | Premiere
+http://lgbtplus.top:80/022270/ZU4CxM/72253.ts
+#EXTINF:0,Premiere 6 FHD [H265]
+#EXTGRP:Canais | Premiere
+http://lgbtplus.top:80/022270/ZU4CxM/72254.ts
+#EXTINF:0,Premiere 6 HD
+#EXTGRP:Canais | Premiere
+http://lgbtplus.top:80/022270/ZU4CxM/72255.ts
+#EXTINF:0,Premiere 6 SD
+#EXTGRP:Canais | Premiere
+http://lgbtplus.top:80/022270/ZU4CxM/72256.ts
+#EXTINF:0,Premiere 7 4K
+#EXTGRP:Canais | Premiere
+http://lgbtplus.top:80/022270/ZU4CxM/103477.ts
+#EXTINF:0,Premiere 7 FHD
+#EXTGRP:Canais | Premiere
+http://lgbtplus.top:80/022270/ZU4CxM/72257.ts
+#EXTINF:0,Premiere 7 FHD [H265]
+#EXTGRP:Canais | Premiere
+http://lgbtplus.top:80/022270/ZU4CxM/72258.ts
+#EXTINF:0,Premiere 7 HD
+#EXTGRP:Canais | Premiere
+http://lgbtplus.top:80/022270/ZU4CxM/72259.ts
+#EXTINF:0,Premiere 7 SD
+#EXTGRP:Canais | Premiere
+http://lgbtplus.top:80/022270/ZU4CxM/72260.ts
+#EXTINF:0,Premiere 8 4K
+#EXTGRP:Canais | Premiere
+http://lgbtplus.top:80/022270/ZU4CxM/180162.ts
+#EXTINF:0,Premiere 8 FHD
+#EXTGRP:Canais | Premiere
+http://lgbtplus.top:80/022270/ZU4CxM/180158.ts
+#EXTINF:0,Premiere 8 FHD [H265]
+#EXTGRP:Canais | Premiere
+http://lgbtplus.top:80/022270/ZU4CxM/180161.ts
+#EXTINF:0,Premiere 8 HD
+#EXTGRP:Canais | Premiere
+http://lgbtplus.top:80/022270/ZU4CxM/180159.ts
+#EXTINF:0,Premiere 8 SD
+#EXTGRP:Canais | Premiere
+http://lgbtplus.top:80/022270/ZU4CxM/180160.ts
+#EXTINF:0,Premiere Clubes 4K
+#EXTGRP:Canais | Premiere
+http://lgbtplus.top:80/022270/ZU4CxM/72264.ts
+#EXTINF:0,Premiere Clubes FHD
+#EXTGRP:Canais | Premiere
+http://lgbtplus.top:80/022270/ZU4CxM/72262.ts
+#EXTINF:0,Premiere Clubes FHD [H265]
+#EXTGRP:Canais | Premiere
+http://lgbtplus.top:80/022270/ZU4CxM/72263.ts
+#EXTINF:0,Premiere Clubes HD
+#EXTGRP:Canais | Premiere
+http://lgbtplus.top:80/022270/ZU4CxM/72265.ts
+#EXTINF:0,Premiere Clubes SD
+#EXTGRP:Canais | Premiere
+http://lgbtplus.top:80/022270/ZU4CxM/72266.ts
+#EXTINF:0,Band Sports 4K
+#EXTGRP:Canais | Esportes
+http://lgbtplus.top:80/022270/ZU4CxM/103525.ts
+#EXTINF:0,Band Sports FHD
+#EXTGRP:Canais | Esportes
+http://lgbtplus.top:80/022270/ZU4CxM/71801.ts
+#EXTINF:0,Band Sports FHD [H265]
+#EXTGRP:Canais | Esportes
+http://lgbtplus.top:80/022270/ZU4CxM/71802.ts
+#EXTINF:0,Band Sports HD
+#EXTGRP:Canais | Esportes
+http://lgbtplus.top:80/022270/ZU4CxM/71803.ts
+#EXTINF:0,Band Sports SD
+#EXTGRP:Canais | Esportes
+http://lgbtplus.top:80/022270/ZU4CxM/71804.ts
+#EXTINF:0,Combate 4K
+#EXTGRP:Canais | Esportes
+http://lgbtplus.top:80/022270/ZU4CxM/71844.ts
+#EXTINF:0,Combate FHD
+#EXTGRP:Canais | Esportes
+http://lgbtplus.top:80/022270/ZU4CxM/71842.ts
+#EXTINF:0,Combate FHD [H265]
+#EXTGRP:Canais | Esportes
+http://lgbtplus.top:80/022270/ZU4CxM/71843.ts
+#EXTINF:0,Combate HD
+#EXTGRP:Canais | Esportes
+http://lgbtplus.top:80/022270/ZU4CxM/71845.ts
+#EXTINF:0,Combate SD
+#EXTGRP:Canais | Esportes
+http://lgbtplus.top:80/022270/ZU4CxM/71846.ts
+#EXTINF:0,Copa do Brasil 1 FHD
+#EXTGRP:Canais | Prime Video
+http://lgbtplus.top:80/022270/ZU4CxM/150498.ts
+#EXTINF:0,Copa do Brasil 1 HD
+#EXTGRP:Canais | Prime Video
+http://lgbtplus.top:80/022270/ZU4CxM/150499.ts
+#EXTINF:0,Copa do Brasil 1 SD
+#EXTGRP:Canais | Prime Video
+http://lgbtplus.top:80/022270/ZU4CxM/150500.ts
+#EXTINF:0,Copa do Brasil 2 FHD
+#EXTGRP:Canais | Prime Video
+http://lgbtplus.top:80/022270/ZU4CxM/150501.ts
+#EXTINF:0,Copa do Brasil 2 HD
+#EXTGRP:Canais | Prime Video
+http://lgbtplus.top:80/022270/ZU4CxM/150502.ts
+#EXTINF:0,Copa do Brasil 2 SD
+#EXTGRP:Canais | Prime Video
+http://lgbtplus.top:80/022270/ZU4CxM/150503.ts
+#EXTINF:0,Copa do Brasil 3 FHD
+#EXTGRP:Canais | Prime Video
+http://lgbtplus.top:80/022270/ZU4CxM/142040.ts
+#EXTINF:0,Copa do Brasil 3 HD
+#EXTGRP:Canais | Prime Video
+http://lgbtplus.top:80/022270/ZU4CxM/105789.ts
+#EXTINF:0,Copa do Brasil 3 SD
+#EXTGRP:Canais | Prime Video
+http://lgbtplus.top:80/022270/ZU4CxM/142041.ts
+#EXTINF:0,ESPN 2 4K
+#EXTGRP:Canais | ESPN
+http://lgbtplus.top:80/022270/ZU4CxM/71921.ts
+#EXTINF:0,ESPN 2 FHD
+#EXTGRP:Canais | ESPN
+http://lgbtplus.top:80/022270/ZU4CxM/71919.ts
+#EXTINF:0,ESPN 2 FHD [H265]
+#EXTGRP:Canais | ESPN
+http://lgbtplus.top:80/022270/ZU4CxM/71920.ts
+#EXTINF:0,ESPN 2 HD
+#EXTGRP:Canais | ESPN
+http://lgbtplus.top:80/022270/ZU4CxM/71922.ts
+#EXTINF:0,ESPN 2 SD
+#EXTGRP:Canais | ESPN
+http://lgbtplus.top:80/022270/ZU4CxM/71923.ts
+#EXTINF:0,ESPN 3 4K
+#EXTGRP:Canais | ESPN
+http://lgbtplus.top:80/022270/ZU4CxM/103504.ts
+#EXTINF:0,ESPN 3 FHD
+#EXTGRP:Canais | ESPN
+http://lgbtplus.top:80/022270/ZU4CxM/71907.ts
+#EXTINF:0,ESPN 3 FHD [H265]
+#EXTGRP:Canais | ESPN
+http://lgbtplus.top:80/022270/ZU4CxM/71908.ts
+#EXTINF:0,ESPN 3 HD
+#EXTGRP:Canais | ESPN
+http://lgbtplus.top:80/022270/ZU4CxM/71909.ts
+#EXTINF:0,ESPN 3 SD
+#EXTGRP:Canais | ESPN
+http://lgbtplus.top:80/022270/ZU4CxM/71910.ts
+#EXTINF:0,ESPN 4 4K
+#EXTGRP:Canais | ESPN
+http://lgbtplus.top:80/022270/ZU4CxM/71959.ts
+#EXTINF:0,ESPN 4 FHD
+#EXTGRP:Canais | ESPN
+http://lgbtplus.top:80/022270/ZU4CxM/71957.ts
+#EXTINF:0,ESPN 4 FHD [H265]
+#EXTGRP:Canais | ESPN
+http://lgbtplus.top:80/022270/ZU4CxM/71958.ts
+#EXTINF:0,ESPN 4 HD
+#EXTGRP:Canais | ESPN
+http://lgbtplus.top:80/022270/ZU4CxM/71960.ts
+#EXTINF:0,ESPN 4 SD
+#EXTGRP:Canais | ESPN
+http://lgbtplus.top:80/022270/ZU4CxM/71961.ts
+#EXTINF:0,ESPN 4K
+#EXTGRP:Canais | ESPN
+http://lgbtplus.top:80/022270/ZU4CxM/90640.ts
+#EXTINF:0,ESPN 6 4K
+#EXTGRP:Canais | ESPN
+http://lgbtplus.top:80/022270/ZU4CxM/103505.ts
+#EXTINF:0,ESPN 6 FHD
+#EXTGRP:Canais | ESPN
+http://lgbtplus.top:80/022270/ZU4CxM/71915.ts
+#EXTINF:0,ESPN 6 FHD [H265]
+#EXTGRP:Canais | ESPN
+http://lgbtplus.top:80/022270/ZU4CxM/71916.ts
+#EXTINF:0,ESPN 6 HD
+#EXTGRP:Canais | ESPN
+http://lgbtplus.top:80/022270/ZU4CxM/71917.ts
+#EXTINF:0,ESPN 6 SD
+#EXTGRP:Canais | ESPN
+http://lgbtplus.top:80/022270/ZU4CxM/71918.ts
+#EXTINF:0,ESPN FHD
+#EXTGRP:Canais | ESPN
+http://lgbtplus.top:80/022270/ZU4CxM/71911.ts
+#EXTINF:0,ESPN FHD [H265]
+#EXTGRP:Canais | ESPN
+http://lgbtplus.top:80/022270/ZU4CxM/71912.ts
+#EXTINF:0,ESPN HD
+#EXTGRP:Canais | ESPN
+http://lgbtplus.top:80/022270/ZU4CxM/71913.ts
+#EXTINF:0,ESPN SD
+#EXTGRP:Canais | ESPN
+http://lgbtplus.top:80/022270/ZU4CxM/71914.ts
+#EXTINF:0,ESPN 5 4K
+#EXTGRP:Canais | ESPN
+http://lgbtplus.top:80/022270/ZU4CxM/71954.ts
+#EXTINF:0,ESPN 5 FHD
+#EXTGRP:Canais | ESPN
+http://lgbtplus.top:80/022270/ZU4CxM/71952.ts
+#EXTINF:0,ESPN 5 [H265]
+#EXTGRP:Canais | ESPN
+http://lgbtplus.top:80/022270/ZU4CxM/71953.ts
+#EXTINF:0,ESPN 5 HD
+#EXTGRP:Canais | ESPN
+http://lgbtplus.top:80/022270/ZU4CxM/71955.ts
+#EXTINF:0,ESPN 5 SD
+#EXTGRP:Canais | ESPN
+http://lgbtplus.top:80/022270/ZU4CxM/71956.ts
+#EXTINF:0,Caze TV FHD
+#EXTGRP:Canais | PPV
+http://lgbtplus.top:80/022270/ZU4CxM/76671.ts
+#EXTINF:0,Paramount + 1 HD
+#EXTGRP:Canais | Paramount
+http://lgbtplus.top:80/022270/ZU4CxM/72979.ts
+#EXTINF:0,Paramount + 1 SD
+#EXTGRP:Canais | Paramount
+http://lgbtplus.top:80/022270/ZU4CxM/72980.ts
+#EXTINF:0,Paramount + 2 4K
+#EXTGRP:Canais | Paramount
+http://lgbtplus.top:80/022270/ZU4CxM/103523.ts
+#EXTINF:0,Paramount + 2 FHD
+#EXTGRP:Canais | Paramount
+http://lgbtplus.top:80/022270/ZU4CxM/72981.ts
+#EXTINF:0,Paramount + 2 FHD [H265]
+#EXTGRP:Canais | Paramount
+http://lgbtplus.top:80/022270/ZU4CxM/72982.ts
+#EXTINF:0,Paramount + 2 HD
+#EXTGRP:Canais | Paramount
+http://lgbtplus.top:80/022270/ZU4CxM/72983.ts
+#EXTINF:0,Paramount + 2 SD
+#EXTGRP:Canais | Paramount
+http://lgbtplus.top:80/022270/ZU4CxM/72984.ts
+#EXTINF:0,Paramount + 3 4K
+#EXTGRP:Canais | Paramount
+http://lgbtplus.top:80/022270/ZU4CxM/103522.ts
+#EXTINF:0,Paramount + 3 FHD
+#EXTGRP:Canais | Paramount
+http://lgbtplus.top:80/022270/ZU4CxM/72985.ts
+#EXTINF:0,Paramount + 3 FHD [H265]
+#EXTGRP:Canais | Paramount
+http://lgbtplus.top:80/022270/ZU4CxM/72986.ts
+#EXTINF:0,Paramount + 3 HD
+#EXTGRP:Canais | Paramount
+http://lgbtplus.top:80/022270/ZU4CxM/72987.ts
+#EXTINF:0,Paramount + 3 SD
+#EXTGRP:Canais | Paramount
+http://lgbtplus.top:80/022270/ZU4CxM/72988.ts
+#EXTINF:0,Paramount + 4 4K
+#EXTGRP:Canais | Paramount
+http://lgbtplus.top:80/022270/ZU4CxM/103521.ts
+#EXTINF:0,Paramount + 4 FHD
+#EXTGRP:Canais | Paramount
+http://lgbtplus.top:80/022270/ZU4CxM/72989.ts
+#EXTINF:0,Paramount + 4 FHD [H265]
+#EXTGRP:Canais | Paramount
+http://lgbtplus.top:80/022270/ZU4CxM/72990.ts
+#EXTINF:0,Paramount + 4 HD
+#EXTGRP:Canais | Paramount
+http://lgbtplus.top:80/022270/ZU4CxM/72991.ts
+#EXTINF:0,Paramount + 4 SD
+#EXTGRP:Canais | Paramount
+http://lgbtplus.top:80/022270/ZU4CxM/72992.ts
+#EXTINF:0,Paramount Channel 4K
+#EXTGRP:Canais | Filmes e Séries
+http://lgbtplus.top:80/022270/ZU4CxM/90634.ts
+#EXTINF:0,Paramount Channel FHD
+#EXTGRP:Canais | Filmes e Séries
+http://lgbtplus.top:80/022270/ZU4CxM/72217.ts
+#EXTINF:0,Paramount Channel FHD [H265]
+#EXTGRP:Canais | Filmes e Séries
+http://lgbtplus.top:80/022270/ZU4CxM/72218.ts
+#EXTINF:0,SporTV 2 4K
+#EXTGRP:Canais | SporTV
+http://lgbtplus.top:80/022270/ZU4CxM/103472.ts
+#EXTINF:0,SporTV 2 FHD
+#EXTGRP:Canais | SporTV
+http://lgbtplus.top:80/022270/ZU4CxM/72321.ts
+#EXTINF:0,SporTV 2 FHD [H265]
+#EXTGRP:Canais | SporTV
+http://lgbtplus.top:80/022270/ZU4CxM/131147.ts
+#EXTINF:0,SporTV 2 HD
+#EXTGRP:Canais | SporTV
+http://lgbtplus.top:80/022270/ZU4CxM/131176.ts
+#EXTINF:0,SporTV 2 SD
+#EXTGRP:Canais | SporTV
+http://lgbtplus.top:80/022270/ZU4CxM/72324.ts
+#EXTINF:0,SporTV 3 FHD
+#EXTGRP:Canais | SporTV
+http://lgbtplus.top:80/022270/ZU4CxM/72325.ts
+#EXTINF:0,SporTV 3 FHD [H265]
+#EXTGRP:Canais | SporTV
+http://lgbtplus.top:80/022270/ZU4CxM/72326.ts
+#EXTINF:0,SporTV 3 HD
+#EXTGRP:Canais | SporTV
+http://lgbtplus.top:80/022270/ZU4CxM/131113.ts
+#EXTINF:0,SporTV 3 SD
+#EXTGRP:Canais | SporTV
+http://lgbtplus.top:80/022270/ZU4CxM/131108.ts
+#EXTINF:0,SporTV 4K
+#EXTGRP:Canais | SporTV
+http://lgbtplus.top:80/022270/ZU4CxM/131188.ts
+#EXTINF:0,SporTV FHD
+#EXTGRP:Canais | SporTV
+http://lgbtplus.top:80/022270/ZU4CxM/72329.ts
+#EXTINF:0,SporTV FHD [H265]
+#EXTGRP:Canais | SporTV
+http://lgbtplus.top:80/022270/ZU4CxM/72330.ts
+#EXTINF:0,SporTV HD
+#EXTGRP:Canais | SporTV
+http://lgbtplus.top:80/022270/ZU4CxM/72332.ts
+#EXTINF:0,SporTV SD
+#EXTGRP:Canais | SporTV
+http://lgbtplus.top:80/022270/ZU4CxM/131132.ts
+#EXTINF:0,SporTV3 4K
+#EXTGRP:Canais | SporTV
+http://lgbtplus.top:80/022270/ZU4CxM/103471.ts
