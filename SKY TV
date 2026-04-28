@@ -1,4 +1,71 @@
 #EXTM3U
+#EXTINF:0,BAND HDTV
+#EXTGRP:CANAIS ABERTOS DO CLIENTE
+http://gerenciar.vivatele.com/live/viva_padrao/viva2384/03
+#EXTINF:0,GLOBO RIO SUL
+#EXTGRP:CANAIS ABERTOS DO CLIENTE
+http://gerenciar.vivatele.com/viva_padrao/viva2384/1
+#EXTINF:0,RECORD SP HD
+#EXTGRP:CANAIS ABERTOS DO CLIENTE
+https://cdn-5.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+#EXTINF:0,GLOBO SP HDTV
+#EXTGRP:CANAIS ABERTOS DO CLIENTE
+http://s2.micineovs.com/GLOBO/index.m3u8?token=16FOTt9Ae2m8
+#EXTINF:0,REDE TV!
+#EXTGRP:CANAIS ABERTOS DO CLIENTE
+https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV
+#EXTINF:0,BAND MG HDTV
+#EXTGRP:CANAIS ABERTOS DO CLIENTE
+https://stm.sinalmycn.com/28010/tracks-v1a1/mono.ts.m3u8?token=-VZNvLhmZqWNI3
+#EXTINF:0,SBT SP 4k
+#EXTGRP:CANAIS ABERTOS DO CLIENTE
+http://zed6.top/live/tmbfjwnc/aq9j35uj/104.m3u8
+#EXTINF:0,SBT RJ 4k
+#EXTGRP:CANAIS ABERTOS DO CLIENTE
+http://zed6.top/live/tmbfjwnc/aq9j35uj/315504.m3u8
+#EXTINF:0,RECORD SP 4K
+#EXTGRP:CANAIS ABERTOS DO CLIENTE
+http://zed6.top/live/tmbfjwnc/aq9j35uj/530152.m3u8
+#EXTINF:0,RECORD MG HDTV
+#EXTGRP:CANAIS ABERTOS DO CLIENTE
+http://zed6.top/live/tmbfjwnc/aq9j35uj/2112.m3u8
+#EXTINF:0,RECORD RJ HDTV
+#EXTGRP:CANAIS ABERTOS DO CLIENTE
+http://zed6.top/live/tmbfjwnc/aq9j35uj/2116.m3u8
+#EXTINF:0,REDE TV! SP 4K
+#EXTGRP:CANAIS ABERTOS DO CLIENTE
+http://zed6.top/live/tmbfjwnc/aq9j35uj/2121.m3u8
+#EXTINF:0,GLOBO RJ 4K
+#EXTGRP:CANAIS ABERTOS DO CLIENTE
+http://zed6.top/live/tmbfjwnc/aq9j35uj/2071.m3u8
+#EXTINF:0,GLOBO MG 4K
+#EXTGRP:CANAIS ABERTOS DO CLIENTE
+http://zed6.top/live/tmbfjwnc/aq9j35uj/27040.m3u8
+#EXTINF:0,GLOBO SP 4K
+#EXTGRP:CANAIS ABERTOS DO CLIENTE
+http://zed6.top/live/tmbfjwnc/aq9j35uj/530143.m3u8
+#EXTINF:0,Globo MG HD
+#EXTGRP:CANAIS ABERTOS DO CLIENTE
+http://domainforxc.cfd:80/287945811/148063/2378
+#EXTINF:0,SBT NEWS
+#EXTGRP:CANAIS ABERTOS DO CLIENTE
+https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00527-amg00527c5-amgplt0026/playlist.m3u8?ads.devicemodel=[DEVICE_MODEL]&amp;ads.gdprconsent=[GDPR_CONSENT]&amp;ads.ua=[UA]&amp;ads.appname=[APP_NAME]&amp;ads.appstoreurl=[APP_STOREURL]&amp;ads.devicemake=[DEVICE_MAKE]&amp;ads.devicetype=[DEVICE_TYPE]&amp;ads.lat=[LMT]&amp;ads.donotsell=[DNS]&amp;ads.ip=[IP]&amp;ads.targetad=[TARGETAD_ALLOWED]&amp;ads.usprivacy=[US_PRIVACY]&amp;ads.appversion=[APP_VERSION]&amp;ads.country=[COUNTRY]&amp;ads.deviceid=[DEVICE_ID]&amp;ads.gdpr=[GDPR]&amp;ads.ifa=[IFA]&amp;ads.ifatype=[IFA_TYPE]&amp;ads.bundleid=[APP_BUNDLE]&amp;coppa=0&amp;ads.url=[URL]&amp;ads.iu=[IU]&amp;ads.idtype=[IDTYPE]&amp;ads.lmt=[LMT]&amp;ads.content_livestream=[CONTENT_LIVESTREAM]&amp;ads.gpp=[GPP]&amp;ads.channel_name=[CHANNEL_NAME]&amp;ads.network_name=[NETWORK_NAME]&amp;ads.gpp_sid=[GPP_SID]&amp;ads.prodq=[PRODQ]&amp;ads.inv_partner_domain=[INV_PARTNER_DOMAIN]&amp;ads.schain=[SCHAIN]&amp;ads.fck=[FCK]&amp;ads.viewsize=[VIEWSIZE]&amp;ads.givn=[NONCE]
+#EXTINF:0,SBT Interior
+#EXTGRP:CANAIS ABERTOS DO CLIENTE
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:0,Globo RJ HD²
+#EXTGRP:CANAIS ABERTOS DO CLIENTE
+http://79.127.238.228:14217/
+#EXTINF:0,RecordTV RJ HD
+#EXTGRP:CANAIS ABERTOS DO CLIENTE
+http://gerenciar.vivatele.com/live/viva_padrao/viva2384/13
+#EXTINF:0,Band RJ HD
+#EXTGRP:CANAIS ABERTOS DO CLIENTE
+http://gerenciar.vivatele.com/viva_padrao/viva2384/3
+#EXTINF:0,RecordTV SP HD
+#EXTGRP:CANAIS ABERTOS DO CLIENTE
+https://cdn-5.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
 #EXTINF:0, REDE TV!
 #EXTGRP:CANAIS EXTRAS
 https://stm.sinalmycn.com/17037/tracks-v1a1/mono.ts.m3u8?token=-VZNvLhmZqWNI3
